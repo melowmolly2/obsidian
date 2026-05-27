@@ -50,4 +50,11 @@ Khác phục các hạn chế của Lập trình thủ tục
 - Đa hình
 ![[Pasted image 20260527214118.png]]
 ## Trừu tượng hóa
-- Đặc điểm của ngôn ngữ hướng đối tượng 
+- Đặc điểm của ngôn ngữ hướng đối tượng (khởi đầu bởi Smalltalk)
+	- Mọi thứ đều là đối tượng (everything is an object) 
+	- Hoạt động của chương trình là quá trình "nói chuyện" giữa các đối tượng bằng cách "gửi thông điệp"
+	- Mỗi đối tượng có vùng nhớ riêng và được hình thành từ các đối tượng khác
+	- Mỗi đối tượng có một kiểu (type)
+	- Các đối tượng cùng kiểu có thể nhận cùng một thông điệp
+## Các đối tượng
+- Bao gồm ba
