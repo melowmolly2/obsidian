@@ -84,4 +84,21 @@ Khác phục các hạn chế của Lập trình thủ tục
 		- Dữ liệu là bị động, các thủ tục thao tác trên dữ liệu
 ## Các lớp đối tượng
 - Lớp (Class) 
-	- Khuôn để tạo các đối tượng (các thể )
+	- Khuôn để tạo các đối tượng (các thể hiện)
+	- Các đối tượng của một lớp có cùng cấu trúc và hành vi được mô tả bởi lớp đó
+- Quan hệ "Kiểu dữ liệu - Biến"
+	- Các lớp được thiết kế và cài đặt (kiểu dữ liệu)
+	- Các đối tượng được tạo khi thực thi chương trình
+```Java
+class Date{  
+public:  
+void setDate(…);  
+...  
+private:  
+int day;  
+...  
+};  
+Date today = new Date();  
+today.setDate(2, 9, 2020);
+```
+
