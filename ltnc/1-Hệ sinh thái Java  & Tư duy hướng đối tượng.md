@@ -64,4 +64,6 @@ Khác phục các hạn chế của Lập trình thủ tục
 		- Tương ứng với các phương thức
 	- Định danh
 		- Các đối tượng khác nhau có thể cùng trạng thái (cùng giá trị thuộc tính) nhưng khác nhau về định danh
-		- Đối tượng được thao tác thông qua tham chiếu (handle) (con trỏ trong C++; tham chiếu d)
+		- Đối tượng được thao tác thông qua tham chiếu (handle) (con trỏ trong C++; tham chiếu đối tượng trong Java)
+		![](../Assets/Pasted%20image%2020260527224745.png)
+## Đối tượng và Tham chiếu đối tượng
