@@ -76,3 +76,12 @@ Khác phục các hạn chế của Lập trình thủ tục
 	- Tham chiếu đối tượng đích - nhận thông điệp (today)
 	- Tên của phương thức cần thực hiện (setDate)
 	- Các thông tin cần thiết khác - các tham số (2, 9, 2020)
+- Thông điệp được cài đặt ở dạng lời gọi hàm với tham số ngầm là đối tượng nhận thông điệp (method invocation)
+- Khái niệm thông điệp tạo nên sự khác biệt cho lập trình HĐT
+	- Dữ liệu trở thành chủ động
+	- Với các lược đồ lập trình khác
+		- Các hành động được thực hiện qua cơ chế truyền điều khiển (gọi hàm/ thủ tục)
+		- Dữ liệu là bị động, các thủ tục thao tác trên dữ liệu
+## Các lớp đối tượng
+- Lớp (Class) 
+	- Khuôn để tạo các đối tượng (các thể )
