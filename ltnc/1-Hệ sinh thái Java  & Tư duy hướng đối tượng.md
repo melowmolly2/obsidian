@@ -103,4 +103,11 @@ today.setDate(2, 9, 2020);
 ```
 ## Bao gói / Che giấu thông tin
 - Bao gói (encapsulation): để nhóm các thứ liên quan thành một tổng thể có định danh
-- 
+	- Hàm/Thủ tục bao gói các câu lệnh
+	- Đối tượng bao gói dữ liệu và thủ tục
+- Che giấu thông tin: để che giấu các thông tin và chi tiết cài đặt bên trong đối với bên ngoài
+	- Để các "clients" (các lập trình viên khác) xem các đối tượng như các hộp đen
+	- public, private và protected
+	- Giao diện (interface) & Cài đạt (implementation)
+## Kế thừa
+- Sử dụng lại các giao diện và cài đat
