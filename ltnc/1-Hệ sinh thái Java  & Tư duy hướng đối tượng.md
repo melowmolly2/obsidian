@@ -67,3 +67,4 @@ Khác phục các hạn chế của Lập trình thủ tục
 		- Đối tượng được thao tác thông qua tham chiếu (handle) (con trỏ trong C++; tham chiếu đối tượng trong Java)
 		![](../Assets/Pasted%20image%2020260527224745.png)
 ## Đối tượng và Tham chiếu đối tượng
+Testing here
