@@ -57,4 +57,11 @@ Khác phục các hạn chế của Lập trình thủ tục
 	- Mỗi đối tượng có một kiểu (type)
 	- Các đối tượng cùng kiểu có thể nhận cùng một thông điệp
 ## Các đối tượng
-- Bao gồm ba
+- Bao gồm ba thành phần
+	- Trạng thái
+		- Được xác định bởi giá trị bên trong (giá trị thuộc tính)
+	- Hành vi 
+		- Tương ứng với các phương thức
+	- Định danh
+		- Các đối tượng khác nhau có thể cùng trạng thái (cùng giá trị thuộc tính) nhưng khác nhau về định danh
+		- Đối tượng được thao tác thông qua tham chiếu (handle) (con trỏ trong C++; tham chiếu d)
