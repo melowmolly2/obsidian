@@ -98,7 +98,9 @@ private:
 int day;  
 ...  
 };  
-Date today = new Date();  
+Date today = new Date();
 today.setDate(2, 9, 2020);
 ```
-
+## Bao gói / Che giấu thông tin
+- Bao gói (encapsulation): để nhóm các thứ liên quan thành một tổng thể có định danh
+- 
