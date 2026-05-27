@@ -71,4 +71,4 @@ Khác phục các hạn chế của Lập trình thủ tục
 
 ## Các thông điệp (messages)
 `today.setDate(2,9,2020);`
-- Là cách thức để đối tượng A yêu cầu đối tượng B thực hiện
+- Là cách thức để đối tượng A yêu cầu đối tượng B thực hiện phương thức của 
