@@ -70,3 +70,5 @@ Khác phục các hạn chế của Lập trình thủ tục
 ![](../Assets/Pasted%20image%2020260527230253.png)
 
 ## Các thông điệp (messages)
+`today.setDate(2,9,2020);`
+- Là cách thức để đối tượng A yêu cầu đối tượng B thực hiện
