@@ -110,4 +110,13 @@ today.setDate(2, 9, 2020);
 	- public, private và protected
 	- Giao diện (interface) & Cài đạt (implementation)
 ## Kế thừa
-- Sử dụng lại các giao diện và cài đat
+- Sử dụng lại các giao diện và cài đặt
+- Các mối quan hệ "is-a"
+- Cơ chế cho phép các đối tượng lớp dẫn xuất (derived class) mang đặc điểm (thuộc tính) và hành vi (phương thức) của lớp cơ sở (base class)
+- Các dịch vụ tổng quát (generic) có thể được xác định và thiết kế trước khi đặc biệt hóa chúng
+## Đa hình
+- Đa hình: 
+	- Khả năng được xem xét ở các dạng thức (forms/shapes) khác nhau
+	- Có thể tồn tại ở nhiều dạng
+- Đa hình đối tương: 
+	- Đối tượng của các lớp dẫn xuâ khác nhau có thể được 
