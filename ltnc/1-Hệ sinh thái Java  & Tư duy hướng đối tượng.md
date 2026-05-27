@@ -119,4 +119,9 @@ today.setDate(2, 9, 2020);
 	- Khả năng được xem xét ở các dạng thức (forms/shapes) khác nhau
 	- Có thể tồn tại ở nhiều dạng
 - Đa hình đối tương: 
-	- Đối tượng của các lớp dẫn xuâ khác nhau có thể được 
+	- Đối tượng của các lớp dẫn xuất khác nhau có thể được  xem như thể hiện của cùng một lớp chung (lớp cơ sở)
+	- Các đối tượng của các lớp khác nhau có thể hiểu cùng một thông điệp theo các cách khác nhau
+		- Ví dụ: khi nhập thông điệp draw(), các đối tượng Rectangle và Triangle hiểu và thực thi thông điệp theo cách khác nhau
+	
+![](../Assets/Pasted%20image%2020260527232211.png)
+![](../Assets/Pasted%20image%2020260527232222.png)
