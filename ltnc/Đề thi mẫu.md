@@ -64,3 +64,5 @@ public class Main {
 	standard
 	management
 	```
+2. Vì sao lời gọi `e.role()` cho kết quả khác với `e.policy()`? 
+	
