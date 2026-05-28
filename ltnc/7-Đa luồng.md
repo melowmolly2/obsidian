@@ -18,4 +18,9 @@
 - ![](../Assets/Pasted%20image%2020260528225908.png)
 ## Improvements with concurrency
 - Concurrency promises to perform certain tasks faster
-	- A task = Several subTask
+	- A task = Several subtasks,
+	- These subtasks can be executed in parallel
+	- -> Save time (Better CPU Utilization)
+- The theoretical possible performance gain can be calculated by *Amdahl's Law*.
+## Amdahl's Law Illustrated
+- If $B$ is the percentage of the program which can not run in parallel and $N$ is the number of processes, then the maximum performance gain is $\frac1{B+\frac{1-B}N}$.
