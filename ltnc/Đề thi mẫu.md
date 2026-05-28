@@ -201,7 +201,11 @@ Yêu cầu:
 ### Bài làm:
 1. Xác định lớp chính và quan hệ: 
 	- Người dùng (`User`): Là Abstract class gồm chung ID, Name, Mật khẩu -> Class con: `Reader` (độc giả), `Librarian` (Thủ thư) kế thừa.
-	- Tài nguyên (`Resource`): Lớp cơ sở (Abstract Class) mô tả thuộc tính chung (Mã số)
+	- Tài nguyên (`Resource`): Lớp cơ sở (Abstract Class) mô tả thuộc tính chung (Mã số, Tựa đề, Giới hạn lượt truy cập) -> Class con: `Ebook` (sách điện tử), `LearningVideo` (video học tập), `PDFDocument` (tài liệu pdf)
+	- Lịch sử (`BorrrowRecord`): Lưu ID Người mượn, ID Tài nguyên, Ngày mượn/trả.
+2. Sử dụng interface:
+	- Vì chỉ một số tài nguyên tải được, một số xem được, ta dùng giao diện để đặc tả hành vi thay vì kế thừa:
+	- 
 ## Bài 3 - 1 điểm
 Cho phương thức
 ```Java
