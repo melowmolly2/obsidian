@@ -157,4 +157,4 @@ public class Main {
 15. Output của chương trình là gì?
 16. Vì sao `Future.get()` có thể làm chương trình tạm dừng?
 17. Điều gì có thể xảy ra nếu bỏ `pool.shutdown()`?
-18. 
+18. Nếu thay `Callable`
