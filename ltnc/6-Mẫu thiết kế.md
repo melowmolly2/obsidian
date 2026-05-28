@@ -87,4 +87,5 @@ IMath{
 - ![](../Assets/Pasted%20image%2020260528215055.png)
 - ![](../Assets/Pasted%20image%2020260528215112.png)
 - ![](../Assets/Pasted%20image%2020260528215122.png)
-- 
+## Proxy
+![](../Assets/Pasted%20image%2020260528215146.png)
