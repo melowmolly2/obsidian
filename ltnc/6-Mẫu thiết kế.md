@@ -11,4 +11,12 @@
 	- Khởi tạo (creational): liên quan đến khởi tạo đối tượng
 	- Cấu trúc (structural): liên quan đến tổ chức lớp và đối tượng
 	- Hành vi (behavioral): liên quan đến việc gán các chức năng cho lớp
-## Nội dung chính của mo
+## Nội dung chính của một MTK
+- Tên: tên của MTK, thường có nghĩa để người dùng dễ hình dung; Ví dụ: Bridge, Mediator, Flyweight
+- Ngữ cảnh: ngữ cảnh để áp dụng MTK, ví dụ
+- Vấn đề giải quyết: dự định của MTK, mục tiêu (trong điều kiện ràng buộc)
+- Giải pháp: các lớp, đối tượng và mối quan hệ giữa các phần từ được đề xuất
+- Kết quả: thảo luận về kết quả mang lại của MTK
+## Singleton
+- Ngữ cảnh: Trong một số ứng dụng, việc chỉ có duy nhất một đối tượng (của một lớp đặc biệt nào đó) được tạo ra là rất quan trọng. Ví dụ: kết nối DB, Window manager, file system, ... 
+- Vấn
