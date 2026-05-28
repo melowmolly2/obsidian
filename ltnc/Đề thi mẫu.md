@@ -157,4 +157,9 @@ public class Main {
 15. Output của chương trình là gì?
 16. Vì sao `Future.get()` có thể làm chương trình tạm dừng?
 17. Điều gì có thể xảy ra nếu bỏ `pool.shutdown()`?
-18. Nếu thay `Callable`
+18. Nếu thay `Callable<String>` bằng `Runnable` thì đoạn nào trong chương trình cần thay đổi?
+19. Điều gì xảy ra nếu gọi: 
+```Java
+f1.get();
+f2.get();
+```
