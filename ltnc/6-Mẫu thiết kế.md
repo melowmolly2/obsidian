@@ -38,4 +38,5 @@
 - Phương án: định nghĩa interface để tạo đối tượng nhưng để cho lớp con xác định lớp nào sẽ được sử dụng (dể tạo đối tượng)
 - ![](../Assets/Pasted%20image%2020260528205324.png)
 - ![](../Assets/Pasted%20image%2020260528205334.png)
-- Vấn đề: có nhiều "dòng" đối tượng (product)
+- Vấn đề: có nhiều "dòng" đối tượng (product) trong ứng dụng; tại mỗi thời điểm, chỉ một trong các dòng đối tượng đấy được sử dụng
+- 
