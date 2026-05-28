@@ -122,6 +122,9 @@ public class Main {
 9. Dòng mã nào sau đây gây lỗi biên dịch?
 	A. `Storage<Report> s = new Storage<>();`
 	B. `Storage<Printable> s = new Storage<>();`
-	C. `Storage<String> s = new Storage<>();`
+	C. `Storage<String> s = new Storage<>();` (sai do `String`không implement giao diện `Printable`)
 	D. `Report r = new Report("A");`
-10. Vì sao phương thức `print()` trong lớp `Repo`
+10. Vì sao phương thức `print()` trong lớp `Report` phải là `public`? 
+11. Nếu lớp `Report` không override `toString()` thì điều gì thay đổi trong output hiện tại?
+12. Thiết kế `Storage<T>` giúp ích gì so với việc dùng trực tiếp `List<Object>`? 
+13. `Printable` phù h
