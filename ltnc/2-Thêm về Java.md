@@ -63,8 +63,18 @@ class MyDate {
 	...
 	public boolean setMonth(int m) {...}
 
-	public boolean setMonth(String s) { …}  
-}  
+	public boolean setMonth(String s) {...}  
+} 
+... 
 d.setMonth(9);  
 d.setMonth(”September”);
 ```
+## Phương thức khởi tạo (constructor)
+- Dữ liệu nên được khởi tạo trước khi sử dụng
+	- Lỗi khởi tạo là một trong các lỗi phổ biến
+- Phương thức khởi tạo
+	- là phương thức đặc biệt được gọi tự động ngay sau khi đối tượng được tạo ra 
+	- nhằm mục đích chính là khởi tạo cho các thuộc tính của đối tượng
+	- Tên trùng với tên lớp
+	- Không nhận giá trị trả lại
+	- Được gọi tự động mỗi khi đối tượng được tạo (bởi toán tử )
