@@ -43,5 +43,23 @@
 	- Runnable Lambda Expression
 ![](../Assets/Pasted%20image%2020260528230553.png)
 ```Java
-
+public class ThreadExample extends Thread {
+	@Override
+	public void run(){
+		System.out.println("Inside : " + Thread.currentThread().getName());
+	}
+	
+	public static void main(String[] args) {
+		System.out.println("Inside : "+ Thread.currentThread().getName());
+		Thread thread = new ThreadExample(); 
+		thread.start(); 
+	}
+}
+```
+```Java
+public class RunnableExample implements Runnable{
+	@Override
+	public void run(){
+	}
+}
 ```
