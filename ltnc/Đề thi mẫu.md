@@ -65,4 +65,4 @@ public class Main {
 	management
 	```
 2. Vì sao lời gọi `e.role()` cho kết quả khác với `e.policy()`? 
-	Vì `e.role()` là phương thức thông thường, áp dụng cơ chế **liên kết động (dynamic binding)**, nên tại thời điểm thực thi (runtime) nó gọi phương thức 
+	Vì `e.role()` là phương thức thông thường, áp dụng cơ chế **liên kết động (dynamic binding)**, nên tại thời điểm thực thi (runtime) nó gọi phương thức của đối tượng thực tế là `Manager`. Trong khi đó, `e.policy()`
