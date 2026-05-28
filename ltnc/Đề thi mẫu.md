@@ -67,6 +67,7 @@ public class Main {
 2. Vì sao lời gọi `e.role()` cho kết quả khác với `e.policy()`? 
 	Vì `e.role()` là phương thức thông thường, áp dụng cơ chế **liên kết động (dynamic binding)**, nên tại thời điểm thực thi (runtime) nó gọi phương thức của đối tượng thực tế là `Manager`. Trong khi đó, `e.policy()` là phương thức tĩnh (`static`), áp dụng cơ chế **liên kết tĩnh (static binding)**, trình biên dịch sẽ quyết định gọi phương thức dựa trên kiểu khai báo của biến e là `Employee` ở thời điểm biên dịch. 
 3. Nếu bỏ annotation `@Override` khỏi `income()` thì điều gì xảy ra?
+	Chương trình vẫn biên dịch và chạy bình thường, `@Override` chỉ là một annotation giúp trình biên dịch kiểm tra xem phương thức có thực sự đang ghi đè chính xác phương thức của lớp cha không (nếu gõ sai tên hàm, trình biên dịch sẽ báo lỗi). 
 4. Nếu thêm 
 	```Java
 	Employee another = new Employee("A",10);
@@ -74,6 +75,7 @@ public class Main {
 	```
 	thì điều gì xảy ra?
 5. Nếu đổi `public double income()` trong `Manager` thành `private double income()` thì điều gì xảy ra?
+	
 6. Thuộc tính `salary` có thể được truy cập trực tiếp trong lớp `Manager` hay không? Vì sao?
 ### Đoạn code 2
 ```Java
