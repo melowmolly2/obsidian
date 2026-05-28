@@ -76,3 +76,7 @@ IMath{
 	- Duyệt file: in tên file, kích thước
 	- Duyệt shortcut: in đường dẫn đến phần tử đích (phần tử mà shortcut làm đại diện)
 	- Duyệt folder: in tên folder và duyệt tiếp nội dung bên trong folder
+![](../Assets/Pasted%20image%2020260528212934.png)
+## Decorator
+- Ngữ cảnh: Xây dựng ứng dụng trong đó có chức năng gửi thông báo
+- Phương thức send() sẽ 
