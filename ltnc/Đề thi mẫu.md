@@ -128,14 +128,15 @@ public class Main {
 	```
 	là gì?
 	Đây là tính năng Lập tình tổng quát (Generics). Nó giới hạn tham số kiểu (bounded type parameter): biến kiểu `T` bắt buộc phải là một lớp có triển khai (implements) giao diện `Printable`. 
-	
 9. Dòng mã nào sau đây gây lỗi biên dịch?
 	A. `Storage<Report> s = new Storage<>();`
 	B. `Storage<Printable> s = new Storage<>();`
 	C. `Storage<String> s = new Storage<>();` (sai do `String`không implement giao diện `Printable`)
 	D. `Report r = new Report("A");`
 10. Vì sao phương thức `print()` trong lớp `Report` phải là `public`? 
+	Vì `print()` đang thực thi "hợp đồng" từ interface `Printable`. Các phương thức của giao diện (interface) mặc định luôn có phạm vi là `public`, nên khi cài đặt tại lớp con, phạm vi không thể bị thu hẹp. 
 11. Nếu lớp `Report` không override `toString()` thì điều gì thay đổi trong output hiện tại?
+	Output không thay đổi
 12. Thiết kế `Storage<T>` giúp ích gì so với việc dùng trực tiếp `List<Object>`? 
 13. `Printable` phù hợp nhất với vai trò nào trong thiết kế đối tượng?
 ### Đoạn code 3
