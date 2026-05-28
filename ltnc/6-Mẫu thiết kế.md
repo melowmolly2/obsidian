@@ -109,4 +109,9 @@ IMath{
 ![](../Assets/Pasted%20image%2020260528224011.png)
 ![](../Assets/Pasted%20image%2020260528224023.png)
 ## Open/Closed Principle (OCP)
-**Software entities (classes, modules, func
+**Software entities (classes, modules, functions, etc.) should be open for extension but closed for modification**
+Software entities can be extended without modifying
+![](../Assets/Pasted%20image%2020260528224133.png)
+![](../Assets/Pasted%20image%2020260528224147.png)
+![](../Assets/Pasted%20image%2020260528224156.png)
+![](../Assets/Pasted%20image%2020260528224206.png)
