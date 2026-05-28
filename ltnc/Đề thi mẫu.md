@@ -172,3 +172,13 @@ Yêu cầu:
 2. Sử dụng abstract class và interface hợp lý
 3. Vẽ biểu dồ lớp mức khái quát
 4. Nếu hệ thống bổ sung audiobook và cơ chế thuê tài nguyên theo thời hạn, hãy giải thích thiết kế cần mở rộng như thế nào để hạn chế sửa mã nguồn cũ.
+## Bài 3 - 1 điểm
+Cho phương thức
+```Java
+boolean canBorrow(int borrowedBooks, boolean hasOverdue, int membershipLevel)
+```
+Quy tắc:
+- Người dùng được mượn sách nếu:
+	- `borrowedBooks < 5`
+	- `hasOverdue == false`
+	-  `membershipoL`
