@@ -70,4 +70,9 @@ IMath{
 	![](../Assets/Pasted%20image%2020260528212207.png)
 	![](../Assets/Pasted%20image%2020260528212420.png)
 	![](../Assets/Pasted%20image%2020260528212429.png)
-	
+## Composite
+- Cần viết một công cụ quản lý hệ thống file. Các thành phần chính: file, shortcut, và folder. Folder có thể chứa folder, file, shortcut khác.
+- Duyệt:
+	- Duyệt file: in tên file, kích thước
+	- Duyệt shortcut: in đường dẫn đến phần tử đích (phần tử mà shortcut làm đại diện)
+	- Duyệt folder: in tên folder và duyệt tiếp nội dung bên trong folder
