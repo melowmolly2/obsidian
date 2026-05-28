@@ -69,5 +69,9 @@ public class Main {
 3. Nếu bỏ annotation `@Override` khỏi `income()` thì điều gì xảy ra?
 4. Nếu thêm 
 	```Java
-	Employee another
+	Employee another = new Employee("A",10);
+	System.out.println((Manager) another).income()); 
 	```
+	thì điều gì xảy ra?
+5. Nếu đổi `public double income()` trong `Manager` thành `private double income()` thì điều gì xảy ra?
+6. 
