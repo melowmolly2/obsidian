@@ -65,4 +65,9 @@ public class Main {
 	management
 	```
 2. Vì sao lời gọi `e.role()` cho kết quả khác với `e.policy()`? 
-	Vì `e.role()` là phương thức thông thường, áp dụng cơ chế **liên kết động (dynamic binding)**, nên tại thời điểm thực thi (runtime) nó gọi phương thức của đối tượng thực tế là `Manager`. Trong khi đó, `e.policy()` là phương thức tĩnh (`static`), áp dụng cơ chế **liên kết tĩnh (static binding)**, trình biên dịch 
+	Vì `e.role()` là phương thức thông thường, áp dụng cơ chế **liên kết động (dynamic binding)**, nên tại thời điểm thực thi (runtime) nó gọi phương thức của đối tượng thực tế là `Manager`. Trong khi đó, `e.policy()` là phương thức tĩnh (`static`), áp dụng cơ chế **liên kết tĩnh (static binding)**, trình biên dịch sẽ quyết định gọi phương thức dựa trên kiểu khai báo của biến e là `Employee` ở thời điểm biên dịch. 
+3. Nếu bỏ annotation `@Override` khỏi `income()` thì điều gì xảy ra?
+4. Nếu thêm 
+	```Java
+	Employee another
+	```
