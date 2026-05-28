@@ -54,4 +54,6 @@ MyDate d = new MyDate();
 d.year = 2005 // compile error
 
 d.setYear(2005)
+System.out.println(d.getYear()); 
 ```
+## Nạp chồng ph
