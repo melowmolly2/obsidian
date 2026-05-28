@@ -204,8 +204,11 @@ Yêu cầu:
 	- Tài nguyên (`Resource`): Lớp cơ sở (Abstract Class) mô tả thuộc tính chung (Mã số, Tựa đề, Giới hạn lượt truy cập) -> Class con: `Ebook` (sách điện tử), `LearningVideo` (video học tập), `PDFDocument` (tài liệu pdf)
 	- Lịch sử (`BorrrowRecord`): Lưu ID Người mượn, ID Tài nguyên, Ngày mượn/trả.
 2. Sử dụng interface:
-	- Vì chỉ một số tài nguyên tải được, một số xem được, ta dùng giao diện để đặc tả hành vi thay vì kế thừa:
-	- 
+	 Vì chỉ một số tài nguyên tải được, một số xem được, ta dùng giao diện để đặc tả hành vi thay vì kế thừa:
+	- Interface `Downloadable` (tài liệu tải xuống được)
+	- Interface `ViewableOnline` (tài liệu xem trực tuyến được)
+	- Sách điện tử/PDF có thể implement cả hai, còn Video chỉ implement được `ViewableOnline`. 
+3. (Biểu đồ lớp) Bỏ qua phần vẽ bằng đồ họa tại đây, nhưng sơ đồ sẽ dựa trên mối quan hệ: `Resource` và `User` là trọng tâm, `BorrowRecord` ở giữa liên kết `1 User - N Record` và `1 Resource -`
 ## Bài 3 - 1 điểm
 Cho phương thức
 ```Java
