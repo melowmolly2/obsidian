@@ -138,8 +138,9 @@ public class Main {
 11. Nếu lớp `Report` không override `toString()` thì điều gì thay đổi trong output hiện tại?
 	Output không thay đổi vì hàm `printAll()` gọi `System.out.println(item.print())` tức là lấy chuỗi trực tiếp từ `print()` chứ không phải gọi `toString()` của đối tượng `item`.  
 12. Thiết kế `Storage<T>` giúp ích gì so với việc dùng trực tiếp `List<Object>`?
-	Nó mang lại lợi thế của Generics là bảo đảm **an toàn kiểu lúc biên dịch (Type-safety).** Bằng cách giới hạn `T extends Printable`, ta có thể gọi chắc chắn phương thức `print()` trên mọi phần tử mà không cần phải thực hiện ép kiểu (casting) rườm rà
+	Nó mang lại lợi thế của Generics là bảo đảm **an toàn kiểu lúc biên dịch (Type-safety).** Bằng cách giới hạn `T extends Printable`, ta có thể gọi chắc chắn phương thức `print()` trên mọi phần tử mà không cần phải thực hiện ép kiểu (casting) rườm rà, loại bỏ rủi ro ném lỗi ép kiểu lúc chạy.
 13. `Printable` phù hợp nhất với vai trò nào trong thiết kế đối tượng?
+	Phù hợp 
 ### Đoạn code 3
 ```Java
 import java.util.concurrent.*;  
