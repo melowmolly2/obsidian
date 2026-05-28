@@ -96,3 +96,7 @@ IMath{
 ## DRY - Don't Repeat Yourself
 ## KISS - Keep It Simple, Silly
 ## YAGNI - You Aren't Gonna Need It
+
+## SOLID
+- Gồm 5 nguyên lý thiết kế hướng đối tượng đã được vận dụng nhiều trong thực tế
+- 
