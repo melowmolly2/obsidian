@@ -162,4 +162,9 @@ thread2.start();
 - Executor service decouples submission from execution policy to let developers easily specify and modify the implementation without much of a code change. 
 - Tasks are submitted to a thread pool 
 - If there are more tasks than the number of active threads → Insert into the queue for waiting
-- If the queue is full 
+- If the queue is full $\rightarrow$ rejected. 
+### Functionalities 
+- **Thread Creation**: Methods for creating threads, a pool of threads, the application can use to run tasks concurrently. 
+- **Thread Management: Managing the life cycle of the threads in the thread pool. 
+	- You don't need to worry about whether the threads in the thread pool are active or busy or dead before submitting a task for execution
+- **Task submission and execution**: Methods 
