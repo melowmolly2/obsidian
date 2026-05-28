@@ -27,4 +27,9 @@
 	- Trong những lần gọi tiếp theo, `getInstance()` không tạo thêm đối tượng mà chỉ trả về đối tượng đã tạo ra
 - Smell: Global Data/Mutable State
 	- Scattered global variables or multiple instances of a resource (like a database connection) can lead to data races and unpredictable behavior. 
-- 
+- ![](../Assets/Pasted%20image%2020260528204323.png)
+- Thảo luận
+	- Mở rộng ra thành n đối tượng (thay vì một) 
+	- Nếu một lớp A kế thừa lớp Singleton
+	- Dùng thuộc tính và phương thức lớp (static) thay vì dùng Singleton?
+	- Vấn đề đa luồng có thể được giải quyết như nào?
