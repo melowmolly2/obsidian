@@ -12,12 +12,12 @@
 ```Java
 public class GradeBookTest {  
 // phương thức main bắt đầu thực thi chương trình  
-public static void main( String args[] ) {  
+	public static void main( String args[] ) {  
 // tạo đối tượng GradeBook và gán cho myGradeBook  
-GradeBook myGradeBook = new GradeBook();  
+		GradeBook myGradeBook = new GradeBook();  
 // gọi phương thức displayMessage của myGradeBook  
-myGradeBook.displayMessage();  
-}  
+		myGradeBook.displayMessage();  
+	}  
 } // kết thúc lớp GradeBookTest
 ```
 ## Đối tượng và Tham chiếu đối tượng
@@ -37,6 +37,21 @@ GradeBook myGradeBook = new GradeBook();
 	- Private
 		- Chỉ có thể truy cập bởi lớp đó
 ![](../Assets/Pasted%20image%2020260528102506.png)
+```Java
+class MyDate {  
+	private int year, mon, day;  
+	public int getYear() {  
+		return year;  
+	}  
+	public void setYear(int y){  
+		year=y;  
+	}  
+}
 ```
+```Java
+MyDate d = new MyDate();
+...
+d.year = 2005 // compile error
 
+d.setYear(2005)
 ```
