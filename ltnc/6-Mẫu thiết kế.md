@@ -25,4 +25,6 @@
 	- Phương thức `getInstance()` được sử dụng để tạo đối tượng
 	- Trong lần gọi đầu tiên, phương thức `getInstance()` này sẽ tạo ra một đối tượng
 	- Trong những lần gọi tiếp theo, `getInstance()` không tạo thêm đối tượng mà chỉ trả về đối tượng đã tạo ra
+- Smell: Global Data/Mutable State
+	- Scattered global variables or multiple instances of a resource (like a database connection) can lead to data races and unpredictable behavior. 
 - 
