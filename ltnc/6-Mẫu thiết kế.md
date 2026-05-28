@@ -36,4 +36,6 @@
 ## Factory Method
 - Ngữ cảnh: Một framework cho ứng dụng đa cửa sổ. Hai phần từ chính trong ứng dụng này là Application và Document (đều là trừu tượng). Người dùng framework phải kế thừa hai lớp này để viết ứng dụng. Application tạo và quản lý Document. Vì Document được kế thừa về sau nên Application không biết được lớp con của Document. Thách thức: Application tạo và quản lý lớp con (chưa biết) của Document
 - Phương án: định nghĩa interface để tạo đối tượng nhưng để cho lớp con xác định lớp nào sẽ được sử dụng (dể tạo đối tượng)
-- 
+- ![](../Assets/Pasted%20image%2020260528205324.png)
+- ![](../Assets/Pasted%20image%2020260528205334.png)
+- Vấn đề: có nhiều "dòng" đối tượng (product)
