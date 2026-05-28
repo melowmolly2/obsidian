@@ -129,3 +129,37 @@ public static void main(String[] args) {
 }
 ```
 ## Waiting for completion of another thread
+```Java
+Thread thread1 = new Thread(() -> {
+    System.out.println("Entered Thread 1");
+    try {
+        Thread.sleep(2000);
+    } catch (InterruptedException e) {}
+    System.out.println("Exiting Thread 1");
+});
+
+Thread thread2 = new Thread(() -> {
+    System.out.println("Entered Thread 2");
+    try {
+        Thread.sleep(4000);
+    } catch (InterruptedException e) {}
+    System.out.println("Exiting Thread 2");
+});
+
+System.out.println("Starting Thread 1");
+thread1.start();
+
+System.out.println("Waiting for Thread 1 to complete");
+try {
+    thread1.join(1000);
+} catch (InterruptedException e) {}
+
+System.out.println("Waited enough! Starting Thread 2 now");
+thread2.start();
+```
+# Executor Framework
+- Based on producer-consumer architecture
+- Executor service decouples submission from execution policy to let developers easily specify and modify the implementation without much of a code change. 
+- Tasks are submitted to a thread pool 
+- If there are more tasks than the number of active threads → Insert into the queue for waiting
+- If the queue is full 
