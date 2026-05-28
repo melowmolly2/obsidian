@@ -115,4 +115,13 @@ public class Main {
 ### Câu hỏi cho đoạn code 2
 7. Output của chương trình là gì?
 8. Ý nghĩa của khai báo
-	
+	```Java
+	class Storage<T extends Printable>
+	```
+	là gì?
+9. Dòng mã nào sau đây gây lỗi biên dịch?
+	A. `Storage<Report> s = new Storage<>();`
+	B. `Storage<Printable> s = new Storage<>();`
+	C. `Storage<String> s = new Storage<>();`
+	D. `Report r = new Report("A");`
+10. Vì sao phương thức `print()` trong lớp `Repo`
