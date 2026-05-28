@@ -99,4 +99,14 @@ IMath{
 
 ## SOLID
 - Gồm 5 nguyên lý thiết kế hướng đối tượng đã được vận dụng nhiều trong thực tế
-- 
+	- Single Responsibility
+	- Open-close
+	- Liskov Substitution
+	- Interface Segregation
+	- Dependency Inversion
+## Single-Responsiblity Principle (SRP)
+- A class should have only one reason to change
+![](../Assets/Pasted%20image%2020260528224011.png)
+![](../Assets/Pasted%20image%2020260528224023.png)
+## Open/Closed Principle (OCP)
+**Software entities (classes, modules, func
