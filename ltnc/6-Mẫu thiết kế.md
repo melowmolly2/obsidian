@@ -68,4 +68,6 @@ IMath{
 	
 	
 	![](../Assets/Pasted%20image%2020260528212207.png)
+	![](../Assets/Pasted%20image%2020260528212420.png)
+	![](../Assets/Pasted%20image%2020260528212429.png)
 	
