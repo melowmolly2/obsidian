@@ -34,4 +34,6 @@
 	- Dùng thuộc tính và phương thức lớp (static) thay vì dùng Singleton?
 	- Vấn đề đa luồng có thể được giải quyết như nào?
 ## Factory Method
-- Ngữ cảnh: Một framework cho ứng dụng đa cửa sổ
+- Ngữ cảnh: Một framework cho ứng dụng đa cửa sổ. Hai phần từ chính trong ứng dụng này là Application và Document (đều là trừu tượng). Người dùng framework phải kế thừa hai lớp này để viết ứng dụng. Application tạo và quản lý Document. Vì Document được kế thừa về sau nên Application không biết được lớp con của Document. Thách thức: Application tạo và quản lý lớp con (chưa biết) của Document
+- Phương án: định nghĩa interface để tạo đối tượng nhưng để cho lớp con xác định lớp nào sẽ được sử dụng (dể tạo đối tương)
+- 
