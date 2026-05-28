@@ -129,5 +129,32 @@ public class Main {
 12. Thiết kế `Storage<T>` giúp ích gì so với việc dùng trực tiếp `List<Object>`? 
 13. `Printable` phù hợp nhất với vai trò nào trong thiết kế đối tượng?
 ### Đoạn code 3
+```Java
+import java.util.concurrent.*;  
+class DownloadTask implements Callable<String> {  
+    private final String file;  
+    DownloadTask(String file) {  
+        this.file = file;  
+    }  
+    @Override  
+    public String call() throws Exception {  
+        Thread.sleep(100);  
+        return "Done:" + file;  
+    }  
+}  
+public class Main {  
+    public static void main(String[] args) throws Exception {  
+        ExecutorService pool = Executors.newFixedThreadPool(2);  
+        Future<String> f1 = pool.submit(new DownloadTask("A"));  
+        Future<String> f2 = pool.submit(new DownloadTask("B"));  
+        System.out.println(f1.get());  
+        System.out.println(f2.get());  
+        pool.shutdown();  
+    }  
+}
 ```
-```
+14. Vai trò của `Callable<String>` khác gì với Runnable?
+15. Output của chương trình là gì?
+16. Vì sao `Future.get()` có thể làm chương trình tạm dừng?
+17. Điều gì có thể xảy ra nếu bỏ `pool.shutdown()`?
+18. 
