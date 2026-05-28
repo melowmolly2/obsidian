@@ -204,4 +204,4 @@ Yêu cầu:
 2. Đề xuất cách cải thiện thiết kế và giải thích vì sao thiết kế mới mở rộng hơn khi bổ sung loại log mới. 
 	- Đầu tiên, định nghĩa một abstract class (hoặc interface) `ILogger` có phương thức chung `void log(String message)`. 
 	- Tạo các lớp dẫn xuất kế thừa từ nó: `InfoLogger`, `ErrorLogger`,`DebugLogger` và tự cài đặt chi tiết thao tác hiển thị cho mình. 
-	- Thiết kế này dễ mở 
+	- Thiết kế này dễ mở rộng vì nếu xuất hiện thêm định dạng Log "WARNING", lập trình viên chỉ cần tạo thêm class `WarningLogger implements ILogger` là hệ thống sẽ tự hoạt động theo cơ chết liên kết động (dynamic binding), hoàn toàn không cần sửa hay chạm vào bất kỳ đoạn mã có sẵn nào cu. Đây chính là giá tị cốt lõi của OOP kết hợp Design Pattern. 
