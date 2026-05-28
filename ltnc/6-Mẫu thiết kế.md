@@ -19,4 +19,10 @@
 - Kết quả: thảo luận về kết quả mang lại của MTK
 ## Singleton
 - Ngữ cảnh: Trong một số ứng dụng, việc chỉ có duy nhất một đối tượng (của một lớp đặc biệt nào đó) được tạo ra là rất quan trọng. Ví dụ: kết nối DB, Window manager, file system, ... 
-- Vấn
+- Vấn đề: Làm thế nào để chúng ta có thể đảm bảo chỉ duy nhất 1 đối tượng thuộc một lớp nào đó được tạo ra?
+- Giải pháp:
+	- Lớp có phương thức khởi tạo là `private`
+	- Phương thức `getInstance()` được sử dụng để tạo đối tượng
+	- Trong lần gọi đầu tiên, phương thức `getInstance()` này sẽ tạo ra một đối tượng
+	- Trong những lần gọi tiếp theo, `getInstance()` không tạo thêm đối tượng mà chỉ trả về đối tượng đã tạo ra
+- 
