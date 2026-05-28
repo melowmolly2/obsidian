@@ -181,4 +181,23 @@ Quy tắc:
 - Người dùng được mượn sách nếu:
 	- `borrowedBooks < 5`
 	- `hasOverdue == false`
-	-  `membershipoL`
+	-  `membershipLevel >=1`
+- Nếu `borrowedBooks < 0` hoặc `membershipLevel < 0` thì dữ liệu không hợp lệ.
+Yêu cầu: Sinh bộ test theo kỹ thuật phân tích giá trị biên. 
+## Bài 4 - 1.5 điểm
+Cho đoạn mã sau: 
+```Java
+class Logger {  
+    void log(String level, String message) {  
+        if (level.equals("INFO")) {  
+            System.out.println("INFO: " + message);  
+        } else if (level.equals("ERROR")) {  
+            System.out.println("ERROR: " + message);  
+        } else if (level.equals("DEBUG")) {  
+            System.out.println("DEBUG: " + message);  
+        }  
+    }}
+```
+Yêu cầu: 
+1. Chỉ ra các vấn đề thiết kế hoặc code smell trong đoạn mã
+2. Đề xuất cách cải thiện thiết kế và giải thích vì sao thiết kế mới dễ mở rộng hơn khi bổ sung loại log mới. 
