@@ -127,4 +127,7 @@ public class Main {
 10. Vì sao phương thức `print()` trong lớp `Report` phải là `public`? 
 11. Nếu lớp `Report` không override `toString()` thì điều gì thay đổi trong output hiện tại?
 12. Thiết kế `Storage<T>` giúp ích gì so với việc dùng trực tiếp `List<Object>`? 
-13. `Printable` phù h
+13. `Printable` phù hợp nhất với vai trò nào trong thiết kế đối tượng?
+### Đoạn code 3
+```
+```
