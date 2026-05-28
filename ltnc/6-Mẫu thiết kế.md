@@ -89,3 +89,8 @@ IMath{
 - ![](../Assets/Pasted%20image%2020260528215122.png)
 ## Proxy
 ![](../Assets/Pasted%20image%2020260528215146.png)
+## Một số nguyên lý thiết kế
+- OO với các nguyên lý đóng gói (encapsulation), trừu tượng hóa (abstraction), đa hình (polymorphism), inheritance (kế thừa) giúp cho lập trình viên viết các chương trình chất lượng cao
+- Không phải chương trình nào viết bằng OO cũng có chất lượng cao
+- Có một số các nguyên lý để có chương trình dễ bảo trì, tái sử dung và mở rộng
+## DRY
