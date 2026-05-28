@@ -43,4 +43,6 @@
 - Ngữ cảnh
 	- Client độc lập với cách các đối tượng (product) được tạo ra
 	- Client được cấu hình với một trong nhiều "dòng" đối tượng
-	- Các đối tượng thuộc cùng dòng sẽ được sử dụng cùn n
+	- Các đối tượng thuộc cùng dòng sẽ được sử dụng cùng nhau
+- ![](../Assets/Pasted%20image%2020260528210806.png)
+- 
