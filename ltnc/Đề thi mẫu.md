@@ -188,7 +188,7 @@ f1.get();
 ```
 Lần đầu sẽ chặn và chờ lấy kết quả "Done:A". Lần thứ 2 nó sẽ lập tức trả về giá trị "Done:A" đã lưu mà không bị kẹt hay gọi chạy lại task. 
 20. `ExecutorService` giúp giải quyết vấn đề gì so với việc tự tạo nhiều `Thread` bằng tay?
-	Giúp tái sử dụng luồng qua Thread Pool, tiết kiệm chi phí hệ điều hành phải cấp phát/giải phóng luồng liên tục. Đồng thời, nó tách biệt logic gửi task và quản lý luồng, cung cấp Future đê
+	Giúp tái sử dụng luồng qua Thread Pool, tiết kiệm chi phí hệ điều hành phải cấp phát/giải phóng luồng liên tục. Đồng thời, nó tách biệt logic gửi task và quản lý luồng, cung cấp Future để lấy kết quả dễ dàng. 
 ## Bài 2 - 2.5 điểm
 Một hệ thống quản lý thư viện số có người dùng gồm độc giả và thủ thư. Tài nguyên thư viện gồm sách điện tử, video học tập và tài liệu PDF. Một số tài nguyên có thể tải xuống, một số chỉ được xem trực tuyến. Người dùng có thể mượn tài nguyên. Hệ thống cần ghi nhận lịch sử mượn/trả. Một số tài nguyên có giới hạn số lượt truy cập đồng thời.
 
@@ -197,6 +197,11 @@ Yêu cầu:
 2. Sử dụng abstract class và interface hợp lý
 3. Vẽ biểu dồ lớp mức khái quát
 4. Nếu hệ thống bổ sung audiobook và cơ chế thuê tài nguyên theo thời hạn, hãy giải thích thiết kế cần mở rộng như thế nào để hạn chế sửa mã nguồn cũ.
+
+### Bài làm:
+1. Xác định lớp chính và quan hệ: 
+	- Người dùng (`User`): Là Abstract class gồm chung ID, Name, Mật khẩu -> Class con: `Reader` (độc giả), `Librarian` (Thủ thư) kế thừa.
+	- Tài nguyên (`Resource`): Lớp cơ sở (Abstract Class) mô tả thuộc tính chung (Mã số)
 ## Bài 3 - 1 điểm
 Cho phương thức
 ```Java
