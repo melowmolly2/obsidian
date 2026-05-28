@@ -74,6 +74,7 @@ public class Main {
 	System.out.println((Manager) another).income()); 
 	```
 	thì điều gì xảy ra?
+	Chương trình sẽ văng lỗi `ClassCastException` ở lúc thực thi. Vì đối tượng thực tế được cấp phát bằng `new Employee()` không chứa các đặc điểm của `Manager`, việc ép kiểu hướng xuống (down-casting) với đối tượng này không hợp lệ. 
 5. Nếu đổi `public double income()` trong `Manager` thành `private double income()` thì điều gì xảy ra?
 	
 6. Thuộc tính `salary` có thể được truy cập trực tiếp trong lớp `Manager` hay không? Vì sao?
