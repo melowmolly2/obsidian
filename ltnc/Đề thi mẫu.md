@@ -78,7 +78,7 @@ public class Main {
 5. Nếu đổi `public double income()` trong `Manager` thành `private double income()` thì điều gì xảy ra?
 	Sẽ xảy ra **lỗi biên dịch** vì khi ghi đè phương thức (overriding), lớp dẫn xuất không được phép có phạm vi truy cập hẹp hơn phạm vi truy cập ở lớp cơ sở (từ `public` không thể thu hẹp thành `private`). 
 6. Thuộc tính `salary` có thể được truy cập trực tiếp trong lớp `Manager` hay không? Vì sao?
-	Không, vì `salary` được khai báo là `private` ở lớp `Employee`. Lớp con không được kế thửa và khô
+	Không, vì `salary` được khai báo là `private` ở lớp `Employee`. Lớp con không được kế thửa và không thể truy cập trực tiếp các thành viên private của lớp cha, muốn truy cập nó phải gọi gián tiếp thông qua `super` (như ở đây dùng `super.income()`). 
 ### Đoạn code 2
 ```Java
 import java.util.*;  
@@ -118,11 +118,17 @@ public class Main {
 ```
 ### Câu hỏi cho đoạn code 2
 7. Output của chương trình là gì?
+	```
+	Report:Weekly
+	Report:Monthly
+	```
 8. Ý nghĩa của khai báo
 	```Java
 	class Storage<T extends Printable>
 	```
 	là gì?
+	Đây là tính năng Lập tình tổng quát (Generics). Nó giới hạn tham số kiểu (bounded type parameter): biến kiểu `T` bắt buộc phải là một lớp có triển khai (implements) giao diện `Printable`. 
+	
 9. Dòng mã nào sau đây gây lỗi biên dịch?
 	A. `Storage<Report> s = new Storage<>();`
 	B. `Storage<Printable> s = new Storage<>();`
