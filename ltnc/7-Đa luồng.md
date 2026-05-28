@@ -89,7 +89,17 @@ public class RunnableExampleAnonymousClass {
 ```Java
 public class RunnableExampleLambdaExpression {
 	public static void main(String[] args) {
-	System.out.println ("Inside : " + Thread)
+	System.out.println ("Inside : " + Thread.currentThread().getName()); 
+	Runnable runnable = () -> {
+		System.out.println("Inside : " + Thread.currentThread().getName()); 
+	};
+	Thread thread = new Thread(runnable);
+	thread.start(); 
 	}
 }
 ```
+# Runnable or thread, which to use?
+## The life cycle of a thread 
+
+![](../Assets/Pasted%20image%2020260528231627.png)
+#Pa
