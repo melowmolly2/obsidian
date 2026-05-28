@@ -10,4 +10,12 @@
 - Multi-threading - Multiple parts of the same program running concurrently.
 	- Dividing the same program into multiple parts/threads and run those threads concurrently (Unit:Thread)
 ## Process and Threads
-- A process 
+- A process is a program in execution running independently and isolated from others
+- A thread is a path of execution within a process
+	- It has its own call stack but can access shared data of other threads in the same process
+- A Java application runs by default in one process
+- Within a Java application might have several threads to achieve parallel processing or asynchronous behavior
+- ![](../Assets/Pasted%20image%2020260528225908.png)
+## Improvements with concurrency
+- Concurrency promises to perform certain tasks faster
+	- A task = Several subTask
