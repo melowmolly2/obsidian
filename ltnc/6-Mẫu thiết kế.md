@@ -50,6 +50,18 @@
 	- Sử dụng Singleton
 ## Adapter
 - Để sử dụng framework F, người phát triển ứng dụng phải cung cấp một lớp cài đặt giao diện IMath
+```Java
+IMath{
+	int[] sort(int[] arr)
+}
+```
+- Người phát triển ứng dụng đã download được một thư viện (.class, không chỉnh sửa được) có lớp MyMathLib với phương thức `quicksort()`
+- Làm thế nào để sử dụng F với MyMathLib?
 	```Java
-	IMath
+	public class MyMathLib{
+		int[] quickSort(int[] arr){
+		
+		}
+	}
 	```
+	
