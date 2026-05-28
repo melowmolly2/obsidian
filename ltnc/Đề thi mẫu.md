@@ -76,8 +76,9 @@ public class Main {
 	thì điều gì xảy ra?
 	Chương trình sẽ văng lỗi `ClassCastException` ở lúc thực thi. Vì đối tượng thực tế được cấp phát bằng `new Employee()` không chứa các đặc điểm của `Manager`, việc ép kiểu hướng xuống (down-casting) với đối tượng này không hợp lệ. 
 5. Nếu đổi `public double income()` trong `Manager` thành `private double income()` thì điều gì xảy ra?
-	
+	Sẽ xảy ra **lỗi biên dịch** vì khi ghi đè phương thức (overriding), lớp dẫn xuất không được phép có phạm vi truy cập hẹp hơn phạm vi truy cập ở lớp cơ sở (từ `public` không thể thu hẹp thành `private`). 
 6. Thuộc tính `salary` có thể được truy cập trực tiếp trong lớp `Manager` hay không? Vì sao?
+	Không, vì `salary` được khai báo là `private` ở lớp `Employee`. Lớp con không được kế thửa và khô
 ### Đoạn code 2
 ```Java
 import java.util.*;  
