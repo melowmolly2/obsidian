@@ -77,4 +77,7 @@ d.setMonth(”September”);
 	- nhằm mục đích chính là khởi tạo cho các thuộc tính của đối tượng
 	- Tên trùng với tên lớp
 	- Không nhận giá trị trả lại
-	- Được gọi tự động mỗi khi đối tượng được tạo (bởi toán tử )
+	- Được gọi tự động mỗi khi đối tượng được tạo (bởi toán tử new)
+		- nếu không khai báo, hệ thống sẽ gọi phương thức khởi tạo mặc định - phương thức rỗng
+![](../Assets/Pasted%20image%2020260528103625.png)
+
