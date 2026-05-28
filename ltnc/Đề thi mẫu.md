@@ -208,7 +208,10 @@ Yêu cầu:
 	- Interface `Downloadable` (tài liệu tải xuống được)
 	- Interface `ViewableOnline` (tài liệu xem trực tuyến được)
 	- Sách điện tử/PDF có thể implement cả hai, còn Video chỉ implement được `ViewableOnline`. 
-3. (Biểu đồ lớp) Bỏ qua phần vẽ bằng đồ họa tại đây, nhưng sơ đồ sẽ dựa trên mối quan hệ: `Resource` và `User` là trọng tâm, `BorrowRecord` ở giữa liên kết `1 User - N Record` và `1 Resource -`
+3. (Biểu đồ lớp) Bỏ qua phần vẽ bằng đồ họa tại đây, nhưng sơ đồ sẽ dựa trên mối quan hệ: `Resource` và `User` là trọng tâm, `BorrowRecord` ở giữa liên kết `1 User - N Record` và `1 Resource - N Record`. 
+4. Thiết kế mở rộng cho Audiobook và Thuê thời hạn: 
+	- Thêm Audiobook: Nhờ tính đa hình, chỉ cần tạo lớp `Audiobook extends Resource` hoặc implement interface phù hợp mà không cần can thiệp logic của quản lý tài nguyên, tuân thủ chặt chẽ Nguyên lý Đóng/Mở(OCP).
+	- Thuê tài nguyên theo thời hạn: 
 ## Bài 3 - 1 điểm
 Cho phương thức
 ```Java
