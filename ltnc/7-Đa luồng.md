@@ -31,4 +31,17 @@
 - Threads have their call stack but can also access shared data
 - Access problem: if several threads access and change the same shared data at the same time
 	- Safety failure (inconsistent data)
-	- Thread Interference e
+	- Thread Interference Errors (Race conditions)
+- Visibility problem: if thread A reads shared data, which is later changed by thread B and thread A is unaware of this change
+	- Liveness failure (e.g., deadlocks)
+	- Memory Consistency Errors
+# Java Thread
+## Creating and Starting a Thread
+- By extending Thread class
+- By providing a Runnable object
+	- Runnable Anonymous Class
+	- Runnable Lambda Expression
+![](../Assets/Pasted%20image%2020260528230553.png)
+```Java
+
+```
