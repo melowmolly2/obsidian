@@ -126,3 +126,4 @@ Software entities can be extended without modifying
 ### Abstractions should not depend on details. Details should depend on abstractions. 
 
 ![](../Assets/Pasted%20image%2020260528224900.png)
+![](../Assets/Pasted%20image%2020260528224915.png)
