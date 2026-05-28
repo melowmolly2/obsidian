@@ -79,4 +79,8 @@ IMath{
 ![](../Assets/Pasted%20image%2020260528212934.png)
 ## Decorator
 - Ngữ cảnh: Xây dựng ứng dụng trong đó có chức năng gửi thông báo
-- Phương thức send() sẽ 
+- Phương thức send() sẽ gửi thông báo qua email
+- ![](../Assets/Pasted%20image%2020260528213118.png)
+- Sau một thời gian, người sử dụng có như cầu gửi thông báo qua nhiều kênh khác nhau (ngoài qua email)
+- Giải pháp (tạm thời): tạo các lớp mới kế thừa từ Notifier![](../Assets/Pasted%20image%2020260528213208.png)
+- 
