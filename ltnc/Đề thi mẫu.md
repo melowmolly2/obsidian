@@ -167,8 +167,14 @@ public class Main {
 }
 ```
 14. Vai trò của `Callable<String>` khác gì với Runnable?
+	`Callable` có thể trả về một kết quả thông qua Generic (ở đây là String) và cho phép ném ra ngoại lệ checked (`throws Exception`). Trong khi đó, `Runnable` chỉ chạy code đơn thuần (void run()), không trả về kết quả và không ném được checked exception. 
 15. Output của chương trình là gì?
+	```
+	Done:A
+	Done:B
+	```
 16. Vì sao `Future.get()` có thể làm chương trình tạm dừng?
+	Vì `get()` là phương thức phong tỏa (blocking). Nó bắt buộc luồng đang gọi (luồng chính) chờ chó đến khi nhiệm vụ `Callable` trên thread pool
 17. Điều gì có thể xảy ra nếu bỏ `pool.shutdown()`?
 18. Nếu thay `Callable<String>` bằng `Runnable` thì đoạn nào trong chương trình cần thay đổi?
 19. Điều gì xảy ra nếu gọi: 
