@@ -28,4 +28,15 @@ GradeBook myGradeBook = new GradeBook();
 ...
 ```
 ![](../Assets/Pasted%20image%2020260528102301.png)
-## Thuộc tính, Phương thức và Kiểm soa
+## Thuộc tính, Phương thức và Kiểm soát truy cập
+- Các phạm vi truy cập:
+	- Public
+		- Có thể truy cập ở bất kỳ dâu và bởi bất kỳ ai
+	- Protected
+		- Chỉ có thể truy cập bởi lớp dó và các lớp con hoặc các lớp trong cùng gói (package)
+	- Private
+		- Chỉ có thể truy cập bởi lớp đó
+![](../Assets/Pasted%20image%2020260528102506.png)
+```
+
+```
