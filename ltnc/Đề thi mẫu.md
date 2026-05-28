@@ -59,5 +59,8 @@ public class Main {
 ### Câu hỏi cho đoạn code 1
 1. Output của chương trình là gì?
 	```
-	Lan 
+	Manager
+	1300
+	standard
+	management
 	```
