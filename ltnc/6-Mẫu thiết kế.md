@@ -33,3 +33,5 @@
 	- Nếu một lớp A kế thừa lớp Singleton
 	- Dùng thuộc tính và phương thức lớp (static) thay vì dùng Singleton?
 	- Vấn đề đa luồng có thể được giải quyết như nào?
+## Factory Method
+- Ngữ cảnh: Một framework cho ứng dụng đa cửa sổ
