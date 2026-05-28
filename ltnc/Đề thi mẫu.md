@@ -165,4 +165,10 @@ f2.get();
 ```
 20. `ExecutorService` giúp giải quyết vấn đề gì so với việc tự tạo nhiều `Thread` bằng tay?
 ## Bài 2 - 2.5 điểm
-Một hệ thống quản lý thư viện số có người dùng gồm độc giả và thủ thư. Tài nguyên thư viện gồm sách điện tử, video học tập và tài liệu PDF. Một só tài nguyên có thể tải xuống, một số 
+Một hệ thống quản lý thư viện số có người dùng gồm độc giả và thủ thư. Tài nguyên thư viện gồm sách điện tử, video học tập và tài liệu PDF. Một số tài nguyên có thể tải xuống, một số chỉ được xem trực tuyến. Người dùng có thể mượn tài nguyên. Hệ thống cần ghi nhận lịch sử mượn/trả. Một số tài nguyên có giới hạn số lượt truy cập đồng thời.
+
+Yêu cầu:
+1. Xác định các lớp chính và quan hệ giữa các lớp
+2. Sử dụng abstract class và interface hợp lý
+3. Vẽ biểu dồ lớp mức khái quát
+4. Nếu hệ thống bổ sung audiobook và cơ chế thuê tài nguyên theo thời hạn, hãy giải thích thiết kế cần mở rộng như thế nào để hạn chế sửa mã nguồn cũ.
