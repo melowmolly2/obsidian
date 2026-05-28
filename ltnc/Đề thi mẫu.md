@@ -200,4 +200,5 @@ class Logger {
 ```
 Yêu cầu: 
 1. Chỉ ra các vấn đề thiết kế hoặc code smell trong đoạn mã
-2. Đề xuất cách cải thiện thiết kế và giải thích vì sao thiết kế mới dễ mở rộng hơn khi bổ sung loại log mới. 
+	Lớp Logger dính lỗi lạm dụng điều kiện phức tạp **(Conditional Complexity).** Nó dùng liên tiếp `if-else if` 
+2. Đề xuất cách cải thiện thiết kế và giải thích vì sao thiết kế mới mở rộng hơn khi bổ sung loại log mới. 
