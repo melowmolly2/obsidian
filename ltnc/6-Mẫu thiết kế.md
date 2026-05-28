@@ -45,4 +45,11 @@
 	- Client được cấu hình với một trong nhiều "dòng" đối tượng
 	- Các đối tượng thuộc cùng dòng sẽ được sử dụng cùng nhau
 - ![](../Assets/Pasted%20image%2020260528210806.png)
-- 
+- Thảo luận
+	- Thêm một loại đối tượng (product)
+	- Sử dụng Singleton
+## Adapter
+- Để sử dụng framework F, người phát triển ứng dụng phải cung cấp một lớp cài đặt giao diện IMath
+	```Java
+	IMath
+	```
