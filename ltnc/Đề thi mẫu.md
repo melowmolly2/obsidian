@@ -174,9 +174,11 @@ public class Main {
 	Done:B
 	```
 16. Vì sao `Future.get()` có thể làm chương trình tạm dừng?
-	Vì `get()` là phương thức phong tỏa (blocking). Nó bắt buộc luồng đang gọi (luồng chính) chờ chó đến khi nhiệm vụ `Callable` trên thread pool
+	Vì `get()` là phương thức phong tỏa (blocking). Nó bắt buộc luồng đang gọi (luồng chính) chờ chó đến khi nhiệm vụ `Callable` trên thread pool chạy xong và có kết quả để lấy ra. 
 17. Điều gì có thể xảy ra nếu bỏ `pool.shutdown()`?
+	Chương tình sẽ chạy và in ra đủ dữ liệu nhưng không thể kết thúc. Các luồng trong `ExecutorService` vẫn tồn tại ở trạng thái chờ nhiệm vụ mới, ngăn cản máy ảo JVM thoát hoàn toàn. 
 18. Nếu thay `Callable<String>` bằng `Runnable` thì đoạn nào trong chương trình cần thay đổi?
+	Lớp `DownloadTask:` Thay `implements Callable<String>` thành `implements Runnable`. Đổi tên `public String call() throws Exception` thành `public void run()`. 
 19. Điều gì xảy ra nếu gọi: 
 ```Java
 f1.get();
