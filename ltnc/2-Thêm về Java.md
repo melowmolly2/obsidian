@@ -56,4 +56,15 @@ d.year = 2005 // compile error
 d.setYear(2005)
 System.out.println(d.getYear()); 
 ```
-## Nạp chồng ph
+## Nạp chồng phương thức (overloading)
+- Có thể định nghĩa các phương thức trùng tên nhưng phải khác danh sách tham số
+```Java
+class MyDate {
+	...
+	public boolean setMonth(int m) {...}
+
+	public boolean setMonth(String s) { …}  
+}  
+d.setMonth(9);  
+d.setMonth(”September”);
+```
