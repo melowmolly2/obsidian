@@ -115,3 +115,7 @@ Software entities can be extended without modifying
 ![](../Assets/Pasted%20image%2020260528224147.png)
 ![](../Assets/Pasted%20image%2020260528224156.png)
 ![](../Assets/Pasted%20image%2020260528224206.png)
+## Liskov Substitution Principle
+**Derived classes must be substitutable for their base classes** ![](../Assets/Pasted%20image%2020260528224624.png)
+## Interface Segregation Principle
+### Clients should not be forced to depend on methods they do not use.
