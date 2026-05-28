@@ -75,8 +75,21 @@ public class RunnableExample implements Runnable{
 public class RunnableExampleAnonymousClass {
 	public static void main(String[] args) {
 		System.out.println("Inside : "+Thread.currentThread().getName());
-	Runnable runnable = new Ru
-	
+	Runnable runnable = new Runnable() {
+		@Override
+		public void run() {
+			System.out.println("Inside : "+ Thread.currentThread().getName()); 
+		}
+	};
+	Thread thread = new Thread(runnable)
+	thread.start(); 
+	}
+}
+```
+```Java
+public class RunnableExampleLambdaExpression {
+	public static void main(String[] args) {
+	System.out.println ("Inside : " + Thread)
 	}
 }
 ```
