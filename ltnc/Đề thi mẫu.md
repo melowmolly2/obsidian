@@ -200,5 +200,8 @@ class Logger {
 ```
 Yêu cầu: 
 1. Chỉ ra các vấn đề thiết kế hoặc code smell trong đoạn mã
-	Lớp Logger dính lỗi lạm dụng điều kiện phức tạp **(Conditional Complexity).** Nó dùng liên tiếp `if-else if` để kiểm tra thuộc tính kiểu string `level`. Điều này vi phạm nghiêm trọng **Nguyên lý OCP (Open-Closed Principle):** Mở để mở rộng, đóng để sửa đổi. Hiện tại, nếu hệ thống muốn thêm tính năng ghi log mới (VD: "W)
+	Lớp Logger dính lỗi lạm dụng điều kiện phức tạp **(Conditional Complexity).** Nó dùng liên tiếp `if-else if` để kiểm tra thuộc tính kiểu string `level`. Điều này vi phạm nghiêm trọng **Nguyên lý OCP (Open-Closed Principle):** Mở để mở rộng, đóng để sửa đổi. Hiện tại, nếu hệ thống muốn thêm tính năng ghi log mới (VD: "WARNING", "FATAL"), ta bắt buộc phải can thiệp trực tiếp vào mã nguồn của `Logger` và nhét thêm khối `else if`. 
 2. Đề xuất cách cải thiện thiết kế và giải thích vì sao thiết kế mới mở rộng hơn khi bổ sung loại log mới. 
+	- Đầu tiên, định nghĩa một abstract class (hoặc interface) `ILogger` có phương thức chung `void log(String message)`. 
+	- Tạo các lớp dẫn xuất kế thừa từ nó: `InfoLogger`, `ErrorLogger`,`DebugLogger` và tự cài đặt chi tiết thao tác hiển thị cho mình. 
+	- Thiết kế này dễ mở 
