@@ -74,4 +74,45 @@ public class Main {
 	```
 	thì điều gì xảy ra?
 5. Nếu đổi `public double income()` trong `Manager` thành `private double income()` thì điều gì xảy ra?
-6. 
+6. Thuộc tính `salary` có thể được truy cập trực tiếp trong lớp `Manager` hay không? Vì sao?
+### Đoạn code 2
+```Java
+import java.util.*;  
+interface Printable {  
+    String print();  
+}  
+class Report implements Printable {  
+    private final String title;  
+    Report(String title) {  
+        this.title = title;  
+    }  
+    public String print() {  
+        return "Report:" + title;  
+    }  
+    public String toString() {  
+        return print();  
+    }  
+}  
+class Storage<T extends Printable> {  
+    private final List<T> items = new ArrayList<>();  
+    void save(T item) {  
+        items.add(item);  
+    }  
+    void printAll() {  
+        for (T item : items) {  
+            System.out.println(item.print());  
+        }  
+    }}  
+public class Main {  
+    public static void main(String[] args) {  
+        Storage<Report> storage = new Storage<>();  
+        storage.save(new Report("Weekly"));  
+        storage.save(new Report("Monthly"));  
+        storage.printAll();  
+    }  
+}
+```
+### Câu hỏi cho đoạn code 2
+7. Output của chương trình là gì?
+8. Ý nghĩa của khai báo
+	
