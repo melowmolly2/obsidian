@@ -163,3 +163,6 @@ public class Main {
 f1.get();
 f2.get();
 ```
+20. `ExecutorService` giúp giải quyết vấn đề gì so với việc tự tạo nhiều `Thread` bằng tay?
+## Bài 2 - 2.5 điểm
+Một hệ thống quản lý thư viện số có người dùng gồm độc giả và thủ thư. Tài nguyên thư viện gồm sách điện tử, video học tập và tài liệu PDF. Một só tài nguyên có thể tải xuống, một số 
