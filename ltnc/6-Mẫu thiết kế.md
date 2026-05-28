@@ -64,4 +64,8 @@ IMath{
 		}
 	}
 	```
+	![](../Assets/Pasted%20image%2020260528212151.png)
+	
+	
+	![](../Assets/Pasted%20image%2020260528212207.png)
 	
