@@ -60,6 +60,19 @@ public class ThreadExample extends Thread {
 public class RunnableExample implements Runnable{
 	@Override
 	public void run(){
+		System.out.println("Inside : "+Thread.currentThread().getName()); 
 	}
+	
+	public static void main(String[] args){
+		System.out.println("Inside : " + Thread.currentThread().getName());
+		Runnable runnable = new RunnableExample();
+		Thread thread = new Thread(runnable);
+		thread.start();
+	}
+}
+```
+```Java
+public class RunnableExampleAnonymousClass {
+	
 }
 ```
