@@ -83,4 +83,8 @@ IMath{
 - ![](../Assets/Pasted%20image%2020260528213118.png)
 - Sau một thời gian, người sử dụng có như cầu gửi thông báo qua nhiều kênh khác nhau (ngoài qua email)
 - Giải pháp (tạm thời): tạo các lớp mới kế thừa từ Notifier![](../Assets/Pasted%20image%2020260528213208.png)
+- Nhưng có trường hợp người dùng muốn gửi qua nhiều kênh cho cùng một thông điệp -> Số lớp tăng, không hợp lý
+- ![](../Assets/Pasted%20image%2020260528215055.png)
+- ![](../Assets/Pasted%20image%2020260528215112.png)
+- ![](../Assets/Pasted%20image%2020260528215122.png)
 - 
