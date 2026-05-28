@@ -73,6 +73,10 @@ public class RunnableExample implements Runnable{
 ```
 ```Java
 public class RunnableExampleAnonymousClass {
+	public static void main(String[] args) {
+		System.out.println("Inside : "+Thread.currentThread().getName());
+	Runnable runnable = new Ru
 	
+	}
 }
 ```
