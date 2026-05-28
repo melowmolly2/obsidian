@@ -140,7 +140,7 @@ public class Main {
 12. Thiết kế `Storage<T>` giúp ích gì so với việc dùng trực tiếp `List<Object>`?
 	Nó mang lại lợi thế của Generics là bảo đảm **an toàn kiểu lúc biên dịch (Type-safety).** Bằng cách giới hạn `T extends Printable`, ta có thể gọi chắc chắn phương thức `print()` trên mọi phần tử mà không cần phải thực hiện ép kiểu (casting) rườm rà, loại bỏ rủi ro ném lỗi ép kiểu lúc chạy.
 13. `Printable` phù hợp nhất với vai trò nào trong thiết kế đối tượng?
-	Phù hợp 
+	Phù hợp nhất với vai trò như một **Hợp đồng lập trình** (contract), chuyển tư duy từ "Một đối tượng là gì" (is-a) sang "một đối tượng có thể làm gì" (behaves-like).
 ### Đoạn code 3
 ```Java
 import java.util.concurrent.*;  
