@@ -207,3 +207,7 @@ public static void main(String[] args) {
     boolean same = Util.compare(p1, p2); // False
 }
 ```
+# Khởi tạo kiểu tổng quát
+- Hai nhu cầu tường gặp khi khởi tạo kiểu tổng quát
+	- Khởi tạo đối tượng có kiểu tổng quát
+	- Khởi tạo mảng dữ liệu (trong đó các phần tử có kiểu tổng quát) - gọi là mảng tổng q
