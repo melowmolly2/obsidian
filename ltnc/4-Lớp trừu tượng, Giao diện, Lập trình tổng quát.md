@@ -86,4 +86,17 @@ public class CheckoutService {
 	```Java
 	class name<T1, T2, ..., Tn> {/* ... */}
 	```
-	-
+- trong đó:
+	- `T1, T2, ..., Tn` là các kiểu tổng quát
+	- Kí hiệu `<>` được sử dụng để bọc lấy các kiểu tổng quát
+- Khai báo/ Khởi tạo một đối tượng thuộc lớp tổng quát tương tự như các lớp không tổng quát, điểm khác biệt duy nhất là phải xác định tường minh kiểu tổng quát
+## Quy ước đặt tên kiểu tổng quát
+- E: Element
+- K, V: Key, Value
+- N: Number
+- T: Type
+- S, U, V, v..v: kiểu thứ 2, thứ 3, thứ 4, v.v
+## Ví dụ
+- Ví dụ 1: Tạo một lớp tổng quát `Box`, lớp này có một kiểu tổng quát `T`
+	```
+	```
