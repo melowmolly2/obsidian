@@ -210,4 +210,14 @@ public static void main(String[] args) {
 # Khởi tạo kiểu tổng quát
 - Hai nhu cầu tường gặp khi khởi tạo kiểu tổng quát
 	- Khởi tạo đối tượng có kiểu tổng quát
-	- Khởi tạo mảng dữ liệu (trong đó các phần tử có kiểu tổng quát) - gọi là mảng tổng q
+	- Khởi tạo mảng dữ liệu (trong đó các phần tử có kiểu tổng quát) - gọi là mảng tổng quát
+## Vấn đề khi khởi tạo đối tượng có kiểu tổng quát
+- Không thể tạo trực tiếp đối tượng có kiểu tổng quát bằng cách dùng từ khóa `new`
+- Trình biên dịch của Java cần biết rõ kiểu tổng quát `T` là cái gì mới có thể biên dịch
+- Ví dụ: Xét lớp tổng quát `Box`
+	```Java
+	public class Box<T> {
+	private T t = new T(); // lỗi
+	}
+	```
+	Lớp này không thể biên dịch thành công do cố tình khởi tạo một đối tượng có kiểu to
