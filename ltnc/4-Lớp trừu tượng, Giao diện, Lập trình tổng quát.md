@@ -162,4 +162,18 @@ public class ContactEntry<V> extends Pair <String, V>{...}
 		void update(T obj); 
 	}
 	```
-- Một class cài đặt từ giao d
+- Một class cài đặt từ giao diện trên
+	```Java
+	public abstract class AbstractGenericDao<T> implements GenericDao<T>{}
+	```
+# Phương thức tổng quát
+## Cấu trúc
+- Phương thức tổng quát được viết với cấu trúc như sau:
+	```Java
+	<T1, T2, ... , Tn> return_type name_func{...} {
+	/* ... */
+	}
+	```
+	, trong đó:
+	- `T1, T2, ... , Tn` là các kiểu tổng quát
+	- Kí hiệu `<>` được sử dụng để bọc lấy các kiểu tổng 
