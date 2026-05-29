@@ -186,4 +186,24 @@ public class ContactEntry<V> extends Pair <String, V>{...}
 	- Có thể là phương thức tĩnh hoặc không tĩnh
 ## Ví dụ
 Viết phương thức tổng quát `compare` để so sánh hai đối tương `p1` và `p2`. Trong đó, `p1` và `p2` đều thuộc lớp tổng quát `Pair`. 
-Hai đối tượng kiểu `Pair` bằng nhau khi giá trị `value` và khóa 
+Hai đối tượng kiểu `Pair` bằng nhau khi giá trị `value` và khóa `key` đều bằng nhau.
+```Java
+// Pair.java
+public class Pair<K, V> { private K key; private V value; }
+// Utils.java
+public class Util {
+    public static <K, V> boolean compare(
+                    Pair<K, V> p1, Pair<K, V> p2) {
+        return p1.getKey().equals(p2.getKey()) &&
+               p1.getValue().equals(p2.getValue());
+    }
+}
+```
+```Java
+// UtilTest.java
+public static void main(String[] args) {
+    Pair<Integer, String> p1 = new Pair<>(1, "apple");
+    Pair<Integer, String> p2 = new Pair<>(2, "pear");
+    boolean same = Util.compare(p1, p2); // False
+}
+```
