@@ -174,12 +174,15 @@ thread2.start();
 - `ScheduledExecutorService` - A sub-interface of `ExecutorService`. It adds functionality to schedule the execution of the tasks. 
 ## ExecutorService example
 ```Java
-public stati void (String[] args) {
+public static void (String[] args) {
 	System.out.println("Inside : "+Thread.currentThread.getName()); 
 	
 	ExecutorService executorService = Executors.newSingleThreadExecutor();
 	Runnable runnable = () -> {
-		
-	}
+		System.out.println("Inside : " + Thread.currentThread().getName());
+	};
+	
+	System.out.println("Submit the task specified by the runnable.");
+	executorService.sub
 }
 ```
