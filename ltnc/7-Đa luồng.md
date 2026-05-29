@@ -388,4 +388,12 @@ public int getCount() {
 	- $\rightarrow$ Context switching + Memory footprint
 	- $\rightarrow$ Cost of thread maintaining may be significant and affect the processing time 
 ## Java Virtual Thread
-- Virtual threads are managed by the 
+- Virtual threads are managed by the JVM
+- Their allocation doesn't require a system call
+- They're free of OS's context switch
+	- Virtual threads run on *the carrier kernel thread* used under-the-hood
+	- More virtual threads
+	- Managing virtual threads is much cheaper
+![](../Assets/Pasted%20image%2020260529161859.png)
+## API is the same!!!
+![](../Assets/Pasted%20image%2020260529161926.png)
