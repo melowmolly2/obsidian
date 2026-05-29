@@ -393,4 +393,10 @@ public class WildCardExample2 {
 ```
 # Ưu, nhược điểm của lập trình tổng quát
 ## Ưu điểm
-- Giảm thiểu chi phí kiểm thử và bảo trì mã nguồn do không cần viết nhiều chương trình có thuật toán giống nhau cho các kiểu dữ l
+- Giảm thiểu chi phí kiểm thử và bảo trì mã nguồn do không cần viết nhiều chương trình có thuật toán giống nhau cho các kiểu dữ liệu khác nhau
+	- Ví dụ: Viết thuật toán sắp xếp chèn (selection sort) cho mảng lưu các số nguyên `arr1` và mảng lưu các kí tự `arr2`
+	- Cách 1 (lập trình không tổng quát): viết hai phương thức sắp xếp riếng biệt cho `arr1` và `arr2`
+		- Thu được hai phương thức giống hệ nhau về thuật toán nhưng khác nhau về kiểu dữ liệu
+		- Tốn them chi phí kiểm thử và bảo trì
+	- Cách 2 (lập trình tổng quát): Nhận thấy thuật toán sắp xếp chèn cho `arr1` và `arr2` là giống hệt nhau
+		- Do đó, thay vì vi
