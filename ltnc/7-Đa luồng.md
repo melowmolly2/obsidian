@@ -169,4 +169,7 @@ thread2.start();
 	- You don't need to worry about whether the threads in the thread pool are active or busy or dead before submitting a task for execution
 - **Task submission and execution**: Methods for submitting tasks for execution in the thread pool and deciding when the tasks will be executed
 ## Java executor interfaces
-- Executor: 
+- `Executor` - A simple interface that contains a method called `execute()` to launch a task specified by a `Runnable` object
+- `ExecutorService` - A sub-interface of `Executor` that adds functionality to manage the lifecycle of the tasks. It also provides a `submit()` method whose overloaded versions can accept a `Runnable` and a `Callable` (discussed later). 
+- `ScheduledExecutorService` - A sub-interface of `ExecutorService`. It adds functionality to schedule the execution of the tasks. 
+- 
