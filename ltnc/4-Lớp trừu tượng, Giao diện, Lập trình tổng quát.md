@@ -185,4 +185,4 @@ public class ContactEntry<V> extends Pair <String, V>{...}
 	- Có thể nằm trong lớp/giao diện tổng quát hoặc không
 	- Có thể là phương thức tĩnh hoặc không tĩnh
 ## Ví dụ
-Viết phương thức tổng quát `compare` để so sánh hai đối tương `p1` và `p2`
+Viết phương thức tổng quát `compare` để so sánh hai đối tương `p1` và `p2`. Trong đó, `p1` và `p2` đều thuộc lớp tổng quát `Pair`
