@@ -355,4 +355,8 @@ class ReentrantLockCounter {
 ## `ReadWriteLock` 
 - `ReadWriteLock` consists of a pair of locks - one for read access and one for write access. 
 	- The read lock may be held by multiple threads simultaneously as long as the write lock is not head by any thread
-- `ReadWriteLock` allows for an increased 
+- `ReadWriteLock` allows for an increased level of concurrency
+	- It performs better compared to other locks in application where there are fewer writes than reads
+```Java
+
+```
