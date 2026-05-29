@@ -285,3 +285,10 @@ executorService.shutdown();
 	- Liveness failure (e.g., deadlocks)
 	- Memory Consistency Errors
 ![](../Assets/Pasted%20image%2020260529155550.png)
+![](../Assets/Pasted%20image%2020260529155701.png)
+## Synchronization
+**How do we avoid those problems?** 
+1. Only one thread can read and write a shared variable at a time
+	- When one thread is accessing a shared variable, other threads should wait until the first thread is done
+	- This guarantees that the access to a shared variable is `Atomic`, and that multiple threads do not interfere
+2. Whenever any thread modifies a shared variable, it automatically 
