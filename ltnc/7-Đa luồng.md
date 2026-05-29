@@ -325,3 +325,11 @@ class Counter {
     }
 }
 ```
+## Volatile Keyword
+- `Volatile` keyword is used to avoid memory consistency errors in multithreaded programs
+	- It tells the compiler to avoid doiong any optimizations to the variable
+	- If you makr a variable as `volatile`, the compiler won't optimize or reorder instructions around that variable. 
+## Locks
+- `ReentrantLock` is a mutually exclusive lock with the same behavior as the intrinsic/implicit lock accessed via the synchronized keyword
+	- Thread that currently owns the lock can acquire it more than once without any problem. 
+- The ``
