@@ -81,3 +81,12 @@ d.setMonth(”September”);
 		- nếu không khai báo, hệ thống sẽ gọi phương thức khởi tạo mặc định - phương thức rỗng
 ![](../Assets/Pasted%20image%2020260528103625.png)
 
+## Ví dụ: Phương thức khởi tạo rỗng
+- Phương thức khởi tạo không được khai báo tường minh 
+```Java
+class MyDate {
+}
+
+MyDate date = new MyDate(); 
+```
+## Ví dụ; Phương thức khởi tạo ma

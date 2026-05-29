@@ -396,4 +396,15 @@ public int getCount() {
 	- Managing virtual threads is much cheaper
 ![](../Assets/Pasted%20image%2020260529161859.png)
 ## API is the same!!!
-![](../Assets/Pasted%20image%2020260529161926.png)
+```Java
+Runnable printThread = () -> System.out.println(Thread.currentThread());
+
+ThreadFactory virtualThreadFactory = Thread.builder().virtual().factory();
+ThreadFactory kernelThreadFactory = Thread.builder().factory();
+
+Thread virtualThread = virtualThreadFactory.newThread(printThread);
+Thread kernelThread = kernelThreadFactory.newThread(printThread);
+
+virtualThread.start();
+kernelThread.start();
+```
