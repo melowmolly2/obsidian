@@ -89,4 +89,22 @@ class MyDate {
 
 MyDate date = new MyDate(); 
 ```
-## Ví dụ; Phương thức khởi tạo ma
+## Ví dụ; Phương thức khởi tạo mặc dịnh
+- Phương thức khởi tạo không nhận tham số
+```Java
+class MyDate {
+	private int day,month,year; 
+	public MyDate(){
+		day=1;
+		month=1;
+		year=2014;
+		System.out.println("A new date created"); 
+	}
+}
+...
+MyDate d = new MyDate();
+```
+## Ví dụ: Nhiều phương thức khởi tạo 
+```Java
+
+```
