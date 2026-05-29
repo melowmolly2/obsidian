@@ -303,4 +303,20 @@ public class GenericArrayContructor<T> {
 		- `Pair<String,?>`
 - ![](../Assets/Pasted%20image%2020260529192501.png)
 - `<?>`: chấp nhận tất cả các loại đối số
-- `<? extends type>`
+- `<? extends type>`: chấp nhận đối tượng kế thừa từ type hoặc chính type
+- `<? super type>`: chấp nhận đối tượng là cha của type hoặc chính type
+- Không thể khởi tạo một đối tượng thuộc kiểu đại diện
+	- Kiểu đại diện không phải là một kiểu dữ liệu cụ thể
+	- Không thể sử dụng toán tử new để khởi tạo đối tượng
+- Khai báo hợp lệ
+	```Java
+	Collection<?> coll = new ArrayList<String>();
+
+	// Một tập hợp chỉ chứa kiểu Number hoặc kiểu con của Number
+	List<? extends Number> list = new ArrayList<Long>();
+
+	// Một đối tượng có kiểu tham số đại diện.
+	// (A wildcard parameterized type)
+	Pair<String,?> pair = new Pair<String,Integer>();
+	```
+	
