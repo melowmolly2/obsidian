@@ -319,4 +319,12 @@ public class GenericArrayContructor<T> {
 	// (A wildcard parameterized type)
 	Pair<String,?> pair = new Pair<String,Integer>();
 	```
-	
+- Khai báo không hợp lệ
+	```Java
+	// String không phải là kiểu con của Number, vì vậy lỗi.
+	List<? extends Number> list = new ArrayList<String>();
+
+	// String không phải là kiểu cha của Integer vì vậy lỗi
+	ArrayList<? super String> cmp = new ArrayList<Integer>();
+	```
+## Ví dụ kiểu đại diện
