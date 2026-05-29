@@ -332,4 +332,23 @@ class Counter {
 ## Locks
 - `ReentrantLock` is a mutually exclusive lock with the same behavior as the intrinsic/implicit lock accessed via the synchronized keyword
 	- Thread that currently owns the lock can acquire it more than once without any problem. 
-- The ``
+- The `ReentrantLock` also provides various methods for more fine-grained control
+- the `tryLock()` method tries to acquire the lock without pausing the thread.
+	- If the thread couldn't acquire the lock because it was held by some other thread, then it returns immediately instead of waiting for the lock to be released. 
+```Java
+class ReentrantLockCounter {
+    private final ReentrantLock lock = new ReentrantLock();
+
+    private int count = 0;
+
+    // Thread Safe Increment
+    public void increment() {
+        lock.lock();
+        try {
+            count = count + 1;
+        } finally {
+            lock.unlock();
+        }
+    }
+}
+```
