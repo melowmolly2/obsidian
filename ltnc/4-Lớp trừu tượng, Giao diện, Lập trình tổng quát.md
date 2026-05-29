@@ -405,4 +405,17 @@ public class WildCardExample2 {
 - Ưu điểm 2: Trình biên dịch có thể kiểm tra tính đúng đắn của dữ liệu ngay khi biên dịch, từ đó giảm thiểu các lỗi liên quan đến sử dụng sai kiểu dữ liệu khi thực thi
 - Ưu điểm 3: Hạn chế việc ép kiểu (cast) thủ công không an toàn
 ## Nhược điểm
-- Tham số tổng quát phải là lớp đo
+- Tham số tổng quát phải là lớp đối tượng (không phải kiểu dữ liệu nguyên thủy)
+- Không thể khởi tạo kiểu tổng quát, thay vào đó sử dụng reflection
+- Không thể ép kiểu một đối tượng tổng quát
+- Không thể sử dụng instanceOf cho đối tượng tổng quát
+```Java
+public static <E> void rtti(List<E> list) {
+    if (list instanceof ArrayList<Integer>) { // compile-time error
+        // ...
+    }
+}
+
+List<Integer> li = new ArrayList<Integer>();
+List<Number> ln = (List<Number>) li; // compile-time error
+```
