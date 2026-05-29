@@ -200,3 +200,19 @@ public static void (String[] args) {
 - A `Callable` is similar to `Runnable`, except it can return a result and throw a checked exception
 - `Callable` interface has a single method `call()` to contain the code executed by a thread
 ## Callable examples
+```Java
+Callable<String> callable = new Callable<String>() {  
+	@Override  
+	public String call() throws Exception {  
+		// Perform some computation  
+		Thread.sleep(2000);  
+		return "Return some result";  
+	}  
+};  
+//a lambda expression  
+Callable<String> callable = () -> {  
+	// Perform some computation  
+	Thread.sleep(2000);  
+	return "Return some result";  
+}
+```
