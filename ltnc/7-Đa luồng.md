@@ -216,3 +216,7 @@ Callable<String> callable = () -> {
 	return "Return some result";  
 }
 ```
+## Executing Callable tasks
+- A `Callable` can be submitted to an executor service for execution
+	- What about the `Callable`'s result?
+	- How 
