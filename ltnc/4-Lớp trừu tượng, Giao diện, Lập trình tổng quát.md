@@ -244,5 +244,18 @@ public static void main(String[] args) {
 	Lớp này không thể biên dịch thành công do coos tình khởi tạo một mảng tổng quát
 	```
 	$javac BoxArray.java
-	BoxArray.jav
+	BoxArray.java:2: error: generic array creation
+		private T[] t = new T[5];
+		
+	1 error
 	```
+## Giải pháp
+- Java hỗ trợ cơ chế reflection để khởi tạo: 
+	- đối tượng có kiểu tổng quát
+	- mảng tổng quát
+- Sử dụng phương thức `newInstance()` của lớp Class để tạo một đối tượng từ tên đối tượng
+	- Tên đối tượng được thể hiện dưới dạng xâu
+## Ví dụ khởi tạo đối tượng có kiểu tổng quát
+```Java
+
+```
