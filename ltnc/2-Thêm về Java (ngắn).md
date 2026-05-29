@@ -24,10 +24,10 @@ Java cung cấp các phạm vi truy cập để che giấu thông tin và đóng
 Java phân tách rõ ràng nơi lưu trữ các loại dữ liệu:
 *   **Dữ liệu nguyên thủy (Primitive):** Bao gồm `byte, int, long, float, double, boolean, char`. Chúng không phải là đối tượng và được lưu trữ trực tiếp trên vùng nhớ **Stack** [10-12].
 *   **Tham chiếu đối tượng (Reference):** Bản thân biến tham chiếu được lưu trên **Stack** (hoặc vùng static), nhưng đối tượng thực tế mà nó trỏ tới lại được cấp phát động trên vùng nhớ **Heap** [12].
-*   **Phép gán `=` đối với tham chiếu:** Không sao chép nội dung của đối tượng mà chỉ sao chép địa chỉ tham chiếu, khiến hai biến cùng trỏ về một đối tượng trên Heap [4, 13].
+*   **Phép gán = đối với tham chiếu:** Không sao chép nội dung của đối tượng mà chỉ sao chép địa chỉ tham chiếu, khiến hai biến cùng trỏ về một đối tượng trên Heap [4, 13].
 
 ## 5. So sánh đối tượng và Thu hồi bộ nhớ
-*   **Toán tử `==`**: Dùng để so sánh giá trị của kiểu nguyên thủy. Đối với kiểu tham chiếu, nó chỉ kiểm tra xem hai biến có trỏ đến cùng một đối tượng hay không (so sánh địa chỉ), chứ KHÔNG so sánh nội dung bên trong [14].
+*   **Toán tử == **: Dùng để so sánh giá trị của kiểu nguyên thủy. Đối với kiểu tham chiếu, nó chỉ kiểm tra xem hai biến có trỏ đến cùng một đối tượng hay không (so sánh địa chỉ), chứ KHÔNG so sánh nội dung bên trong [14].
 *   **Phương thức `equals()`**: Để so sánh nội dung của hai đối tượng, lập trình viên cần sử dụng và ghi đè (override) phương thức `equals()` [14, 15].
 *   **Thu hồi bộ nhớ (Garbage Collection - GC):** Máy ảo JVM tự động dọn dẹp và thu hồi các đối tượng trên Heap khi chúng không còn tham chiếu nào trỏ tới (số đếm tham chiếu = 0). Điều này giúp lập trình viên không cần viết lệnh giải phóng bộ nhớ thủ công, tránh lỗi rò rỉ hoặc quên giải phóng tài nguyên [15, 16].
 
@@ -47,4 +47,3 @@ Java phân tách rõ ràng nơi lưu trữ các loại dữ liệu:
 *   **I/O chuẩn:** Khi ứng dụng chạy, JVM tự tạo 3 đối tượng: `System.out` (luồng ra), `System.err` (luồng lỗi), và `System.in` (luồng vào) [27].
 *   **Scanner:** Là lớp tiện ích để lấy dữ liệu từ `System.in`, hỗ trợ đọc kiểu nguyên thủy (`nextInt()`, `nextLong()`) và xâu ký tự (`next()`) [28, 29].
 *   **Tham số dòng lệnh:** Giá trị truyền vào lúc khởi chạy chương trình (ví dụ: `java MyApp hello world`) sẽ được bắt thông qua mảng `String[] args` tại phương thức `main` [30].
-```
