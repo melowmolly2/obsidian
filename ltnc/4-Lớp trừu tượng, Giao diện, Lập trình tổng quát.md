@@ -124,4 +124,11 @@ Pair<String,Integer> p1= new Pair<String,Integer>("Even", 8);
 ```
 ## Thừa kế lớp tổng quát
 - Các cách để thừa kế lớp tổng quát
-- 
+	- Chỉ định rõ rằng kiểu tổng quát của lớp tổng quát
+		- Ví dụ: Xác định K là `String`, V là `Integer` khi định nghãi lớp `ContactEntry`
+		```Java
+	public class ContactEntry extends Pair <String, Integer>
+		  ```
+	- Chỉ định rõ một phần trong các kiểu tổng quát
+		- Ví dụ: Xác định K là `String` khi định nghĩa lớp `ContactEntry`
+		- `public `
