@@ -98,5 +98,15 @@ public class CheckoutService {
 - S, U, V, v..v: kiểu thứ 2, thứ 3, thứ 4, v.v
 ## Ví dụ
 - Ví dụ 1: Tạo một lớp tổng quát `Box`, lớp này có một kiểu tổng quát `T`
+	```Java
+	public class Box<T> {
+		private T t;
+		public void set{T t} {this.t=t;}
+		public T get() {return t;}
+	}
 	```
+- Khai báo và khởi tạo một đối tượng thuộc lớp tổng quát `Box`, trong đó kiểu tổng quát `T` là lớp `Integer`
+	```Java
+	Box<Integer> integerBox = new Box<Integer>(); 
 	```
+- Ví dụ 2: Tạo lớp tổng quát `Pair` lưu `key` và `value`
