@@ -328,3 +328,69 @@ public class GenericArrayContructor<T> {
 	ArrayList<? super String> cmp = new ArrayList<Integer>();
 	```
 ## Ví dụ kiểu đại diện
+```Java
+public class WildCardExample1 {
+
+    public static void main(String[] args) {
+
+        // Một danh sách chứa các phần tử kiểu String.
+        ArrayList<String> listString = new ArrayList<String>();
+
+        listString.add("Tom");
+        listString.add("Jerry");
+
+        // Một danh sách chứa các phần tử kiểu Integer
+        ArrayList<Integer> listInteger = new ArrayList<Integer>();
+
+        listInteger.add(100);
+
+        // Bạn không thể khai báo:
+        // ArrayList<Object> list1 = listString; // ==> Error!
+
+        // Một đối tượng kiểu tham số đại diện.
+        // (wildcard parameterized object).
+        ArrayList<? extends Object> list2;
+
+        // Bạn có thể khai báo:
+        list2 = listString;
+
+        // Hoặc
+        list2 = listInteger;
+
+    }
+
+}
+```
+```Java
+public class WildCardExample2 {
+
+    public static void main(String[] args) {
+
+        List<String> names = new ArrayList<String>();
+        names.add("Tom");
+        names.add("Jerry");
+        names.add("Donald");
+
+        List<Integer> values = new ArrayList<Integer>();
+        values.add(100);
+        values.add(120);
+
+        System.out.println("--- Names --");
+        printElement(names);
+
+        System.out.println("-- Values --");
+        printElement(values);
+
+    }
+
+    public static void printElement(List<?> list) {
+        for (Object e : list) {
+            System.out.println(e);
+        }
+    }
+
+}
+```
+# Ưu, nhược điểm của lập trình tổng quát
+## Ưu điểm
+- Giảm thiểu chi phí kiểm thử và bảo trì mã nguồn do không cần viết nhiều chương trình có thuật toán giống nhau cho các kiểu dữ l
