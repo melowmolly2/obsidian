@@ -261,3 +261,8 @@ System.out.println(result);
 
 executorService.shutdown();
 ```
+## Cancelling a Future 
+- Cancelling a future by using `Future.cancel()` method
+- The `cancel()` method accepts `mayInterruptIfRunning` 
+	- `True`: the thread that is currently executing the task will be interrupted. 
+	- `False`: in-prog
