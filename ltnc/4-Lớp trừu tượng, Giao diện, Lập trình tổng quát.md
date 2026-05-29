@@ -176,4 +176,13 @@ public class ContactEntry<V> extends Pair <String, V>{...}
 	```
 	, trong đó:
 	- `T1, T2, ... , Tn` là các kiểu tổng quát
-	- Kí hiệu `<>` được sử dụng để bọc lấy các kiểu tổng 
+	- Kí hiệu `<>` được sử dụng để bọc lấy các kiểu tổng quát
+	- `return_type` là kiểu trả về của phương thức tổng quát
+	- `name_func` là tên của phương thức tổng quát
+## Tạo phương thức tổng quát
+- Phương thức tổng quát có các đặc điểm sau:
+	- Sử dụng ít nhất một kiểu tổng quát
+	- Có thể nằm trong lớp/giao diện tổng quát hoặc không
+	- Có thể là phương thức tĩnh hoặc không tĩnh
+## Ví dụ
+Viết phương thức tổng quát `compare` để so sánh hai đối tương `p1` và `p2`. Trong đó, `p1` 
