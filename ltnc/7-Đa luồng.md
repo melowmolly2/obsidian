@@ -265,4 +265,11 @@ executorService.shutdown();
 - Cancelling a future by using `Future.cancel()` method
 - The `cancel()` method accepts `mayInterruptIfRunning` 
 	- `True`: the thread that is currently executing the task will be interrupted. 
-	- `False`: in-prog
+	- `False`: in-progress tasks will be allowed to complete
+- `isCancelled():` check if a task is canceled or not
+- After the cancellation of the task, `isDone()` will always be true. 
+## `invokeAll` & `invokeAny` 
+**Submit multiple tasks and wait for them all to complete
+- Executing multiple tasks by passing a collection of `Callables` to the `invokeAll()` method
+	- `invokeAll()` returns a list of `Futures` 
+	- Any call to `future.get()` will be blocked until all the `Futures` are comple
