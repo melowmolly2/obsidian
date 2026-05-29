@@ -172,4 +172,14 @@ thread2.start();
 - `Executor` - A simple interface that contains a method called `execute()` to launch a task specified by a `Runnable` object
 - `ExecutorService` - A sub-interface of `Executor` that adds functionality to manage the lifecycle of the tasks. It also provides a `submit()` method whose overloaded versions can accept a `Runnable` and a `Callable` (discussed later). 
 - `ScheduledExecutorService` - A sub-interface of `ExecutorService`. It adds functionality to schedule the execution of the tasks. 
-- 
+## ExecutorService example
+```Java
+public stati void (String[] args) {
+	System.out.println("Inside : "+Thread.currentThread.getName()); 
+	
+	ExecutorService executorService = Executors.newSingleThreadExecutor();
+	Runnable runnable = () -> {
+		
+	}
+}
+```
