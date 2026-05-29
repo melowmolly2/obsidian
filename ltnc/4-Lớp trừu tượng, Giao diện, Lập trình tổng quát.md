@@ -150,4 +150,16 @@ public class ContactEntry<V> extends Pair <String, V>{...}
 	/* ... */
 	}
 	```
-	
+	, trong đó:
+	- `T1, T2, ..., Tn` là các kiểu tổng quát
+	- Kí hiệu `<>` được sử dụng để bọc lấy các kiểu tổng quát
+- Implement một giao diện tổng quát tương tự như thừa kế một lớp tổng quát
+## Ví dụ
+- Tạo một interface `GenericDao` có kiểu tổng quát `T`
+	```Java
+	public interface GenericDao<T> {
+		void insert(T obj);
+		void update(T obj); 
+	}
+	```
+- Một class cài đặt từ giao d
