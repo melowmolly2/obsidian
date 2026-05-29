@@ -272,4 +272,13 @@ executorService.shutdown();
 **Submit multiple tasks and wait for them all to complete
 - Executing multiple tasks by passing a collection of `Callables` to the `invokeAll()` method
 	- `invokeAll()` returns a list of `Futures` 
-	- Any call to `future.get()` will be blocked until all the `Futures` are comple
+	- Any call to `future.get()` will be blocked until all the `Futures` are complete. 
+***Submit multiple tasks and wait for any one of them to complete*** 
+- The `invokeAny()` method accepts a collection of `Callables` and returns the result of the fastest `Callable`. 
+# Synchronization
+## Issues with concurrency
+- Threads have their call stack but can also accdess shared data
+- **Access problem**: if several threads access and change the same shared data at the same time
+	- Safety failure (inconsistent data)
+	- Thread interference Errors (Race conditions)
+	- 
