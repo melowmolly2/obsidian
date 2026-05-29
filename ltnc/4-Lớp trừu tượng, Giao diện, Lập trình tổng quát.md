@@ -257,5 +257,39 @@ public static void main(String[] args) {
 	- Tên đối tượng được thể hiện dưới dạng xâu
 ## Ví dụ khởi tạo đối tượng có kiểu tổng quát
 ```Java
+public class GenericInstance<T> {
+    //Khai báo biến obj kiểu T
+    private T obj;
 
+    //Sử dụng đối tượng Class<T>, khai báo biến aClazz
+    public GenericInstance(Class<T> aClazz) 
+            throws InstantiationException, IllegalAccessException {
+        //Tạo đối tượng thông qua hàm newInstance()
+        this.obj = (T) aClazz.newInstance();
+    }
+
+    public T getObj() {
+        return obj;
+    }
+}
 ```
+## Ví dụ khởi tạo mảng tổng quát 
+```Java
+public class GenericArrayContructor<T> {
+    private final int size = 10;
+    private Class<T> aClazz;
+
+    private T[] myArray;
+
+    public GenericArrayContructor(Class<T> aClazz) {
+        this.aClazz = aClazz;
+        myArray = (T[]) Array.newInstance(aClazz, size);
+    }
+
+    public T[] getMyArray() {
+        return this.myArray;
+    }
+}
+```
+
+# Các ký tự đại diện
