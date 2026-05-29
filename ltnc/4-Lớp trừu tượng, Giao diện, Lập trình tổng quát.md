@@ -220,4 +220,18 @@ public static void main(String[] args) {
 	private T t = new T(); // lỗi
 	}
 	```
-	Lớp này không thể biên dịch thành công do cố tình khởi tạo một đối tượng có kiểu to
+	Lớp này không thể biên dịch thành công do cố tình khởi tạo một đối tượng có kiểu tổng quát `T`. 
+	```
+	$ javac Box.java
+	Box.java:2: error: unexpected type
+	    private T t = new T();
+	                      ^
+	  required: class
+	  found:    type parameter T
+	  where T is a type-variable:
+	    T extends Object declared in class Box
+	1 error
+	```
+## Vấn đề khi khởi tạo mảng tổng quát
+
+	
