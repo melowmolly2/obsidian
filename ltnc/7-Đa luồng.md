@@ -191,3 +191,10 @@ public static void (String[] args) {
 ## ExecutorService example with multiple threads and task
 ![](../Assets/Pasted%20image%2020260529081554.png)
 ## Thread Pool
+![](../Assets/Pasted%20image%2020260529081624.png)
+
+## Callable 
+- `Runnable` object to define the tasks that are executed inside a thread
+- -> What if you want to return a result from your tasks?
+- -> Java provides a `Callable` interface
+- A `Callable` is similar to `Runnable`, except it can return a resul
