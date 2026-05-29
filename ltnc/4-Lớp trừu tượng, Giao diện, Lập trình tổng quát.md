@@ -399,4 +399,10 @@ public class WildCardExample2 {
 		- Thu được hai phương thức giống hệ nhau về thuật toán nhưng khác nhau về kiểu dữ liệu
 		- Tốn them chi phí kiểm thử và bảo trì
 	- Cách 2 (lập trình tổng quát): Nhận thấy thuật toán sắp xếp chèn cho `arr1` và `arr2` là giống hệt nhau
-		- Do đó, thay vì vi
+		- Do đó, thay vì viết hai phương thức giống hệt nhau về thuật toán nhưng khác nhau về kiểu dữ liệu, chỉ cần viết một phương thức tổng quát để định nghĩa thuật toán sắp xếp chèn
+		- Khi sử dụng thuật toán sắp xếp chèn, kiểu tổng quát sẽ được định nghĩa tường minh
+		- Chỉ cần kiểm thử và bảo trì một phương thức tổng quát là đủ
+- Ưu điểm 2: Trình biên dịch có thể kiểm tra tính đúng đắn của dữ liệu ngay khi biên dịch, từ đó giảm thiểu các lỗi liên quan đến sử dụng sai kiểu dữ liệu khi thực thi
+- Ưu điểm 3: Hạn chế việc ép kiểu (cast) thủ công không an toàn
+## Nhược điểm
+- Tham số tổng quát phải là lớp đo
