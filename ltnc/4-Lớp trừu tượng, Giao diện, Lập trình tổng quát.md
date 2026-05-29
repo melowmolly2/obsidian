@@ -41,4 +41,6 @@
 	```
 ## Các giao diện kế thừa
 ![](../Assets/Pasted%20image%2020260529175024.png)
-## Giao diện khai báo như 
+## Giao diện khai báo như 1 kiểu dữ liệu 
+![](../Assets/Pasted%20image%2020260529175132.png)
+## Interface - "Hợp đồng lập trình" 
