@@ -291,4 +291,9 @@ executorService.shutdown();
 1. Only one thread can read and write a shared variable at a time
 	- When one thread is accessing a shared variable, other threads should wait until the first thread is done
 	- This guarantees that the access to a shared variable is `Atomic`, and that multiple threads do not interfere
-2. Whenever any thread modifies a shared variable, it automatically 
+2. Whenever any thread modifies a shared variable, it automatically establishes a happens-before relationship with subsequent reads and writes of the shared variable by other threads
+	 - This gurantees that changes done by one thread are visible to others. 
+**Synchronized Methods**
+- The `synchronized` keyword makes sure that only one thread can enter the sync methods at one time
+**Synchronized Blocks**
+- Java internally uses a so-called *intrinsic lock* or *monitor lock*
