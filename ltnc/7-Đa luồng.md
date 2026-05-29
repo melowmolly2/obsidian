@@ -224,5 +224,26 @@ Callable<String> callable = () -> {
 - Future can be used to fetch the result of the task when it is available
 ## Future & Callable Example
 ```Java
+ExecutorService executorService = Executors.newSingleThreadExecutor();
+
+Callable<String> callable = () -> {
+    System.out.println("Entered Callable");
+    Thread.sleep(2000);
+    return "Hello from Callable";
+};
+
+Future<String> future = executorService.submit(callable);
+
+// This line executes immediately
+// Do something else while callable is getting executed
+// Retrieve the result of the future
+
+// Blocks until the result is available
+String result = future.get();
+System.out.println(result);
+
+executorService.shutdown();
+```
+```Java
 
 ```
