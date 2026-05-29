@@ -135,7 +135,19 @@ public class ContactEntry extends Pair <String, Integer>{...}
 public class ContactEntry<V> extends Pair <String, V>{...} 
 		```
 	- Giữ nguyên tất cả các kiểu tổng quát
-```Java
+	```Java
 	public class ContactEntry<K,V> extends Pair <K,V>{...}
-```
-	-
+	```
+	- Thêm tham số tổng quát
+	```Java
+	public class ContactEntry<K,V,T> extends Pair <K,V>{...}
+	```
+# Giao diện tổng quát
+## Cấu trúc
+- Tương tự như lớp tổng quát, giao diện tổng quát được viết với cấu trúc như sau:
+	```Java
+	interface name<T1, T2, ... ,Tn>{
+	/* ... */
+	}
+	```
+	
