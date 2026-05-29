@@ -74,4 +74,16 @@ public class CheckoutService {
 - Lập trình tổng quát (generic programming) là một dạng lập trình máy tính trong đó:
 	- Khi định nghĩa lớp/giao diện/phương thức, kiểu dữ liệu không cần xác định tường minh
 	- Khi sử dụng lớp/giao diện/phương thức, những kiểu dữ liệu không tường minh sẽ phải xác định rõ kiểu
-	- 
+- Để cho đơn giản
+	- Lớp/giao diện/phương thức được lập trình tổng quát gọi tắt là lớp/giao diện/phương thức tổng quát
+- Java hỗ trợ 3 loại tổng quát
+	- Lớp tổng quát (generic class)
+	- Giao diện tổng quát (generic interface)
+	- Phương thức tổng quát (generic method)
+# Lớp tổng quát
+## Cấu trúc
+- Lớp tổng quát được viết với cấu trúc như sau:
+	```Java
+	class name<T1, T2, ..., Tn> {/* ... */}
+	```
+	-
