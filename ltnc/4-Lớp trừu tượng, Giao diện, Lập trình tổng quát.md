@@ -292,4 +292,15 @@ public class GenericArrayContructor<T> {
 }
 ```
 
-# Các ký tự đại diện
+# Các ký tự đại diện (Wildcard)
+## Ký tự đại diện (Wildcard)
+- Ký tự (?): đại diện cho một loại (type) chưa xác định
+- Kiểu tham số đại diện (wildcard parameterized type)
+	- Ít nhất một kiểu tham số là wildcard
+		- `Collection<?>`
+		- `List<? extends Number>` 
+		- `Comparator<? super String>
+		- `Pair<String,?>`
+- ![](../Assets/Pasted%20image%2020260529192501.png)
+- `<?>`: chấp nhận tất cả các loại đối số
+- `<? extends type>`
