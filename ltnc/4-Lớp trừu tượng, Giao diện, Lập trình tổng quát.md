@@ -28,4 +28,17 @@
 ![](../Assets/Pasted%20image%2020260529174807.png)
 ## Giao diện - `interface`
 - `interface` là mức trừu tượng cao
-- `interface`
+- `interface` bao gồm:
+	- Phương thức trừu tượng - abstract method
+	- Hằng số: mặc định là `public static final`
+	- Mặc định là `public` 
+- Từ khóa ; `interface` và `implements`
+	```Java
+	interface Config {
+		int MAX_CONN = 20;
+		void display(); //it will be public
+	}
+	```
+## Các giao diện kế thừa
+![](../Assets/Pasted%20image%2020260529175024.png)
+## Giao diện khai báo như 
