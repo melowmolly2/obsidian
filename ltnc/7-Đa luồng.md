@@ -197,4 +197,6 @@ public static void (String[] args) {
 - `Runnable` object to define the tasks that are executed inside a thread
 - -> What if you want to return a result from your tasks?
 - -> Java provides a `Callable` interface
-- A `Callable` is similar to `Runnable`, except it can return a resul
+- A `Callable` is similar to `Runnable`, except it can return a result and throw a checked exception
+- `Callable` interface has a single method `call()` to contain the code executed by a thread
+## Callable examples
