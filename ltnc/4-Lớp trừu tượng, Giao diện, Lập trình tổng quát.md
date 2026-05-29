@@ -222,7 +222,7 @@ public static void main(String[] args) {
 	```
 	Lớp này không thể biên dịch thành công do cố tình khởi tạo một đối tượng có kiểu tổng quát `T`. 
 	```
-	$ javac Box.java
+	$javac Box.java
 	Box.java:2: error: unexpected type
 	    private T t = new T();
 	                      ^
@@ -233,5 +233,16 @@ public static void main(String[] args) {
 	1 error
 	```
 ## Vấn đề khi khởi tạo mảng tổng quát
-
-	
+- Không thể tạo trực tiếp mảng tổng quát bằng cách dùng từ khóa `new`
+- Trình biên dịch của Java cần biết rõ kiểu tổng quát `T` của các phần từ mảng là cái gì mới có thể biên dịch
+- Ví dụ: Xét lớp tổng quát `BoxArray`
+	```Java
+	public class BoxArray<T> {
+		private T[] t = new T[5]; 
+	} // lỗi
+	```
+	Lớp này không thể biên dịch thành công do coos tình khởi tạo một mảng tổng quát
+	```
+	$javac BoxArray.java
+	BoxArray.jav
+	```
