@@ -167,4 +167,6 @@ thread2.start();
 - **Thread Creation**: Methods for creating threads, a pool of threads, the application can use to run tasks concurrently. 
 - **Thread Management: Managing the life cycle of the threads in the thread pool. 
 	- You don't need to worry about whether the threads in the thread pool are active or busy or dead before submitting a task for execution
-- **Task submission and execution**: Methods for submitting tasks for execution and
+- **Task submission and execution**: Methods for submitting tasks for execution in the thread pool and deciding when the tasks will be executed
+## Java executor interfaces
+- Executor: 
