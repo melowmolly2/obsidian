@@ -183,6 +183,8 @@ public static void (String[] args) {
 	};
 	
 	System.out.println("Submit the task specified by the runnable.");
-	executorService.sub
+	executorService.submit(runnable);
+	executorService.shutdown();
 }
 ```
+![](../Assets/Pasted%20image%2020260529074521.png)
