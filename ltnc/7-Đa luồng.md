@@ -281,4 +281,7 @@ executorService.shutdown();
 - **Access problem**: if several threads access and change the same shared data at the same time
 	- Safety failure (inconsistent data)
 	- Thread interference Errors (Race conditions)
-	- 
+- **Visibility problem:** if thread A reads shared data, which is later changed by thread B and thread A is unaware of this change 
+	- Liveness failure (e.g., deadlocks)
+	- Memory Consistency Errors
+![](../Assets/Pasted%20image%2020260529155550.png)
