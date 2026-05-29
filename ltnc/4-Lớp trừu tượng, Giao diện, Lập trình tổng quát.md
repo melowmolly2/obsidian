@@ -109,4 +109,19 @@ public class CheckoutService {
 	```Java
 	Box<Integer> integerBox = new Box<Integer>(); 
 	```
-- Ví dụ 2: Tạo lớp tổng quát `Pair` lưu `key` và `value`
+- Ví dụ 2: Tạo lớp tổng quát `Pair` lưu `key` và `value`, trong đó `key` và `value` là hai kiểu tổng quát
+	```Java
+	public class Pair<K,V> {
+		private K key;
+		private V value; 
+		public void setKey(K key){this.key=key;}
+		public K getKey(){return key;}
+	}
+	```
+- Khai báo và khởi tạo trong đó `Key` có kiểu `String,value` có kiểu `Integer` 
+```Java
+Pair<String,Integer> p1= new Pair<String,Integer>("Even", 8);
+```
+## Thừa kế lớp tổng quát
+- Các cách để thừa kế lớp tổng quát
+- 
