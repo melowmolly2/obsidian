@@ -380,4 +380,12 @@ public int getCount() {
     }
 }
 ```
-# 
+# Java Virtual Thread
+## Java (normal) Thread
+- To create a new kernel thread, we must do a system call, and that's a costly operation
+	- $\rightarrow$ Using thread pools instead of reallocating and deallocating threads as needed
+- Scaling up application by adding more threads
+	- $\rightarrow$ Context switching + Memory footprint
+	- $\rightarrow$ Cost of thread maintaining may be significant and affect the processing time 
+## Java Virtual Thread
+- Virtual threads are managed by the 
