@@ -106,5 +106,22 @@ MyDate d = new MyDate();
 ```
 ## Ví dụ: Nhiều phương thức khởi tạo 
 ```Java
-
+class MyDate {
+    private int day, month, year;
+    
+    public MyDate() {
+        day=1; month=1; year=2014;
+        System.out.println("A new date created");
+    }
+    
+    public MyDate(int d, int m, int y) {
+        day=d;
+        month=m;
+        year=y;
+    }
+}
+...
+MyDate d1 = new MyDate();
+MyDate d2 = new MyDate(19, 9, 2014);
 ```
+## Ví dụ: Khi không có phương thức khởi tạo mặc định
