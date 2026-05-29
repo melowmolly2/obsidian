@@ -296,4 +296,32 @@ executorService.shutdown();
 **Synchronized Methods**
 - The `synchronized` keyword makes sure that only one thread can enter the sync methods at one time
 **Synchronized Blocks**
-- Java internally uses a so-called *intrinsic lock* or *monitor lock*
+- Java internally uses a so-called *intrinsic lock* or *monitor lock* to manage thread synchronization. Every object has an intrinsiclock associated to it. 
+
+```Java
+ExecutorService executorService = Executors.newFixedThreadPool(10);
+
+Counter counter = new Counter();
+
+for (int i = 0; i < 1000; i++) {
+    executorService.submit(() -> counter.increment());
+}
+
+executorService.shutdown();
+executorService.awaitTermination(60, TimeUnit.SECONDS);
+
+System.out.println("Final count is : " + counter.getCount());
+```
+```Java
+class Counter {
+    int count = 0;
+
+    public synchronized void increment() {
+        count = count + 1;
+    }
+
+    public int getCount() {
+        return count;
+    }
+}
+```
