@@ -219,4 +219,10 @@ Callable<String> callable = () -> {
 ## Executing Callable tasks
 - A `Callable` can be submitted to an executor service for execution
 	- What about the `Callable`'s result?
-	- How 
+	- How do you access it?
+	- When the result of the submitted task will be available
+- Future can be used to fetch the result of the task when it is available
+## Future & Callable Example
+```Java
+
+```
