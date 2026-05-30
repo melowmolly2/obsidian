@@ -56,4 +56,11 @@ public class Account implements Serializable {
 - Để một lớp có thể tuần tự hóa, tất cả các thuộc tính trong lớp đó đều phải có thể tuần tự hóa
 - Tất cả dữ liệu nguyên thủy đều có thể tuần tự hóa
 - Nhiều kiểu dữ liệu mặc định có thể tuần tự hóa như: `ArrayList, HashMap, String, `etc
-- 
+## Transient fields
+- Là thuộc tính tạm thời, sẽ không được tuần tự hóa
+	`private transient type name`
+- Example: 
+	```Java
+	private transient String log;
+	```
+	
