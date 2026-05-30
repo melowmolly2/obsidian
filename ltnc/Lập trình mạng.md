@@ -35,5 +35,18 @@ Socket socket = new Socket("127.0.0.1", 5000);
 ```
 ## Thiết lập luồng (tại Client)
 ```Java
+// Luồng đọc dữ liệu từ Server  
+BufferedReader networkIn = new BufferedReader(new InputStreamReader(socket.getInputStream()));  
+// Luồng gửi dữ liệu lên Server  
+PrintWriter networkOut = new PrintWriter(socket.getOutputStream(), true);  
+// Luồng đọc từ bàn phím người dùng  
+BufferedReader userIn = new BufferedReader(new InputStreamReader(System.in));
+```
+## Vòng lặp chính (tại Client)
+```Java
+String userInput;  
 
+while ((userInput = userIn.readLine()) != null) {   networkOut.println(userInput); // Gửi đi  
+System.out.println(networkIn.readLine()); // Đọc phản hồi  
+}
 ```
