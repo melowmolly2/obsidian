@@ -48,4 +48,12 @@ public class Account implements Serializable {
 }
 ```
 ## serialVersionUID
-- Thuộc tính `serialVersionUID` đảm bảo dữ liệu đọc vào và lớp nhận đồng nhất phiên bản và c
+- Thuộc tính `serialVersionUID` đảm bảo dữ liệu đọc vào và lớp nhận đồng nhất phiên bản và cấu trúc
+- Trình biên dịch có thể tự tính toán `serialVersion UID` nếu nó không được khai báo tường minh
+- Quá trình deserialization có thể ném ngoại lệ `InvalidClassException` nếu hai phiên bản không tương đồng
+- ![](../Assets/Pasted%20image%2020260530103741.png)
+## Serializable fields 
+- Để một lớp có thể tuần tự hóa, tất cả các thuộc tính trong lớp đó đều phải có thể tuần tự hóa
+- Tất cả dữ liệu nguyên thủy đều có thể tuần tự hóa
+- Nhiều kiểu dữ liệu mặc định có thể tuần tự hóa như: `ArrayList, HashMap, String, `etc
+- 
