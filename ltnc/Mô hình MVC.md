@@ -13,4 +13,14 @@
 	- Các lớp liên quan đến dữ liệu
 	- Phần logic tương tác đến lưu trữ dữ liệu
 - View: 
-	- 
+	- Hiển thị giao diện đến người dùng
+	- Xử lý việc hiển thị dữ liệu
+- Controller: 
+	- Xử lý các tương tác với View và Model
+## Ví dụ: MVC
+![](../Assets/Pasted%20image%2020260530103102.png)
+![](../Assets/Pasted%20image%2020260530103120.png)
+
+# Serialization và lưu trữ dữ liệu \[Model\] 
+## Làm sao để lưu trữ dữ liệu?
+Chuyển đổi dữ liệu dạng text đ
