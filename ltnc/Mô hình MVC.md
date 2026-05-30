@@ -34,4 +34,18 @@ Lợi ích:
 - Đối tượng có thể được ghi vào file, truyền qua mạng network hoặc database, v.v.
 - Dễ dàng import ngược lại
 - Giảm thiểu sai sót khi chuyển đổi dữ liệu sang dạng văn bản
-- 
+![](../Assets/Pasted%20image%2020260530103444.png)
+## Các ứng dụng của Serialization
+- Truyền dữ liệu qua mạng
+- Lưu trữ trạng thái đối tượng
+- Chia sẻ dữ liệu qua các ứng dụng khác nhau
+- RMI (Remote Method Invocation)
+## Triển khai
+Lớp cần phải được implement interface `java.io.Serializable`. 
+```Java
+public class Account implements Serializable {
+...
+}
+```
+## serialVersionUID
+- Thuộc tính `serialVersionUID` đảm bảo dữ liệu đọc vào và lớp nhận đồng nhất phiên bản và c
