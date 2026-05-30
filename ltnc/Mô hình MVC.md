@@ -23,4 +23,15 @@
 
 # Serialization và lưu trữ dữ liệu \[Model\] 
 ## Làm sao để lưu trữ dữ liệu?
-Chuyển đổi dữ liệu dạng text đ
+Chuyển đổi dữ liệu dạng text để lưu trữ vào file
+![](../Assets/Pasted%20image%2020260530103249.png)
+![](../Assets/Pasted%20image%2020260530103301.png)
+## Serialization (tuần tự hóa)
+Serialization đơn giản là quá trình chuyển đổi đối tượng Java thành dạng dữ liệu có thể truyền hoặc lưu trữ
+![](../Assets/Pasted%20image%2020260530103341.png)
+Lợi ích:
+- Đọc và ghi một đối tượng thông qua I/O streams
+- Đối tượng có thể được ghi vào file, truyền qua mạng network hoặc database, v.v.
+- Dễ dàng import ngược lại
+- Giảm thiểu sai sót khi chuyển đổi dữ liệu sang dạng văn bản
+- 
