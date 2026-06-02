@@ -23,3 +23,9 @@ Why isn’t that enough to demonstrate that today’s result isn’t totally une
 - Legislative history should only be used to clarify ambiguous language, not to create ambiguity where none exists
 - An unexpected application of a law simply demonstrates the broad scope of the legislature's command, rather than proving the text itself is ambiguous. 
 ## The Limits of Historical Context
+- Historical context can be useful to determine if a specific word (like "vehicle" or "contract" meant something completely different to people at the time the law was written.
+- However, the employers in this case are not arguing that the definitions of Title VII's words have changed since 1964. 
+- Instead, they agree on what the words mean but are asking the Court to ignore the plain text simply because the end result is unexpected. 
+## Rejecting "Expected Applications"
+- The Court strongly rejects the idea of abandoning plain statutory text in favor of what legislators might have "expected" the law to do. 
+- To simply point out an unexpected result, defer to Congress, and r
