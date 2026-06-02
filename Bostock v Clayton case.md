@@ -28,4 +28,7 @@ Why isn’t that enough to demonstrate that today’s result isn’t totally une
 - Instead, they agree on what the words mean but are asking the Court to ignore the plain text simply because the end result is unexpected. 
 ## Rejecting "Expected Applications"
 - The Court strongly rejects the idea of abandoning plain statutory text in favor of what legislators might have "expected" the law to do. 
-- To simply point out an unexpected result, defer to Congress, and r
+- To simply point out an unexpected result, defer to Congress, and refuse to enforce the law's plain terms is a line of reasoning the Court has long rejected.
+- Displacing the plain meaning of the law to satisfy "expected applications" or "legislative intent" is impermissible. 
+## The Practical Flaws of Relying on Expectations
+- The Court questions the employers' premise that *no one* saw this comeing, noting that gay and transgender employees began filing Title VII complaints 
