@@ -18,3 +18,8 @@ language—which was strikingly similar to Title VII’s— might also protect h
 
 Why isn’t that enough to demonstrate that today’s result isn’t totally unexpected? How many people have to foresee the application for it to qualify as “expected”? Do we look only at the moment the statute was enacted, or do we allow some time for the implications of a new statute to be worked out? Should we consider the expectations of those who had no reason to give a particular application any thought or only those with reason to think about the question? How do we account for those who change their minds over time, after learning new facts or hearing a new argument? How specifically or generally should we frame the “application” at issue? None of these questions have obvious answers, and the employers don’t propose any.  
 
+## The Primacy of Plain Text
+- The Court emphasizes that when the text of a statute is plain and ambiguous, the judicial inquiry is finished
+- Legislative history should only be used to clarify ambiguous language, not to create ambiguity where none exists
+- An unexpected application of a law simply demonstrates the broad scope of the legislature's command, rather than proving the text itself is ambiguous. 
+## The Limits of Historical Context
