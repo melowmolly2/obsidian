@@ -1,23 +1,6 @@
-Ultimately, the employers are forced to abandon the statutory text and precedent altogether and appeal to assumptions and policy. Most pointedly, they contend that few in  
-1964 would have expected Title VII to apply to discrimination against homosexual and transgender persons. And  
-whatever the text and our precedent indicate, they say,  
-shouldn’t this fact cause us to pause before recognizing liability?  
-It might be tempting to reject this argument out of hand.
-This Court has explained many times over many years that,  
-when the meaning of the statute’s terms is plain, our job is  
-at an end. The people are entitled to rely on the law as  
-written, without fearing that courts might disregard its  
-plain terms based on some extratextual consideration. See,  
-e.g., Carcieri v. Salazar, 555 U. S. 379, 387 (2009); Connecticut Nat. Bank v. Germain, 503 U. S. 249, 253–254 (1992);  
-Rubin v. United States, 449 U. S. 424, 430 (1981). Of  
-course, some Members of this Court have consulted legislative history when interpreting ambiguous statutory language. Cf. post, at 40 (ALITO, J., dissenting). But that has  
-no bearing here. “Legislative history, for those who take it  
-into account, is meant to clear up ambiguity, not create it.”  
-Milner v. Department of Navy, 562 U. S. 562, 574 (2011).  
-And as we have seen, no ambiguity exists about how Title  
-VII’s terms apply to the facts before us. To be sure, the  
-statute’s application in these cases reaches “beyond the  
-principal evil” legislators may have intended or expected to  
+Ultimately, the employers are forced to abandon the statutory text and precedent altogether and appeal to assumptions and policy. Most pointedly, they contend that few in 1964 would have expected Title VII to apply to discrimination against homosexual and transgender persons. And whatever the text and our precedent indicate, they say, shouldn’t this fact cause us to pause before recognizing liability?  
+It might be tempting to reject this argument out of hand. This Court has explained many times over many years that, when the meaning of the statute’s terms is plain, our job is at an end. The people are entitled to rely on the law as  
+written, without fearing that courts might disregard its plain terms based on some extratextual consideration. See, e.g., Carcieri v. Salazar, 555 U. S. 379, 387 (2009); Connecticut Nat. Bank v. Germain, 503 U. S. 249, 253–254 (1992); Rubin v. United States, 449 U. S. 424, 430 (1981). Of course, some Members of this Court have consulted legislative history when interpreting ambiguous statutory language. Cf. post, at 40 (ALITO, J., dissenting). But that has no bearing here. “Legislative history, for those who take it into account, is meant to clear up ambiguity, not create it.” Milner v. Department of Navy, 562 U. S. 562, 574 (2011). And as we have seen, no ambiguity exists about how Title VII’s terms apply to the facts before us. To be sure, the statute’s application in these cases reaches “beyond the principal evil” legislators may have intended or expected to  
 address. Oncale, 523 U. S., at 79. But “‘the fact that \[a  
 statute\] has been applied in situations not expressly anticipated by Congress’” does not demonstrate ambiguity; instead, it simply “‘demonstrates \[the\] breadth’” of a legislative command. Sedima, S. P. R. L. v. Imrex Co., 473 U. S.  
 479, 499 (1985). And “it is ultimately the provisions of ”  
@@ -55,4 +38,43 @@ since 1964 or that the statute’s terms, whether viewed individually or as a wh
 we have missed. To the contrary, as we have seen, the employers agree with our understanding of all the statutory  
 language—“discriminate against any individual . . . because of such individual’s . . . sex.” Nor do the competing  
 dissents offer an alternative account about what these  
-terms mean either when viewed individually or in the ag
+terms mean either when viewed individually or in the aggregate. Rather than suggesting that the statutory language bears some other meaning, the employers and dissents merely suggest that, because few in 1964 expected today’s result, we should not dare to admit that it follows  
+ineluctably from the statutory text. When a new application emerges that is both unexpected and important, they  
+would seemingly have us merely point out the question, refer the subject back to Congress, and decline to enforce the  
+plain terms of the law in the meantime.  
+That is exactly the sort of reasoning this Court has long  
+rejected. Admittedly, the employers take pains to couch  
+their argument in terms of seeking to honor the statute’s  
+“expected applications” rather than vindicate its “legislative intent.” But the concepts are closely related. One could  
+easily contend that legislators only intended expected applications or that a statute’s purpose is limited to achieving  
+applications foreseen at the time of enactment. However  
+framed, the employer’s logic impermissibly seeks to displace the plain meaning of the law in favor of something  
+lying beyond it.  
+If anything, the employers’ new framing may only add  
+new problems. The employers assert that “no one” in 1964  
+or for some time after would have anticipated today’s result.  
+But is that really true? Not long after the law’s passage,  
+gay and transgender employees began filing Title VII complaints, so at least some people foresaw this potential application. See, e.g., Smith v. Liberty Mut. Ins. Co., 395 F.  
+Supp. 1098, 1099 (ND Ga. 1975) (addressing claim from  
+1969); Holloway v. Arthur Andersen & Co., 566 F. 2d 659,  
+661 (CA9 1977) (addressing claim from 1974). And less  
+than a decade after Title VII’s passage, during debates over  
+the Equal Rights Amendment, others counseled that its  
+language—which was strikingly similar to Title VII’s—  
+might also protect homosexuals from discrimination. See,  
+e.g., Note, The Legality of Homosexual Marriage, 82 Yale L.  
+J. 573, 583–584 (1973). 
+Why isn’t that enough to demonstrate that today’s result  
+isn’t totally unexpected? How many people have to foresee  
+the application for it to qualify as “expected”? Do we look  
+only at the moment the statute was enacted, or do we allow  
+some time for the implications of a new statute to be worked  
+out? Should we consider the expectations of those who had  
+no reason to give a particular application any thought or  
+only those with reason to think about the question? How  
+do we account for those who change their minds over time,  
+after learning new facts or hearing a new argument? How  
+specifically or generally should we frame the “application”  
+at issue? None of these questions have obvious answers,  
+and the employers don’t propose any.  
+
