@@ -1,7 +1,3 @@
-Chào bạn, mình đã điều chỉnh lại toàn bộ bản báo cáo này để "khớp" hoàn toàn với dữ liệu từ **Hồ sơ làm việc nhóm (Nhóm 20)** mà bạn đã cung cấp, đồng thời giữ nguyên cấu trúc chuẩn của Rubric Mức 4 (Đóng góp cá nhân > 50%).
-
-Trong bản này, mình đã đưa chính xác các công cụ (ChatGPT, Microsoft Clipchamp, Copilot), câu lệnh (prompt), và các nhiệm vụ cụ thể của bạn (làm nội dung, lọc âm rè, ghép phụ đề) vào bài viết.
-
 # BÁO CÁO CÁ NHÂN: ỨNG DỤNG TRÍ TUỆ NHÂN TẠO TẠO SINH TRONG SÁNG TẠO NỘI DUNG SỐ
 
 **Thông tin sinh viên:**
@@ -23,7 +19,7 @@ Trong bản này, mình đã đưa chính xác các công cụ (ChatGPT, Microso
 
 Để tối ưu hóa quy trình làm việc, tôi đã sử dụng kết hợp 3 công cụ AI:
 
-- **Công cụ AI tạo văn bản:** ChatGPT (Hỗ trợ lên ý tưởng và viết kịch bản thuyết trình).
+- **Công cụ AI tạo văn bản:** Gemini (Hỗ trợ lên ý tưởng và viết kịch bản thuyết trình).
     
 - **Công cụ AI tạo hình ảnh:** Microsoft Copilot (Tạo tư liệu hình ảnh minh họa cho video).
     
@@ -34,11 +30,11 @@ Trong bản này, mình đã đưa chính xác các công cụ (ChatGPT, Microso
 
 Mặc dù AI giúp tiết kiệm đáng kể thời gian (khoảng 30-50% khối lượng công việc thô), tôi vẫn là người trực tiếp kiểm duyệt, chỉnh sửa và quyết định chất lượng đầu ra cuối cùng để đảm bảo sản phẩm mang đậm dấu ấn cá nhân và độ chính xác tuyệt đối.
 
-**1. Giai đoạn 1: Xây dựng kịch bản với ChatGPT**
+**1. Giai đoạn 1: Xây dựng kịch bản với Gemini**
 
 - **Prompt đã sử dụng:** _"Hãy liệt kê ít nhất 10 ứng dụng phổ biến của AI trong lĩnh vực khoa học tự nhiên và kỹ thuật – công nghệ."_
     
-- **Kết quả & Chỉnh sửa (Tích hợp sáng tạo):** Từ 10 gợi ý của ChatGPT, tôi và nhóm đã chắt lọc lại thành 2 ứng dụng trọng tâm nhất để đi sâu phân tích (cách thức, lợi ích và thách thức). Trong quá trình AI sinh kịch bản chi tiết về ứng dụng của AI trong giải toán học tự nhiên, ChatGPT đã đưa ra một suy luận sai về bất đẳng thức giá trị tuyệt đối. Tôi đã phải trực tiếp can thiệp và sửa lại thành công thức chuẩn xác là $|f(x)|+|f(0)|\ge|f(x)-f(0)|$ để kịch bản thuyết trình không bị sai lệch kiến thức. Ngoài ra, ChatGPT gặp lỗi hiển thị khi xuất kịch bản, AI chỉ cho mỗi phần 1 vào trong file Markdown, còn lại vẫn để ở định dạng thường khiến nhóm khó sao chép. Tôi đã phải định dạng lại toàn bộ văn bản thủ công trước khi đưa lên tài liệu chung.
+- **Kết quả & Chỉnh sửa (Tích hợp sáng tạo):** Từ 10 gợi ý của Gemini, tôi và nhóm đã chắt lọc lại thành 2 ứng dụng trọng tâm nhất để đi sâu phân tích (cách thức, lợi ích và thách thức). Trong quá trình AI sinh kịch bản chi tiết về ứng dụng của AI trong giải toán học tự nhiên, Gemini đã đưa ra một suy luận sai về bất đẳng thức giá trị tuyệt đối. Tôi đã phải trực tiếp can thiệp và sửa lại thành công thức chuẩn xác là $|f(x)|+|f(0)|\ge|f(x)-f(0)|$ để kịch bản thuyết trình không bị sai lệch kiến thức. Ngoài ra, ChatGPT gặp lỗi hiển thị khi xuất kịch bản, AI chỉ cho mỗi phần 1 vào trong file Markdown, còn lại vẫn để ở định dạng thường khiến nhóm khó sao chép. Tôi đã phải định dạng lại toàn bộ văn bản thủ công trước khi đưa lên tài liệu chung.
     
 
 > _[Chèn Ảnh 1: Ảnh chụp màn hình giao diện ChatGPT với prompt "Hãy liệt kê ít nhất 10 ứng dụng..."]_
