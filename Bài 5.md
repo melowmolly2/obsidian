@@ -1,15 +1,10 @@
 # BÁO CÁO CÁ NHÂN: ỨNG DỤNG TRÍ TUỆ NHÂN TẠO TẠO SINH TRONG SÁNG TẠO NỘI DUNG SỐ
 
 **Thông tin sinh viên:**
-
 - **Họ và tên:** Phạm Thiên Minh
-    
 - **Mã sinh viên:** 25021887
-    
 - **Học phần:** Nhập môn công nghệ số và ứng dụng trí tuệ nhân tạo
-    
 - **Mã lớp:** VNU1001_E252011 (UET.A11) - Nhóm 20
-    
 
 ## I. GIỚI THIỆU DỰ ÁN VÀ CÔNG CỤ SỬ DỤNG
 
@@ -40,18 +35,16 @@ Mặc dù AI giúp tiết kiệm đáng kể thời gian (khoảng 30-50% khối
 **2. Giai đoạn 2: Tạo tư liệu thị giác với Microsoft Copilot**
 
 - **Quá trình:** Dựa trên kịch bản, em sử dụng Copilot để tạo các hình ảnh minh họa cho lĩnh vực khoa học tự nhiên và kỹ thuật để chèn vào slide/video.
-    
 - **Kết quả & Chỉnh sửa (Tích hợp sáng tạo):** Copilot cung cấp các hình ảnh rất bắt mắt. Tuy nhiên, một số hình ảnh có chứa các đoạn văn bản (text) vô nghĩa do AI tự bịa ra. Em đã phải đưa ảnh qua phần mềm chỉnh sửa để xóa các chi tiết rác này, đồng thời ghép thêm logo của nhóm và cân chỉnh lại tỷ lệ khung hình (16:9) để phù hợp với video thuyết trình.
-    
 
 ![](Assets/Pasted%20image%2020260603170111.png)
 
 **3. Giai đoạn 3: Hậu kỳ Video với Microsoft Clipchamp**
 
 - **Quá trình:** Sau khi nhận file ghi âm thuyết trình từ bạn Nguyễn Hải Nam và Đinh Hoài Nam, em đưa file vào Clipchamp. Em sử dụng tính năng AI Auto-captions để tạo phụ đề tự động và dùng bộ lọc AI để xử lý tạp âm.
-    
-- **Kết quả & Chỉnh sửa (Tích hợp sáng tạo):** AI xử lý giảm rè rất tốt, nhưng phần phụ đề tự động gặp nhiều lỗi sai chính tả với các thuật ngữ chuyên ngành tiếng Việt. Em đã dành phần lớn thời gian để gõ lại các lỗi sai trên timeline, căn chỉnh lại thời gian (timing) xuất hiện của chữ để khớp hoàn hảo với giọng đọc, đảm bảo trải nghiệm nghe - nhìn trơn tru nhất. ![](Assets/Pasted%20image%2020260603170328.png)
-    ![](Assets/Pasted%20image%2020260603170302.png)
+- **Kết quả & Chỉnh sửa (Tích hợp sáng tạo):** AI xử lý giảm rè rất tốt, nhưng phần phụ đề tự động gặp nhiều lỗi sai chính tả với các thuật ngữ chuyên ngành tiếng Việt. Em đã dành phần lớn thời gian để gõ lại các lỗi sai trên timeline, căn chỉnh lại thời gian (timing) xuất hiện của chữ để khớp hoàn hảo với giọng đọc, đảm bảo trải nghiệm nghe - nhìn trơn tru nhất. 
+![](Assets/Pasted%20image%2020260603170328.png)
+![](Assets/Pasted%20image%2020260603170302.png)
 
 
 ## III. SO SÁNH VÀ PHÂN TÍCH CÔNG CỤ
@@ -59,7 +52,6 @@ Mặc dù AI giúp tiết kiệm đáng kể thời gian (khoảng 30-50% khối
 Qua dự án này, hiệu năng của 3 công cụ được bộc lộ rõ:
 
 - **Gemini:** Thể hiện sức mạnh tuyệt vời trong việc phá vỡ "sự bí ý tưởng" ban đầu. Nó giúp nhóm tiết kiệm được 30% thời gian lên khung bài. Nhược điểm là đôi khi AI "ảo giác" sinh ra kiến thức sai (như lỗi toán học nêu trên) và gặp lỗi định dạng văn bản (Markdown), đòi hỏi người dùng phải có chuyên môn để rà soát.
-    
 - **Microsoft Copilot (Image):** Tốc độ tạo ảnh nhanh, phong cách nghệ thuật đa dạng, tiết kiệm đến 50% công sức thiết kế hình ảnh minh họa. Điểm yếu là AI chưa có khả năng kiểm soát các ký tự chữ viết xuất hiện trong bức ảnh, buộc người dùng phải hậu kỳ thủ công.
 - **Microsoft Clipchamp (Video):** Là công cụ cân bằng tốt nhất giữa AI và sự kiểm soát của con người. Tính năng Auto-captions giảm tải đáng kể công sức gõ phụ đề chay, giao diện trực quan giúp em dễ dàng đồng bộ hóa âm thanh và hình ảnh một cách chuyên nghiệp.
 
