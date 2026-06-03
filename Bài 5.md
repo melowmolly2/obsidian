@@ -13,11 +13,11 @@
 
 ## I. GIỚI THIỆU DỰ ÁN VÀ CÔNG CỤ SỬ DỤNG
 
-**1. Lựa chọn dự án:** Sản phẩm sáng tạo được lựa chọn là **Video thuyết trình** với chủ đề: _"Các ứng dụng của AI trong lĩnh vực khoa học tự nhiên và kỹ thuật – công nghệ"_. Đây là bài tập chung của Nhóm 20, trong đó tôi đảm nhận vai trò đồng phát triển nội dung kịch bản và chịu trách nhiệm chính trong khâu hậu kỳ (tạo, chỉnh sửa video, thêm phụ đề và lọc âm).
+**1. Lựa chọn dự án:** Sản phẩm sáng tạo được lựa chọn là **Video thuyết trình** với chủ đề: _"Các ứng dụng của AI trong lĩnh vực khoa học tự nhiên và kỹ thuật – công nghệ"_. Đây là bài tập chung của Nhóm 20, trong đó em đảm nhận vai trò đồng phát triển nội dung kịch bản và chịu trách nhiệm chính trong khâu hậu kỳ (tạo, chỉnh sửa video, thêm phụ đề và lọc âm).
 
 **2. Công cụ AI tạo sinh đã sử dụng:**
 
-Để tối ưu hóa quy trình làm việc, tôi đã sử dụng kết hợp 3 công cụ AI:
+Để tối ưu hóa quy trình làm việc, em đã sử dụng kết hợp 3 công cụ AI:
 
 - **Công cụ AI tạo văn bản:** Gemini (Hỗ trợ lên ý tưởng và viết kịch bản thuyết trình).
     
@@ -28,29 +28,29 @@
 
 ## II. QUÁ TRÌNH SÁNG TẠO VÀ TÍCH HỢP (Đóng góp cá nhân > 50%)
 
-Mặc dù AI giúp tiết kiệm đáng kể thời gian (khoảng 30-50% khối lượng công việc thô), tôi vẫn là người trực tiếp kiểm duyệt, chỉnh sửa và quyết định chất lượng đầu ra cuối cùng để đảm bảo sản phẩm mang đậm dấu ấn cá nhân và độ chính xác tuyệt đối.
+Mặc dù AI giúp tiết kiệm đáng kể thời gian (khoảng 30-50% khối lượng công việc thô), em vẫn là người trực tiếp kiểm duyệt, chỉnh sửa và quyết định chất lượng đầu ra cuối cùng để đảm bảo sản phẩm mang đậm dấu ấn cá nhân và độ chính xác tuyệt đối.
 
 **1. Giai đoạn 1: Xây dựng kịch bản với Gemini**
 
 - **Prompt đã sử dụng:** _"Hãy liệt kê ít nhất 10 ứng dụng phổ biến của AI trong lĩnh vực khoa học tự nhiên và kỹ thuật – công nghệ."_
     
-- **Kết quả & Chỉnh sửa (Tích hợp sáng tạo):** Từ 10 gợi ý của Gemini, tôi và nhóm đã chắt lọc lại thành 2 ứng dụng trọng tâm nhất để đi sâu phân tích (cách thức, lợi ích và thách thức). Trong quá trình AI sinh kịch bản chi tiết về ứng dụng của AI trong giải toán học tự nhiên, Gemini đã đưa ra một suy luận sai về bất đẳng thức giá trị tuyệt đối. Tôi đã phải trực tiếp can thiệp và sửa lại thành công thức chuẩn xác là $|f(x)|+|f(0)|\ge|f(x)-f(0)|$ để kịch bản thuyết trình không bị sai lệch kiến thức. Ngoài ra, Gemini gặp lỗi hiển thị khi xuất kịch bản, AI chỉ cho mỗi phần 1 vào trong file Markdown, còn lại vẫn để ở định dạng thường khiến nhóm khó sao chép. Tôi đã phải định dạng lại toàn bộ văn bản thủ công trước khi đưa lên tài liệu chung.
+- **Kết quả & Chỉnh sửa (Tích hợp sáng tạo):** Từ 10 gợi ý của Gemini, em và nhóm đã chắt lọc lại thành 2 ứng dụng trọng tâm nhất để đi sâu phân tích (cách thức, lợi ích và thách thức). Trong quá trình AI sinh kịch bản chi tiết về ứng dụng của AI trong giải toán học tự nhiên, Gemini đã đưa ra một suy luận sai về bất đẳng thức giá trị tuyệt đối. Em đã phải trực tiếp can thiệp và sửa lại thành công thức chuẩn xác là $|f(x)|+|f(0)|\ge|f(x)-f(0)|$ để kịch bản thuyết trình không bị sai lệch kiến thức. Ngoài ra, Gemini gặp lỗi hiển thị khi xuất kịch bản, AI chỉ cho mỗi phần 1 vào trong file Markdown, còn lại vẫn để ở định dạng thường khiến nhóm khó sao chép. Em đã phải định dạng lại toàn bộ văn bản thủ công trước khi đưa lên tài liệu chung.
 ![](Assets/Pasted%20image%2020260603162207.png)
 ![](Assets/Pasted%20image%2020260603163319.png)
 **2. Giai đoạn 2: Tạo tư liệu thị giác với Microsoft Copilot**
 
-- **Quá trình:** Dựa trên kịch bản, tôi sử dụng Copilot để tạo các hình ảnh minh họa cho lĩnh vực khoa học tự nhiên và kỹ thuật để chèn vào slide/video.
+- **Quá trình:** Dựa trên kịch bản, em sử dụng Copilot để tạo các hình ảnh minh họa cho lĩnh vực khoa học tự nhiên và kỹ thuật để chèn vào slide/video.
     
-- **Kết quả & Chỉnh sửa (Tích hợp sáng tạo):** Copilot cung cấp các hình ảnh rất bắt mắt. Tuy nhiên, một số hình ảnh có chứa các đoạn văn bản (text) vô nghĩa do AI tự bịa ra. Tôi đã phải đưa ảnh qua phần mềm chỉnh sửa để xóa các chi tiết rác này, đồng thời ghép thêm logo của nhóm và cân chỉnh lại tỷ lệ khung hình (16:9) để phù hợp với video thuyết trình.
+- **Kết quả & Chỉnh sửa (Tích hợp sáng tạo):** Copilot cung cấp các hình ảnh rất bắt mắt. Tuy nhiên, một số hình ảnh có chứa các đoạn văn bản (text) vô nghĩa do AI tự bịa ra. Em đã phải đưa ảnh qua phần mềm chỉnh sửa để xóa các chi tiết rác này, đồng thời ghép thêm logo của nhóm và cân chỉnh lại tỷ lệ khung hình (16:9) để phù hợp với video thuyết trình.
     
 
 ![](Assets/Pasted%20image%2020260603170111.png)
 
 **3. Giai đoạn 3: Hậu kỳ Video với Microsoft Clipchamp**
 
-- **Quá trình:** Sau khi nhận file ghi âm thuyết trình từ bạn Nguyễn Hải Nam và Đinh Hoài Nam, tôi đưa file vào Clipchamp. Tôi sử dụng tính năng AI Auto-captions để tạo phụ đề tự động và dùng bộ lọc AI để xử lý tạp âm.
+- **Quá trình:** Sau khi nhận file ghi âm thuyết trình từ bạn Nguyễn Hải Nam và Đinh Hoài Nam, em đưa file vào Clipchamp. Em sử dụng tính năng AI Auto-captions để tạo phụ đề tự động và dùng bộ lọc AI để xử lý tạp âm.
     
-- **Kết quả & Chỉnh sửa (Tích hợp sáng tạo):** AI xử lý giảm rè rất tốt, nhưng phần phụ đề tự động gặp nhiều lỗi sai chính tả với các thuật ngữ chuyên ngành tiếng Việt. Tôi đã dành phần lớn thời gian để gõ lại các lỗi sai trên timeline, căn chỉnh lại thời gian (timing) xuất hiện của chữ để khớp hoàn hảo với giọng đọc, đảm bảo trải nghiệm nghe - nhìn trơn tru nhất. ![](Assets/Pasted%20image%2020260603170328.png)
+- **Kết quả & Chỉnh sửa (Tích hợp sáng tạo):** AI xử lý giảm rè rất tốt, nhưng phần phụ đề tự động gặp nhiều lỗi sai chính tả với các thuật ngữ chuyên ngành tiếng Việt. Em đã dành phần lớn thời gian để gõ lại các lỗi sai trên timeline, căn chỉnh lại thời gian (timing) xuất hiện của chữ để khớp hoàn hảo với giọng đọc, đảm bảo trải nghiệm nghe - nhìn trơn tru nhất. ![](Assets/Pasted%20image%2020260603170328.png)
     ![](Assets/Pasted%20image%2020260603170302.png)
 
 
@@ -61,9 +61,7 @@ Qua dự án này, hiệu năng của 3 công cụ được bộc lộ rõ:
 - **Gemini:** Thể hiện sức mạnh tuyệt vời trong việc phá vỡ "sự bí ý tưởng" ban đầu. Nó giúp nhóm tiết kiệm được 30% thời gian lên khung bài. Nhược điểm là đôi khi AI "ảo giác" sinh ra kiến thức sai (như lỗi toán học nêu trên) và gặp lỗi định dạng văn bản (Markdown), đòi hỏi người dùng phải có chuyên môn để rà soát.
     
 - **Microsoft Copilot (Image):** Tốc độ tạo ảnh nhanh, phong cách nghệ thuật đa dạng, tiết kiệm đến 50% công sức thiết kế hình ảnh minh họa. Điểm yếu là AI chưa có khả năng kiểm soát các ký tự chữ viết xuất hiện trong bức ảnh, buộc người dùng phải hậu kỳ thủ công.
-    
-- **Microsoft Clipchamp (Video):** Là công cụ cân bằng tốt nhất giữa AI và sự kiểm soát của con người. Tính năng Auto-captions giảm tải đáng kể công sức gõ phụ đề chay, giao diện trực quan giúp tôi dễ dàng đồng bộ hóa âm thanh và hình ảnh một cách chuyên nghiệp.
-    
+- **Microsoft Clipchamp (Video):** Là công cụ cân bằng tốt nhất giữa AI và sự kiểm soát của con người. Tính năng Auto-captions giảm tải đáng kể công sức gõ phụ đề chay, giao diện trực quan giúp em dễ dàng đồng bộ hóa âm thanh và hình ảnh một cách chuyên nghiệp.
 
 ## IV. PHÂN TÍCH VAI TRÒ CỦA AI VÀ VẤN ĐỀ ĐẠO ĐỨC
 
@@ -75,11 +73,8 @@ Thông qua dự án nhóm này, em nhận thấy AI đã thay đổi hoàn toàn
 
 Việc ứng dụng AI trong dự án học thuật cũng đặt ra các suy nghĩ về đạo đức:
 
-- **Tính minh bạch:** Cần trung thực thừa nhận việc sử dụng AI. Trong báo cáo này và cả trong video, nhóm chúng tôi minh bạch việc sử dụng Gemini và Copilot, không nhận toàn bộ tác phẩm 100% là do nhóm tự vẽ hay tự nghĩ ra từ đầu.
-    
-- **Trách nhiệm với thông tin (Misinformation):** Khi Gemini đưa ra công thức toán sai, nếu tôi lười biếng phó mặc hoàn toàn cho AI và đưa nó vào video, tôi sẽ là người trực tiếp phát tán kiến thức sai lệch cho người xem. Người sáng tạo nội dung phải luôn là chốt chặn cuối cùng chịu trách nhiệm về tính chân thực của thông tin.
-    
-
+- **Tính minh bạch:** Cần trung thực thừa nhận việc sử dụng AI. Trong báo cáo này và cả trong video, nhóm chúng em minh bạch việc sử dụng Gemini và Copilot, không nhận toàn bộ tác phẩm 100% là do nhóm tự vẽ hay tự nghĩ ra từ đầu.
+- **Trách nhiệm với thông tin (Misinformation):** Khi Gemini đưa ra công thức toán sai, nếu em lười biếng phó mặc hoàn toàn cho AI và đưa nó vào video, em sẽ là người trực tiếp phát tán kiến thức sai lệch cho người xem. Người sáng tạo nội dung phải luôn là chốt chặn cuối cùng chịu trách nhiệm về tính chân thực của thông tin.
 ## V. KẾT LUẬN
 
-Dự án Nhóm 20 đã diễn ra thành công tốt đẹp nhờ sự hỗ trợ đắc lực từ trí tuệ nhân tạo. Sự kết hợp giữa Gemini, Copilot và Clipchamp giúp giải quyết triệt để rào cản kỹ thuật và giới hạn thời gian. Bài học cốt lõi tôi rút ra là: Công cụ AI dù mạnh mẽ đến đâu cũng chỉ phát huy tối đa giá trị khi được vận hành bởi một tư duy sắc bén, biết kiểm chứng thông tin và chủ động tích hợp sự sáng tạo của chính bản thân mình.
+Dự án Nhóm 20 đã diễn ra thành công tốt đẹp nhờ sự hỗ trợ đắc lực từ trí tuệ nhân tạo. Sự kết hợp giữa Gemini, Copilot và Clipchamp giúp giải quyết triệt để rào cản kỹ thuật và giới hạn thời gian. Bài học cốt lõi em rút ra là: Công cụ AI dù mạnh mẽ đến đâu cũng chỉ phát huy tối đa giá trị khi được vận hành bởi một tư duy sắc bén, biết kiểm chứng thông tin và chủ động tích hợp sự sáng tạo của chính bản thân mình.
