@@ -51,7 +51,8 @@ Mặc dù AI giúp tiết kiệm đáng kể thời gian (khoảng 30-50% khối
 - **Quá trình:** Sau khi nhận file ghi âm thuyết trình từ bạn Nguyễn Hải Nam và Đinh Hoài Nam, tôi đưa file vào Clipchamp. Tôi sử dụng tính năng AI Auto-captions để tạo phụ đề tự động và dùng bộ lọc AI để xử lý tạp âm.
     
 - **Kết quả & Chỉnh sửa (Tích hợp sáng tạo):** AI xử lý giảm rè rất tốt, nhưng phần phụ đề tự động gặp nhiều lỗi sai chính tả với các thuật ngữ chuyên ngành tiếng Việt. Tôi đã dành phần lớn thời gian để gõ lại các lỗi sai trên timeline, căn chỉnh lại thời gian (timing) xuất hiện của chữ để khớp hoàn hảo với giọng đọc, đảm bảo trải nghiệm nghe - nhìn trơn tru nhất.
-    
+- ![](Assets/Pasted%20image%2020260603170328.png)
+    ![](Assets/Pasted%20image%2020260603170302.png)
 
 > _[Chèn Ảnh 5: Ảnh chụp giao diện Microsoft Clipchamp, thể hiện phần sóng âm đã được lọc tiếng ồn và thanh phụ đề đang được chỉnh sửa thủ công]_
 
@@ -59,7 +60,7 @@ Mặc dù AI giúp tiết kiệm đáng kể thời gian (khoảng 30-50% khối
 
 Qua dự án này, hiệu năng của 3 công cụ được bộc lộ rõ:
 
-- **ChatGPT:** Thể hiện sức mạnh tuyệt vời trong việc phá vỡ "sự bí ý tưởng" ban đầu. Nó giúp nhóm tiết kiệm được 30% thời gian lên khung bài. Nhược điểm là đôi khi AI "ảo giác" sinh ra kiến thức sai (như lỗi toán học nêu trên) và gặp lỗi định dạng văn bản (Markdown), đòi hỏi người dùng phải có chuyên môn để rà soát.
+- **Gemini:** Thể hiện sức mạnh tuyệt vời trong việc phá vỡ "sự bí ý tưởng" ban đầu. Nó giúp nhóm tiết kiệm được 30% thời gian lên khung bài. Nhược điểm là đôi khi AI "ảo giác" sinh ra kiến thức sai (như lỗi toán học nêu trên) và gặp lỗi định dạng văn bản (Markdown), đòi hỏi người dùng phải có chuyên môn để rà soát.
     
 - **Microsoft Copilot (Image):** Tốc độ tạo ảnh nhanh, phong cách nghệ thuật đa dạng, tiết kiệm đến 50% công sức thiết kế hình ảnh minh họa. Điểm yếu là AI chưa có khả năng kiểm soát các ký tự chữ viết xuất hiện trong bức ảnh, buộc người dùng phải hậu kỳ thủ công.
     
