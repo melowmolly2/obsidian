@@ -65,11 +65,9 @@ Dựa trên các phân tích đạo đức trên, tôi tự xây dựng 6 nguyê
 3. **Minh bạch và Trích dẫn đầy đủ:** Luôn khai báo rõ ràng phần nào của dự án/bài tập có sự can thiệp của công cụ tạo sinh bằng các chuẩn trích dẫn (APA/IEEE).
     
 4. **Bảo mật thông tin:** Không nhập các dữ liệu chưa được công bố, đề thi bảo mật, hoặc mã nguồn nội bộ vào các chatbot AI công cộng để tránh rò rỉ chất xám.
-    
 5. **Bảo vệ tư duy phản biện:** Đặt ra quy tắc "Suy nghĩ 15 phút": Chỉ tìm đến AI khi đã tự tư duy và thử giải quyết vấn đề ít nhất 15 phút mà không có kết quả.
-    
 6. **Tuân thủ tuyệt đối quy chế:** Luôn hỏi ý kiến giảng viên phụ trách môn học về giới hạn sử dụng AI trước khi bắt đầu bất kỳ đồ án nào.
-    
 
 ### V. INFOGRAPHIC MINH HỌA: "SỬ DỤNG AI CÓ TRÁCH NHIỆM TRONG HỌC THUẬT"
+![](Assets/infographic-min_1780495090.png)
 
