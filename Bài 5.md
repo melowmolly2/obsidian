@@ -34,7 +34,7 @@ Mặc dù AI giúp tiết kiệm đáng kể thời gian (khoảng 30-50% khối
 
 - **Prompt đã sử dụng:** _"Hãy liệt kê ít nhất 10 ứng dụng phổ biến của AI trong lĩnh vực khoa học tự nhiên và kỹ thuật – công nghệ."_
     
-- **Kết quả & Chỉnh sửa (Tích hợp sáng tạo):** Từ 10 gợi ý của Gemini, tôi và nhóm đã chắt lọc lại thành 2 ứng dụng trọng tâm nhất để đi sâu phân tích (cách thức, lợi ích và thách thức). Trong quá trình AI sinh kịch bản chi tiết về ứng dụng của AI trong giải toán học tự nhiên, Gemini đã đưa ra một suy luận sai về bất đẳng thức giá trị tuyệt đối. Tôi đã phải trực tiếp can thiệp và sửa lại thành công thức chuẩn xác là $|f(x)|+|f(0)|\ge|f(x)-f(0)|$ để kịch bản thuyết trình không bị sai lệch kiến thức. Ngoài ra, ChatGPT gặp lỗi hiển thị khi xuất kịch bản, AI chỉ cho mỗi phần 1 vào trong file Markdown, còn lại vẫn để ở định dạng thường khiến nhóm khó sao chép. Tôi đã phải định dạng lại toàn bộ văn bản thủ công trước khi đưa lên tài liệu chung.
+- **Kết quả & Chỉnh sửa (Tích hợp sáng tạo):** Từ 10 gợi ý của Gemini, tôi và nhóm đã chắt lọc lại thành 2 ứng dụng trọng tâm nhất để đi sâu phân tích (cách thức, lợi ích và thách thức). Trong quá trình AI sinh kịch bản chi tiết về ứng dụng của AI trong giải toán học tự nhiên, Gemini đã đưa ra một suy luận sai về bất đẳng thức giá trị tuyệt đối. Tôi đã phải trực tiếp can thiệp và sửa lại thành công thức chuẩn xác là $|f(x)|+|f(0)|\ge|f(x)-f(0)|$ để kịch bản thuyết trình không bị sai lệch kiến thức. Ngoài ra, Gemini gặp lỗi hiển thị khi xuất kịch bản, AI chỉ cho mỗi phần 1 vào trong file Markdown, còn lại vẫn để ở định dạng thường khiến nhóm khó sao chép. Tôi đã phải định dạng lại toàn bộ văn bản thủ công trước khi đưa lên tài liệu chung.
 ![](Assets/Pasted%20image%2020260603162207.png)
 ![](Assets/Pasted%20image%2020260603163319.png)
 **2. Giai đoạn 2: Tạo tư liệu thị giác với Microsoft Copilot**
@@ -50,11 +50,9 @@ Mặc dù AI giúp tiết kiệm đáng kể thời gian (khoảng 30-50% khối
 
 - **Quá trình:** Sau khi nhận file ghi âm thuyết trình từ bạn Nguyễn Hải Nam và Đinh Hoài Nam, tôi đưa file vào Clipchamp. Tôi sử dụng tính năng AI Auto-captions để tạo phụ đề tự động và dùng bộ lọc AI để xử lý tạp âm.
     
-- **Kết quả & Chỉnh sửa (Tích hợp sáng tạo):** AI xử lý giảm rè rất tốt, nhưng phần phụ đề tự động gặp nhiều lỗi sai chính tả với các thuật ngữ chuyên ngành tiếng Việt. Tôi đã dành phần lớn thời gian để gõ lại các lỗi sai trên timeline, căn chỉnh lại thời gian (timing) xuất hiện của chữ để khớp hoàn hảo với giọng đọc, đảm bảo trải nghiệm nghe - nhìn trơn tru nhất.
-- ![](Assets/Pasted%20image%2020260603170328.png)
+- **Kết quả & Chỉnh sửa (Tích hợp sáng tạo):** AI xử lý giảm rè rất tốt, nhưng phần phụ đề tự động gặp nhiều lỗi sai chính tả với các thuật ngữ chuyên ngành tiếng Việt. Tôi đã dành phần lớn thời gian để gõ lại các lỗi sai trên timeline, căn chỉnh lại thời gian (timing) xuất hiện của chữ để khớp hoàn hảo với giọng đọc, đảm bảo trải nghiệm nghe - nhìn trơn tru nhất. ![](Assets/Pasted%20image%2020260603170328.png)
     ![](Assets/Pasted%20image%2020260603170302.png)
 
-> _[Chèn Ảnh 5: Ảnh chụp giao diện Microsoft Clipchamp, thể hiện phần sóng âm đã được lọc tiếng ồn và thanh phụ đề đang được chỉnh sửa thủ công]_
 
 ## III. SO SÁNH VÀ PHÂN TÍCH CÔNG CỤ
 
@@ -71,17 +69,17 @@ Qua dự án này, hiệu năng của 3 công cụ được bộc lộ rõ:
 
 **1. Vai trò của AI và sự thay đổi trong quy trình sáng tạo**
 
-Thông qua dự án nhóm này, tôi nhận thấy AI đã thay đổi hoàn toàn quy trình làm việc truyền thống. AI đóng vai trò như một "trợ lý nghiên cứu" và "thợ phụ", giúp tạo ra khối lượng lớn vật liệu thô (ý tưởng, hình ảnh, phụ đề). Tuy nhiên, máy móc không thể thay thế con người ở khả năng tư duy logic, sự thấu cảm khán giả và tính chính xác chuyên môn. Vai trò của tôi chuyển từ việc _phải tự làm mọi thứ từ đầu_ sang việc _làm đạo diễn, biên tập viên và kỹ thuật viên kiểm soát chất lượng_.
+Thông qua dự án nhóm này, em nhận thấy AI đã thay đổi hoàn toàn quy trình làm việc truyền thống. AI đóng vai trò như một "trợ lý nghiên cứu" và "thợ phụ", giúp tạo ra khối lượng lớn vật liệu thô (ý tưởng, hình ảnh, phụ đề). Tuy nhiên, máy móc không thể thay thế con người ở khả năng tư duy logic, sự thấu cảm khán giả và tính chính xác chuyên môn. Vai trò của em chuyển từ việc phải tự làm mọi thứ từ đầu sang việc làm đạo diễn, biên tập viên và kỹ thuật viên kiểm soát chất lượng.
 
 **2. Các vấn đề đạo đức cần cân nhắc**
 
 Việc ứng dụng AI trong dự án học thuật cũng đặt ra các suy nghĩ về đạo đức:
 
-- **Tính minh bạch:** Cần trung thực thừa nhận việc sử dụng AI. Trong báo cáo này và cả trong video, nhóm chúng tôi minh bạch việc sử dụng ChatGPT và Copilot, không nhận toàn bộ tác phẩm 100% là do nhóm tự vẽ hay tự nghĩ ra từ đầu.
+- **Tính minh bạch:** Cần trung thực thừa nhận việc sử dụng AI. Trong báo cáo này và cả trong video, nhóm chúng tôi minh bạch việc sử dụng Gemini và Copilot, không nhận toàn bộ tác phẩm 100% là do nhóm tự vẽ hay tự nghĩ ra từ đầu.
     
-- **Trách nhiệm với thông tin (Misinformation):** Khi ChatGPT đưa ra công thức toán sai, nếu tôi lười biếng phó mặc hoàn toàn cho AI và đưa nó vào video, tôi sẽ là người trực tiếp phát tán kiến thức sai lệch cho người xem. Người sáng tạo nội dung phải luôn là chốt chặn cuối cùng chịu trách nhiệm về tính chân thực của thông tin.
+- **Trách nhiệm với thông tin (Misinformation):** Khi Gemini đưa ra công thức toán sai, nếu tôi lười biếng phó mặc hoàn toàn cho AI và đưa nó vào video, tôi sẽ là người trực tiếp phát tán kiến thức sai lệch cho người xem. Người sáng tạo nội dung phải luôn là chốt chặn cuối cùng chịu trách nhiệm về tính chân thực của thông tin.
     
 
 ## V. KẾT LUẬN
 
-Dự án Nhóm 20 đã diễn ra thành công tốt đẹp nhờ sự hỗ trợ đắc lực từ trí tuệ nhân tạo. Sự kết hợp giữa ChatGPT, Copilot và Clipchamp giúp giải quyết triệt để rào cản kỹ thuật và giới hạn thời gian. Bài học cốt lõi tôi rút ra là: Công cụ AI dù mạnh mẽ đến đâu cũng chỉ phát huy tối đa giá trị khi được vận hành bởi một tư duy sắc bén, biết kiểm chứng thông tin và chủ động tích hợp sự sáng tạo của chính bản thân mình.
+Dự án Nhóm 20 đã diễn ra thành công tốt đẹp nhờ sự hỗ trợ đắc lực từ trí tuệ nhân tạo. Sự kết hợp giữa Gemini, Copilot và Clipchamp giúp giải quyết triệt để rào cản kỹ thuật và giới hạn thời gian. Bài học cốt lõi tôi rút ra là: Công cụ AI dù mạnh mẽ đến đâu cũng chỉ phát huy tối đa giá trị khi được vận hành bởi một tư duy sắc bén, biết kiểm chứng thông tin và chủ động tích hợp sự sáng tạo của chính bản thân mình.
