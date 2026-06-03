@@ -1,7 +1,3 @@
-Chào bạn, đây là một đề bài xuất sắc để đánh giá năng lực làm chủ công nghệ số. Để đạt điểm tối đa (Mức 4: 8.1 - 10.0), điểm mấu chốt là bạn phải thể hiện được vai trò **"Đạo diễn"** của mình: AI chỉ là người trợ lý tạo ra vật liệu thô, còn bạn mới là người kiểm soát chất lượng, chỉnh sửa và quyết định sản phẩm cuối cùng (đóng góp cá nhân > 50%).
-
-Dưới đây là bản báo cáo mẫu được thi
-
 # BÁO CÁO CÁ NHÂN: ỨNG DỤNG TRÍ TUỆ NHÂN TẠO TẠO SINH TRONG SÁNG TẠO NỘI DUNG SỐ
 
 **Thông tin sinh viên:**
