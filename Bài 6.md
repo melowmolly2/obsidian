@@ -59,11 +59,8 @@ Việc lạm dụng AI tạo ra "sự xói mòn kỹ năng" (Skill Degradation).
 Dựa trên các phân tích đạo đức trên, tôi tự xây dựng 6 nguyên tắc thực hành cho bản thân:
 
 1. **AI là Trợ lý, không phải Tác giả (Assistant, not Author):** Chỉ dùng AI để lên dàn ý, tìm kiếm tài liệu hoặc kiểm tra lỗi (syntax/grammar). Bản nháp cuối cùng phải do chính tôi chấp bút.
-    
 2. **Nguyên tắc "Zero-Trust" (Kiểm chứng mọi thứ):** Không bao giờ tin tưởng tuyệt đối đầu ra của AI. Phải luôn đối chiếu các công thức, số liệu, và logic với giáo trình chính thống hoặc tài liệu học thuật (như cách tôi đã sửa lỗi bất đẳng thức ở phần II).
-    
 3. **Minh bạch và Trích dẫn đầy đủ:** Luôn khai báo rõ ràng phần nào của dự án/bài tập có sự can thiệp của công cụ tạo sinh bằng các chuẩn trích dẫn (APA/IEEE).
-    
 4. **Bảo mật thông tin:** Không nhập các dữ liệu chưa được công bố, đề thi bảo mật, hoặc mã nguồn nội bộ vào các chatbot AI công cộng để tránh rò rỉ chất xám.
 5. **Bảo vệ tư duy phản biện:** Đặt ra quy tắc "Suy nghĩ 15 phút": Chỉ tìm đến AI khi đã tự tư duy và thử giải quyết vấn đề ít nhất 15 phút mà không có kết quả.
 6. **Tuân thủ tuyệt đối quy chế:** Luôn hỏi ý kiến giảng viên phụ trách môn học về giới hạn sử dụng AI trước khi bắt đầu bất kỳ đồ án nào.
