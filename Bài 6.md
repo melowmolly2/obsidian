@@ -73,30 +73,3 @@ Dựa trên các phân tích đạo đức trên, tôi tự xây dựng 6 nguyê
 
 ### V. INFOGRAPHIC MINH HỌA: "SỬ DỤNG AI CÓ TRÁCH NHIỆM TRONG HỌC THUẬT"
 
-_(Ghi chú cho việc nộp bài: Dưới đây là bản thiết kế nội dung chi tiết. Bạn có thể sử dụng Canva, chọn một template "Process Infographic" hoặc "Rules Infographic" và điền nội dung này vào để xuất thành file ảnh đính kèm vào báo cáo)._
-
-**[Chèn Infographic tại đây]**
-
-- **Tiêu đề chính (Chữ to, in đậm, trung tâm):** 6 BƯỚC SỬ DỤNG AI CÓ TRÁCH NHIỆM TRONG HỌC THUẬT
-    
-- **Màu sắc chủ đạo:** Xanh dương (thể hiện sự công nghệ, học thuật) và Vàng/Cam (thể hiện sự cảnh báo, tư duy).
-    
-- **Cấu trúc 3 trụ cột chính (Chia làm 3 cột hoặc 3 khối hình học):**
-    
-    - **Khối 1: TƯ DUY (Biểu tượng não bộ)**
-        
-        - _Nội dung:_ Tự suy nghĩ trước khi hỏi (Quy tắc 15 phút). AI là trợ lý đồng hành, tư duy cốt lõi phải là của bạn.
-            
-    - **Khối 2: KIỂM CHỨNG (Biểu tượng kính lúp/dấu tick)**
-        
-        - _Nội dung:_ Nguyên tắc Zero-Trust. Luôn kiểm tra chéo (Cross-check) mọi thuật toán, trích dẫn, công thức toán học do AI tạo ra. Chống "ảo giác AI".
-            
-    - **Khối 3: MINH BẠCH (Biểu tượng dấu ngoặc kép trích dẫn)**
-        
-        - _Nội dung:_ Tôn trọng bản quyền. Trích dẫn rõ ràng tên công cụ, câu lệnh (prompt) và phạm vi sử dụng trong phần Tài liệu tham khảo.
-            
-- **Phần footer (Dưới cùng):**
-    
-    - _Slogan:_ "Công nghệ nâng bước tư duy - Liêm chính kiến tạo giá trị."
-        
-    - _Tên tác giả:_ Phạm Thiên Minh.
