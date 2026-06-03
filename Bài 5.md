@@ -10,7 +10,9 @@
 
 **1. Lựa chọn dự án:**
 
-Sản phẩm sáng tạo được lựa chọn là một Video thuyết trình ngắn (thời lượng 7 phút) với chủ đề: _"Ứng dụng AI trong tối ưu hóa quy trình CI/CD và Kỹ thuật phần mềm"_. Sản phẩm yêu cầu sự kết hợp giữa kiến thức chuyên môn về lập trình và tư duy hình ảnh để truyền tải thông tin kỹ thuật một cách trực quan.
+Sản phẩm sáng tạo được lựa chọn là một Video thuyết trình ngắn (thời lượng 7 phút) với chủ đề: _"AI trong khoa học tự nhiên và kỹ thuật công nghệ"_. Sản phẩm yêu cầu sự kết hợp giữa kiến thức chuyên môn về lập trình và tư duy hình ảnh để truyền tải thông tin kỹ thuật một cách trực quan. _alskdfja;lsdfj_ *al*
+
+
 
 **2. Công cụ AI tạo sinh đã sử dụng:**
 
