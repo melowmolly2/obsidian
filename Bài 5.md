@@ -36,10 +36,7 @@ Mặc dù AI giúp tiết kiệm đáng kể thời gian (khoảng 30-50% khối
     
 - **Kết quả & Chỉnh sửa (Tích hợp sáng tạo):** Từ 10 gợi ý của Gemini, tôi và nhóm đã chắt lọc lại thành 2 ứng dụng trọng tâm nhất để đi sâu phân tích (cách thức, lợi ích và thách thức). Trong quá trình AI sinh kịch bản chi tiết về ứng dụng của AI trong giải toán học tự nhiên, Gemini đã đưa ra một suy luận sai về bất đẳng thức giá trị tuyệt đối. Tôi đã phải trực tiếp can thiệp và sửa lại thành công thức chuẩn xác là $|f(x)|+|f(0)|\ge|f(x)-f(0)|$ để kịch bản thuyết trình không bị sai lệch kiến thức. Ngoài ra, ChatGPT gặp lỗi hiển thị khi xuất kịch bản, AI chỉ cho mỗi phần 1 vào trong file Markdown, còn lại vẫn để ở định dạng thường khiến nhóm khó sao chép. Tôi đã phải định dạng lại toàn bộ văn bản thủ công trước khi đưa lên tài liệu chung.
 ![](Assets/Pasted%20image%2020260603162207.png)
-
-> 
-> _[Chèn Ảnh 2: Ảnh chụp kịch bản cuối cùng trên tài liệu chung, highlight những phần tôi đã tự viết và sửa lại lỗi toán học của AI]_
-
+![](Assets/Pasted%20image%2020260603163319.png)
 **2. Giai đoạn 2: Tạo tư liệu thị giác với Microsoft Copilot**
 
 - **Quá trình:** Dựa trên kịch bản, tôi sử dụng Copilot để tạo các hình ảnh minh họa cho lĩnh vực khoa học tự nhiên và kỹ thuật để chèn vào slide/video.
