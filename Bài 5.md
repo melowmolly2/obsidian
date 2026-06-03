@@ -3,11 +3,8 @@
 **Thông tin sinh viên:**
 
 - **Họ và tên:** Phạm Thiên Minh
-    
 - **Mã sinh viên:** 25021887
-    
 - **Học phần:** Nhập môn công nghệ số và ứng dụng trí tuệ nhân tạo
-    
 
 ## I. GIỚI THIỆU DỰ ÁN VÀ CÔNG CỤ SỬ DỤNG
 
@@ -33,9 +30,7 @@ Thay vì phó mặc hoàn toàn cho máy móc, tôi áp dụng quy trình kiểm
 **1. Giai đoạn 1: Xây dựng kịch bản với Gemini**
 
 - **Prompt đã sử dụng:** _"Hãy đóng vai một kỹ sư phần mềm. Viết một kịch bản video dài 3 phút giải thích cách tích hợp AI vào pipeline CI/CD trên GitHub Actions. Phân chia rõ cột 'Hình ảnh/Video' và cột 'Lời bình (Voiceover)'. Ngôn ngữ chuyên nghiệp, có đề cập đến quá trình build Maven và test bằng JaCoCo."_
-    
 - **Kết quả & Chỉnh sửa (Tích hợp sáng tạo):** Gemini cung cấp một khung kịch bản khá đầy đủ các bước. Tuy nhiên, ở phần minh chứng độ phức tạp thuật toán, AI đưa ra một biến đổi bất đẳng thức sai logic. Tôi đã phải trực tiếp chỉnh sửa và chuẩn hóa lại công thức toán học thành $|f(x)|+|f(0)| \ge |f(x)-f(0)|$ để đảm bảo tính chính xác tuyệt đối. Ngoài ra, tôi viết lại toàn bộ phần mở đầu (hook) theo cấu trúc narrative (kể chuyện) để tăng tính lôi cuốn, thay vì lối liệt kê khô khan của AI.
-    
 
 > _[Chèn Ảnh 1: Ảnh chụp màn hình giao diện chat với Gemini, hiển thị prompt chi tiết]_
 > 
@@ -44,20 +39,16 @@ Thay vì phó mặc hoàn toàn cho máy móc, tôi áp dụng quy trình kiểm
 **2. Giai đoạn 2: Khởi tạo tư liệu thị giác với Midjourney**
 
 - **Prompt đã sử dụng:** _"A cinematic shot of a futuristic server room, glowing blue and green data streams representing continuous integration, depth of field, dramatic lighting, 8k resolution, --ar 16:9 --v 6.0"_
-    
 - **Kết quả & Chỉnh sửa (Tích hợp sáng tạo):** Midjourney xuất ra các hình ảnh có chất lượng ánh sáng (cinematography) rất xuất sắc. Tuy nhiên, AI thường mắc lỗi tạo ra các đoạn code vô nghĩa (gibberish text) trên các màn hình máy tính trong ảnh. Để khắc phục, tôi đã đưa ảnh vào Photoshop, xóa bỏ các đoạn text lỗi này, sau đó tự chèn các đoạn mã Java thực tế (chứa các thread `ExecutorService` và `Callable`) của mình lên trên bề mặt màn hình mô phỏng để tăng tính chân thực.
     
 
 > _[Chèn Ảnh 3: Ảnh chụp màn hình giao diện Discord lúc gửi prompt cho con bot Midjourney]_
-> 
 > _[Chèn Ảnh 4: Ảnh so sánh (Before/After) giữa ảnh gốc của Midjourney và ảnh đã được tôi chỉnh sửa lại bằng Photoshop/Canva]_
 
 **3. Giai đoạn 3: Thiết kế chuyển động và Hậu kỳ với Canva AI**
 
 - **Quá trình:** Tôi upload hình ảnh, lời bình đã thu âm lên Canva. Sử dụng _Magic Animate_ để tạo hiệu ứng xuất hiện cho các block text và _Beat Sync_ để khớp các cảnh quay với nhịp điệu nhạc nền.
-    
 - **Kết quả & Chỉnh sửa (Tích hợp sáng tạo):** Chức năng AI của Canva giúp tiết kiệm thời gian tạo keyframe. Dù vậy, AI cắt cảnh đôi lúc bị lệch nhịp so với lời thuyết trình. Tôi đã phải can thiệp thủ công trên timeline, điều chỉnh lại nhịp độ cắt cảnh (pacing) và áp dụng các quy tắc về bố cục 1/3 để các dòng text không che khuất chủ thể bức ảnh.
-    
 
 > _[Chèn Ảnh 5: Ảnh chụp không gian làm việc của Canva, hiển thị timeline video, các lớp âm thanh, hình ảnh và công cụ Magic Animate đang được kích hoạt]_
 
