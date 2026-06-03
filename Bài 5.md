@@ -44,9 +44,7 @@ Mặc dù AI giúp tiết kiệm đáng kể thời gian (khoảng 30-50% khối
 - **Kết quả & Chỉnh sửa (Tích hợp sáng tạo):** Copilot cung cấp các hình ảnh rất bắt mắt. Tuy nhiên, một số hình ảnh có chứa các đoạn văn bản (text) vô nghĩa do AI tự bịa ra. Tôi đã phải đưa ảnh qua phần mềm chỉnh sửa để xóa các chi tiết rác này, đồng thời ghép thêm logo của nhóm và cân chỉnh lại tỷ lệ khung hình (16:9) để phù hợp với video thuyết trình.
     
 
-> _[Chèn Ảnh 3: Ảnh chụp màn hình prompt tạo ảnh trên Copilot]_
-> 
-> _[Chèn Ảnh 4: Ảnh so sánh hình ảnh gốc của Copilot và hình ảnh đã được tôi chỉnh sửa lại để dùng cho video]_
+![](Assets/Pasted%20image%2020260603170111.png)
 
 **3. Giai đoạn 3: Hậu kỳ Video với Microsoft Clipchamp**
 
