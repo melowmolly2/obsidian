@@ -26,7 +26,6 @@
 |**5**|[_CI/CD Pipeline Optimization Using AI: A Systematic Mapping Study_ (2024)](https://www.mdpi.com/2673-4591/112/1/32) |Nghiên cứu bản đồ hệ thống (Systematic Mapping Study) nhằm phân loại các phương pháp AI. |Tập hợp các bài báo và báo cáo khoa học chất lượng cao về AI trong DevOps.|Tổng hợp lại một bức tranh toàn cảnh về cách các nhà nghiên cứu đang chuyển đổi môi trường CI/CD từ tự động hóa thuần túy sang hệ thống tự tối ưu và tự phát hiện lỗi.|Do là nghiên cứu tổng quan định tính, bài báo không trực tiếp cung cấp các file thực thi hoặc thuật toán sẵn có để áp dụng ngay.||
 
 
-
 ### IV. NHẬN XÉT VÀ PHÂN TÍCH TỔNG HỢP
 Dựa trên kết quả trích xuất tự động từ công cụ Consensus và phân tích chéo 6 bài báo trên, tôi rút ra các kết luận sâu sắc sau:
 1. **Sự dịch chuyển về công nghệ:** Đang có một sự chuyển dịch rõ rệt từ các mô hình học máy truyền thống (như SVM, Decision Trees ở các bài số 5, 6) sang các kiến trúc học sâu hiện đại (Deep Learning, Transformers ở bài số 3, 4) để xử lý dữ liệu phi cấu trúc như log file trong CI/CD.    
