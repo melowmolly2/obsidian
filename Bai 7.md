@@ -13,6 +13,8 @@
 - **Công cụ sử dụng:** Consensus (Công cụ AI chuyên tìm kiếm và trích xuất dữ liệu trực tiếp từ các bài báo khoa học đã qua bình duyệt - peer-reviewed).
 - **Câu lệnh (Query) đã sử dụng:** _"Machine learning models for build failure prediction and test case prioritization in continuous integration"_
 - **Kết quả:** AI đã quét qua cơ sở dữ liệu hàng triệu bài báo. Dựa trên tính năng lọc của Consensus (lọc bài báo từ năm 2021 trở lại đây, có trích dẫn cao), tôi đã chọn ra được **6 bài báo** (vượt yêu cầu 5 bài) có liên quan chặt chẽ nhất đến chủ đề hẹp đã chọn.
+![](Assets/Pasted%20image%2020260604104217.png)
+
 ### III. BẢNG TRÍCH XUẤT VÀ TỔNG HỢP THÔNG TIN
 
 | **STT** | **Tên bài báo & Năm xuất bản**                                             | **Phương pháp / Mô hình AI sử dụng**                           | **Tập dữ liệu / Quy mô mẫu (Sample Size)**                                   | **Kết quả nghiên cứu chính**                                                                     | **Hạn chế / Vấn đề còn tồn đọng**                                                             |
