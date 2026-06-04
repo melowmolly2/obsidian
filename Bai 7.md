@@ -17,7 +17,7 @@
 
 ### III. BẢNG TRÍCH XUẤT VÀ TỔNG HỢP THÔNG TIN (5 TIÊU CHÍ)
 
-|**STT**|**Tên bài báo & Năm xuất bản** |**Link** |**Phương pháp / Mô hình AI sử dụng**|**Tập dữ liệu / Quy mô mẫu (Sample Size)**|**Kết quả nghiên cứu chính**|**Hạn chế / Vấn đề còn tồn đọng**|
+|**STT**|**Tên bài báo & Năm xuất bản**|**Link**|**Phương pháp / Mô hình AI sử dụng**|**Tập dữ liệu / Quy mô mẫu (Sample Size)**|**Kết quả nghiên cứu chính**|**Hạn chế / Vấn đề còn tồn đọng**|
 |---|---|---|---|---|---|---|
 |**1**|_Optimizing continuous integration and continuous deployment pipelines with machine learning: Enhancing performance and predicting failures_ (2025)|https://www.astrj.com/pdf-197406-120644 |Học máy với mô hình Support Vector Machine (SVM).|Các dữ liệu nhật ký hệ thống (build logs), kết quả test và thông số hiệu năng phần cứng.|Giảm 33% thời gian chạy bản build và giảm tới 60% tỷ lệ lỗi (failure rates), đồng thời tối ưu hóa mức sử dụng CPU và bộ nhớ.|Việc tối ưu hóa bằng ML cần phải là các khung động (dynamic frameworks) để cải tiến liên tục nhằm theo kịp môi trường DevOps.|
 |**2**|_Machine Learning for Test Case Prioritization in Continuous Integration: A Comprehensive Analysis_ (2026)|https://www.researchgate.net/publication/380595426_Machine_Learning_for_Test_Case_Prioritization_in_Continuous_Integration_A_Comprehensive_Analysis |So sánh nhiều mô hình phân loại: k-nearest Neighbors (KNN), Random Forest, SVM, Gradient Boosting, và Logistic Regression. |Khối lượng lớn dữ liệu lịch sử (historical data) thu thập từ các lần commit code lặp lại.|Hiệu suất của các mô hình thay đổi đáng kể tùy thuộc vào kích thước dữ liệu lịch sử và quỹ thời gian thực thi (time budgets).|Phải được cấu hình vô cùng cẩn thận (carefully configured) để đạt mức hiệu suất tối ưu cho từng dự án.|
