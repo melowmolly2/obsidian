@@ -32,7 +32,6 @@ So với chính sách của một số trường đại học quốc tế (nơi 
 Ngay khi đọc đầu ra của AI, tôi nhận thấy một **lỗi sai toán học nghiêm trọng về chiều của bất đẳng thức**. AI đã bị ảo giác (hallucination) khi đảo ngược logic của bất đẳng thức tam giác.
 - _Cách chỉnh sửa:_ Tôi đã loại bỏ hoàn toàn suy luận sai lệch này của AI. Tôi tự phân tích và lập luận lại trên giấy nháp, sau đó đính chính lại công thức chuẩn xác là: **$|f(x)| + |f(0)| \ge |f(x) - f(0)|$**.
 - _Tích hợp:_ Tôi chỉ sử dụng phần giải thích khái niệm mở đầu của AI, còn toàn bộ các bước biến đổi công thức và kết luận logic đều do tôi tự xây dựng dựa trên nguyên lý toán học chuẩn xác.
-    
 
 **4. Trích dẫn minh bạch:**
 
