@@ -15,11 +15,8 @@
 Để tối ưu hóa quy trình làm việc, em đã sử dụng kết hợp 3 công cụ AI:
 
 - **Công cụ AI tạo văn bản:** Gemini (Hỗ trợ lên ý tưởng và viết kịch bản thuyết trình).
-    
 - **Công cụ AI tạo hình ảnh:** Microsoft Copilot (Tạo tư liệu hình ảnh minh họa cho video).
-    
 - **Công cụ AI hỗ trợ thiết kế/Video:** Microsoft Clipchamp (Tự động tạo phụ đề và xử lý âm thanh).
-    
 
 ## II. QUÁ TRÌNH SÁNG TẠO VÀ TÍCH HỢP (Đóng góp cá nhân > 50%)
 
@@ -28,7 +25,6 @@ Mặc dù AI giúp tiết kiệm đáng kể thời gian (khoảng 30-50% khối
 **1. Giai đoạn 1: Xây dựng kịch bản với Gemini**
 
 - **Prompt đã sử dụng:** _"Hãy liệt kê ít nhất 10 ứng dụng phổ biến của AI trong lĩnh vực khoa học tự nhiên và kỹ thuật – công nghệ."_
-    
 - **Kết quả & Chỉnh sửa (Tích hợp sáng tạo):** Từ 10 gợi ý của Gemini, em và nhóm đã chắt lọc lại thành 2 ứng dụng trọng tâm nhất để đi sâu phân tích (cách thức, lợi ích và thách thức). Trong quá trình AI sinh kịch bản chi tiết về ứng dụng của AI trong giải toán học tự nhiên, Gemini đã đưa ra một suy luận sai về bất đẳng thức giá trị tuyệt đối. Em đã phải trực tiếp can thiệp và sửa lại thành công thức chuẩn xác là $|f(x)|+|f(0)|\ge|f(x)-f(0)|$ để kịch bản thuyết trình không bị sai lệch kiến thức. Ngoài ra, Gemini gặp lỗi hiển thị khi xuất kịch bản, AI chỉ cho mỗi phần 1 vào trong file Markdown, còn lại vẫn để ở định dạng thường khiến nhóm khó sao chép. Em đã phải định dạng lại toàn bộ văn bản thủ công trước khi đưa lên tài liệu chung.
 ![](Assets/Pasted%20image%2020260603162207.png)
 ![](Assets/Pasted%20image%2020260603163319.png)
