@@ -50,8 +50,8 @@ Hệ thống được thiết kế theo mô hình **Client-Server**, giao tiếp
 
 ### 3.3. Xử lý Đấu giá đồng thời (Concurrent Bidding) và Auto-bid
 * **Chức năng:** Nhiều Client đặt giá cùng lúc; hệ thống tự động đặt giá hộ người dùng (Auto-bid) theo giới hạn thiết lập trước.
-* **Hướng giải quyết:** Tại `AuctionService` và `BidService`, áp dụng cơ chế khóa (locking) hoặc đồng bộ hóa (synchronization) ở mức Database/Object khi cập nhật giá `Item` và tạo `Bid`. Với Auto-bid, server duyệt qua danh sách các cài đặt Auto-bid hợp lệ và tự động sinh ra các lượt đấu giá (Bid) ngay khi giá sản phẩm thay đổi.
-* **Lý do lựa chọn:** Ngăn chặn tình trạng Race Condition (nhiều người cùng mua ở một mức giá). Logic Auto-bid đặt tại Server giúp đảm bảo tính tức thời, không phụ thuộc vào tình trạng mạng của Client.
+* **Hướng giải quyết:** Tận dụng cơ chế xử lý đa luồng tự động của Spring Boot (mỗi request HTTP được cấp phát một luồng riêng) kết hợp với annotation `@Transactional` tại tầng Service (`AuctionService`, `BidService`). Quá trình đảm bảo toàn vẹn dữ liệu khi nhiều người cùng đặt giá được giao phó cho cơ chế quản lý giao dịch của Spring Data JPA và Database, không cần thiết lập đồng bộ hóa (manual synchronization) thủ công. Đối với Auto-bid, server tự động kiểm tra và sinh các lượt đặt giá ngay trong luồng giao dịch khi giá sản phẩm thay đổi.
+* **Lý do lựa chọn:** Tận dụng tối đa sức mạnh và các tiêu chuẩn của framework Spring Boot. Phương pháp này giúp mã nguồn gọn nhẹ (clean code), dễ bảo trì và tránh được các nguy cơ như thắt nút cổ chai hiệu năng (bottleneck) hay deadlock thường gặp nếu tự implement các cơ chế lock bằng tay.
 
 ### 3.4. Quản lý lỗi toàn cục (Global Exception Handling)
 * **Chức năng:** Trả về mã lỗi HTTP chuẩn và thông báo thân thiện.
