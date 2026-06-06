@@ -6,77 +6,22 @@
 
 ## 1. Giới thiệu mục tiêu và phạm vi thực hiện
 **Mục tiêu:** 
-Xây dựng nền tảng đấu giá trực tuyến hoàn chỉnh theo mô hình Client-Server [4], áp dụng triệt để các nguyên lý Lập trình hướng đối tượng (OOP) như kế thừa, đa hình, đóng gói [4]. Đồng thời, hệ thống triển khai các mẫu thiết kế (Design Patterns) như MVC, Observer, Singleton để giải quyết các bài toán kỹ thuật nâng cao về xử lý đồng thời (Concurrent Bidding) và cập nhật thời gian thực (Realtime Update) [5-8].
+Xây dựng nền tảng đấu giá trực tuyến hoàn chỉnh theo mô hình Client-Server, áp dụng triệt để các nguyên lý Lập trình hướng đối tượng (OOP) như kế thừa, đa hình, đóng gói. Đồng thời, hệ thống triển khai các mẫu thiết kế (Design Patterns) như MVC, Observer, Singleton để giải quyết các bài toán kỹ thuật nâng cao về xử lý đồng thời (Concurrent Bidding) và cập nhật thời gian thực (Realtime Update).
 
 **Phạm vi hệ thống:**
-Hệ thống cho phép người dùng đăng ký, đăng nhập và hoạt động dưới 3 vai trò chính [9]:
-*   **Admin:** Quản lý toàn bộ hệ thống, kiểm duyệt/ban người dùng [9, 10].
-*   **Seller:** Đăng bán vật phẩm, quản lý phiên đấu giá [9].
-*   **Bidder:** Tham gia đặt giá cạnh tranh, sử dụng tính năng đấu giá tự động (Auto-bidding) và theo dõi lịch sử giá [2, 5, 9].
+Hệ thống cho phép người dùng đăng ký, đăng nhập và hoạt động dưới 3 vai trò chính:
+*   **Admin:** Quản lý toàn bộ hệ thống, kiểm duyệt/ban người dùng.
+*   **Seller:** Đăng bán vật phẩm, quản lý phiên đấu giá.
+*   **Bidder:** Tham gia đặt giá cạnh tranh, sử dụng tính năng đấu giá tự động (Auto-bidding) và theo dõi lịch sử giá.
 
 ---
 
 ## 2. Kiến trúc tổng thể của hệ thống
 Hệ thống tuân thủ kiến trúc **Client-Server** kết hợp mô hình **MVC** ở cả hai phía, đảm bảo tính tách biệt rành mạch giữa giao diện và logic dữ liệu [4, 11].
 
+![](Assets/Pasted%20image%2020260606204423.png)
 
 
-```mermaid
-flowchart TD
-    %% TẦNG 1: FRONTEND UI
-    subgraph Layer1 [1. Tầng Giao Diện Client - JavaFX]
-        direction TB
-        UI_Auth(LoginPage / RegisterPage) ~~~ UI_Admin(AdminPage)
-        UI_Admin ~~~ UI_Seller(SellerViewPage)
-        UI_Seller ~~~ UI_Bidder(BidderViewPage)
-    end
-
-    %% TẦNG 2: FRONTEND NETWORK
-    subgraph Layer2 [2. Tầng Mạng Client]
-        direction TB
-        Net_Req(ApiClient / AuctionApi) ~~~ Net_Listen(Price / Balance StreamListener)
-    end
-
-    %% TẦNG 3: BACKEND CONTROLLER
-    subgraph Layer3 [3. Tầng API Controllers - Spring Boot]
-        direction TB
-        Ctrl_Auth(AuthController) ~~~ Ctrl_Admin(AdminController)
-        Ctrl_Admin ~~~ Ctrl_Auction(AuctionController / BidController)
-        Ctrl_Auction ~~~ Ctrl_Item(ItemController)
-    end
-
-    %% TẦNG 4: BACKEND SERVICE & SINK
-    subgraph Layer4 [4. Tầng Dịch Vụ & Luồng - Spring Boot]
-        direction TB
-        Svc_Auth(AuthService) ~~~ Svc_Admin(AdminService)
-        Svc_Admin ~~~ Svc_Auction(AuctionService & BidService)
-        Svc_Auction ~~~ Svc_Item(ItemService)
-        Svc_Item ~~~ Sinks[[Sinks: ItemPrices / UserBalance]]
-    end
-
-    %% TẦNG 5: BACKEND DATABASE
-    subgraph Layer5 [5. Tầng Cơ Sở Dữ Liệu]
-        direction TB
-        DB[(Cơ Sở Dữ Liệu / JPA Repositories)]
-    end
-
-    %% LUỒNG GIAO TIẾP
-    Layer1 -->|1. Thao tác| Layer2
-    Layer2 == "2. Gửi REST API (HTTP)" ==> Layer3
-    Layer3 -->|3. Điều phối| Layer4
-    Layer4 -->|4. Truy xuất / Cập nhật| Layer5
-
-    %% LUỒNG REAL-TIME
-    Layer4 -. "5. Đẩy Luồng (SSE)" .-> Layer2
-    Layer2 -. "6. Tự động cập nhật" .-> Layer1
-
-    classDef clientLayer fill:#e3f2fd,stroke:#1565c0,stroke-width:2px;
-    classDef serverLayer fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px;
-    classDef dbLayer fill:#fff3e0,stroke:#ef6c00,stroke-width:2px;
-    class Layer1,Layer2 clientLayer;
-    class Layer3,Layer4 serverLayer;
-    class Layer5 dbLayer;
-````
 
 **Mô tả kiến trúc:**
 
