@@ -1,8 +1,10 @@
 # BÁO CÁO BÀI TẬP LỚN MÔN LẬP TRÌNH NÂNG CAO
 **Tên đề tài:** Hệ thống Đấu giá Trực tuyến (Online Auction System)
-**Nhóm môn học:** [Điền mã lớp/nhóm]
-**Thành viên nhóm:** 1. [Tên thành viên 1] - [MSSV 1]
-2. [Tên thành viên 2] - [MSSV 2]
+**Nhóm**: 1
+**Thành viên nhóm:** 1. Nguyễn Duy Anh
+2. Nguyễn Anh Quân
+3. Phạm Thiên Minh
+4. Đinh Xuân Thông
 
 ---
 ```mermaid
