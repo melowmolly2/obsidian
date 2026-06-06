@@ -5,7 +5,8 @@
 2. [Tên thành viên 2] - [MSSV 2]
 
 ---
-<div style="zoom: 0.6;">
+<div style="zoom: 0.3;">
+
 ```mermaid
 graph TD
     subgraph Client [Frontend - JavaFX Client]
@@ -77,8 +78,9 @@ graph TD
     class Client client;
     class Server server;
     class Database db;
-
 ```
+
+
 </div>
 ## 1. Giới thiệu mục tiêu và phạm vi thực hiện
 
