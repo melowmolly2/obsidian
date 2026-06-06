@@ -6,7 +6,6 @@
 
 ---
 <div style="zoom: 0.3;">
-
 ```mermaid
 graph TD
     subgraph Client [Frontend - JavaFX Client]
@@ -79,9 +78,158 @@ graph TD
     class Server server;
     class Database db;
 ```
-
-
 </div>
+
+```mermaid
+%%{init: {"flowchart": {"defaultRenderer": "elk"}}}%%
+
+graph TD
+
+    %% Layout configuration
+
+    %% Smaller, compact layout
+
+    %% Keeping logical grouping intact
+
+    subgraph Client [Frontend - JavaFX Client]
+
+        direction TB
+
+        subgraph UI [Giao diện Người dùng]
+
+            A1(LoginPage / RegisterPage)
+
+            A2(AdminPage)
+
+            A3(SellerViewPage)
+
+            A4(BidderViewPage)
+
+        end
+
+  
+
+        subgraph Network [Giao tiếp Mạng]
+
+            B1(ApiClient / AuctionApi)
+
+            B2(PriceStreamListener)
+
+            B3(BalanceStreamListener)
+
+        end
+
+  
+
+        UI -->|Gửi yêu cầu| B1
+
+        B2 -.->|Cập nhật giao diện| UI
+
+        B3 -.->|Cập nhật giao diện| UI
+
+    end
+
+  
+
+    subgraph Server [Backend - Spring Boot Server]
+
+        direction TB
+
+        subgraph Controllers [REST API Controllers]
+
+            C1(AuthController)
+
+            C2(AdminController)
+
+            C3(AuctionController / BidController)
+
+            C4(ItemController)
+
+        end
+
+  
+
+        subgraph Services [Business Logic & Concurrency]
+
+            D1(AuthService & JWT)
+
+            D2(AuctionService & BidService)
+
+            D3(ItemService)
+
+        end
+
+  
+
+        subgraph Sinks [Real-time Streaming]
+
+            E1(ItemPricesSink)
+
+            E2(UserBalanceSink)
+
+        end
+
+  
+
+        subgraph Database [Cơ sở dữ liệu]
+
+            DB[(Repositories)]
+
+        end
+
+  
+
+        C1 --> D1
+
+        C2 --> D2
+
+        C3 --> D2
+
+        C4 --> D3
+
+  
+
+        D1 --> DB
+
+        D2 --> DB
+
+        D3 --> DB
+
+  
+
+        D2 -->|Kích hoạt thay đổi giá| E1
+
+        D2 -->|Kích hoạt thay đổi số dư| E2
+
+    end
+
+  
+
+    %% Luồng giao tiếp Client - Server
+
+    B1 ==>|HTTP Requests| Controllers
+
+    E1 -.->|Server-Sent Events| B2
+
+    E2 -.->|Server-Sent Events| B3
+
+  
+
+    classDef client fill:#e1f5fe,stroke:#01579b,stroke-width:1px;
+
+    classDef server fill:#e8f5e9,stroke:#1b5e20,stroke-width:1px;
+
+    classDef db fill:#fff3e0,stroke:#e65100,stroke-width:1px;
+
+  
+
+    class Client client;
+
+    class Server server;
+
+    class Database db;
+```
+
 ## 1. Giới thiệu mục tiêu và phạm vi thực hiện
 
 **Mục tiêu:** Xây dựng một nền tảng đấu giá trực tuyến hoạt động theo mô hình Client-Server. Hệ thống cho phép người dùng đóng vai trò là cả người bán (Seller) và người mua (Bidder), đảm bảo tính minh bạch, nhanh chóng và an toàn trong các giao dịch đấu giá. 
