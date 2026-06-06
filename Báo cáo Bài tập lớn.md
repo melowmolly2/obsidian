@@ -17,9 +17,8 @@ Hệ thống cho phép người dùng đăng ký, đăng nhập và hoạt độ
 ---
 
 ## 2. Kiến trúc tổng thể của hệ thống
-Hệ thống tuân thủ kiến trúc **Client-Server** kết hợp mô hình **MVC** ở cả hai phía, đảm bảo tính tách biệt rành mạch giữa giao diện và logic dữ liệu [4, 11].
-
-![](Assets/Pasted%20image%2020260606204423.png)
+Hệ thống tuân thủ kiến trúc **Client-Server** kết hợp mô hình **MVC** ở cả hai phía, đảm bảo tính tách biệt rành mạch giữa giao diện và logic dữ liệu.
+![](Assets/Pasted%20image%2020260606205246.png)
 
 
 
