@@ -25,7 +25,7 @@
 
 Hệ thống được thiết kế theo mô hình **Client-Server**, giao tiếp thông qua RESTful API và Server-Sent Events (SSE) để truyền dữ liệu thời gian thực.
 
-*(Nhóm có thể vẽ một sơ đồ khối bằng Draw.io hoặc PlantUML và chèn hình ảnh vào đây: `![Sơ đồ kiến trúc](link_anh)`)*
+![](Assets/JavaFX%20Client%20Auction%20Flow-2026-06-06-132949%201.svg)
 
 **Mô tả kiến trúc:**
 * **Backend (Spring Boot):** Xây dựng theo kiến trúc đa tầng (Controller - Service - Repository). 
