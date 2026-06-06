@@ -1,73 +1,128 @@
+
 # BÁO CÁO BÀI TẬP LỚN MÔN LẬP TRÌNH NÂNG CAO
-**Tên đề tài:** Hệ thống Đấu giá Trực tuyến (Online Auction System)
-**Nhóm**: 1
-**Thành viên nhóm:** 1. Nguyễn Duy Anh
-2. Nguyễn Anh Quân
-3. Phạm Thiên Minh
-4. Đinh Xuân Thông
+**Đề tài:** Phát triển hệ thống đấu giá trực tuyến (Online Auction System)
 
 ---
 
 ## 1. Giới thiệu mục tiêu và phạm vi thực hiện
+**Mục tiêu:** 
+Xây dựng nền tảng đấu giá trực tuyến hoàn chỉnh theo mô hình Client-Server [4], áp dụng triệt để các nguyên lý Lập trình hướng đối tượng (OOP) như kế thừa, đa hình, đóng gói [4]. Đồng thời, hệ thống triển khai các mẫu thiết kế (Design Patterns) như MVC, Observer, Singleton để giải quyết các bài toán kỹ thuật nâng cao về xử lý đồng thời (Concurrent Bidding) và cập nhật thời gian thực (Realtime Update) [5-8].
 
-**Mục tiêu:** Xây dựng một nền tảng đấu giá trực tuyến hoạt động theo mô hình Client-Server. Hệ thống cho phép người dùng đóng vai trò là cả người bán (Seller) và người mua (Bidder), đảm bảo tính minh bạch, nhanh chóng và an toàn trong các giao dịch đấu giá. 
-
-**Phạm vi thực hiện:**
-* **Quản lý người dùng:** Đăng ký, đăng nhập (bảo mật qua JWT), nạp tiền vào tài khoản.
-* **Quản lý phiên đấu giá:** Tạo phiên đấu giá mới, cài đặt thời gian và giá khởi điểm.
-* **Chức năng đấu giá:** Cho phép người dùng đặt giá thủ công (Manual Bid) hoặc thiết lập tự động đặt giá (Auto-Bid).
-* **Cập nhật thời gian thực:** Đồng bộ hóa giá đấu hiện tại và số dư tài khoản của người dùng ngay lập tức (Real-time update) mà không cần tải lại trang.
-* **Quản trị viên (Admin):** Quản lý, theo dõi danh sách người dùng và thực hiện cấm (Ban) hoặc gỡ cấm (Unban) các tài khoản vi phạm.
+**Phạm vi hệ thống:**
+Hệ thống cho phép người dùng đăng ký, đăng nhập và hoạt động dưới 3 vai trò chính [9]:
+*   **Admin:** Quản lý toàn bộ hệ thống, kiểm duyệt/ban người dùng [9, 10].
+*   **Seller:** Đăng bán vật phẩm, quản lý phiên đấu giá [9].
+*   **Bidder:** Tham gia đặt giá cạnh tranh, sử dụng tính năng đấu giá tự động (Auto-bidding) và theo dõi lịch sử giá [2, 5, 9].
 
 ---
 
 ## 2. Kiến trúc tổng thể của hệ thống
+Hệ thống tuân thủ kiến trúc **Client-Server** kết hợp mô hình **MVC** ở cả hai phía, đảm bảo tính tách biệt rành mạch giữa giao diện và logic dữ liệu [4, 11].
 
-Hệ thống được thiết kế theo mô hình **Client-Server**, giao tiếp thông qua RESTful API và Server-Sent Events (SSE) để truyền dữ liệu thời gian thực.
 
 
+```mermaid
+flowchart TD
+    %% TẦNG 1: FRONTEND UI
+    subgraph Layer1 [1. Tầng Giao Diện Client - JavaFX]
+        direction TB
+        UI_Auth(LoginPage / RegisterPage) ~~~ UI_Admin(AdminPage)
+        UI_Admin ~~~ UI_Seller(SellerViewPage)
+        UI_Seller ~~~ UI_Bidder(BidderViewPage)
+    end
+
+    %% TẦNG 2: FRONTEND NETWORK
+    subgraph Layer2 [2. Tầng Mạng Client]
+        direction TB
+        Net_Req(ApiClient / AuctionApi) ~~~ Net_Listen(Price / Balance StreamListener)
+    end
+
+    %% TẦNG 3: BACKEND CONTROLLER
+    subgraph Layer3 [3. Tầng API Controllers - Spring Boot]
+        direction TB
+        Ctrl_Auth(AuthController) ~~~ Ctrl_Admin(AdminController)
+        Ctrl_Admin ~~~ Ctrl_Auction(AuctionController / BidController)
+        Ctrl_Auction ~~~ Ctrl_Item(ItemController)
+    end
+
+    %% TẦNG 4: BACKEND SERVICE & SINK
+    subgraph Layer4 [4. Tầng Dịch Vụ & Luồng - Spring Boot]
+        direction TB
+        Svc_Auth(AuthService) ~~~ Svc_Admin(AdminService)
+        Svc_Admin ~~~ Svc_Auction(AuctionService & BidService)
+        Svc_Auction ~~~ Svc_Item(ItemService)
+        Svc_Item ~~~ Sinks[[Sinks: ItemPrices / UserBalance]]
+    end
+
+    %% TẦNG 5: BACKEND DATABASE
+    subgraph Layer5 [5. Tầng Cơ Sở Dữ Liệu]
+        direction TB
+        DB[(Cơ Sở Dữ Liệu / JPA Repositories)]
+    end
+
+    %% LUỒNG GIAO TIẾP
+    Layer1 -->|1. Thao tác| Layer2
+    Layer2 == "2. Gửi REST API (HTTP)" ==> Layer3
+    Layer3 -->|3. Điều phối| Layer4
+    Layer4 -->|4. Truy xuất / Cập nhật| Layer5
+
+    %% LUỒNG REAL-TIME
+    Layer4 -. "5. Đẩy Luồng (SSE)" .-> Layer2
+    Layer2 -. "6. Tự động cập nhật" .-> Layer1
+
+    classDef clientLayer fill:#e3f2fd,stroke:#1565c0,stroke-width:2px;
+    classDef serverLayer fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px;
+    classDef dbLayer fill:#fff3e0,stroke:#ef6c00,stroke-width:2px;
+    class Layer1,Layer2 clientLayer;
+    class Layer3,Layer4 serverLayer;
+    class Layer5 dbLayer;
+````
 
 **Mô tả kiến trúc:**
-* **Backend (Spring Boot):** Xây dựng theo kiến trúc đa tầng (Controller - Service - Repository). 
-    * **Tầng Security & Auth:** Quản lý truy cập bằng `JwtSecurityFilter`, cấp phát Access Token và Refresh Token qua `AuthService`.
-    * **Tầng Business Logic:** Xử lý nghiệp vụ lõi như đấu giá (`BidService`, `AuctionService`), quản lý sản phẩm (`ItemService`), và quản lý người dùng (`UserService`).
-    * **Tầng Real-time (Sinks):** Sử dụng cơ chế Pub/Sub nội bộ (`ItemPricesSink`, `UserBalanceSink`) để đẩy dữ liệu thời gian thực (SSE) xuống Client khi có sự thay đổi về giá hoặc số dư.
-* **Frontend (JavaFX):** Ứng dụng mô hình MVC (Model-View-Controller).
-    * **Giao diện (View & Controller):** Tách biệt các màn hình (Login, Dashboard, BidderView, SellerView, Admin) bằng file FXML và Controller tương ứng.
-    * **Tầng Network:** Quản lý giao tiếp HTTP qua `ApiClient` và `AuthInterceptor` (tự động đính kèm Token). Luồng thời gian thực được lắng nghe và xử lý bởi `PriceStreamListener` và `BalanceStreamListener`.
 
----
+- **Phía Client (JavaFX):** Tầng UI hiển thị giao diện qua các file FXML. Tầng Mạng (`ApiClient`) sử dụng giao thức REST để gửi Request chủ động. Hai bộ lắng nghe (`PriceStreamListener`, `BalanceStreamListener`) duy trì kết nối để nhận luồng dữ liệu thời gian thực.
+- **Phía Server (Spring Boot):** Xử lý toàn bộ logic nghiệp vụ (Auth, Bids, Items). Chỉ có Server mới được quyền truy xuất cơ sở dữ liệu qua Spring Data JPA (`Repository`).
+- **Luồng Real-time:** Khi có giao dịch thành công làm thay đổi dữ liệu, tầng Service sẽ kích hoạt các Sinks (`ItemPricesSink`, `UserBalanceSink`) để lập tức đẩy Server-Sent Events (SSE) về Client.
 
-## 3. Các chức năng đạt được và Hướng giải quyết
+--------------------------------------------------------------------------------
 
-### 3.1. Xác thực và Phân quyền (Authentication & Authorization)
-* **Chức năng:** Đăng nhập, đăng ký, duy trì phiên đăng nhập an toàn và phân quyền Admin/User.
-* **Hướng giải quyết:** Sử dụng JSON Web Token (JWT) kết hợp cơ chế Access Token (ngắn hạn) và Refresh Token (dài hạn). Tại Frontend, sử dụng `AuthInterceptor` chặn các request để đính kèm token.
-* **Lý do lựa chọn:** JWT giúp hệ thống hoạt động phi trạng thái (stateless), giảm tải cho bộ nhớ Server. Cơ chế Refresh Token giúp nâng cao bảo mật, tự động cấp lại phiên làm việc mà không bắt người dùng đăng nhập liên tục.
+## 3. Các chức năng đạt được, hướng giải quyết và lý do
 
-### 3.2. Cập nhật thời gian thực (Real-time Update)
-* **Chức năng:** Hiển thị ngay lập tức giá đang đấu cao nhất và số dư tài khoản khi có thay đổi.
-* **Hướng giải quyết:** Triển khai **Server-Sent Events (SSE)**. Backend tạo các Sink (`ItemPricesSink`, `UserBalanceSink`) để phát sự kiện một chiều xuống Frontend. Frontend dùng các lớp Listener (`PriceStreamListener`, `BalanceStreamListener`) để bắt luồng dữ liệu và cập nhật UI thông qua `Platform.runLater()`.
-* **Lý do lựa chọn:** Giao tiếp một chiều từ Server xuống Client phù hợp với bài toán cập nhật thông báo/giá cả. Nhẹ và tốn ít tài nguyên Server hơn so với WebSocket (giao tiếp hai chiều) hay Long-polling.
+3.1. Các chức năng cốt lõi bắt buộc
 
-### 3.3. Xử lý Đấu giá đồng thời (Concurrent Bidding) và Auto-bid
-* **Chức năng:** Nhiều Client đặt giá cùng lúc; hệ thống tự động đặt giá hộ người dùng (Auto-bid) theo giới hạn thiết lập trước.
-* **Hướng giải quyết:** Tận dụng cơ chế xử lý đa luồng tự động của Spring Boot (mỗi request HTTP được cấp phát một luồng riêng) kết hợp với annotation `@Transactional` tại tầng Service (`AuctionService`, `BidService`). Quá trình đảm bảo toàn vẹn dữ liệu khi nhiều người cùng đặt giá được giao phó cho cơ chế quản lý giao dịch của Spring Data JPA và Database, không cần thiết lập đồng bộ hóa (manual synchronization) thủ công. Đối với Auto-bid, server tự động kiểm tra và sinh các lượt đặt giá ngay trong luồng giao dịch khi giá sản phẩm thay đổi.
-* **Lý do lựa chọn:** Tận dụng tối đa sức mạnh và các tiêu chuẩn của framework Spring Boot. Phương pháp này giúp mã nguồn gọn nhẹ (clean code), dễ bảo trì và tránh được các nguy cơ như thắt nút cổ chai hiệu năng (bottleneck) hay deadlock thường gặp nếu tự implement các cơ chế lock bằng tay.
+- **Quản lý người dùng & Sản phẩm:** Phân quyền chặt chẽ bằng JWT. Kế thừa tính năng theo OOP (`Bidder`, `Seller`, `Admin` extends `User`). Quản lý luồng vòng đời sản phẩm nghiêm ngặt qua 3 trạng thái: `OPEN → RUNNING → FINISHED`.
+- **Giao diện người dùng (GUI):** Xây dựng hoàn thiện bằng JavaFX. Tách biệt rõ ràng các màn hình như Dashboard (`DashboardTab`), Danh sách phiên (`BrowseTab`), Quản lý của Seller (`MySaleTab`) và Màn hình đấu giá trực tiếp (`BidderViewPage`, `SellerViewPage`), giúp trải nghiệm mượt mà.
+- **Xử lý Ngoại lệ (Global Exception):** Chủ động bắt các lỗi thao tác như "đặt giá thấp hơn giá hiện tại", "đấu giá phiên đã đóng" hoặc lỗi kết nối, đảm bảo ứng dụng không bị crash.
 
-### 3.4. Quản lý lỗi toàn cục (Global Exception Handling)
-* **Chức năng:** Trả về mã lỗi HTTP chuẩn và thông báo thân thiện.
-* **Hướng giải quyết:** Sử dụng `@RestControllerAdvice` (`GlobalExceptionHandler`) tại Backend để gom tất cả các Exception (như Token hết hạn, sai định dạng) và trả về `BaseResponse`.
-* **Lý do lựa chọn:** Mã nguồn sạch hơn, dễ dàng cho Frontend parse lỗi và hiển thị lên `NotificationPopup` thống nhất.
+3.2. Xử lý Đấu giá Đồng thời (Concurrent Bidding)
 
----
+- **Yêu cầu:** Giải quyết vấn đề nhiều Bidder đặt giá cùng một mili-giây, ngăn chặn rủi ro _Lost update_, rollback sai hoặc hai người cùng thắng.
+- **Hướng giải quyết:** Thay vì tự triển khai đồng bộ hóa thủ công (`synchronized`), hệ thống khai thác sức mạnh của framework Spring Boot. Mỗi REST request gọi lên được xử lý bằng một luồng độc lập trong Thread-pool của Tomcat. Logic giao dịch được bọc bởi annotation `@Transactional` kết hợp cơ chế khóa (Lock) của cơ sở dữ liệu.
+- **Lý do:** Cách tiếp cận này tận dụng hệ sinh thái sẵn có để đảm bảo tính ACID cho dữ liệu, tránh rủi ro Deadlock và tối ưu hóa hiệu suất so với việc lock luồng thủ công ở mức ứng dụng.
 
-## 4. Phân chia công việc
+3.3. Cập nhật dữ liệu thời gian thực (Realtime Update)
 
-| Họ và Tên | MSSV | Nhiệm vụ thực hiện | Tỷ lệ hoàn thành |
-| :--- | :--- | :--- | :---: |
-| [Tên SV 1] | [Mã 1] | **Backend:** Dựng Base, Auth (JWT), User, API Đấu giá. Thiết lập luồng Realtime (SSE Sinks). Viết README. | 100% |
-| [Tên SV 2] | [Mã 2] | **Backend:** Xử lý logic Auto-bid, API Admin. **Frontend:** Dựng kiến trúc JavaFX, Network, Login/Register. | 100% |
-| [Tên SV 3] | [Mã 3] | **Frontend:** Giao diện Dashboard, Browse, Seller/Bidder View. Tích hợp Real-time Listeners, quay Video Demo. | 100% |
+- **Yêu cầu:** Giao diện đấu giá phải nhảy giá ngay lập tức khi có người trả cao hơn, cấm sử dụng kỹ thuật Polling (hỏi liên tục).
+- **Hướng giải quyết:** Triển khai mô hình luồng Server-Sent Events (SSE). Tại backend, `ItemPricesSink` và `UserBalanceSink` quản lý các luồng phát. Tại frontend, `PriceStreamListener` và `BalanceStreamListener` đóng vai trò là các Observer để lắng nghe biến động.
+- **Lý do:** Mô hình SSE Push-based giúp Server chủ động đẩy dữ liệu đi chỉ khi có thay đổi thực sự, tiết kiệm tối đa băng thông và tài nguyên so với việc Client gọi API liên tục. Đây là biểu hiện thực tế của mẫu thiết kế **Observer Pattern nâng cao**.
 
-*(Ghi chú: Bảng trên chỉ là dự thảo, nhóm hãy tự điều chỉnh lại nhiệm vụ theo thực tế công việc đã làm)*
+3.4. Chức năng nâng cao
+
+- **Auto-Bidding (Đấu giá tự động):** Cho phép người dùng thiết lập mức giá tối đa (`maxBid`) và bước giá (`increment`) thông qua `AutoBidRequest`. Hệ thống tự động tranh giá thay cho người dùng khi luồng giá bị đẩy lên cao, đảm bảo không vượt quá ngưỡng maxBid.
+- **Bid History Visualization (Lịch sử giá Realtime):** Tích hợp việc ghi nhận lại toàn bộ tiến trình đặt giá. Thông qua các luồng `BidHistoryResponse` và `BidHistoryCallback`, người dùng có thể thấy sự thay đổi liên tục của các lượt trả giá hợp lệ ngay trên giao diện mà không cần làm mới trang.
+
+--------------------------------------------------------------------------------
+
+4. Phân chia công việc thành viên nhóm
+
+_(Tổng tỷ lệ đóng góp của các thành viên bằng đúng điểm chung của nhóm theo yêu cầu__)_
+
+|STT|Họ và Tên|Mã Sinh Viên|Vai trò / Công việc đảm nhận|Đánh giá hoàn thành|Tỷ lệ đóng góp|
+|---|---|---|---|---|---|
+|1|[Tên Sinh Viên 1]|[MSV 1]|Xây dựng Server Spring Boot, API Đấu giá, Xử lý Concurrent Bidding|100%|... %|
+|2|[Tên Sinh Viên 2]|[MSV 2]|Thiết kế UI JavaFX (Seller/Bidder View, Tabs), Xử lý luồng Real-time (Sinks/Listeners)|100%|... %|
+|3|[Tên Sinh Viên 3]|[MSV 3]|Quản lý Auth (JWT), Database, chức năng Admin, Auto-Bidding|100%|... %|
+|4|[Tên Sinh Viên 4]|[MSV 4]|Tích hợp hệ thống, xử lý Bid History, viết báo cáo & quay Video Demo|100%|... %|
+
+- **Link GitHub Repository:** [Điền link GitHub nhóm]
+- **Link thư mục Drive (chứa Video demo):** [Điền link Drive]
