@@ -57,7 +57,7 @@ Hệ thống tuân thủ kiến trúc **Client-Server** kết hợp mô hình **
 
 --------------------------------------------------------------------------------
 
-4. Phân chia công việc thành viên nhóm
+## 4. Phân chia công việc thành viên nhóm
 
 _(Tổng tỷ lệ đóng góp của các thành viên bằng đúng điểm chung của nhóm theo yêu cầu__)_
 
