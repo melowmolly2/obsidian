@@ -33,25 +33,25 @@ Hệ thống tuân thủ kiến trúc **Client-Server** kết hợp mô hình **
 
 ## 3. Các chức năng đạt được, hướng giải quyết và lý do
 
-3.1. Các chức năng cốt lõi bắt buộc
+### 3.1. Các chức năng cốt lõi bắt buộc
 
 - **Quản lý người dùng & Sản phẩm:** Phân quyền chặt chẽ bằng JWT. Kế thừa tính năng theo OOP (`Bidder`, `Seller`, `Admin` extends `User`). Quản lý luồng vòng đời sản phẩm nghiêm ngặt qua 3 trạng thái: `OPEN → RUNNING → FINISHED`.
 - **Giao diện người dùng (GUI):** Xây dựng hoàn thiện bằng JavaFX. Tách biệt rõ ràng các màn hình như Dashboard (`DashboardTab`), Danh sách phiên (`BrowseTab`), Quản lý của Seller (`MySaleTab`) và Màn hình đấu giá trực tiếp (`BidderViewPage`, `SellerViewPage`), giúp trải nghiệm mượt mà.
 - **Xử lý Ngoại lệ (Global Exception):** Chủ động bắt các lỗi thao tác như "đặt giá thấp hơn giá hiện tại", "đấu giá phiên đã đóng" hoặc lỗi kết nối, đảm bảo ứng dụng không bị crash.
 
-3.2. Xử lý Đấu giá Đồng thời (Concurrent Bidding)
+### 3.2. Xử lý Đấu giá Đồng thời (Concurrent Bidding)
 
 - **Yêu cầu:** Giải quyết vấn đề nhiều Bidder đặt giá cùng một mili-giây, ngăn chặn rủi ro _Lost update_, rollback sai hoặc hai người cùng thắng.
 - **Hướng giải quyết:** Thay vì tự triển khai đồng bộ hóa thủ công (`synchronized`), hệ thống khai thác sức mạnh của framework Spring Boot. Mỗi REST request gọi lên được xử lý bằng một luồng độc lập trong Thread-pool của Tomcat. Logic giao dịch được bọc bởi annotation `@Transactional` kết hợp cơ chế khóa (Lock) của cơ sở dữ liệu.
 - **Lý do:** Cách tiếp cận này tận dụng hệ sinh thái sẵn có để đảm bảo tính ACID cho dữ liệu, tránh rủi ro Deadlock và tối ưu hóa hiệu suất so với việc lock luồng thủ công ở mức ứng dụng.
 
-3.3. Cập nhật dữ liệu thời gian thực (Realtime Update)
+### 3.3. Cập nhật dữ liệu thời gian thực (Realtime Update)
 
 - **Yêu cầu:** Giao diện đấu giá phải nhảy giá ngay lập tức khi có người trả cao hơn, cấm sử dụng kỹ thuật Polling (hỏi liên tục).
 - **Hướng giải quyết:** Triển khai mô hình luồng Server-Sent Events (SSE). Tại backend, `ItemPricesSink` và `UserBalanceSink` quản lý các luồng phát. Tại frontend, `PriceStreamListener` và `BalanceStreamListener` đóng vai trò là các Observer để lắng nghe biến động.
 - **Lý do:** Mô hình SSE Push-based giúp Server chủ động đẩy dữ liệu đi chỉ khi có thay đổi thực sự, tiết kiệm tối đa băng thông và tài nguyên so với việc Client gọi API liên tục. Đây là biểu hiện thực tế của mẫu thiết kế **Observer Pattern nâng cao**.
 
-3.4. Chức năng nâng cao
+### 3.4. Chức năng nâng cao
 
 - **Auto-Bidding (Đấu giá tự động):** Cho phép người dùng thiết lập mức giá tối đa (`maxBid`) và bước giá (`increment`) thông qua `AutoBidRequest`. Hệ thống tự động tranh giá thay cho người dùng khi luồng giá bị đẩy lên cao, đảm bảo không vượt quá ngưỡng maxBid.
 - **Bid History Visualization (Lịch sử giá Realtime):** Tích hợp việc ghi nhận lại toàn bộ tiến trình đặt giá. Thông qua các luồng `BidHistoryResponse` và `BidHistoryCallback`, người dùng có thể thấy sự thay đổi liên tục của các lượt trả giá hợp lệ ngay trên giao diện mà không cần làm mới trang.
