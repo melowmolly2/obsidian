@@ -5,7 +5,7 @@
 2. [Tên thành viên 2] - [MSSV 2]
 
 ---
-
+<div style="zoom: 0.6;">
 ```mermaid
 graph TD
     subgraph Client [Frontend - JavaFX Client]
@@ -79,6 +79,7 @@ graph TD
     class Database db;
 
 ```
+</div>
 ## 1. Giới thiệu mục tiêu và phạm vi thực hiện
 
 **Mục tiêu:** Xây dựng một nền tảng đấu giá trực tuyến hoạt động theo mô hình Client-Server. Hệ thống cho phép người dùng đóng vai trò là cả người bán (Seller) và người mua (Bidder), đảm bảo tính minh bạch, nhanh chóng và an toàn trong các giao dịch đấu giá. 
