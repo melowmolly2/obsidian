@@ -5,7 +5,51 @@
 2. [Tên thành viên 2] - [MSSV 2]
 
 ---
+```mermaid
+graph TD
+    subgraph Frontend ["Frontend (JavaFX Client)"]
+        direction TB
+        UI["Tầng Giao Diện (UI Layer)\n(Pages, Tabs, Popups)"]
+        ClientService["Tầng Dịch Vụ Máy Khách (Service Layer)\n(Xử lý logic Client, Callbacks)"]
+        Network["Tầng Mạng (Network Layer)\n(API Clients, Stream Listeners)"]
 
+        UI -->|Thao tác người dùng| ClientService
+        ClientService -->|Đóng gói dữ liệu| Network
+        Network -.->|Cập nhật giao diện| UI
+    end
+
+    subgraph Backend ["Backend (Spring Boot Server)"]
+        direction TB
+        Controller["Tầng Điều Khiển (Controller Layer)\n(Tiếp nhận REST API)"]
+        Service["Tầng Dịch Vụ (Service Layer)\n(Logic nghiệp vụ, Xác thực, Đấu giá)"]
+        RealTime["Tầng Truyền Luồng (Streaming Layer)\n(Real-time Sinks)"]
+        Repository["Tầng Truy cập Dữ liệu (Repository Layer)\n(Spring Data JPA)"]
+    end
+
+    subgraph DB ["Cơ sở dữ liệu"]
+        Database[("Relational Database")]
+    end
+
+    %% Luồng giao tiếp giữa Client và Server
+    Network == "HTTP Requests (REST)" ==> Controller
+    Controller -. "HTTP Responses" .-> Network
+    RealTime == "Server-Sent Events (SSE)" ==> Network
+
+    %% Luồng giao tiếp nội bộ Backend
+    Controller -->|Điều phối xử lý| Service
+    Service -->|Thực thi giao dịch| Repository
+    Service -->|Kích hoạt sự kiện| RealTime
+    Repository <-->|Thao tác CRUD| Database
+
+    %% Cấu hình màu sắc
+    classDef frontend fill:#e3f2fd,stroke:#1565c0,stroke-width:2px;
+    classDef backend fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px;
+    classDef db fill:#fff3e0,stroke:#ef6c00,stroke-width:2px;
+
+    class Frontend frontend;
+    class Backend backend;
+    class DB db;
+```
 ```mermaid
 %%{init: {"flowchart": {"defaultRenderer": "elk"}}}%%
 
