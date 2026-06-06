@@ -8,62 +8,88 @@
 
 ---
 ```mermaid
-flowchart TD
-    %% TẦNG 1: FRONTEND UI
-    subgraph Layer1 [1. Tầng Giao Diện Client - JavaFX]
-        direction TB
-        UI_Auth(LoginPage / RegisterPage) ~~~ UI_Admin(AdminPage)
-        UI_Admin ~~~ UI_Seller(SellerViewPage)
-        UI_Seller ~~~ UI_Bidder(BidderViewPage)
+graph TD
+    %% Định nghĩa các style
+    classDef frontend fill:#e1f5fe,stroke:#0288d1,stroke-width:2px;
+    classDef backend fill:#e8f5e9,stroke:#388e3c,stroke-width:2px;
+    classDef database fill:#fff3e0,stroke:#f57c00,stroke-width:2px;
+    classDef sse fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,stroke-dasharray: 5 5;
+
+    %% PHÂN VÙNG 1: FRONTEND (Client Browser / Mobile / JavaFX)
+    subgraph Frontend ["Client Layer (JavaFX UI & Network)"]
+        UI_Views["Views\n(Landing, Login, BidderView, SellerView)"]:::frontend
+        
+        subgraph F_Controllers ["JavaFX Controllers"]
+            C_Auth["AuthController / LoginPage"]:::frontend
+            C_Item["ItemController / BrowseTab"]:::frontend
+            C_Auction["AuctionController / Dashboard"]:::frontend
+        end
+        
+        subgraph F_Network ["Network & Services"]
+            API_Client["ApiClient (Retrofit)"]:::frontend
+            SSE_Listeners["StreamListeners\n(PriceStream, BalanceStream)"]:::frontend
+        end
+
+        UI_Views --> C_Auth
+        UI_Views --> C_Item
+        UI_Views --> C_Auction
+        
+        C_Auth -->|1. Xác thực & Lấy JWT| API_Client
+        C_Item -->|2. Đăng bán / Xem sản phẩm| API_Client
+        C_Auction -->|3. Đặt cược / Auto-Bid| API_Client
     end
 
-    %% TẦNG 2: FRONTEND NETWORK
-    subgraph Layer2 [2. Tầng Mạng Client]
-        direction TB
-        Net_Req(ApiClient / AuctionApi) ~~~ Net_Listen(Price / Balance StreamListener)
+    %% PHÂN VÙNG 2: BACKEND (Spring Boot Server)
+    subgraph Backend ["Server Layer (Spring Boot)"]
+        JwtFilter["JwtSecurityFilter"]:::backend
+
+        subgraph B_Controllers ["REST Controllers"]
+            B_AuthC["AuthController"]:::backend
+            B_ItemC["ItemController"]:::backend
+            B_AuctionC["AuctionController / BidController"]:::backend
+        end
+
+        subgraph B_Services ["Business Services (Thread-pool Managed)"]
+            B_AuthS["AuthService"]:::backend
+            B_ItemS["ItemService"]:::backend
+            B_AuctionS["AuctionService / BidService\n(@Transactional)"]:::backend
+        end
+
+        subgraph B_Sinks ["Realtime Event Sinks"]
+            Sink_Price["ItemPricesSink"]:::backend
+            Sink_Balance["UserBalanceSink"]:::backend
+        end
+
+        JwtFilter --> B_AuthC
+        JwtFilter --> B_ItemC
+        JwtFilter --> B_AuctionC
+
+        B_AuthC --> B_AuthS
+        B_ItemC --> B_ItemS
+        B_AuctionC -->|Điều phối luồng nghiệp vụ| B_AuctionS
+
+        B_AuctionS -->|Phát biến động giá| Sink_Price
+        B_AuctionS -->|Phát biến động số dư| Sink_Balance
     end
 
-    %% TẦNG 3: BACKEND CONTROLLER
-    subgraph Layer3 [3. Tầng API Controllers - Spring Boot]
-        direction TB
-        Ctrl_Auth(AuthController) ~~~ Ctrl_Admin(AdminController)
-        Ctrl_Admin ~~~ Ctrl_Auction(AuctionController / BidController)
-        Ctrl_Auction ~~~ Ctrl_Item(ItemController)
+    %% PHÂN VÙNG 3: DATA & INFRASTRUCTURE
+    subgraph Infrastructure ["Data & Infrastructure Layer"]
+        DB[("(SQLite Database)\nUser, Item, Bid, AutoBid Repositories")]:::database
+        SSE_Flux["Server-Sent Events (SSE) Flux"]:::sse
     end
 
-    %% TẦNG 4: BACKEND SERVICE & SINK
-    subgraph Layer4 [4. Tầng Dịch Vụ & Luồng - Spring Boot]
-        direction TB
-        Svc_Auth(AuthService) ~~~ Svc_Admin(AdminService)
-        Svc_Admin ~~~ Svc_Auction(AuctionService & BidService)
-        Svc_Auction ~~~ Svc_Item(ItemService)
-        Svc_Item ~~~ Sinks[[Sinks: ItemPrices / UserBalance]]
-    end
+    %% CÁC LIÊN KẾT GIỮA CÁC LAYER
+    API_Client ===>|HTTP Requests| JwtFilter
+    
+    B_AuthS -.->|Ghi/Đọc dữ liệu| DB
+    B_ItemS -.->|Ghi/Đọc dữ liệu| DB
+    B_AuctionS -.->|Ghi dữ liệu cược| DB
 
-    %% TẦNG 5: BACKEND DATABASE
-    subgraph Layer5 [5. Tầng Cơ Sở Dữ Liệu]
-        direction TB
-        DB[(Database / Spring Data JPA Repositories)]
-    end
+    Sink_Price ==>|Đẩy sự kiện giá mới| SSE_Flux
+    Sink_Balance ==>|Đẩy sự kiện số dư mới| SSE_Flux
 
-    %% LUỒNG GIAO TIẾP (Nối giữa các tầng để giữ sơ đồ thẳng đứng)
-    Layer1 -->|1. Thao tác người dùng| Layer2
-    Layer2 == "2. Gửi API Requests (HTTP)" ==> Layer3
-    Layer3 -->|3. Điều phối logic| Layer4
-    Layer4 -->|4. Truy xuất / Cập nhật| Layer5
-
-    %% LUỒNG REAL-TIME ĐI NGƯỢC LÊN
-    Layer4 -. "5. Đẩy Server-Sent Events (SSE)" .-> Layer2
-    Layer2 -. "6. Tự động cập nhật" .-> Layer1
-
-    %% ĐỊNH DẠNG MÀU SẮC
-    classDef clientLayer fill:#e3f2fd,stroke:#1565c0,stroke-width:2px;
-    classDef serverLayer fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px;
-    classDef dbLayer fill:#fff3e0,stroke:#ef6c00,stroke-width:2px;
-
-    class Layer1,Layer2 clientLayer;
-    class Layer3,Layer4 serverLayer;
-    class Layer5 dbLayer;
+    SSE_Flux ===>|4. Đăng ký nhận luồng SSE| SSE_Listeners
+    SSE_Listeners -.->|Cập nhật giao diện| UI_Views
 ```
 
 
