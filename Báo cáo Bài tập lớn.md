@@ -10,36 +10,32 @@ flowchart TD
     %% TẦNG 1: FRONTEND UI
     subgraph Layer1 [1. Tầng Giao Diện Client - JavaFX]
         direction TB
-        UI_Auth(LoginPage / RegisterPage)
-        UI_Admin(AdminPage)
-        UI_Seller(SellerViewPage)
-        UI_Bidder(BidderViewPage)
+        UI_Auth(LoginPage / RegisterPage) ~~~ UI_Admin(AdminPage)
+        UI_Admin ~~~ UI_Seller(SellerViewPage)
+        UI_Seller ~~~ UI_Bidder(BidderViewPage)
     end
 
     %% TẦNG 2: FRONTEND NETWORK
-    subgraph Layer2 [2. Tầng Mạng Client - Giao tiếp & Lắng nghe]
+    subgraph Layer2 [2. Tầng Mạng Client]
         direction TB
-        Net_Req(Gửi Request: ApiClient / AuctionApi)
-        Net_Listen(Nhận Luồng: PriceStreamListener / BalanceStreamListener)
+        Net_Req(ApiClient / AuctionApi) ~~~ Net_Listen(Price / Balance StreamListener)
     end
 
     %% TẦNG 3: BACKEND CONTROLLER
     subgraph Layer3 [3. Tầng API Controllers - Spring Boot]
         direction TB
-        Ctrl_Auth(AuthController)
-        Ctrl_Admin(AdminController)
-        Ctrl_Auction(AuctionController / BidController)
-        Ctrl_Item(ItemController)
+        Ctrl_Auth(AuthController) ~~~ Ctrl_Admin(AdminController)
+        Ctrl_Admin ~~~ Ctrl_Auction(AuctionController / BidController)
+        Ctrl_Auction ~~~ Ctrl_Item(ItemController)
     end
 
     %% TẦNG 4: BACKEND SERVICE & SINK
-    subgraph Layer4 [4. Tầng Dịch vụ & Truyền Luồng - Spring Boot]
+    subgraph Layer4 [4. Tầng Dịch Vụ & Luồng - Spring Boot]
         direction TB
-        Svc_Auth(AuthService)
-        Svc_Admin(AdminService)
-        Svc_Auction(AuctionService & BidService)
-        Svc_Item(ItemService)
-        Sinks[[Sinks: ItemPricesSink / UserBalanceSink]]
+        Svc_Auth(AuthService) ~~~ Svc_Admin(AdminService)
+        Svc_Admin ~~~ Svc_Auction(AuctionService & BidService)
+        Svc_Auction ~~~ Svc_Item(ItemService)
+        Svc_Item ~~~ Sinks[[Sinks: ItemPrices / UserBalance]]
     end
 
     %% TẦNG 5: BACKEND DATABASE
@@ -48,28 +44,15 @@ flowchart TD
         DB[(Database / Spring Data JPA Repositories)]
     end
 
-    %% LUỒNG XUỐNG: REQUEST (Người dùng thao tác)
-    UI_Auth --> Net_Req
-    UI_Admin --> Net_Req
-    UI_Seller --> Net_Req
-    UI_Bidder --> Net_Req
+    %% LUỒNG GIAO TIẾP (Nối giữa các tầng để giữ sơ đồ thẳng đứng)
+    Layer1 -->|1. Thao tác người dùng| Layer2
+    Layer2 == "2. Gửi API Requests (HTTP)" ==> Layer3
+    Layer3 -->|3. Điều phối logic| Layer4
+    Layer4 -->|4. Truy xuất / Cập nhật| Layer5
 
-    Net_Req == "Gửi REST API (HTTP)" ==> Ctrl_Auth & Ctrl_Admin & Ctrl_Auction & Ctrl_Item
-    
-    Ctrl_Auth --> Svc_Auth
-    Ctrl_Admin --> Svc_Admin
-    Ctrl_Auction --> Svc_Auction
-    Ctrl_Item --> Svc_Item
-
-    Svc_Auth --> DB
-    Svc_Admin --> DB
-    Svc_Auction --> DB
-    Svc_Item --> DB
-
-    %% LUỒNG LÊN: RESPONSE & REAL-TIME (Cập nhật từ Server về Client)
-    Svc_Auction -. "Kích hoạt thay đổi giá/số dư" .-> Sinks
-    Sinks == "Đẩy Server-Sent Events (SSE)" ==> Net_Listen
-    Net_Listen -. "Tự động cập nhật" .-> UI_Admin & UI_Seller & UI_Bidder
+    %% LUỒNG REAL-TIME ĐI NGƯỢC LÊN
+    Layer4 -. "5. Đẩy Server-Sent Events (SSE)" .-> Layer2
+    Layer2 -. "6. Tự động cập nhật" .-> Layer1
 
     %% ĐỊNH DẠNG MÀU SẮC
     classDef clientLayer fill:#e3f2fd,stroke:#1565c0,stroke-width:2px;
@@ -80,6 +63,7 @@ flowchart TD
     class Layer3,Layer4 serverLayer;
     class Layer5 dbLayer;
 ```
+
 
 ## 1. Giới thiệu mục tiêu và phạm vi thực hiện
 
