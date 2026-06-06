@@ -6,198 +6,79 @@
 
 ---
 ```mermaid
-graph TD
-    subgraph Frontend ["Frontend (JavaFX Client)"]
+flowchart TD
+    %% TẦNG 1: FRONTEND UI
+    subgraph Layer1 [1. Tầng Giao Diện Client - JavaFX]
         direction TB
-        UI["Tầng Giao Diện (UI Layer)\n(Pages, Tabs, Popups)"]
-        ClientService["Tầng Dịch Vụ Máy Khách (Service Layer)\n(Xử lý logic Client, Callbacks)"]
-        Network["Tầng Mạng (Network Layer)\n(API Clients, Stream Listeners)"]
-
-        UI -->|Thao tác người dùng| ClientService
-        ClientService -->|Đóng gói dữ liệu| Network
-        Network -.->|Cập nhật giao diện| UI
+        UI_Auth(LoginPage / RegisterPage)
+        UI_Admin(AdminPage)
+        UI_Seller(SellerViewPage)
+        UI_Bidder(BidderViewPage)
     end
 
-    subgraph Backend ["Backend (Spring Boot Server)"]
+    %% TẦNG 2: FRONTEND NETWORK
+    subgraph Layer2 [2. Tầng Mạng Client - Giao tiếp & Lắng nghe]
         direction TB
-        Controller["Tầng Điều Khiển (Controller Layer)\n(Tiếp nhận REST API)"]
-        Service["Tầng Dịch Vụ (Service Layer)\n(Logic nghiệp vụ, Xác thực, Đấu giá)"]
-        RealTime["Tầng Truyền Luồng (Streaming Layer)\n(Real-time Sinks)"]
-        Repository["Tầng Truy cập Dữ liệu (Repository Layer)\n(Spring Data JPA)"]
+        Net_Req(Gửi Request: ApiClient / AuctionApi)
+        Net_Listen(Nhận Luồng: PriceStreamListener / BalanceStreamListener)
     end
 
-    subgraph DB ["Cơ sở dữ liệu"]
-        Database[("Relational Database")]
+    %% TẦNG 3: BACKEND CONTROLLER
+    subgraph Layer3 [3. Tầng API Controllers - Spring Boot]
+        direction TB
+        Ctrl_Auth(AuthController)
+        Ctrl_Admin(AdminController)
+        Ctrl_Auction(AuctionController / BidController)
+        Ctrl_Item(ItemController)
     end
 
-    %% Luồng giao tiếp giữa Client và Server
-    Network == "HTTP Requests (REST)" ==> Controller
-    Controller -. "HTTP Responses" .-> Network
-    RealTime == "Server-Sent Events (SSE)" ==> Network
-
-    %% Luồng giao tiếp nội bộ Backend
-    Controller -->|Điều phối xử lý| Service
-    Service -->|Thực thi giao dịch| Repository
-    Service -->|Kích hoạt sự kiện| RealTime
-    Repository <-->|Thao tác CRUD| Database
-
-    %% Cấu hình màu sắc
-    classDef frontend fill:#e3f2fd,stroke:#1565c0,stroke-width:2px;
-    classDef backend fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px;
-    classDef db fill:#fff3e0,stroke:#ef6c00,stroke-width:2px;
-
-    class Frontend frontend;
-    class Backend backend;
-    class DB db;
-```
-```mermaid
-%%{init: {"flowchart": {"defaultRenderer": "elk"}}}%%
-
-graph TD
-
-    %% Layout configuration
-
-    %% Smaller, compact layout
-
-    %% Keeping logical grouping intact
-
-    subgraph Client [Frontend - JavaFX Client]
-
-        direction TB
-
-        subgraph UI [Giao diện Người dùng]
-
-            A1(LoginPage / RegisterPage)
-
-            A2(AdminPage)
-
-            A3(SellerViewPage)
-
-            A4(BidderViewPage)
-
-        end
-
-  
-
-        subgraph Network [Giao tiếp Mạng]
-
-            B1(ApiClient / AuctionApi)
-
-            B2(PriceStreamListener)
-
-            B3(BalanceStreamListener)
-
-        end
-
-  
-
-        UI -->|Gửi yêu cầu| B1
-
-        B2 -.->|Cập nhật giao diện| UI
-
-        B3 -.->|Cập nhật giao diện| UI
-
-    end
-
-  
-
-    subgraph Server [Backend - Spring Boot Server]
-
-        direction TB
-
-        subgraph Controllers [REST API Controllers]
-
-            C1(AuthController)
-
-            C2(AdminController)
-
-            C3(AuctionController / BidController)
-
-            C4(ItemController)
-
-        end
-
-  
-
-        subgraph Services [Business Logic & Concurrency]
-
-            D1(AuthService & JWT)
-
-            D2(AuctionService & BidService)
-
-            D3(ItemService)
-
-        end
-
-  
-
-        subgraph Sinks [Real-time Streaming]
-
-            E1(ItemPricesSink)
-
-            E2(UserBalanceSink)
-
-        end
-
-  
-
-        subgraph Database [Cơ sở dữ liệu]
-
-            DB[(Repositories)]
-
-        end
-
-  
-
-        C1 --> D1
-
-        C2 --> D2
-
-        C3 --> D2
-
-        C4 --> D3
-
-  
-
-        D1 --> DB
-
-        D2 --> DB
-
-        D3 --> DB
-
-  
-
-        D2 -->|Kích hoạt thay đổi giá| E1
-
-        D2 -->|Kích hoạt thay đổi số dư| E2
-
-    end
-
-  
-
-    %% Luồng giao tiếp Client - Server
-
-    B1 ==>|HTTP Requests| Controllers
-
-    E1 -.->|Server-Sent Events| B2
-
-    E2 -.->|Server-Sent Events| B3
-
-  
-
-    classDef client fill:#e1f5fe,stroke:#01579b,stroke-width:1px;
-
-    classDef server fill:#e8f5e9,stroke:#1b5e20,stroke-width:1px;
-
-    classDef db fill:#fff3e0,stroke:#e65100,stroke-width:1px;
-
-  
-
-    class Client client;
-
-    class Server server;
-
-    class Database db;
+    %% TẦNG 4: BACKEND SERVICE & SINK
+    subgraph Layer4 [4. Tầng Dịch vụ & Truyền Luồng - Spring Boot]
+        direction TB
+        Svc_Auth(AuthService)
+        Svc_Admin(AdminService)
+        Svc_Auction(AuctionService & BidService)
+        Svc_Item(ItemService)
+        Sinks[[Sinks: ItemPricesSink / UserBalanceSink]]
+    end
+
+    %% TẦNG 5: BACKEND DATABASE
+    subgraph Layer5 [5. Tầng Cơ Sở Dữ Liệu]
+        direction TB
+        DB[(Database / Spring Data JPA Repositories)]
+    end
+
+    %% LUỒNG XUỐNG: REQUEST (Người dùng thao tác)
+    UI_Auth --> Net_Req
+    UI_Admin --> Net_Req
+    UI_Seller --> Net_Req
+    UI_Bidder --> Net_Req
+
+    Net_Req == "Gửi REST API (HTTP)" ==> Ctrl_Auth & Ctrl_Admin & Ctrl_Auction & Ctrl_Item
+    
+    Ctrl_Auth --> Svc_Auth
+    Ctrl_Admin --> Svc_Admin
+    Ctrl_Auction --> Svc_Auction
+    Ctrl_Item --> Svc_Item
+
+    Svc_Auth --> DB
+    Svc_Admin --> DB
+    Svc_Auction --> DB
+    Svc_Item --> DB
+
+    %% LUỒNG LÊN: RESPONSE & REAL-TIME (Cập nhật từ Server về Client)
+    Svc_Auction -. "Kích hoạt thay đổi giá/số dư" .-> Sinks
+    Sinks == "Đẩy Server-Sent Events (SSE)" ==> Net_Listen
+    Net_Listen -. "Tự động cập nhật" .-> UI_Admin & UI_Seller & UI_Bidder
+
+    %% ĐỊNH DẠNG MÀU SẮC
+    classDef clientLayer fill:#e3f2fd,stroke:#1565c0,stroke-width:2px;
+    classDef serverLayer fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px;
+    classDef dbLayer fill:#fff3e0,stroke:#ef6c00,stroke-width:2px;
+
+    class Layer1,Layer2 clientLayer;
+    class Layer3,Layer4 serverLayer;
+    class Layer5 dbLayer;
 ```
 
 ## 1. Giới thiệu mục tiêu và phạm vi thực hiện
