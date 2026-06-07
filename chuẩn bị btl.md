@@ -70,3 +70,37 @@ backup question:
 4. Thư viện retrofit 
 5. Phụ trách là ApiClient
 6. Các endpoint ở interface AuctionAPI
+7. CRUD trong REST API
+Create: @POST,
+Read: @GET,
+Update: @PUT,
+DELETE: @DELETE,
+:sunglasses:
+Click to react
+:thumbsup:
+Click to react
+:heart:
+Click to react
+Add Reaction
+Reply
+Forward
+More
+
+Alt + F4 [LC], Server Tag: LCLC — 9:56 PMSunday, June 7, 2026 9:56 PM
+Tại sao lại chọn?,
++ Tại sao backend lại Gradle, frontend lại Maven: vì backend muốn ưu tiên build nhanh, còn frontend muốn ưu tiên mức độ dễ hiểu và tính cấu trúc. Thực ra do nhóm chưa có sự thống nhất ban đầu
++ Tại sao lại chọn Spring boot? Vì đây là framework Java nổi tiếng, tích hợp sẵn nhiều tính năng, giảm lượng code cấu hình, tăng tốc độ phát triển
++ Tại sao lại chọn Retrofit? Vì thư viện giảm lượng code xử lí HTTP, tự động chuyển đổi JSON qua object Java, giúp quá trình code diễn ra nhanh hơn
++ Tại sao lại chọn JWT? Nhóm chọn JWT vì hệ thống được xây dựng theo mô hình client-server với REST API. JWT cho phép xác thực stateless, không cần lưu session trên server, giúp backend dễ mở rộng và tích hợp thuận tiện với JavaFX thông qua Retrofit.
++ Tại sao chọn SQLite? Vì đây là dự án học tập ít người dùng, SQLite không cần có máy chủ riêng, cấu hình đơn giản & triển khai nhanh hơn
+:CRUD trong REST API
+- Create: @POST
+- Read: @GET
+- Update: @PUT
+- DELETE: @DELETE
+- Tại sao lại chọn?
++ Tại sao backend lại Gradle, frontend lại Maven: vì backend muốn ưu tiên build nhanh, còn frontend muốn ưu tiên mức độ dễ hiểu và tính cấu trúc. Thực ra do nhóm chưa có sự thống nhất ban đầu
++ Tại sao lại chọn Spring boot? Vì đây là framework Java nổi tiếng, tích hợp sẵn nhiều tính năng, giảm lượng code cấu hình, tăng tốc độ phát triển
++ Tại sao lại chọn Retrofit? Vì thư viện giảm lượng code xử lí HTTP, tự động chuyển đổi JSON qua object Java, giúp quá trình code diễn ra nhanh hơn
++ Tại sao lại chọn JWT? Nhóm chọn JWT vì hệ thống được xây dựng theo mô hình client-server với REST API. JWT cho phép xác thực stateless, không cần lưu session trên server, giúp backend dễ mở rộng và tích hợp thuận tiện với JavaFX thông qua Retrofit.
++ Tại sao chọn SQLite? Vì đây là dự án học tập ít người dùng, SQLite không cần có máy chủ riêng, cấu hình đơn giản & triển khai nhanh hơn
