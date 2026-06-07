@@ -1,0 +1,64 @@
+
+
+Frontend
+
+Dự án dử dụng mô hình gần giống MVC
+Kiến trúc project chia thành các tầng:
+Controller: xử lí javafx, sự kiện,
+Service: xử lí nghiệp vụ client, validate, gọi API,
+Network: cấu hình Retrofit, Stream realtime, ...,
+DTO: class request/response,
+Model: trạng thái phiên đăng nhập, balance,
+
+
+Luồng đi:
+User -> Controller -> Service -> Network -> Backend
+
+Entry point của App: AuctionLauncher.java
+
+*Phần controller
+
+Mới vào là có Landing Page, có thể vào Login Page hoặc Register Page
+Đăng nhập xong sẽ có 1 cái Framework.fxml, Framework chứa mọi thứ ở trong: các tab Dashboard, MySale, Browse Auction, Account.
+
+Trong browseAuction, khi lướt sẽ có các Card.fxml, ấn vào Card.fxml sẽ tuỳ vào người ấn mà chuyển trang. Nếu là seller thì đưa qua SellerViewPage.fxml, nếu là Bidder thì đưa qua BidderViewPage.fxml
+
+Mỗi trang trên browseAuction có size = 4, có thể chuyển trang khi có nhiều hơn 4
+
+SceneManager.java: Phụ trách chuyển hướng màn hình: 
+changeScreen(): chuyển hướng toàn bộ màn hình,
+changeContent(): thay đổi nội dung trong Framework,
+
+Retrofit Callback chạy ở trong 1 background thread, Platform.runLater(). Cập nhật UI trên thread chính.
+
+Bid history Visualization: Biểu đồ hiển thị trục Ox là lần bid, Oy là % thay đổi theo giá gốc. Dữ liệu biểu đồ lưu trong 1 cái list, khi thoát sẽ mất. Chart được cập nhật realtime từ priceListener
+Để tránh gọi API quá nhiều, controller dùng bidHistoryLoading và lastBidHistoryRequestMillis với khoảng cách tối thiểu 1.5 giây.
+
+ContentLifecycle là interface tạo để quản lý vòng đời của các content trong SceneManager. Những màn có tài nguyên chạy nền như realtime price stream sẽ implement interface này. Khi đổi content, SceneManager gọi dispose() của màn cũ để dừng stream, đóng connection và tránh thread cũ tiếp tục cập nhật UI.
+
+Hệ thống thông báo: AppPopup.java có các hàm static như info, error, warning được chạy trên Platform.runLater(), có tác dụng thông báo dùng chung toàn app.
+
+
+*Phần Network
+
+Khi đăng nhập, server cấp cho user 1 cái access token, khi frontend cần truy cập vào backend, cần có access token.
+
+Access token được đính kèm ở phần Head có dạng "Authorization: Bearer <accessToken>", phần Body chứa nội dung, phần nội dung đó được định nghĩa ở DTO.
+
+Retrofit là 1 thư viện HTTP Client, giúp ứng dụng giao tiếp với REST API một cách đơn giản. Lí do lựa chọn công nghệ này? Giảm lượng code xử lí HTTP, tự động chuyển đổi JSON qua object Java. (giảm thời gian viết code)
+
+AuthInterceptor.java, mọi request xác thực đều đi qua interceptor, tại đây sẽ được gắn token vào, giúp code service gọn hơn
+
+
+*Phần model và DTO:
+AccountSession.java: balance được lưu ở đây
+
+*Phần service: chịu trách nhiệm xử lí logic nghiệp vụ, gọi API Retrofit bằng .enque(), trả về kết quả cho controller thông qua callback như onSuccess() hoặc onError()
+
+Dự án này bao nhiêu phần trăm là AI làm? 50%
+Điểm yếu của frontend này là gì? Token đang lưu trong memory static nên tắt app sẽ mất session
+
+backup question:
+
+- frontend có bị block UI không? không, vì đã sử dụng Platform.runLater(). Khi gọi REST API thì sử dụng .enqueue(), các Listener thì dùng ở các thread khác rồi.
+- Design patter của frontend thế nào? Tổ chức theo MVC. Có cả Observer Pattern (realtime) nữa
