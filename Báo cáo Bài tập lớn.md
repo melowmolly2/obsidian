@@ -72,4 +72,4 @@ Hệ thống tuân thủ kiến trúc **Client-Server** kết hợp mô hình **
 |  4  | **Đinh Xuân Thông** |              | **Kỹ sư Đảm bảo Chất lượng (QA & Testing Engineer):** <br>Triển khai các kịch bản kiểm thử tự động (Unit Test/API Test) và kiểm thử thủ công. Đánh giá tính ổn định của hệ thống dưới các điều kiện tranh chấp dữ liệu khắt khe, rà soát lỗ hổng ngoại lệ (Exceptions) và bảo chứng cho chất lượng phần mềm đầu ra trước khi triển khai.                |        100%         |      20%       |
 
 - **Link GitHub Repository:** [Link Github]()
-- **Link thư mục Drive (chứa Video demo):** []
+- **Link thư mục Drive (chứa Video demo):** [Link Video](https://drive.google.com/file/d/1nEZm-s0Cbj3N6QdFrHalJgr5wZXoLLvT/view)
