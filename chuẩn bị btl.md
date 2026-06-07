@@ -104,3 +104,6 @@ Tại sao lại chọn?,
 + Tại sao lại chọn Retrofit? Vì thư viện giảm lượng code xử lí HTTP, tự động chuyển đổi JSON qua object Java, giúp quá trình code diễn ra nhanh hơn
 + Tại sao lại chọn JWT? Nhóm chọn JWT vì hệ thống được xây dựng theo mô hình client-server với REST API. JWT cho phép xác thực stateless, không cần lưu session trên server, giúp backend dễ mở rộng và tích hợp thuận tiện với JavaFX thông qua Retrofit.
 + Tại sao chọn SQLite? Vì đây là dự án học tập ít người dùng, SQLite không cần có máy chủ riêng, cấu hình đơn giản & triển khai nhanh hơn
+
+nếu thầy hỏi có race condition ko thì bảo là chỉ có một thread đọc và ghi cơ sở dữ liệu:
+spring.datasource.hikari.maximum-pool-size=1
