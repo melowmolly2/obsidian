@@ -68,5 +68,5 @@ Hệ thống tuân thủ kiến trúc **Client-Server** kết hợp mô hình **
 |  3  | **Phạm Thiên Minh** |              | **Kiến trúc sư Hệ thống & Chuyên viên Tài liệu (System Architect & Documentation):** <br>Phác thảo toàn cảnh kiến trúc phần mềm, hoạch định các sơ đồ cấu trúc (UML/Mermaid) chuẩn mực. Đồng thời, biên soạn và hệ thống hóa toàn bộ báo cáo kỹ thuật, đảm bảo tính chặt chẽ, tính hàn lâm và sự minh bạch trong tài liệu vận hành dự án.               |        100%         |      20%       |
 |  4  | **Đinh Xuân Thông** |              | **Kỹ sư Đảm bảo Chất lượng (QA & Testing Engineer):** <br>Triển khai các kịch bản kiểm thử tự động (Unit Test/API Test) và kiểm thử thủ công. Đánh giá tính ổn định của hệ thống dưới các điều kiện tranh chấp dữ liệu khắt khe, rà soát lỗ hổng ngoại lệ (Exceptions) và bảo chứng cho chất lượng phần mềm đầu ra trước khi triển khai.                |        100%         |      20%       |
 
-- **Link GitHub Repository:** [Điền link GitHub nhóm]
+- **Link GitHub Repository:** [Link Github]()
 - **Link thư mục Drive (chứa Video demo):** [Điền link Drive]
