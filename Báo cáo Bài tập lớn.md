@@ -6,7 +6,7 @@
 
 ## 1. Giới thiệu mục tiêu và phạm vi thực hiện
 **Mục tiêu:** 
-Xây dựng nền tảng đấu giá trực tuyến hoàn chỉnh theo mô hình Client-Server, áp dụng triệt để các nguyên lý Lập trình hướng đối tượng (OOP) như kế thừa, đa hình, đóng gói. Đồng thời, hệ thống triển khai các mẫu thiết kế (Design Patterns) như MVC, Observer, Singleton để giải quyết các bài toán kỹ thuật nâng cao về xử lý đồng thời (Concurrent Bidding) và cập nhật thời gian thực (Realtime Update).
+Xây dựng nền tảng đấu giá trực tuyến hoàn chỉnh theo mô hình Client-Server, áp dụng triệt để các nguyên lý Lập trình hướng đối tượng (OOP) như kế thừa, đa hình, đóng gói. Đồng thời, hệ thống triển khai các mẫu thiết kế (Design Patterns) như MVC, Observer, Repository Pattern để giải quyết các bài toán kỹ thuật nâng cao về xử lý đồng thời (Concurrent Bidding) và cập nhật thời gian thực (Realtime Update).
 
 **Phạm vi hệ thống:**
 Hệ thống cho phép người dùng đăng ký, đăng nhập và hoạt động dưới 3 vai trò chính:
