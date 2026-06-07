@@ -62,3 +62,11 @@ backup question:
 
 - frontend có bị block UI không? không, vì đã sử dụng Platform.runLater(). Khi gọi REST API thì sử dụng .enqueue(), các Listener thì dùng ở các thread khác rồi.
 - Design patter của frontend thế nào? Tổ chức theo MVC. Có cả Observer Pattern (realtime) nữa
+
+1 câu 99% mai hỏi: "Frontend thì kết nối API thông qua cái gì?"
+1. Frontend không gọi HTTP thủ công cho REST API mà dùng Retrofit. AuctionApi là interface khai báo endpoint bằng annotation như @GET, @POST, @Body, @Path, @Query. ApiClient tạo Retrofit instance với base URL [http://localhost:8080/](http://localhost:8080/ "http://localhost:8080/"), Gson để convert JSON và OkHttp để gắn interceptor token. Các service gọi .enqueue() để request bất đồng bộ, tránh block UI. AI answer
+2. Retrofit
+3. Nhớ tên nha
+4. Thư viện retrofit 
+5. Phụ trách là ApiClient
+6. Các endpoint ở interface AuctionAPI
