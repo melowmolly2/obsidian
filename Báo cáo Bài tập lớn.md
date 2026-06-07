@@ -53,13 +53,13 @@ Hệ thống tuân thủ kiến trúc **Client-Server** kết hợp mô hình **
 *   **Lý do lựa chọn:** Việc thiết kế luồng như trên giúp tách biệt hoàn toàn tầng xử lý mạng (Network Layer) và tầng hiển thị (UI Layer). Ứng dụng client duy trì được sự mượt mà, không bị "nghẽn" ngay cả khi nhận hàng loạt luồng dữ liệu giá/số dư liên tục từ hàng nghìn request SSE trả về.
 
 
-3.4. Các chức năng nâng cao (Advanced Features)
+### 3.4. Các chức năng nâng cao (Advanced Features)
 
 - **Auto-Bidding:** Người dùng đặt giới hạn (`maxBid`) và bước giá (`increment`). Backend (thông qua `AutoBidResolver`) sẽ tự động đại diện người dùng nâng giá cạnh tranh khi bị đối thủ vượt mặt, tiết kiệm thời gian theo dõi.
 - **Gia hạn phiên (Anti-Sniping):** Nếu phát hiện lượt Bid hợp lệ vào những phút cuối cùng, hệ thống tự động cộng thêm thời gian (extra_time) vào thời hạn chốt phiên, đảm bảo tính công bằng tuyệt đối.
 - **Bid History Visualization:** Hiển thị trực quan biến động giá thông qua biểu đồ đường (LineChart) trên JavaFX được kết nối trực tiếp với luồng SSE.
 
-3.5. Triển khai & Tích hợp (CI/CD)
+### 3.5. Triển khai & Tích hợp (CI/CD)
 
 - **Hướng giải quyết:** Dự án sử dụng hệ thống build **Gradle** cho Backend và **Maven** cho Frontend. Xây dựng hơn 100 kịch bản kiểm thử API tự động (API Integration Tests) thông qua Python Pytest và tích hợp quy trình **GitHub Actions (CI/CD)**.
 - **Lý do:** Tự động hóa quá trình kiểm thử mỗi khi có lệnh Push/Pull Request, đảm bảo mã nguồn luôn đạt chất lượng cao nhất theo chuẩn công nghiệp thực tế.
