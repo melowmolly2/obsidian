@@ -57,16 +57,16 @@ Hệ thống tuân thủ kiến trúc **Client-Server** kết hợp mô hình **
 
 --------------------------------------------------------------------------------
 
-## 4. Phân chia công việc thành viên nhóm
 
-_(Tổng tỷ lệ đóng góp của các thành viên bằng đúng điểm chung của nhóm theo yêu cầu__)_
+## 4. Phân chia công việc và sự đóng góp của các thành viên
+*(Lưu ý: Đánh giá dựa trên tiêu chí tổng tỷ lệ đóng góp của các cá nhân phân bổ bằng đúng điểm chung của toàn nhóm)*
 
-|STT|Họ và Tên|Mã Sinh Viên|Vai trò / Công việc đảm nhận|Đánh giá hoàn thành|Tỷ lệ đóng góp|
-|---|---|---|---|---|---|
-|1|[Tên Sinh Viên 1]|[MSV 1]|Xây dựng Server Spring Boot, API Đấu giá, Xử lý Concurrent Bidding|100%|... %|
-|2|[Tên Sinh Viên 2]|[MSV 2]|Thiết kế UI JavaFX (Seller/Bidder View, Tabs), Xử lý luồng Real-time (Sinks/Listeners)|100%|... %|
-|3|[Tên Sinh Viên 3]|[MSV 3]|Quản lý Auth (JWT), Database, chức năng Admin, Auto-Bidding|100%|... %|
-|4|[Tên Sinh Viên 4]|[MSV 4]|Tích hợp hệ thống, xử lý Bid History, viết báo cáo & quay Video Demo|100%|... %|
+| STT | Họ và Tên | Mã Sinh Viên | Vai trò và Trách nhiệm chuyên môn | Đánh giá hoàn thành | Tỷ lệ đóng góp |
+|:---:|:---|:---|:---|:---:|:---:|
+| 1 | **Nguyễn Anh Quân** | [MSV 1] | **Kỹ sư Phát triển Giao diện (Frontend Developer):** <br>Thiết kế và kiến tạo toàn bộ hệ sinh thái giao diện người dùng (GUI) trên nền tảng JavaFX. Triển khai tích hợp các bộ lắng nghe luồng dữ liệu thời gian thực (Real-time SSE) và tối ưu hóa trải nghiệm tương tác (UX/UI) thông qua kiến trúc MVC đa tầng ở phía máy khách. | 100% | ... % |
+| 2 | **Nguyễn Duy Anh** | [MSV 2] | **Kỹ sư Phát triển Máy chủ (Backend Developer):** <br>Xây dựng và tinh chỉnh nền tảng máy chủ cốt lõi với framework Spring Boot. Hiện thực hóa các thuật toán xử lý tranh chấp đấu giá đồng thời (Concurrent Bidding), quản trị luồng bảo mật JWT và thiết lập cơ chế phát sóng sự kiện (Observer Pattern) nhằm bảo chứng tính toàn vẹn dữ liệu (ACID). | 100% | ... % |
+| 3 | **Phạm Thiên Minh** | [MSV 3] | **Kiến trúc sư Hệ thống & Chuyên viên Tài liệu (System Architect & Documentation):** <br>Phác thảo toàn cảnh kiến trúc phần mềm, hoạch định các sơ đồ cấu trúc (UML/Mermaid) chuẩn mực. Đồng thời, biên soạn và hệ thống hóa toàn bộ báo cáo kỹ thuật, đảm bảo tính chặt chẽ, tính hàn lâm và sự minh bạch trong tài liệu vận hành dự án. | 100% | ... % |
+| 4 | **Đinh Xuân Thông** | [MSV 4] | **Kỹ sư Đảm bảo Chất lượng (QA & Testing Engineer):** <br>Triển khai các kịch bản kiểm thử tự động (Unit Test/API Test) và kiểm thử thủ công. Đánh giá tính ổn định của hệ thống dưới các điều kiện tranh chấp dữ liệu khắt khe, rà soát lỗ hổng ngoại lệ (Exceptions) và bảo chứng cho chất lượng phần mềm đầu ra trước khi triển khai. | 100% | ... % |
 
 - **Link GitHub Repository:** [Điền link GitHub nhóm]
 - **Link thư mục Drive (chứa Video demo):** [Điền link Drive]
