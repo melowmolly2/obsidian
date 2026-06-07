@@ -44,11 +44,14 @@ Hệ thống tuân thủ kiến trúc **Client-Server** kết hợp mô hình **
 - **Hướng giải quyết:** Thay vì tự triển khai đồng bộ hóa thủ công (`synchronized`), hệ thống khai thác sức mạnh của framework Spring Boot. Mỗi REST request gọi lên được xử lý bằng một luồng độc lập trong Thread-pool của Tomcat. Logic giao dịch được bọc bởi annotation `@Transactional` kết hợp cơ chế khóa (Lock) của cơ sở dữ liệu.
 - **Lý do:** Cách tiếp cận này tận dụng hệ sinh thái sẵn có để đảm bảo tính ACID cho dữ liệu, tránh rủi ro Deadlock và tối ưu hóa hiệu suất so với việc lock luồng thủ công ở mức ứng dụng.
 
-### 3.3. Cập nhật dữ liệu thời gian thực (Realtime Update)
 
-- **Yêu cầu:** Giao diện đấu giá phải nhảy giá ngay lập tức khi có người trả cao hơn, cấm sử dụng kỹ thuật Polling (hỏi liên tục).
-- **Hướng giải quyết:** Triển khai mô hình luồng Server-Sent Events (SSE). Tại backend, `ItemPricesSink` và `UserBalanceSink` quản lý các luồng phát. Tại frontend, `PriceStreamListener` và `BalanceStreamListener` đóng vai trò là các Observer để lắng nghe biến động.
-- **Lý do:** Mô hình SSE Push-based giúp Server chủ động đẩy dữ liệu đi chỉ khi có thay đổi thực sự, tiết kiệm tối đa băng thông và tài nguyên so với việc Client gọi API liên tục. Đây là biểu hiện thực tế của mẫu thiết kế **Observer Pattern nâng cao**.
+### 3.3. Cập nhật dữ liệu thời gian thực và Xử lý Đa luồng tại Client (JavaFX)
+*   **Vấn đề đa luồng ở Client:** Trong JavaFX, quy tắc an toàn luồng (Thread-safety) bắt buộc mọi thao tác thay đổi giao diện phải được thực thi trên luồng chính (**JavaFX Application Thread**). Nếu hệ thống bắt luồng chính phải chờ phản hồi từ Server, ứng dụng sẽ bị treo (freeze).
+*   **Hướng giải quyết và Kỹ thuật áp dụng:** 
+    *   **Xử lý bất đồng bộ (Asynchronous):** Toàn bộ các thao tác gọi REST API và các bộ lắng nghe luồng sự kiện (như `PriceStreamListener` và `BalanceStreamListener`) đều được giao phó cho các **Background Threads** độc lập quản lý mạng.
+    *   **Đồng bộ hóa giao diện (UI Synchronization):** Khi các tiến trình nền (Callbacks/Listeners) nhận được tín hiệu đẩy (Push) từ Server, chúng không trực tiếp can thiệp vào UI. Thay vào đó, chúng sử dụng cơ chế **`Platform.runLater()`** để đưa các tác vụ cập nhật giao diện (Runnable) vào hàng đợi.
+*   **Lý do lựa chọn:** Việc thiết kế luồng như trên giúp tách biệt hoàn toàn tầng xử lý mạng (Network Layer) và tầng hiển thị (UI Layer). Ứng dụng client duy trì được sự mượt mà, không bị "nghẽn" ngay cả khi nhận hàng loạt luồng dữ liệu giá/số dư liên tục từ hàng nghìn request SSE trả về.
+
 
 ### 3.4. Chức năng nâng cao
 
