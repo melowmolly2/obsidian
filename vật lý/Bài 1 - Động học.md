@@ -1,0 +1,1 @@
+- Giá trị trung bình: 
