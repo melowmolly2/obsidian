@@ -7,4 +7,7 @@
 3. Database: là kho lưu trữ dữ liệu của ứng dụng, của hệ thống website. 
 ![](../Assets/Pasted%20image%2020260609103054.png)
 **Lưu ý: Hình ảnh minh họa là chức năng tìm kiếm chuyến bay của người dùng và được thao tác trên website đặt máy bay.**
-## JSP và Servlet
+## JSP và Servlet (Quan trọng)
+- **JSP và Servlet** là hai công nghệ quan trọng trong lập trình web sử dụng Java. Đề cập đến khái niệm Java, nghĩa là hai công nghệ này sử dụng ngôn ngữ lập trình Java như một phần của ứng dụng web. 
+- **Servlet** là một module Java thông thường được sử dụng để phục vụ các yêu cầu HTTP (ví dụ: GET hoặc POST), xử lý dữ liệu người dùng và khi cần truy xuất và cập nhật dữ liệu đến các hệ thống cơ sở dữ liệu. Servlets tương tác với các yêu cầu từ người dùng và t
+- 
