@@ -1,2 +1,3 @@
 # Web Application
-- Là một ứng dụng có khả năng tiếp cận qua web thông qua mạng Internet. Hầu hết các ứng dụng web đều t
+- Là một ứng dụng có khả năng tiếp cận qua web thông qua mạng Internet. Hầu hết các ứng dụng web đều tương thích với tất cả các thiết bị di động, máy tính, ... 
+- Nó cũng có thể là một phần mềm ứng dụng trên nền tảng web để chạy các phần mềm theo nhu cầu và mong muốn của người dùng. Thông qua các thuật toán lập trình web app, người dùng có thể thực hiện được một số công việc như 
