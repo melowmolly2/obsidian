@@ -9,5 +9,6 @@
 **Lưu ý: Hình ảnh minh họa là chức năng tìm kiếm chuyến bay của người dùng và được thao tác trên website đặt máy bay.**
 ## JSP và Servlet (Quan trọng)
 - **JSP và Servlet** là hai công nghệ quan trọng trong lập trình web sử dụng Java. Đề cập đến khái niệm Java, nghĩa là hai công nghệ này sử dụng ngôn ngữ lập trình Java như một phần của ứng dụng web. 
-- **Servlet** là một module Java thông thường được sử dụng để phục vụ các yêu cầu HTTP (ví dụ: GET hoặc POST), xử lý dữ liệu người dùng và khi cần truy xuất và cập nhật dữ liệu đến các hệ thống cơ sở dữ liệu. Servlets tương tác với các yêu cầu từ người dùng và t
+- **Servlet** là một module Java thông thường được sử dụng để phục vụ các yêu cầu HTTP (ví dụ: GET hoặc POST), xử lý dữ liệu người dùng và khi cần truy xuất và cập nhật dữ liệu đến các hệ thống cơ sở dữ liệu. Servlets tương tác với các yêu cầu từ người dùng và tạo ra các sản phẩm tương ứng. 
+- **JSP (JavaServer Pages)** là một công nghệ cho phép các nhà phát triển tạo các trang 
 - 
