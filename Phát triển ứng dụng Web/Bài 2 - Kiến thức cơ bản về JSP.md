@@ -12,4 +12,9 @@
 - Vị trí của JSP trong một ứng dụng web:
 	- JSP thực hiện tiến trình xử lý trên Server
 	- Kết quả sẽ trả về một trang HTML bao gồm dữ liệu mong muốn đi kèm. 
- 
+	![](../Assets/Pasted%20image%2020260609105907.png)
+- Vị trí của JSP trong code:
+	- JSP được lưu trữ trong thư mục có tên là "WebContent"
+	- Bắt buộc các file JSP phải có định dạng của tên file là ".jsp"
+	![](../Assets/Pasted%20image%2020260609105948.png)
+	
