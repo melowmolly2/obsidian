@@ -15,4 +15,4 @@
 - Cả Servlet và JSP đều sử dụng Java và được sử dụng rộng rãi trong các ứng dụng web Java. Các công nghệ này cho phép các nhà phát triển xây dựng các trang web động và tương tác với người dùng, các hệ thống cơ sở dữ liệu và các phần mềm khác để cung cấp trang web được tùy chỉnh và tối ưu hóa hiệu suất. 
 
 ![](../Assets/Pasted%20image%2020260609103933.png)
-# 2. Giới thiệu về cài đặt và phát triển môi trường trong Servlets
+
