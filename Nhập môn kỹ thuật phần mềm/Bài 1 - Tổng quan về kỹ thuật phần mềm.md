@@ -35,4 +35,5 @@ Vào năm 1990, Davids đã nghiên cứu về 9 dự án phần mềm lớn, ô
 ## 2.2 Quy trình phát triển phần mềm thông qua 4 mô hình nổi tiếng
 - **Mô hình thác nước:** Đi từ giai đoạn này sang giai đoạn khác theo cùng một cách giống như nước chảy theo dòng trên thác nước. 
 - **Mô hình tiến hóa:** Bắt đầu với một mẫu khởi tdidemr và phát triển nó dựa trên phản hồi từ khách hàng. 
-- 
+- **Mô hình thống nhất (Rational Unified Process):** Mô hình chính quy hơn và phụ thuộc nhiều vào UML, chúng ta sẽ đề cập kỹ hơn về mô hình này ở bài sau. 
+- **Mô hình Agile:** Mô hình linh hoạt và có khả năng thay đổi nhanh theo các yêu cầu, các quy luật được bỏ bớt đi. 
