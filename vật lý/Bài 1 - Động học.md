@@ -29,4 +29,9 @@ Quy tắc tính toán:
 - Cộng/Trừ: Giữ theo chữ số thập phân đáng tin cậy nhất
 - Làm tròn kết quả, không giữ thừa chữ số
 ## Ký hiệu khoa học
-- Ví dụ: $384.000.000
+- Ví dụ: 384.000.000 m = 3.84 $\times$ 10^8 (3 chữ số có nghĩa)
+- Chính xác $\ne$ chuẩn xác
+	- Chính xác: gần giá trị thực
+	- Chuẩn xác: kết quả chi tiết, lặp lại được
+Kết luận: Kết quả đúng cần cả chính xác và chuẩn xác, ghi đúng chữ số có nghĩa!
+
