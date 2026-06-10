@@ -8,5 +8,5 @@ $$
 $$
 Sai số tuyệt đối của phép đo: $\Delta A = \overline {\Delta A}+ \Delta A_{ac}$. 
 
-
+S
 
