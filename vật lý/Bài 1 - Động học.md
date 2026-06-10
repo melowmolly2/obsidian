@@ -22,4 +22,11 @@ $$
 	- Cách viết: $56.47 \pm 0.02mm$
 	- Sai số phần trăm: Sai số % = $\frac {\text{Sai số}}{\text{Giá trị đo}} \times 100\%$
 - Chữ số có nghĩa:
-	- Cho biết mức độ đáng tin cây
+	- Cho biết mức độ đáng tin cậy của kết quả
+	- Ví dụ: $2.91 \to 3$ chữ số có nghĩa; $0.250 \to 3$ chữ số có nghĩa
+Quy tắc tính toán:
+- Nhân/Chia: Giữ số chữ số có nghĩa ít nhất
+- Cộng/Trừ: Giữ theo chữ số thập phân đáng tin cậy nhất
+- Làm tròn kết quả, không giữ thừa chữ số
+## Ký hiệu khoa học
+- Ví dụ: $384.000.000
