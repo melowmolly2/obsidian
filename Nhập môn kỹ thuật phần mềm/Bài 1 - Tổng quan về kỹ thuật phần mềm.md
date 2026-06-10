@@ -24,3 +24,6 @@ Chúng ta sẽ tìm hiểu về cuộc khủng hoảng phần mềm từ những
 - Độ phức tạp và quy mô các dự án phần mềm phát triển nhanh hơn rất nhiều so với chất lượng và số lượng của developer.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0b5vp4Z2PKE?si=z7M1x6fXDez200ld" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Vào năm 1990, Davids đã nghiên cứu về 9 dự án phần mềm lớn, ông đã chỉ ra rằng chi phí cho các phần mềm chưa thể (hoặc không thể) sử dụng trong thực tế chiếm tận 5 triệu $ - 7 triệu $ chi phí của cả 9 dự án. Đây là minh chứng rõ ràng nhất về khó khăn trong việc xây dựng các phần mềm, và ngành công nghiệp phần mềm đang đối mặt với một cuộc khủng hoảng thực sự. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cd3TrUK8axU?si=jPjDXgG69Pd0gdyO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## 2. Phát triển phần mềm  
+### 2.1 Tại sao cần quy trình 
