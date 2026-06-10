@@ -37,3 +37,6 @@ Vào năm 1990, Davids đã nghiên cứu về 9 dự án phần mềm lớn, ô
 - **Mô hình tiến hóa:** Bắt đầu với một mẫu khởi tdidemr và phát triển nó dựa trên phản hồi từ khách hàng. 
 - **Mô hình thống nhất (Rational Unified Process):** Mô hình chính quy hơn và phụ thuộc nhiều vào UML, chúng ta sẽ đề cập kỹ hơn về mô hình này ở bài sau. 
 - **Mô hình Agile:** Mô hình linh hoạt và có khả năng thay đổi nhanh theo các yêu cầu, các quy luật được bỏ bớt đi. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ld8QaVM8zJE?si=EUB_OtWbLCE1CsJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## 2.3 Các công cụ cơ bản được xây dựng trong phát triển phần mềm 
+Trong phần này chúng ta se x hocjw về ta
