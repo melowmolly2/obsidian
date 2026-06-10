@@ -19,3 +19,4 @@ Chúng ta sẽ tìm hiểu về cuộc khủng hoảng phần mềm từ những
 **Một số lý do dẫn đến cuộc khủng hoảng phần mềm:
 - Sự gia tăng đột biến về yêu cầu phần mềm. Từ thập niên 60, tương quan giữa phần cứng - phần mềm bắt đầu thay đổi, phần mềm ngày càng trở nên quan trọng hơn (VD: Nhu cầu phần mềm của NASA đã tăng trưởng theo cấp số nhân trong quãng thời gian từ 1960 đén 1998, và điều này xảy ra tuongw3 tự ở nhiều công ty khác). 
 - Độ phức tạp và quy mô các dự án phần mềm phát triển nhanh hơn rất nhiều so với chất lượng và số lượng của developer.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AWwj5r1mA7k?si=TNuXuVWAklTREXp_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
