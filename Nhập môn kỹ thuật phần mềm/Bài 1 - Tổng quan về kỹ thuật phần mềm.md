@@ -12,4 +12,8 @@
 - Tóm lại, chúng ta cần nghiên cứu về cacsp hương pháp, kỹ thuật và công cụ để giúp xây dụng được một phần mềm chất lượng cao và thực hiện được những chức năng theo yêu cầu, làm hài lòng khách hàng. Điều quan trọng chính là chúng ta phải thực hiện việc đó trong một khoảng thời gian với một khoản chi phí nhất định
 # Phát triển phần mềm, quy trình, các giai đoạn và công cụ hỗ trợ
 ## 1. Cuộc khủng hoảng phần mềm 
-Chúng ta sẽ tìm hiểu về cuộc khủng hoảng phần mềm từ những năm 1960, khi mà phần lớn những dự án phần mềm là thất bại hoặc chỉ thành công một phần. Cũng vào 
+Chúng ta sẽ tìm hiểu về cuộc khủng hoảng phần mềm từ những năm 1960, khi mà phần lớn những dự án phần mềm là thất bại hoặc chỉ thành công một phần. Cũng vào khoảng thời gian này, con người nhận ra rằng phần mềm giúp ích được rất nhiều trong cuộc sống.
+
+**Một số lý do dẫn đến cuộc khủng hoảng phần mềm:
+- Sự gia tăng đột biến về yêu cầu phần mềm. Từ thập niên 60, tương quan giữa phần cứng - phần mềm bắt đầu thay đổi, phần mềm ngày càng trở nên quan trọng hơn (VD: Nhu cầu phần mềm của NASA đã tăng trưởng theo cấp số nhân trong quãng thời gian từ 1960 đén 1998, và điều này xảy ra tuongw3 tự ở nhiều công ty khác). 
+- Độ phức tạp và quy mô các dự án phần mềm phát triển nhanh hơn rất nhiều so với chất luongtwj
