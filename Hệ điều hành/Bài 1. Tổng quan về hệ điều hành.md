@@ -1,0 +1,2 @@
+# 1. Tổng quan hệ thống máy tính
+- Hệ thống máy tính là sự kết hợp giữa phần cứng, phần mềm và dữ liệu để giải quyết các vấn đề của con người. Một số thành phần phần cứng cấu thành nên có 1 hay nhiều đơn vị xử lý được gọi là bộ xử lý ha
