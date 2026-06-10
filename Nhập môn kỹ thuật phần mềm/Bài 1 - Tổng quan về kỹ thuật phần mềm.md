@@ -45,3 +45,4 @@ Trong phần này chúng ta sẽ học về tầm quan trong của cong cụ h�
 - Một số công cụ hỗ trợ xác minh và kiểm thử khác. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LyqzWm97oY8?si=LOuLfC4pX5mKF71o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rdWDsMUFgPc?si=pyUZ3rGQIpXCLywo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://en.wikipedia.org/wiki/Software_engineering
