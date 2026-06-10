@@ -1,2 +1,4 @@
 # 1. Tổng quan hệ thống máy tính
-- Hệ thống máy tính là sự kết hợp giữa phần cứng, phần mềm và dữ liệu để giải quyết các vấn đề của con người. Một số thành phần phần cứng cấu thành nên có 1 hay nhiều đơn vị xử lý được gọi là bộ xử lý ha
+- Hệ thống máy tính là sự kết hợp giữa phần cứng, phần mềm và dữ liệu để giải quyết các vấn đề của con người. Một số thành phần phần cứng cấu thành nên có 1 hay nhiều đơn vị xử lý được gọi là bộ xử lý hay CPU, ngày nay 1 CPU chưa nhiều lõi nên có thể có nhiều đơn vị xử lý. Ngoài ra, còn có bộ nhớ (memory), nó có thể là: RAM, ở cứng lưu trữ, cache, thanh ghi. ![](../Assets/Pasted%20image%2020260610092725.png)
+# 2. Kiến thức về hệ điều hành
+- Hệ thống máy tính, như ta đã tìm hiểu có CPU, RAM và hard disk. Bất kỳ chương trình nào mà bạn sử dụng trong máy tính cũng sẽ hiện diện trong hard disk. 
