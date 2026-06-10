@@ -39,4 +39,5 @@ Vào năm 1990, Davids đã nghiên cứu về 9 dự án phần mềm lớn, ô
 - **Mô hình Agile:** Mô hình linh hoạt và có khả năng thay đổi nhanh theo các yêu cầu, các quy luật được bỏ bớt đi. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ld8QaVM8zJE?si=EUB_OtWbLCE1CsJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## 2.3 Các công cụ cơ bản được xây dựng trong phát triển phần mềm 
-Trong phần này chúng ta se x hocjw về ta
+Trong phần này chúng ta sẽ học về tầm quan trong của cong cụ hỗ trợ người phát triển thực hiện các công việc trong các giai đoạn phát triển phần mềm. 
+- **IDE:** Môi trường để trực tiếp soạn thảo, biên dịch và phát triển phần mềm. Ngày nay, các trình soạn thảo nâng cao
