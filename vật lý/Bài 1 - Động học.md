@@ -8,5 +8,10 @@ $$
 $$
 Sai số tuyệt đối của phép đo: $\Delta A = \overline {\Delta A}+ \Delta A_{ac}$. 
 
-S
+Sai số của phép đo gián tiếp
+- Giả sử đại lượng cần đo F liên hệ với các đại lượng đo trực tiếp x,y,z theo hàm số $F=f(x,y,z)$
+- Khi đó, sai số tuyệt dối của đại lượng F có thể xác định theo phép tính vi phân:
+$$
+dF=\frac{\delta F}{\delta x} dx
+$$
 
