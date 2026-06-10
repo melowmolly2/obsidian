@@ -8,5 +8,8 @@
 - Lionel Brand chỉ ra rằng phần mềm rất quan trọng trong tất cả các ngành công nghiệp hiện nay. 
 - Với Willem Visser, nếu bạn không nghĩ về cách thức bạn xây dựng hệ thống với khả năng mở rộng và độ tin cậy, thì phần mềm của bạn sẽ không tồn tại được lâu dài, hoặc chi phí bảo trì và rộng sẽ trở nền rất đắt đỏ. 
 - Tao Xie thì thấy phần mềm hiện nay xuất hiện ở khắp mọi nơi, chúng ta sử dụng phần mềm hàng ngày trong cuộc sống và luôn nghĩ đến việc làm thế nào để nhanh hơn và năng suất hơn. 
-- Hơn thế nưa, Jonathan Maletic nhấn mạnh rằng ngày nay phần mềm xuất hiện ở khắp mọi nơi, không những ảnh hưởng đến sự thành công/thất bại của một công ty mà còn ảnh hưởng trực tiếp đến sự an toàn của bản thân bạn. Kỹ thuật phần mềm là tối quan trọng bởi nó là ngành kỹ thuật đặc thù có khả năng thực hiện các nhiệm vụ kỹ thuật cho các hệ thống phụ thuộc vào phần mềm. 
-- Tóm lại, chúng ta cần nghiên cứu về cacsp hương pháp, kỹ thuật và công cụ để giúp xây dụng được mootj 
+- Hơn thế nữa, Jonathan Maletic nhấn mạnh rằng ngày nay phần mềm xuất hiện ở khắp mọi nơi, không những ảnh hưởng đến sự thành công/thất bại của một công ty mà còn ảnh hưởng trực tiếp đến sự an toàn của bản thân bạn. Kỹ thuật phần mềm là tối quan trọng bởi nó là ngành kỹ thuật đặc thù có khả năng thực hiện các nhiệm vụ kỹ thuật cho các hệ thống phụ thuộc vào phần mềm. 
+- Tóm lại, chúng ta cần nghiên cứu về cacsp hương pháp, kỹ thuật và công cụ để giúp xây dụng được một phần mềm chất lượng cao và thực hiện được những chức năng theo yêu cầu, làm hài lòng khách hàng. Điều quan trọng chính là chúng ta phải thực hiện việc đó trong một khoảng thời gian với một khoản chi phí nhất định
+# Phát triển phần mềm, quy trình, các giai đoạn và công cụ hỗ trợ
+## 1. Cuộc khủng hoảng phần mềm 
+Chúng ta sẽ tìm hiểu về cuộc khủng hoảng phần mềm từ những năm 1960, khi mà phần lớn những dự án phần mềm là thất bại hoặc chỉ thành công một phần. Cũng vào 
