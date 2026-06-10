@@ -12,6 +12,6 @@ Sai số của phép đo gián tiếp
 - Giả sử đại lượng cần đo F liên hệ với các đại lượng đo trực tiếp x,y,z theo hàm số $F=f(x,y,z)$
 - Khi đó, sai số tuyệt dối của đại lượng F có thể xác định theo phép tính vi phân:
 $$
-dF=\frac{\delta F}{\delta x} dx
+dF=\frac{\partial F}{\partial x} dx + \frac{\partial F}{\partial y}dy+\frac{\partial F}{\partial z}dz \to |\delta F|=\left|\frac{\partial F}{\partial x}|
 $$
 
