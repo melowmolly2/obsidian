@@ -17,4 +17,9 @@ $$
 - Sai số tương đối được xác định như sau:
 	- Lây logarit tự nhiên hai vế: $\ln F = \ln f(x,y,z)$
 	- Tính vi phân toàn phần của: $\ln F= \frac{dF}{F}$.
-	- Thay dấu vi phân "d"
+	- Thay dấu vi phân $d$ bằng dấu sai số $\Delta$. 
+- Biểu diễn sai số:
+	- Cách viết: $56.47 \pm 0.02mm$
+	- Sai số phần trăm: Sai số % = $\frac {\text{Sai số}}{\text{Giá trị đo}} \times 100\%$
+- Chữ số có nghĩa:
+	- Cho biết mức độ đáng tin cây
