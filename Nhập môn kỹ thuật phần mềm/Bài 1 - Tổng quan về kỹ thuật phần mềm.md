@@ -40,4 +40,8 @@ Vào năm 1990, Davids đã nghiên cứu về 9 dự án phần mềm lớn, ô
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ld8QaVM8zJE?si=EUB_OtWbLCE1CsJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## 2.3 Các công cụ cơ bản được xây dựng trong phát triển phần mềm 
 Trong phần này chúng ta sẽ học về tầm quan trong của cong cụ hỗ trợ người phát triển thực hiện các công việc trong các giai đoạn phát triển phần mềm. 
-- **IDE:** Môi trường để trực tiếp soạn thảo, biên dịch và phát triển phần mềm. Ngày nay, các trình soạn thảo nâng cao
+- **IDE:** Môi trường để trực tiếp soạn thảo, biên dịch và phát triển phần mềm. Ngày nay, các trình soạn thảo nâng cao còn giúp gỡ lỗi và kiểm tra code. 
+- **GIT:** Hệ thống kiểm soát phiên bản và lưu trữ code. 
+- Một số công cụ hỗ trợ xác minh và kiểm thử khác. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LyqzWm97oY8?si=LOuLfC4pX5mKF71o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdWDsMUFgPc?si=pyUZ3rGQIpXCLywo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
