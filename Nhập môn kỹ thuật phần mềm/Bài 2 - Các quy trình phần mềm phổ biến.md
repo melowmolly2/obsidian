@@ -66,4 +66,8 @@ Mô hình quy trình phát triển phần mềm là một mô hình giả địn
 
 ## 1. Mô hình thác nước
 ![](../Assets/Pasted%20image%2020260611154649.png)
-Trong mô hình thác nước, dự án tiến triển theo một chuối thứ tự các bước: kiến trúc
+Trong mô hình thác nước, dự án tiến triển theo một chuối thứ tự các bước: kiến trúc hệ thống, phân tích yêu cầu, thiết kế, triển khai thực hiện, kiểm thử và bảo trì. Cuối mỗi giai đoạn, chúng ta cần xem xét xác định xem dự án đẫ sẵn sàng để tiến lên giai đoạn tiếp theo hay chưa. 
+
+Mô hình thác nước phù hợp với việc xây dựng các sản phẩm phần mềm ổn định, các công nghệ liên quan được biết đến rộng rãi và đã được tìm hiểu rõ. Trong các bài toán như vậy, mô hình thác nước giúp chúng ta tìm ra được **các lỗi trong các giai đoạn đầu**, cũng như giúp giảm thiểu chi phí và ruiro cho phát triển phần mềm tổng thể. 
+
+Nhước điểm của mô hình thác nước là **thiếu tính linh hoạt.** Khi làm việc với các dự án có yêu cầu thay đ
