@@ -54,3 +54,7 @@ Từ đó dẫn đến các công việc bảo trì tương ứng. Bảo trì ph
 - Hoàn chỉnh để đáp ứng yêu cầu về tính năng
 - Cải thiện phần mềm 
 Đây thường là giai đoạn tốn kém nhất trong vòng đời của phần mềm. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Y8YLMJ3ERw?si=0gcowmZZ6KABN8O8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Mô hình quy trình phần mềm 
+Tại thời điểm này, chúng ta đã biết các hoạt động có khả năng, các giai đoạn thể hiện trong suốt quá trình phát triển phần mềm. Nhưng có nhugnwx nội dung rất quan trọng chúng ta vẫn chưa thảo luận. Đó là **nên đặt những hoạt động này cùng nhau như thế nào để phát triển phần mềm**? Để trả lời
