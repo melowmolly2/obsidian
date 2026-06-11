@@ -101,4 +101,10 @@ Mô hình tiến hóa bản mẫu là một phương pháp phát triển phần 
 Có 4 giai đoạn chính trong mô hình tiến hóa bản mẫu:
 - Bắt đầu từ một khái niểm khởi đầu
 - Thiết kế và thực hiện một bản mẫu dựa trên khái niệm ban đầu này
-- Tinh chỉnh b
+- Tinh chỉnh bản mẫu cho đến khi nó được chấp nhận
+- Hoàn chỉnh và phát hành bản mẫu
+Khi phát triển một hệ thống sử dụng mô hình tiến hóa bản mẫu, hệ thống liên tục được cải tiến và xây dựng lại. Đây là một quy trình lý tưởng khi mà không phải tất cả các yêu cầu đều được hiểu rõ và đây là tình huống rất phổ biến trong thực tế. 
+
+**Ưu điểm: Phản hồi ngay lập tức** - các nhà phát triển nhận được phản hồi ngay lập tức ngay khi họ đưa ra một bản mẫu và họ đưa nó cho khách hàng. Do đó, rủi ro của việc thực hiện sẽ được giảm thiểu một cách tối đa. 
+
+**Nhược điểm: Khó lập kế hoạch** 0 khi s
