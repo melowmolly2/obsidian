@@ -70,4 +70,6 @@ Trong mô hình thác nước, dự án tiến triển theo một chuối thứ 
 
 Mô hình thác nước phù hợp với việc xây dựng các sản phẩm phần mềm ổn định, các công nghệ liên quan được biết đến rộng rãi và đã được tìm hiểu rõ. Trong các bài toán như vậy, mô hình thác nước giúp chúng ta tìm ra được **các lỗi trong các giai đoạn đầu**, cũng như giúp giảm thiểu chi phí và ruiro cho phát triển phần mềm tổng thể. 
 
-Nhước điểm của mô hình thác nước là **thiếu tính linh hoạt.** Khi làm việc với các dự án có yêu cầu thay đ
+Nhước điểm của mô hình thác nước là **thiếu tính linh hoạt.** Khi làm việc với các dự án có yêu cầu thay đổi thường xuyên hay các công nghệ sử dụng được cập nhật liên tục và đang trong quá trình phát triển, mô hình thác nước không phải là sự lựa chọn lý tưởng. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5A5XCuWMG4o?si=uFmDkSVJzZ-4Vqus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
