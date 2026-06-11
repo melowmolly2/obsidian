@@ -36,5 +36,10 @@ Sau khi nhận được tài liệu thiết kế hệ thống, công việc đư
 Có 4 quy tắc cơ bản có thể ảnh hưởng đến cách thức mà một phần mềm được xây dựng:
 - **Giảm mức độ phức tạp:** Xây dựng phần mềm đơn giản hơn để hiểu và sử dụng
 - **Dự đoán về sự điều chỉnh**: Xây dựng phần mềm mà có thể dễ dàng kiểm tra qua các hoạt động xác minh và thẩm định tiếp theo. 
+- **Hỗ trợ kiểm thử, thẩm định:** Xây dựng phần mềm mà có thể dễ dàng kiểm tra qua các hoạt động xác minh và thẩm định tiếp theo. 
 - **Tuân thủ các chuẩn tắc**: Các chuẩn ở đây có thể là chuẩn nội bộ hoặc chuẩn bên ngoài liên quan đến phần mềm. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/skpVpuB8VBY?si=P4ItOPVd-XjcD_2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## 4. Xác minh và thẩm định
+Sau khi xây dụng hệ thống, xác minh và thẩm định là giai đoạn tiếp theo cảu phát triển phần mềm nhằm mục đích kiểm tra xem hệ thống phần mềm có đáp ứng được đặc điểm kỹ thuật của nó cũng như đáp uns được mục tiêu dự định hay không. 
+
+**Thẩm định** là hoạt động trả lời cho câu hỏi
