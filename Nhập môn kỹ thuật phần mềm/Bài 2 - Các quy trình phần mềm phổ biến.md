@@ -16,4 +16,7 @@ Tại sao giai đoạn này lại quan trọng? Bởi vì việc phát hiện l�
 
 Các bước có thể thu thập được yêu cầu phần mềm:
 - **Khơi gợi yêu cầu** từ các bên liên quan và các nguồn khác
-- **Phân tích yêu cầu**, bao gồm sự nghiên cứu và hiểu sâu
+- **Phân tích yêu cầu**, bao gồm sự nghiên cứu và hiểu sâu hơn về các yêu cầu mang tính tập hợp
+- **Đặc tả các yêu cầu**, trong đó các yêu cầu mang tính tập hợp được trình bày, tổ chức và lưu trữ phù hợp để có thể chia sẻ chung.
+- **Xác thực các yêu cầu** để bảo đảm rằng chúng đã hoàn chỉnh, nhất quán, không dư thừa, thỏa mãn một tập hợp các thuộc tính quan trọng cho các yêu cầu. 
+- **Quản lý yêu cầu**, để giải thích cho các thay đổi 
