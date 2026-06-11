@@ -89,7 +89,7 @@ Có 4 giai đoạn chính của mô hình xoắn ốc:
 - Phân tích rủi ro sâu rộng làm giảm thiểu khả năng thất bại của dự án
 - Chức năng có thể được thêm vào ở giai đoạn sau vì tính chất lặp của quy trình. 
 - Phần mềm được đưa ra sớm trong vòng đời, chúng ta không cần phải đợi cho đến giai đoạn cuối trước khi đưa ra một kết quả nào đó. 
-- Có thể nhận được phản hồi sớm của khách hàng về nhugnwx gì ta đã ddauw ra.
+- Có thể nhận được phản hồi sớm của khách hàng về những gì ta đã đưa ra.
 **Nhược điểm:**
 - Phân tích rủi ro phải có chuyên môn đặc biệt cao. 
 - Thành công của mô hình phục thuộc rất nhiều vào phân tích rủi ro. Cho nên, phân tích rủi ro cần phải được thực hiện đúng. 
