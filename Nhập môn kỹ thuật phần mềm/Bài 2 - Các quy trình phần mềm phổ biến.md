@@ -94,3 +94,11 @@ Có 4 giai đoạn chính của mô hình xoắn ốc:
 - Phân tích rủi ro phải có chuyên môn đặc biệt cao. 
 - Thành công của mô hình phục thuộc rất nhiều vào phân tích rủi ro. Cho nên, phân tích rủi ro cần phải được thực hiện đúng. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mp22SDTnsQQ?si=9BVaU8IDDaBhd_7D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## 3. Mô hình tiến hóa bản mẫu
+![](../Assets/Pasted%20image%2020260611160225.png)
+Mô hình tiến hóa bản mẫu là một phương pháp phát triển phần mềm trong đó nhà phát triển hoặc nhóm phát triển tạo mẫu thử nghiệm đàu tiên. Sau khi nhận được phản hồi ban đầu từ khách hàng, các nguyên mẫu tiếp theo được sản xuất, mỗi nguyên mẫu có thêm chức năng hoặc cải tiến, cho đến khi sản phẩm cuối cùng xuất hiện. 
+
+Có 4 giai đoạn chính trong mô hình tiến hóa bản mẫu:
+- Bắt đầu từ một khái niểm khởi đầu
+- Thiết kế và thực hiện một bản mẫu dựa trên khái niệm ban đầu này
+- Tinh chỉnh b
