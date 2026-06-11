@@ -28,4 +28,5 @@ Thiết kế phần mềm là giai đoạn mà các yêu cầu phần mềm đư
 - Thiết kế thành phần
 - Thiết kế thuật toán
 - ...
-Nếu chúng ta đọc các cuốn sách hay giáo trình
+Nếu chúng ta đọc các cuốn sách hay giáo trình khác nhau, các hoạt động thiết kế có thể được mô tả theo nhiều cách khác nhau. Ý tưởng cốt lõi và điểm quan trọng ở đây là chúng ta đi từ góc nhìn bao quát hơn về hệ thống (thiết kế kiến rúc) đến một góc nhìn hẹp hơn (thiết kế thuật toán). Và các hoạt động này dẫn đến một bộ các sản phẩm thiết kế mô tả các đặc điểm khác nhau của hệ thống. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZEhYRLMEbVw?si=i2_PJpaNO0Czrtrf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
