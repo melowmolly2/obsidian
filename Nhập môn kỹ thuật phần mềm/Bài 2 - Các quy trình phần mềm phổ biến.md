@@ -59,4 +59,11 @@ Từ đó dẫn đến các công việc bảo trì tương ứng. Bảo trì ph
 # Mô hình quy trình phần mềm 
 Tại thời điểm này, chúng ta đã biết các hoạt động có khả năng, các giai đoạn thể hiện trong suốt quá trình phát triển phần mềm. Nhưng có những nội dung rất quan trọng chúng ta vẫn chưa thảo luận. Đó là **nên đặt những hoạt động này cùng nhau như thế nào để phát triển phần mềm**? Để trả lời được câu hỏi này, hãy bắt đầu tìm hiểu về khái niệm mô hình quy trình phát triển phần mềm (mô hình vòng đời phần mềm). 
 
-Mô hình quy trình phát triển phần mềm là một mô hình giả định những gì sẽ được thực hiện từ bước đầu tiên cho đến bước cuối cùng của một quy trình phát triển phần mềm. Chức năng chính của mô hình là xác định thứ tự sắp xếp của các hoạt động khác nhau để ta biết được những hành động nào nên làm trước và những hành động nên thực hiện sau đó. Một chức năng quan trọng khác chính l
+Mô hình quy trình phát triển phần mềm là một mô hình giả định những gì sẽ được thực hiện từ bước đầu tiên cho đến bước cuối cùng của một quy trình phát triển phần mềm. Chức năng chính của mô hình là xác định thứ tự sắp xếp của các hoạt động khác nhau để ta biết được những hành động nào nên làm trước và những hành động nên thực hiện sau đó. Một chức năng quan trọng khác chính là xác định tiêu chí chuyển tiếp giữa các hoạt động: **Khi nào chúng ta sẽ chuyển sang giai đoạn tiếp theo. 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/laSrDtYtkXU?si=w9MTtSGdjgGIt9AB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 1. Mô hình thác nước
+![](../Assets/Pasted%20image%2020260611154649.png)
+Trong mô hình thác nước, dự án tiến triển theo một chuối thứ tự các bước: kiến trúc
