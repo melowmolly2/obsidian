@@ -107,4 +107,4 @@ Khi phát triển một hệ thống sử dụng mô hình tiến hóa bản m�
 
 **Ưu điểm: Phản hồi ngay lập tức** - các nhà phát triển nhận được phản hồi ngay lập tức ngay khi họ đưa ra một bản mẫu và họ đưa nó cho khách hàng. Do đó, rủi ro của việc thực hiện sẽ được giảm thiểu một cách tối đa. 
 
-**Nhược điểm: Khó lập kế hoạch** 0 khi s
+**Nhược điểm: Khó lập kế hoạch** - khi sử dụng mô hình tienesh óa 
