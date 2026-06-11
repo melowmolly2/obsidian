@@ -16,4 +16,4 @@ Tại sao giai đoạn này lại quan trọng? Bởi vì việc phát hiện l�
 
 Các bước có thể thu thập được yêu cầu phần mềm:
 - **Khơi gợi yêu cầu** từ các bên liên quan và các nguồn khác
-- ** 
+- **Phân tích yêu cầu**, bao gồm sự nghiên cứu và hiểu sâu
