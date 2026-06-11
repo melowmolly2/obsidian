@@ -50,4 +50,7 @@ Sau khi xây dụng hệ thống, xác minh và thẩm định là giai đoạn 
 Khi phần mềm đã triển khai cho khác hàng, nhiều yêu cầu mới vẫn được đặt ra như: Có sự thay đổi về môi trường sử dụng phần mềm, khách hàng muốn có thêm chức năng, hệ thống đang sử dụng cần tích hợp vào các hệ thống khác hay khách hàng phát hiện ra lỗi mới, vv. 
 
 Từ đó dẫn đến các công việc bảo trì tương ứng. Bảo trì phần mềm là hoạt động duy trì sản phầm phần mềm khi nó phát triển qua suốt vòng đời của mình, đặc biệt trong việc phản hồi các báo cáo lỗi, yêu cầu tính năng và thay đổi môi trường. Các tổ chức phát triển thực hiện ba loại hoạt động bảo trì. 
-- Sửa chữa để loại bỏ các vấn đề 
+- Sửa chữa để loại bỏ các vấn đề với code
+- Hoàn chỉnh để đáp ứng yêu cầu về tính năng
+- Cải thiện phần mềm 
+Đây thường là giai đoạn tốn kém nhất trong vòng đời của phần mềm. 
