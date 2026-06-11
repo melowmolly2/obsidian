@@ -42,4 +42,11 @@ Có 4 quy tắc cơ bản có thể ảnh hưởng đến cách thức mà một
 ## 4. Xác minh và thẩm định
 Sau khi xây dụng hệ thống, xác minh và thẩm định là giai đoạn tiếp theo cảu phát triển phần mềm nhằm mục đích kiểm tra xem hệ thống phần mềm có đáp ứng được đặc điểm kỹ thuật của nó cũng như đáp uns được mục tiêu dự định hay không. 
 
-**Thẩm định** là hoạt động trả lời cho câu hỏi
+**Thẩm định** là hoạt động trả lời cho câu hỏi: Có phải chúng ta đã xây dụng hệ thống mà khách hàng mong muốn?
+
+**Xác minh** trả lời một câu hỏi khác, có phải chúng ta đã xây dụng hệ thống đúng theo đặc tả hay không. Có nhiều cấp độ xác minh khác nhau: Đơn vị, tích hợp, hệ thống. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gQrSxbfUjug?si=5eN-QU6ijPOI0l3p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## 5. Bảo trì
+Khi phần mềm đã triển khai cho khác hàng, nhiều yêu cầu mới vẫn được đặt ra như: Có sự thay đổi về môi trường sử dụng phần mềm, khách hàng muốn có thêm chức năng, hệ thống đang sử dụng cần tích hợp vào các hệ thống khác hay khách hàng phát hiện ra lỗi mới, vv. 
+
+Từ đó dẫn đến các co
