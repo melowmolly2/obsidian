@@ -19,4 +19,13 @@ Các bước có thể thu thập được yêu cầu phần mềm:
 - **Phân tích yêu cầu**, bao gồm sự nghiên cứu và hiểu sâu hơn về các yêu cầu mang tính tập hợp
 - **Đặc tả các yêu cầu**, trong đó các yêu cầu mang tính tập hợp được trình bày, tổ chức và lưu trữ phù hợp để có thể chia sẻ chung.
 - **Xác thực các yêu cầu** để bảo đảm rằng chúng đã hoàn chỉnh, nhất quán, không dư thừa, thỏa mãn một tập hợp các thuộc tính quan trọng cho các yêu cầu. 
-- **Quản lý yêu cầu**, để giải thích cho các thay đổi 
+- **Quản lý yêu cầu**, để giải thích cho các thay đổi đối với các yêu cầu trong suốt vòng đời của dự án.
+## 2. Thiết kế 
+
+Thiết kế phần mềm là giai đoạn mà các yêu cầu phần mềm được phân tích để đưa ra một mô tả về cấu trúc và tổ chức bê ntrong của hệ thống. Và mô tả này sẽ là cơ sở cho cấu trúc của hệ thống thực. Một cách truyền thống, giai đoạn thiết kế phần mềm đưa ra một chuỗi các hoạt động thiết kế, bao gồm:
+- Thiết kế kiến trúc
+- Thiết kế giao diện
+- Thiết kế thành phần
+- Thiết kế thuật toán
+- ...
+Nếu chúng ta đọc các cuốn sách hay giáo trình
