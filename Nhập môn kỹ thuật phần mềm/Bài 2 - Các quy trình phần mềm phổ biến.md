@@ -10,4 +10,10 @@ Nội dung đầu tiên chúng ta tìm hiểu sẽ chỉ ra các giai đoạn tr
 
 ## 1. Kỹ thuật yêu cầu
 
-**Kỹ tu
+**Kỹ thuật yêu cầu** là lĩnh vực liên quan đến xác định các yêu cầu của các bên liên quan mà sẽ được giải quyết bởi phần mềm
+
+Tại sao giai đoạn này lại quan trọng? Bởi vì việc phát hiện lỗi càn muôn trong quá trình phát triển sẽ dẫn đến chi phí sửa chữa càng cao. Do đó, giai đoạn này có vai trò rất quan trọng để giảm rủi ro và chi phí phát sinh trong quá trình xây dựng hệ thống. 
+
+Các bước có thể thu thập được yêu cầu phần mềm:
+- **Khơi gợi yêu cầu** từ các bên liên quan và các nguồn khác
+- ** 
