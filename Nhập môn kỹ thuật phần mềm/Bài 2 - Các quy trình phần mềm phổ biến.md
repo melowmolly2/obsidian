@@ -82,4 +82,11 @@ Về cơ bản, những gì mô hình xoắn ốc quy định là cách thức p
 Có 4 giai đoạn chính của mô hình xoắn ốc:
 - Xác định mục tiêu, nhận dạng: Các yêu cầu sẽ được thu thập
 - Giải quyết rủi ro: Các rủi ro và giải pháp thay thế sẽ được xác định. 
-- 
+- Phát triển và kiểm tra: Phần mềm và kiểm thử cho phần mềm được đưa ra và thực thi. 
+- Lập kế hoạch cho lần lặp tiếp theo: đầu ra của dự án được đánh giá và lần lặp tiếp theo được lên kế hoạch.
+
+**Các ưu điểm của mô hình xoắn ốc:** 
+- Phân tích rủi ro sâu rộng làm giảm thiểu khả năng thất bại của dự án
+- Chức năng có thể được thêm vào ở giai đoạn sau vì tính chất lặp của quy trình. 
+- Phần mềm được đưa ra sớm trong vòng đời, chúng ta không cần phải đợi cho đến giai đoạn cuối trước khi đưa ra một kết quả nào đó. 
+- Có thể nhận được phan
