@@ -76,3 +76,10 @@ Nhước điểm của mô hình thác nước là **thiếu tính linh hoạt.*
 ## 2. Mô hình xoắn ốc 
 ![](../Assets/Pasted%20image%2020260611155251.png)
 Mô hình xoắn ốc là mô hình vòng đời định hướng rủi ro gia tăng. Mô hình xoắn ốc (tiếng Anh: spiral model) là quy trình phát tiển định hướng rủi ro cho các dự án phần mềm. Kết hợp của thế mạnh cảu các mô hình khác và giải quyết khó khăn của các mô hình trước còn tồn tại. 
+
+Về cơ bản, những gì mô hình xoắn ốc quy định là cách thức phát triển phần mềm bằng việc đi qua các giai đoạn một cách lặp lại. Khi chúng ta ngày càng hiểu về phần mềm, chúng ta nhận biết ngày càng nhiều, và giải thích càng nhiều rủi ro, chúng ta sẽ càng tiến tới giải pháp cuối cùng, phiên bản hoàn thiện cuối cùng. 
+
+Có 4 giai đoạn chính của mô hình xoắn ốc:
+- Xác định mục tiêu, nhận dạng: Các yêu cầu sẽ được thu thập
+- Giải quyết rủi ro: Các rủi ro và giải pháp thay thế sẽ được xác định. 
+- 
