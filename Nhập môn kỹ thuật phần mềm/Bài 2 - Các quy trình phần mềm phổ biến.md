@@ -151,3 +151,6 @@ Trước đây, tài liệu theo chuẩn mực của IEEE kahsa chi tiết và �
 ## 1. Giới thiệu của Barry Bohem 
 Video giới thiệu góc nhìn dễ hiểu của giáo sư Barry Bohem về mô hình quy trình phát triển phần mềm, là một loạt các quyết định cần đưa ra trong quá trình phát triển. Tùy ngữ cảnh và tính chất của dự án, chúng ta cần áp dụng các chiến thuật phù hợp. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qiOKi6OcMTQ?si=-OAh1txKrImbrlR9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## 2. Một số bài học kinh ddienr trong kỹ thuật phần mềm
+
+**Sai lầm kinh điển về con người.** Video này và các video sau nêu một số sai lầm khi thực hiện dự án phần mềm. Đây là kinh nghiệm quý báu đúc kết được nên rất đáng ghi nhớ. Đầu tiên là sai lầm về con người thì cần chú trọng phát triển nhóm làm việc thay vì chỉ tập trung vào một số "anh hùng" là người giỏi và làm hết các việc của dự án. Bên cạnh đó cần tạo môi tru0ongwf
