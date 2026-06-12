@@ -6,4 +6,6 @@ Một số đặc điểm nổi bật nhát của Git:
 - Thiết kế đơn giản
 - Tốc độ nhanh
 - Hỗ trợ tốt việc tạo ra và xử lý các nhánh song song đẻ nhóm phát triển có thể làm việc trong cùng một dự án. 
-Sự khác biệt chính giữa Git và bất kỳ VCS nào khác (bao gồm Subversion...) là cách Git nghĩ về dữ liệu của nó. Git coi thông tin được lưu trữ là một tập hợp các snapshot - ảnh chụp toàn bo
+Sự khác biệt chính giữa Git và bất kỳ VCS nào khác (bao gồm Subversion...) là cách Git nghĩ về dữ liệu của nó. Git coi thông tin được lưu trữ là một tập hợp các snapshot - ảnh chụp toàn bộ nội dung tất cả các file tại thời điểm. Mỗi khi bạn commit, Git sẽ "chụp" và tạo ra một snapshot cùng một tham chiếu tới snapshot đó. Để hiệu quả, nếu các tệp không thay đổi, Git sẽ không lưu trữ lại file - chỉ là một liên kết đến tệp giống file trước đó mà nó đã lưu trữ. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ISKr-W1wWqY?si=Vi-LF8bgrgzmFy8L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
