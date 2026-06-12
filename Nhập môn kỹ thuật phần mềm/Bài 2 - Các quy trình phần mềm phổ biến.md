@@ -122,3 +122,7 @@ RUP dựa trên 4 giai đoạn
 - **Giai đoạn vận hành (elaboration):** Tập trung vào phân tích domain và xác định kiến trúc cơ bản của hệ thống. 
 - **Giai đoạn xây dựng (construction):** Phần lớn các công việc phát triển phần mềm diễn ra ở giai đoạn này. 
 - **Giai đoạn chuyển tiếp (transition):** Hệ thống đi từ bước phát triển sang sản xuất, đưa đến tay người sử dụng. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YgkhFH8g0J4?si=ffQ2s-JFiTgbwVeC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## 5. Mô hình Agile
+![](../Assets/Pasted%20image%2020260612205531.png)
+Agile là một nhóm các phương pháp chú trọng đến phát triển lặp và tăng trưởng. Agile là phương phát phát 
