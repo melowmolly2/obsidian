@@ -142,4 +142,11 @@ Việc chọn mô hình quy trình phù hợp có thể quyết định sự th�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F5fuUs7oJu0?si=c46pm8rsVyv0MMLe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## 7. Các tài liệu theo vòng đời dự án
-Khi thực hiện các công việc trong quá trình phát triển, thông thuognwf chúng ta cần viết ra tài liệu là sản phẩm kết quả. Các tài liệu này có vai trò làm các bê
+Khi thực hiện các công việc trong quá trình phát triển, thông thuognwf chúng ta cần viết ra tài liệu là sản phẩm kết quả. Các tài liệu này có vai trò làm các bên liên quan hiểu rõ nhau và giúp phát hiện các vấn đề sớm, đông thời cũng giảm rủi ro cho dự án khi có thay đổi nhân sự. 
+
+Trước đây, tài liệu theo chuẩn mực của IEEE kahsa chi tiết và đày đủ, nhưng cũng có nhược điểm là tốn kém khi viết ra và việc duy trì nó luôn phải cập nhật. Do đó, ngày nay nhiều dự án sử dugnj các dạng tài liệu đơn giản, ngắn gọn, chỉ ghi những thông tin trọng tâm. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MVbIEuK5XOU?si=ecYbNAOAFJk-78nY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Nội dung tham khảo
+## 1. Giới thiệu của Barry Bohem 
+Video giới thiệu góc nhìn dễ hiểu của giáo sư Barry Bohem về mô hình quy trình phát triển phần mềm, là một loạt các quyết định cân
