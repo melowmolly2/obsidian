@@ -129,3 +129,4 @@ Agile là một nhóm các phương pháp chú trọng đến phát triển lặ
 
 Phát triển hướng kiểm thử TDD (Test-Driven Development) là một phuognw pháp tiếp cận cải tiến để phát triển phần mềm trong đó kết hợp phương pháp Phát triển kiểm thử trước (Test First Development) và phương pháp Điều chỉnh lại mã nguồn (Refactoring). Mục tiêu quan trọng nhất của TDD là hãy nghĩ về thiết kế của bạn trước khi viết mã nguồn cho chức năng. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pw8I0GSXjKg?si=y5ZsGggMeLT7QYaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
