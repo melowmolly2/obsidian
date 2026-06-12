@@ -155,3 +155,6 @@ Video giới thiệu góc nhìn dễ hiểu của giáo sư Barry Bohem về mô
 
 **Sai lầm kinh điển về con người.** Video này và các video sau nêu một số sai lầm khi thực hiện dự án phần mềm. Đây là kinh nghiệm quý báu đúc kết được nên rất đáng ghi nhớ. Đầu tiên là sai lầm về con người thì cần chú trọng phát triển nhóm làm việc thay vì chỉ tập trung vào một số "anh hùng" là người giỏi và làm hết các việc của dự án. Bên cạnh đó cần tạo môi trường làm việc vui vẻ, lành mạnh để tạo hứng thú cho người làm việc. Vấn đền quản lý cũng hết sức tránh cách đối xử không đúng mực với cấp dưới.  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X-uFFR68Kgs?si=IlIBxriHlvLMSWI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**Sai lầm kinh điển về quy trình.** Các sai lầm trong lập kế hoạch và ước lượng kế hoạch cần lưu ý được thảo luận trong video này. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tSpk1u3NRQE?si=RNLxEJxtHPL-GD-v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**
