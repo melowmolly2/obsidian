@@ -127,4 +127,4 @@ RUP dựa trên 4 giai đoạn
 ![](../Assets/Pasted%20image%2020260612205531.png)
 Agile là một nhóm các phương pháp chú trọng đến phát triển lặp và tăng trưởng. Agile là phương pháp phát triển phần mềm linh hoạt để làm sao ddauw sản phẩm đến tay khách hàng nhanh nhất. Scrum là một dạng của mô hình Agile và là Framework phổ biến nhất trong họ Agile. 
 
-Phát triển hướng kiểm thử 
+Phát triển hướng kiểm thử TDD (Test-Driven Development) là một phuognw pháp tiếp cận cải tiến để phát triển phần mềm trong đó kết hợp phương pháp Phát triển kiểm thử trước (Test First Development) và phương pháp Điều chỉnh lại mã nguồn (Refactoring). Mục tiêu quan trọng nhất của TDD là hãy nghĩ về thiết kế của bạn trước khi viết mã nguồn cho chức năng. 
