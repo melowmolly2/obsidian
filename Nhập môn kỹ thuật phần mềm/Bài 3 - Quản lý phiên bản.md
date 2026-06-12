@@ -14,4 +14,9 @@ Sự khác biệt chính giữa Git và bất kỳ VCS nào khác (bao gồm Sub
 Các bạn có thể thực hiện theo chỉ dẫn ở video dưới đây và tìm kiếm thêm các cách hướng dẫn khác trên Google để cài đặt được phiên bản Git phù hợp với hệ điều hành của bạn (Linux, MacOS và Windows)
 
 ## 3. Luồng công việc của Git (bài học quan trọng)
-**4 dạng lưu trữ cơ b
+**4 dạng lưu trữ cơ bản:**
+- Workspace (working dir): Không gian làm việc, thư mcuj cục bộ ở trên thiết bị của bạn.
+- Index (stage): Khu vực sẽ lưu trữ những thay đổi của bạn trên tập tin để nó có thể được commit. 
+- Local repository (head): Kho lưu trữ cục bộ, thường nằm ở trên thiết bị của bạn. 
+- Remote repository: Kho lưu trữ từ xa (hay trung tâm).
+Đầu tiên, để có thể truy cập và lấy về resource từ một remote repository, chúng ta thường sử dụng Git clone "remote repository url". Khi đó, chúng ts
