@@ -125,4 +125,6 @@ RUP dựa trên 4 giai đoạn
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YgkhFH8g0J4?si=ffQ2s-JFiTgbwVeC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## 5. Mô hình Agile
 ![](../Assets/Pasted%20image%2020260612205531.png)
-Agile là một nhóm các phương pháp chú trọng đến phát triển lặp và tăng trưởng. Agile là phương phát phát 
+Agile là một nhóm các phương pháp chú trọng đến phát triển lặp và tăng trưởng. Agile là phương pháp phát triển phần mềm linh hoạt để làm sao ddauw sản phẩm đến tay khách hàng nhanh nhất. Scrum là một dạng của mô hình Agile và là Framework phổ biến nhất trong họ Agile. 
+
+Phát triển hướng kiểm thử 
