@@ -149,4 +149,5 @@ Trước đây, tài liệu theo chuẩn mực của IEEE kahsa chi tiết và �
 
 # Nội dung tham khảo
 ## 1. Giới thiệu của Barry Bohem 
-Video giới thiệu góc nhìn dễ hiểu của giáo sư Barry Bohem về mô hình quy trình phát triển phần mềm, là một loạt các quyết định cân
+Video giới thiệu góc nhìn dễ hiểu của giáo sư Barry Bohem về mô hình quy trình phát triển phần mềm, là một loạt các quyết định cần đưa ra trong quá trình phát triển. Tùy ngữ cảnh và tính chất của dự án, chúng ta cần áp dụng các chiến thuật phù hợp. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qiOKi6OcMTQ?si=-OAh1txKrImbrlR9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
