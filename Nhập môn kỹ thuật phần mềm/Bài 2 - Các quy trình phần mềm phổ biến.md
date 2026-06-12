@@ -107,4 +107,10 @@ Khi phát triển một hệ thống sử dụng mô hình tiến hóa bản m�
 
 **Ưu điểm: Phản hồi ngay lập tức** - các nhà phát triển nhận được phản hồi ngay lập tức ngay khi họ đưa ra một bản mẫu và họ đưa nó cho khách hàng. Do đó, rủi ro của việc thực hiện sẽ được giảm thiểu một cách tối đa. 
 
-**Nhược điểm: Khó lập kế hoạch** - khi sử dụng mô hình tiến hóa bản mẫu, sẽ khó để lập kế hoạch trước cho khoảng thời gian mà việc phát triển sẽ chiếm, bời vì chúng ta không biết sẽ cần bao nhiêu lần lặp. Ngoài ra, quy trình tiến hóa dễ dàng trở thành cái cớ 
+**Nhược điểm: Khó lập kế hoạch** - khi sử dụng mô hình tiến hóa bản mẫu, sẽ khó để lập kế hoạch trước cho khoảng thời gian mà việc phát triển sẽ chiếm, bời vì chúng ta không biết sẽ cần bao nhiêu lần lặp. Ngoài ra, quy trình tiến hóa dễ dàng trở thành cái cớ để làm những việc như là cắt bớt và sửa chữa phần mềm. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bAEnaGG8Otc?si=FzY5H-ya1RT3jxnK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 4. Mô hình thống nhất
+![](../Assets/Pasted%20image%2020260612204533.png)
+Mô hình thống nhất (RUP hoặc IUP) là mô hình dựa theo UML< làm việc theo cách lặp lại, có nghĩa là nó thể hiện các lần lặp kha
