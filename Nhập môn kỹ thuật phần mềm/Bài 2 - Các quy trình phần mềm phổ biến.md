@@ -133,4 +133,13 @@ Phát triển hướng kiểm thử TDD (Test-Driven Development) là một phuo
 
 ## 6. Lựa chọn quy trình
 Việc chọn mô hình quy trình phù hợp có thể quyết định sự thành công hay thất bại của dự án. Làm thế nào để chúng ta có thể chọn một mô hình quy trình phù hợp cho 1 dự án phần mềm? 
+- Liệu chúng ta có hiểu rõ yêu cầu của dự án?
+- Cần hoàn thành dự án trong bao lâu?
+- Mức độ rủi ro liên quan là gì?
+- Chúng ta có hiểu rõ về domain của dự án không?
+- Mức độ tương tác với khách hàng có đủ không?
+- Chúng ta có một đội ngũ có trình độ chuyên môn cao và nắm bắt được các công nghệ đáng tin cậy?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F5fuUs7oJu0?si=c46pm8rsVyv0MMLe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## 7. Các tài liệu theo vòng đời dự án
+Khi thực hiện các công việc trong quá trình phát triển, thông thuognwf chúng ta cần viết ra tài liệu là sản phẩm kết quả. Các tài liệu này có vai trò làm các bê
