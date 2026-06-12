@@ -115,4 +115,9 @@ Khi phát triển một hệ thống sử dụng mô hình tiến hóa bản m�
 ![](../Assets/Pasted%20image%2020260612204533.png)
 Mô hình thống nhất (RUP hoặc IUP) là mô hình dựa theo UML, làm việc theo cách lặp lại, có nghĩa là nó thể hiện các lần lặp khác nhau. 
 
-Mô hình RUP được phát triển bởi hãng IBM. Tiến trình này yêu cầu việc phát triển ứng dugnj một cách chặt chẽ và nghiêm ngặt với việc ddauw ra các mẫu được thực hiện nhanh chóng qua các cuộc làm việc với khách hàng và nhóm dự án, việc lập kế hoạch và đưa ra các chức năng hệ thống một cách tích cực. Kết quả sẽ đưa ra một ứng dụng đáp ứng các yêu cầu của người sử dụng và giúp cho quá trình lên kế hoạch và thực thi n
+Mô hình RUP được phát triển bởi hãng IBM. Tiến trình này yêu cầu việc phát triển ứng dugnj một cách chặt chẽ và nghiêm ngặt với việc ddauw ra các mẫu được thực hiện nhanh chóng qua các cuộc làm việc với khách hàng và nhóm dự án, việc lập kế hoạch và đưa ra các chức năng hệ thống một cách tích cực. Kết quả sẽ đưa ra một ứng dụng đáp ứng các yêu cầu của người sử dụng và giúp cho quá trình lên kế hoạch và thực thi nhanh chóng. 
+
+RUP dựa trên 4 giai đoạn
+- **Giai đoạn khởi đầu (inception):** Tìm ra phạm vi của công việc, đâu là phạm vi của dự án, domain (miền) là gì.
+- **Giai đoạn vận hành (elaboration):** Tập trung vào phân tích domain và xác định kiến trúc cơ bản của hệ thống. 
+- **Giai đoạn xây dựng (construction): Phần lớn các công việc phát tr
