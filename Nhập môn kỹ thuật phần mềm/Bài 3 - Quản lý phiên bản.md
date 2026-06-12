@@ -19,4 +19,8 @@ Các bạn có thể thực hiện theo chỉ dẫn ở video dưới đây và 
 - Index (stage): Khu vực sẽ lưu trữ những thay đổi của bạn trên tập tin để nó có thể được commit. 
 - Local repository (head): Kho lưu trữ cục bộ, thường nằm ở trên thiết bị của bạn. 
 - Remote repository: Kho lưu trữ từ xa (hay trung tâm).
-Đầu tiên, để có thể truy cập và lấy về resource từ một remote repository, chúng ta thường sử dụng Git clone "remote repository url". Khi đó, chúng ts
+Đầu tiên, để có thể truy cập và lấy về resource từ một remote repository, chúng ta thường sử dụng `git clone "remote repository url"`. Khi đó, chúng ta sẽ có một bản sao ở thiết bị của bạn. Nếu bạn tự tạo kho lưu trữ thì không cần làm bước này. 
+
+Nếu tập tin đang ở trên máy của bạn, nó có thể nằm ở 11 trong 3 trạng thái/dạng lưu trữ. 
+
+Nếu bạn đang chỉnh sửa và làm việc với nó, nó sẽ nằm ở workspace. Nếu bạn muốn thêm những tập tin được thay đổi, chỉnh sửa lên stage để xem xét xem mình có commit hay không thì sẽ sử dụng lệnh `git add`. Khi đó, tập tin sẽ được đánh dấu là được xem xét đ
