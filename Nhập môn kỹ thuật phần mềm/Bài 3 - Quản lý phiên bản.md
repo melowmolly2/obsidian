@@ -23,4 +23,7 @@ Các bạn có thể thực hiện theo chỉ dẫn ở video dưới đây và 
 
 Nếu tập tin đang ở trên máy của bạn, nó có thể nằm ở 11 trong 3 trạng thái/dạng lưu trữ. 
 
-Nếu bạn đang chỉnh sửa và làm việc với nó, nó sẽ nằm ở workspace. Nếu bạn muốn thêm những tập tin được thay đổi, chỉnh sửa lên stage để xem xét xem mình có commit hay không thì sẽ sử dụng lệnh `git add`. Khi đó, tập tin sẽ được đánh dấu là được xem xét đ
+Nếu bạn đang chỉnh sửa và làm việc với nó, nó sẽ nằm ở workspace. Nếu bạn muốn thêm những tập tin được thay đổi, chỉnh sửa lên stage để xem xét xem mình có commit hay không thì sẽ sử dụng lệnh `git add`. Khi đó, tập tin sẽ được đánh dấu là được xem xét để commit (nhưng chưa commit). Bên cạnh đó, `git add -u` xem xét tất cả các tệp được theo dói và thực hiện các thay đổi đối với các tệp đó nếu chúng khác hoặc nếu chúng đã bị xóa. 
+
+Sau khi đã lên stagin,g nếu bạn muốn đẩy tệp tin lên local repository thì bạn cần `git commit`. Khi đó, những thay đổi trong tập tin của bạn sẽ được lưu trữ trong local repository. Bạn có thực thi cả bước add và commit bằng câu lệnh `git commit -a`. Câu lệnh này sẽ giúp bạn đánh dấu, sắp xếp các tệp tin đã chỉnh sửa và commit chúng. 
+
