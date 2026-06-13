@@ -72,3 +72,9 @@ Nếu bạn muốn đẩy tiếp các tệp tin từ local repository xuống wo
 
 Nếu bạn muốn đẩy thẳng từ remote repository xuống workspace, có thể sử dụng câu lệnh `git pull`. Vậy tại sao chúng ta lại cần chia lệnh `git pull` thành 2 lệnh riêng biệt ở trên? Bởi vì nó giúp ta có thể so sánh sự khác biệt của các tệp tin giữa remote repository và workspace thông qua local repository. Và câu lệnh để so sánh sự khác biệt này chính là `git diff head`. Sau đó, chúng ta có thể dựa vào các sự khác biệt này để quyết định xem có muốn merge hay không. Ngoài ra, bạn cũng có thể chạy `git diff` để quan sát được sự khác biệt giữa workspace và stage. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3a2x1iJFJWc?si=pmX3ImA8chLq63AH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## 4. Kết hợp Git và Eclipse
+Chúng ta có thể tích hợp Git vào Eclipse với như một plugin cho Git trên Eclipse. 
+
+Bài học sẽ hướng dẫn chúng ta:
+- Cài đặt 
