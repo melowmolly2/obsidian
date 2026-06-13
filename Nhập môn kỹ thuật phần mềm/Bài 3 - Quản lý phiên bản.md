@@ -66,4 +66,8 @@ Sau khi đã lên stagin,g nếu bạn muốn đẩy tệp tin lên local reposi
 
 Trong VCS phân tán, bạn có 2 repository khác nhau: Local và remote. Để đẩy các tập tin đã được commit của bạn từ local lên remote, các bạn cần câu lệnh `git push`. Nó sẽ đẩy các thay đổi từ local lên remote và hiển thị tệp tin cho bất kỳ ai có quyển truy cập vào local repository. 
 ![](../Assets/Pasted%20image%2020260613164428.png)
-Ở luồng ngược lại, nếu bạn muốn cập nhật lại từ 
+Ở luồng ngược lại, nếu bạn muốn cập nhật lại từ local repository theo remote repository, hãy sử dụng `git fetch`. Câu lệnh này sẽ lấy các tệp từ remote và cập nhật ngược xuống local repository (nhưng không đẩy xuống workspace), có nghĩa là không ảnh hưởng trực tiếp công việc bạn đang làm và thao tác trên workspace). 
+
+Nếu bạn muốn đẩy tiếp các tệp tin từ local repository xuống working space, bạn chỉ cần sử dụng lệnh `git merge`. Tại thời điểm này, các tập tin sẽ được cập nhật ở workspace với những gì đang có ở remote repository, hoặc ít nhất là đang có ở remote repository tại thời điểm `fetch`. 
+
+Nếu bạn muốn đẩy thằng từ
