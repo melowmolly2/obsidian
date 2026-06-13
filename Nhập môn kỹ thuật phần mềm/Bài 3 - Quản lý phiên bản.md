@@ -29,7 +29,9 @@ VCS có 3 thao tác chính: Add, Commit, Update.
 ### 4.2 Không nên tạo một phiên bản copy của VCS: 
 Việc này là không cần thiết và có thể gây ra những sai lầm không đáng có khi bạn copy qua lại các đoạn mã nguồn, hãy học cách sử dụng các câu lệnh để kiểm soát phiên bản. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rztIbOqxp_I?si=X3VdDfV9yFpZ5O_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+## 5. Hai loại VCS chính
+![](../Assets/Pasted%20image%2020260613163300.png)
+**VCS tập trung**: Với các VCS dạng tập trung thì mã nguồn của dự án sẽ được lưu trữ trên một kho tập trung (hay kho trung tậm) trên một máy chủ. Mỗi lập trình viên muốn tạo ra sự thay đổi cho mã nguồn lưu trữ trong kho trung tâm (centralized repository) thì họ cần phải thực hiện môitj
 ## 1. Giới thiệu về Git
 Git là 1 dạng hệ thống VCS phân tán, được tạo ra và phát triển bởi Linus Torvalds từ 2005. Git cung cấp cho mỗi lập trình viên kho lưu trữ (repository) riêng chứa toàn bộ lịch sử thay đổi. 
 
