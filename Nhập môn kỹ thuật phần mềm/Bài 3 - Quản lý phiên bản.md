@@ -18,7 +18,11 @@ VCS là một hệ thống lưu giữ các phiên bản mã nguồn của sản 
 ![](../Assets/Pasted%20image%2020260613161019.png)
 VCS có 3 thao tác chính: Add, Commit, Update.
 **Add**: Bổ sung/thêm các tệp tin vào kho lưu trữ 
-**Commit**: Khi bạn thay đổi một tập tin ở trong kho luuw trữ, bạn cần cam kết những thay đổi của mình với trung tâm lưu trữ, để chúng có thể trở nên hiển thị với ta
+**Commit**: Khi bạn thay đổi một tập tin ở trong kho luuw trữ, bạn cần cam kết những thay đổi của mình với trung tâm lưu trữ, để chúng có thể trở nên hiển thị với tất cả những người khác trong kho lưu trữ.
+**Update**: Nếu chúng ta có một kho lưu trữ và một ai đó khác có thể chỉnh sửa các tệp tin trong kho lưu trữ, và ta muốn nhận được những thay đổi này. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R7rxewbCm38?si=7OsWTUESQa9SMkYb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## 4. Những điều cần tránh trong VCS
+
 # Git
 ## 1. Giới thiệu về Git
 Git là 1 dạng hệ thống VCS phân tán, được tạo ra và phát triển bởi Linus Torvalds từ 2005. Git cung cấp cho mỗi lập trình viên kho lưu trữ (repository) riêng chứa toàn bộ lịch sử thay đổi. 
