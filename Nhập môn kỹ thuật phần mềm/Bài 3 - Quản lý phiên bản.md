@@ -11,7 +11,8 @@ VCS là một hệ thống lưu giữ các phiên bản mã nguồn của sản 
 - VCS cho phép lưu trữ và so sánh các phiên bản khác nhau của mã nguồn. 
 - Duy trì nhiều thông tin lịch sử quan trọng của các phiên bản. 
 - Giúp mọi người chia sẻ mã nguồn và tài liệu dễ dàng hơn. 
-- Phục 
+- Phục hồi và chỉnh sửa lại sau những thao tác sai/lỗi với mã nguồn. 
+- Tiết kiệm dung lượng ở đĩa khi chỉ sử dụng một trung tâm lưu trữ các bản sao của phần mềm (với các thuật toán lưu trữ hiệu quả). 
 # Git
 ## 1. Giới thiệu về Git
 Git là 1 dạng hệ thống VCS phân tán, được tạo ra và phát triển bởi Linus Torvalds từ 2005. Git cung cấp cho mỗi lập trình viên kho lưu trữ (repository) riêng chứa toàn bộ lịch sử thay đổi. 
