@@ -28,6 +28,7 @@ VCS có 3 thao tác chính: Add, Commit, Update.
 **Dữ liệu:** Chỉ upload nó lên Git khi thực sự cẩn thiết. 
 ### 4.2 Không nên tạo một phiên bản copy của VCS: 
 Việc này là không cần thiết và có thể gây ra những sai lầm không đáng có khi bạn copy qua lại các đoạn mã nguồn, hãy học cách sử dụng các câu lệnh để kiểm soát phiên bản. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rztIbOqxp_I?si=X3VdDfV9yFpZ5O_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 1. Giới thiệu về Git
 Git là 1 dạng hệ thống VCS phân tán, được tạo ra và phát triển bởi Linus Torvalds từ 2005. Git cung cấp cho mỗi lập trình viên kho lưu trữ (repository) riêng chứa toàn bộ lịch sử thay đổi. 
