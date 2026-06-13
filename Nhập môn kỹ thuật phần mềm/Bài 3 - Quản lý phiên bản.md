@@ -7,7 +7,11 @@ Trong bài học này, chúng ta sẽ được học về hệ thống kiểm so
 VCS là một hệ thống lưu giữ các phiên bản mã nguồn của sản phẩm phần mềm, giúp các lập trình viên có thể dễ dàng lấy lại phiên bản mong muốn. 
 ![](../Assets/Pasted%20image%2020260613160214.png)
 **Tính hữu dụng của VCS**:
-
+- Sử dụng VCS tạo nên sự kỷ luật, bởi vì nó quản lý quy trình kiểm soát các mục/thông tin truyển từ người này sang người khác 
+- VCS cho phép lưu trữ và so sánh các phiên bản khác nhau của mã nguồn. 
+- Duy trì nhiều thông tin lịch sử quan trọng của các phiên bản. 
+- Giúp mọi người chia sẻ mã nguồn và tài liệu dễ dàng hơn. 
+- Phục 
 # Git
 ## 1. Giới thiệu về Git
 Git là 1 dạng hệ thống VCS phân tán, được tạo ra và phát triển bởi Linus Torvalds từ 2005. Git cung cấp cho mỗi lập trình viên kho lưu trữ (repository) riêng chứa toàn bộ lịch sử thay đổi. 
