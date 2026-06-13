@@ -77,4 +77,7 @@ Nếu bạn muốn đẩy thẳng từ remote repository xuống workspace, có 
 Chúng ta có thể tích hợp Git vào Eclipse với như một plugin cho Git trên Eclipse. 
 
 Bài học sẽ hướng dẫn chúng ta:
-- Cài đặt 
+- Cài đặt Git plugin trên Eclipse. 
+- Sử dụng Git trên Eclipse với 1 số tác vụ cơ bản: `clone, add, commit` 
+- Xem lịch sử các tệp tin
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v95nmWwR8rQ?si=jmfoAZgmDgj56BCz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
