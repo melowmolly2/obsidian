@@ -64,3 +64,6 @@ Nếu bạn đang chỉnh sửa và làm việc với nó, nó sẽ nằm ở wo
 
 Sau khi đã lên stagin,g nếu bạn muốn đẩy tệp tin lên local repository thì bạn cần `git commit`. Khi đó, những thay đổi trong tập tin của bạn sẽ được lưu trữ trong local repository. Bạn có thực thi cả bước add và commit bằng câu lệnh `git commit -a`. Câu lệnh này sẽ giúp bạn đánh dấu, sắp xếp các tệp tin đã chỉnh sửa và commit chúng. 
 
+Trong VCS phân tán, bạn có 2 repository khác nhau: Local và remote. Để đẩy các tập tin đã được commit của bạn từ local lên remote, các bạn cần câu lệnh `git push`. Nó sẽ đẩy các thay đổi từ local lên remote và hiển thị tệp tin cho bất kỳ ai có quyển truy cập vào local repository. 
+![](../Assets/Pasted%20image%2020260613164428.png)
+Ở luồng ngược lại, nếu bạn muốn cập nhật lại từ 
