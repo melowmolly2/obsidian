@@ -1,3 +1,13 @@
+# Hệ thống kiểm soát phiên bản
+
+Trong bài học này, chúng ta sẽ được học về hệ thống kiểm soát phiên bản (Version Control System - VCS) và tập trung vào một công cụ điển hình là Git.
+
+## 1. Hệ thống kiểm soát phiên bản (VCS)
+
+VCS là một hệ thống lưu giữ các phiên bản mã nguồn của sản phẩm phần mềm, giúp các lập trình viên có thể dễ dàng lấy lại phiên bản mong muốn. 
+![](../Assets/Pasted%20image%2020260613160214.png)
+**Tính hữu dụng của VCS**:
+
 # Git
 ## 1. Giới thiệu về Git
 Git là 1 dạng hệ thống VCS phân tán, được tạo ra và phát triển bởi Linus Torvalds từ 2005. Git cung cấp cho mỗi lập trình viên kho lưu trữ (repository) riêng chứa toàn bộ lịch sử thay đổi. 
