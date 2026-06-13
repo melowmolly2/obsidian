@@ -24,7 +24,11 @@ VCS có 3 thao tác chính: Add, Commit, Update.
 ## 4. Những điều cần tránh trong VCS
 ![](../Assets/Pasted%20image%2020260613162715.png)
 ### 4.1 Chúng ta không nên upload 2 loại file sau lên VCS:
-**Tệp thực thi:** Bạn đã upload ma
+**Tệp thực thi:** Bạn đã upload mã nguồn lên VCS do đó không cần thiết phải đẩy tệp thực thi, vì tchungs ta không thể chạy hay đọc tệp thực thi trên VCS. 
+**Dữ liệu:** Chỉ upload nó lên Git khi thực sự cẩn thiết. 
+### 4.2 Không nên tạo một phiên bản copy của VCS: 
+Việc này là không cần thiết và có thể gây ra những sai lầm không đáng có khi bạn copy qua lại các đoạn mã nguồn, hãy học cách sử dụng các câu lệnh để kiểm soát phiên bản. 
+
 ## 1. Giới thiệu về Git
 Git là 1 dạng hệ thống VCS phân tán, được tạo ra và phát triển bởi Linus Torvalds từ 2005. Git cung cấp cho mỗi lập trình viên kho lưu trữ (repository) riêng chứa toàn bộ lịch sử thay đổi. 
 
