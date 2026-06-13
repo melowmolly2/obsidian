@@ -34,6 +34,8 @@ Việc này là không cần thiết và có thể gây ra những sai lầm kh�
 **VCS tập trung**: Với các VCS dạng tập trung thì mã nguồn của dự án sẽ được lưu trữ trên một kho tập trung (hay kho trung tậm) trên một máy chủ. Mỗi lập trình viên muốn tạo ra sự thay đổi cho mã nguồn lưu trữ trong kho trung tâm (centralized repository) thì họ cần phải thực hiện một công việc trước đó là update mã nguồn trên máy tính của học với kho tập trung trước sau đó mới được thay đổi. 
 
 **VCS phi tập trung:** Mỗi lập trinh viên sẽ có riêng một kho (repo/repository) của mình và có thể tự do phát triển các feature khác và tạo version mới (hay đúng hơn là một commit) mà không cần phải đồng bộ với kho trên server. Điều này sẽ giúp lập trình viên tập trung vào việc hoàn thành feature hay fix bug mà không cần lo về việc phải liên tục update code trên máy tính của họ với code trên server để giảm thiểu xung đột. Một khi đã sẵn sàng, họ mới đẩy (push) code của họ vào kho trung tâm. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yPgAfj20PT8?si=d_WFBZ2gUGQoFELw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+# Git
 ## 1. Giới thiệu về Git
 Git là 1 dạng hệ thống VCS phân tán, được tạo ra và phát triển bởi Linus Torvalds từ 2005. Git cung cấp cho mỗi lập trình viên kho lưu trữ (repository) riêng chứa toàn bộ lịch sử thay đổi. 
 
@@ -47,7 +49,7 @@ Sự khác biệt chính giữa Git và bất kỳ VCS nào khác (bao gồm Sub
 ## 2. Cài đặt Git
 
 Các bạn có thể thực hiện theo chỉ dẫn ở video dưới đây và tìm kiếm thêm các cách hướng dẫn khác trên Google để cài đặt được phiên bản Git phù hợp với hệ điều hành của bạn (Linux, MacOS và Windows)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/61utKX3TuEg?si=iTrpJ3BgpG5Lw2w2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## 3. Luồng công việc của Git (bài học quan trọng)
 **4 dạng lưu trữ cơ bản:**
 - Workspace (working dir): Không gian làm việc, thư mcuj cục bộ ở trên thiết bị của bạn.
