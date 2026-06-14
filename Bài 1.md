@@ -135,7 +135,6 @@ flowchart LR
 ### 3.4 Luồng màn hình (Screen flow)
 
 ```mermaid
-%%{init: {'sequence': {'useMaxWidth': true}}}%%
 graph TD
     A[Màn hình Đăng nhập] --> B[Màn hình Trang chủ Dashboard]
     B --> C[Màn hình Chi tiết Dự án]
@@ -153,13 +152,13 @@ graph TD
 
 ### 3.6 Hệ thống cấp quyền
 
-|**Hoạt động / Màn hình**|**Manager**|**Internal Member**|**External Member**|
-|:--|:--|:--|:--|
-|Truy vấn Tất cả Dữ liệu|X|X||
-|Truy vấn Dữ liệu Được phân quyền|X|X|X|
-|Thêm Dự án Mới|X|||
-|Thêm/Cập nhật Issues|X|X|X|
-|Xóa Dự án/Milestones|X|||
+| **Hoạt động / Màn hình**         | **Manager** | **Internal Member** | **External Member** |
+| :------------------------------- | :---------- | :------------------ | :------------------ |
+| Truy vấn Tất cả Dữ liệu          | X           | X                   |                     |
+| Truy vấn Dữ liệu Được phân quyền | X           | X                   | X                   |
+| Thêm Dự án Mới                   | X           |                     |                     |
+| Thêm/Cập nhật Issues             | X           | X                   | X                   |
+| Xóa Dự án/Milestones             | X           |                     |                     |
 
 ### 3.7 Yêu cầu phi chức năng
 
