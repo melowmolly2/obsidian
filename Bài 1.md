@@ -7,6 +7,7 @@
 | 14/6/2024 | 1.0         | Khởi tạo tài liệu SRS | Phạm Thiên Minh |
 
 ## Mục lục
+
 1. Giới thiệu tổng quan về tài liệu
 2. Tổng quan hệ thống và đặc tả chức năng
 3. Mô hình hóa hệ thống
