@@ -1,71 +1,157 @@
-# TÀI LIỆU ĐẶC TẢ YÊU CẦU (SRS)
-**Dự án: Hệ thống Web Quản lý Dự án Công ty X**
+# TÀI LIỆU ĐẶC TẢ YÊU CẦU
+***<<Hệ thống Web Quản lý Dự án Công ty X>>***
+
+## Revision History
+| **Date**        | **Version** | **Description**       | **Author**    |
+| :-------------- | :---------- | :-------------------- | :------------ |
+| <Ngày hiện tại> | 1.0         | Khởi tạo tài liệu SRS | <Tên của bạn> |
+
+## Mục lục
+1. Giới thiệu tổng quan về tài liệu
+2. Tổng quan hệ thống và đặc tả chức năng
+3. Mô hình hóa hệ thống
+
+---
 
 ## 1. Giới thiệu tổng quan về tài liệu
-**1.1. Mục đích của tài liệu:**
-Tài liệu này cung cấp mô tả chi tiết về Hệ thống Web quản lý dự án cho Công ty X. Phần mềm giúp quản lý các kế hoạch thực hiện (milestones), bản chuyển giao (releases) và các vấn đề (issues) của các dự án nhằm tối ưu hóa công việc và theo dõi tiến độ hiệu quả.
+### 1.1 Mục đích của tài liệu
+Mục đích của tài liệu là cung cấp mô tả chi tiết về các yêu cầu đối với Hệ thống Web quản lý dự án cho Công ty X. Tài liệu này xác định các tính năng, giao diện, và cách hệ thống phản hồi các tương tác của người dùng. Hệ thống giúp quản lý các kế hoạch thực hiện (milestones), bản chuyển giao (releases) và các vấn đề (issues) nhằm tối ưu hóa tiến độ làm việc.
 
-**1.2. Phạm vi của tài liệu:**
-Hệ thống được triển khai ở mức phòng ban và trung tâm của Công ty X. Nó xác định các tính năng quản lý dự án và thiết lập cơ sở phân quyền để nhân sự có thể làm việc chéo giữa các bộ phận khi được cấp quyền.
+### 1.2 Phạm vi của tài liệu
+Hệ thống được thiết kế để triển khai ở cấp độ phòng ban và trung tâm của Công ty X. Phần mềm cung cấp các công cụ tự động hóa quy trình quản lý dự án thay vì làm thủ công, hỗ trợ giao tiếp và phân quyền chặt chẽ giữa các thành viên thuộc bộ phận và ngoài bộ phận.
+
+### 1.3 Các định nghĩa và các từ viết tắt
+| **Thuật ngữ / Viết tắt** | **Định nghĩa** |
+| :--- | :--- |
+| SRS | Software Requirements Specification (Tài liệu đặc tả yêu cầu phần mềm) |
+| Issue | Một vấn đề, nhiệm vụ hoặc lỗi cần giải quyết trong dự án |
+| Milestone | Cột mốc kế hoạch quan trọng của dự án |
+| Release | Bản chuyển giao/phát hành sản phẩm |
+| Assignee | Người được giao chịu trách nhiệm chính cho một Issue |
+
+### 1.4 Tham khảo
+*   Tài liệu Template1-SRS.docx.
+*   Nền tảng quản lý dự án GitLab (https://gitlab.com).
+
+---
 
 ## 2. Tổng quan hệ thống và đặc tả chức năng
-**2.1. Đặc tả người dùng:**
-*   **Thành viên trực thuộc (Phòng ban/Trung tâm):** Có quyền mặc định truy cập để quản lý thông tin các dự án, issues, milestones và releases thuộc bộ phận mình.
-*   **Nhân sự ngoài bộ phận:** Các thành viên phòng ban khác được phân quyền truy cập dự án để xem hoặc quản lý thông tin issue tùy mức độ quyền.
+### 2.1 Quan điểm về sản phẩm
+Hệ thống Web Quản lý Dự án là một sản phẩm phần mềm độc lập, hoạt động tương tự cấu trúc của GitLab nhưng được tùy biến cho cấu trúc phòng ban của Công ty X. Hệ thống giao tiếp trực tiếp với cơ sở dữ liệu nội bộ và người dùng thông qua trình duyệt web.
 
-**2.2. Sơ đồ ngữ cảnh (Context Diagram)**
-*Sơ đồ thể hiện sự tương tác giữa các nhóm người dùng và hệ thống.*
-
+**Sơ đồ ngữ cảnh của hệ thống:**
 ```mermaid
 graph TD
-    A[Thành viên bộ phận] -->|Truy cập mặc định toàn quyền| S((Hệ thống Web Quản lý Dự án Công ty X))
+    A[Thành viên trực thuộc bộ phận] -->|Truy cập toàn quyền dự án| S((Hệ thống Web Quản lý Dự án))
     B[Nhân sự ngoài bộ phận] -->|Truy cập theo phân quyền| S
-    S -->|Cung cấp thông tin tiến độ, issues, milestones| A
-    S -->|Cung cấp thông tin được phép xem| B
+    C[Quản lý cấp cao] -->|Xem báo cáo, cấp quyền| S
+    S -->|Cập nhật trạng thái Issues, Milestones| A
+    S -->|Thông báo nhiệm vụ| B
 ````
 
-**2.3. Sơ đồ Use-case tổng quát** _Sơ đồ thể hiện các chức năng chính của hệ thống dựa trên nền tảng GitLab._
+### 2.2 Yêu cầu người dùng
+Người dùng cần một giao diện trực quan để khởi tạo dự án mới, phân công nhân sự, và theo dõi tiến độ. Nhân sự phòng ban cần xem được toàn bộ issue của bộ phận mình, trong khi nhân sự làm việc chéo (cross-functional) cần truy cập được vào các dự án cụ thể mà họ được mời.
+### 2.3 Đặc tả người dùng
+- **Thành viên phòng ban (Member):** Có kiến thức cơ bản về quy trình dự án. Có quyền mặc định xem và tương tác với các issues, milestones thuộc bộ phận của mình.
+- **Nhân sự ngoài bộ phận (Guest/Assignee):** Có quyền hạn chế, chỉ được phép xem hoặc chỉnh sửa các issues trên dự án mà họ được cấp quyền rõ ràng.
+- **Trưởng bộ phận (Manager):** Có quyền tạo dự án, quản lý danh sách thành viên (Members) và phân quyền cho người ngoài bộ phận.
+### 2.4 Đặc tả yêu cầu chức năng
+
+Hệ thống cung cấp các chức năng chính:
+- **Quản lý thông tin dự án:** Tạo dự án, thêm sửa xóa thành viên.
+- **Quản lý Milestones:** Lập kế hoạch các cột mốc thời gian.
+- **Quản lý Releases:** Đóng gói và phát hành các phiên bản dự án.
+- **Quản lý Issues:** Tạo, gán người thực hiện, bình luận và đóng các vấn đề.
+
+---
+
+## 3. Mô hình hóa hệ thống
+
+### 3.1 Vai trò (phân quyền người dùng)
+
+- **Manager (Trưởng dự án):** Quản lý toàn bộ vòng đời dự án và phân quyền người dùng.
+- **Internal Member:** Thao tác trên tất cả module (Issues, Milestones) của bộ phận.
+- **External Member:** Chỉ thao tác trên các Issues/Milestones được chỉ định.
+
+### 3.2 Sơ đồ use case tổng quát của hệ thống
 
 ```mermaid
 flowchart LR
-    A((Thành viên bộ phận))
-    B((Nhân sự ngoài bộ phận))
+    M((Manager))
+    I((Internal Member))
+    E((External Member))
 
     UC1([Quản lý thông tin dự án])
     UC2([Quản lý Milestones])
     UC3([Quản lý Releases])
     UC4([Quản lý Issues])
 
-    A --> UC1
-    A --> UC2
-    A --> UC3
-    A --> UC4
+    M --> UC1
+    M --> UC2
+    M --> UC3
+    M --> UC4
 
-    B -.->|Được phân quyền| UC2
-    B -.->|Được phân quyền| UC4
+    I --> UC2
+    I --> UC3
+    I --> UC4
+
+    E -.->|Quyền hạn chế| UC4
+    E -.->|Quyền hạn chế| UC2
 ```
 
-## 3. Đặc tả yêu cầu chức năng (Chi tiết Use Case)
+### 3.3 Đặc tả use case:
 
-**3.1. Đặc tả Use Case: Quản lý Issues (Tạo mới Issue)**
+**Đặc tả chi tiết Use Case "Quản lý Issues" (Tạo mới Issue)**
 
-| **Đặc điểm**     | **Mô tả**                                                                                                                                                                                                     |
-| :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Tên Use Case** | Tạo mới Issue                                                                                                                                                                                                 |
-| **Điều kiện**    | Người dùng đã đăng nhập. Là thành viên bộ phận quản lý dự án hoặc nhân sự ngoài đã được phân quyền.                                                                                                           |
-| **Luồng chính**  | 1. Chọn dự án cần thao tác.2. Truy cập menu "Issues".3. Hệ thống hiển thị danh sách issues.4. Chọn "Tạo Issue".5. Điền thông tin (Tiêu đề, mô tả, Assignee, Milestone).6. Hệ thống lưu và hiển thị Issue mới. |
-| **Luồng phụ**    | Nếu truy cập dự án không có quyền, hệ thống báo lỗi không đủ quyền hoặc ẩn menu "Issues".                                                                                                                     |
+|**Use Case Name**|**Create Issue (Tạo mới Issue)**|
+|:--|:--|
+|**Điều kiện**|Người dùng đã đăng nhập và có quyền truy cập vào dự án (là Internal Member hoặc External Member được cấp quyền).|
+|**Luồng chính**|1. Người dùng chọn dự án từ trang chủ.2. Chọn menu "Issues" ở thanh điều hướng bên trái.3. Hệ thống hiển thị lưới danh sách các Issues.4. Người dùng bấm chọn nút "New Issue".5. Người dùng nhập Tiêu đề, Mô tả, gán Assignee và chọn Milestone.6. Người dùng bấm "Submit issue".7. Hệ thống lưu vào CSDL và điều hướng tới trang chi tiết của Issue vừa tạo.|
+|**Luồng phụ**|Ở bước 2, nếu người dùng là External Member không được cấp quyền xem Issue, hệ thống ẩn menu "Issues" hoặc thông báo "Access Denied".Ở bước 5, nếu bỏ trống phần Tiêu đề, hệ thống báo lỗi yêu cầu nhập trường bắt buộc.|
 
-**3.2. Hệ thống cấp quyền**
+### 3.4 Luồng màn hình (Screen flow)
 
-| **Chức năng**              | **Thành viên trực thuộc** | **Nhân sự ngoài (Được cấp quyền)** |
-| :------------------------- | :------------------------ | :--------------------------------- |
-| Xem dữ liệu dự án          | X                         | X                                  |
-| Cập nhật Milestones/Issues | X                         | X (Tùy dự án)                      |
-| Xóa dữ liệu                | X                         |                                    |
+```mermaid
+graph LR
+    A[Màn hình Đăng nhập] --> B[Màn hình Trang chủ Dashboard]
+    B --> C[Màn hình Chi tiết Dự án]
+    C --> D[Màn hình Danh sách Issues]
+    C --> E[Màn hình Milestones]
+    D --> F[Màn hình Tạo Issue Mới]
+```
 
-## 4. Yêu cầu phi chức năng
+### 3.5 Mô tả màn hình
 
-1. **Tính bảo mật:** Dữ liệu dự án của phòng ban chỉ được truy cập bởi thành viên phòng ban đó. Nhân sự ngoài phải qua phân quyền rõ ràng trên hệ thống.
-2. **Tính sẵn sàng:** Hệ thống hoạt động 24/7 để nhân sự các trung tâm/phòng ban khác nhau cập nhật tiến độ liên tục.
-3. **Khả năng sử dụng:** Giao diện trực quan, menu cấu trúc dạng cây bên trái (Projects, Members, Releases, Issues, Milestones) tương tự GitLab.
+|**#**|**Màn hình**|**Mô tả**|
+|:--|:--|:--|
+|1|Màn hình Trang chủ|Hiển thị danh sách các dự án người dùng đang tham gia|
+|2|Màn hình Chi tiết Dự án|Hiển thị tổng quan dự án, thanh menu chứa Issues, Milestones, Releases|
+|3|Màn hình Tạo Issue Mới|Form điền thông tin (Tiêu đề, mô tả, tệp đính kèm, người chịu trách nhiệm)|
+
+### 3.6 Hệ thống cấp quyền
+
+|**Hoạt động / Màn hình**|**Manager**|**Internal Member**|**External Member**|
+|:--|:--|:--|:--|
+|Truy vấn Tất cả Dữ liệu|X|X||
+|Truy vấn Dữ liệu Được phân quyền|X|X|X|
+|Thêm Dự án Mới|X|||
+|Thêm/Cập nhật Issues|X|X|X|
+|Xóa Dự án/Milestones|X|||
+
+### 3.7 Yêu cầu phi chức năng
+
+#### 3.7.1 Tính bảo mật
+
+Hệ thống phải giới hạn quyền truy cập chặt chẽ. Nhân sự phòng ban A không thể xem thông tin của phòng ban B trừ khi Manager của phòng ban B cấp quyền rõ ràng vào từng dự án cụ thể. Mật khẩu người dùng phải được mã hóa.
+
+#### 3.7.2 Tính sẵn sàng và khả năng đáp ứng
+
+Hệ thống Web phải duy trì thời gian hoạt động (uptime) đạt 99.9% (sẵn sàng 24/7) để đáp ứng nhu cầu cập nhật tiến độ liên tục của nhiều trung tâm và phòng ban ở các thời điểm khác nhau.
+
+#### 3.7.3 Giao diện
+
+Giao diện phải tuân theo phong cách thiết kế tối giản, cấu trúc thanh menu điều hướng nằm bên tay trái để mang lại trải nghiệm quen thuộc tương tự như GitLab.
+
+#### 3.7.4 Khả năng sử dụng
+
+Hệ thống cần cung cấp các hộp thoại xác nhận khi thực hiện các hành động nguy hiểm (như Xóa dự án, Xóa issue) để tránh lỗi thao tác. Cung cấp tính năng tìm kiếm (Filter) thông minh để người dùng tra cứu issues nhanh chóng.
