@@ -136,14 +136,13 @@ flowchart LR
 
 ```mermaid
 %%{init: {'sequence': {'useMaxWidth': true}}}%%
-graph LR
+graph TD
     A[Màn hình Đăng nhập] --> B[Màn hình Trang chủ Dashboard]
     B --> C[Màn hình Chi tiết Dự án]
     C --> D[Màn hình Danh sách Issues]
     C --> E[Màn hình Milestones]
     D --> F[Màn hình Tạo Issue Mới]
 ```
-
 ### 3.5 Mô tả màn hình
 
 | **#** | **Màn hình**            | **Mô tả**                                                                  |
