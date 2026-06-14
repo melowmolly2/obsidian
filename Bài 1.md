@@ -69,8 +69,3 @@ flowchart LR
 1. **Tính bảo mật:** Dữ liệu dự án của phòng ban chỉ được truy cập bởi thành viên phòng ban đó. Nhân sự ngoài phải qua phân quyền rõ ràng trên hệ thống.
 2. **Tính sẵn sàng:** Hệ thống hoạt động 24/7 để nhân sự các trung tâm/phòng ban khác nhau cập nhật tiến độ liên tục.
 3. **Khả năng sử dụng:** Giao diện trực quan, menu cấu trúc dạng cây bên trái (Projects, Members, Releases, Issues, Milestones) tương tự GitLab.
-
-```
-
-Bạn có thể dùng trang web như `mermaid.live` để dán các đoạn mã Mermaid phía trên vào và tải hình ảnh sơ đồ xuống để dán trực tiếp vào file Word nếu cần nộp bài định dạng `.docx`. Bạn đã biết cách sử dụng mã Mermaid này chưa, hay cần tôi hướng dẫn thêm?
-```
