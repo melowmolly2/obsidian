@@ -1,16 +1,38 @@
 # TÀI LIỆU ĐẶC TẢ YÊU CẦU
-***<<Hệ thống Web Quản lý Dự án Công ty X>>***
+***Hệ thống Web Quản lý Dự án Công ty X***
+
+## Mục lục
+***
+- [[#Revision History|Revision History]]
+- [[#1. Giới thiệu tổng quan về tài liệu|1. Giới thiệu tổng quan về tài liệu]]
+	- [[#1. Giới thiệu tổng quan về tài liệu#1.1 Mục đích của tài liệu|1.1 Mục đích của tài liệu]]
+	- [[#1. Giới thiệu tổng quan về tài liệu#1.2 Phạm vi của tài liệu|1.2 Phạm vi của tài liệu]]
+	- [[#1. Giới thiệu tổng quan về tài liệu#1.3 Các định nghĩa và các từ viết tắt|1.3 Các định nghĩa và các từ viết tắt]]
+	- [[#1. Giới thiệu tổng quan về tài liệu#1.4 Tham khảo|1.4 Tham khảo]]
+- [[#2. Tổng quan hệ thống và đặc tả chức năng|2. Tổng quan hệ thống và đặc tả chức năng]]
+	- [[#2. Tổng quan hệ thống và đặc tả chức năng#2.1 Quan điểm về sản phẩm|2.1 Quan điểm về sản phẩm]]
+	- [[#2. Tổng quan hệ thống và đặc tả chức năng#2.2 Yêu cầu người dùng|2.2 Yêu cầu người dùng]]
+	- [[#2. Tổng quan hệ thống và đặc tả chức năng#2.3 Đặc tả người dùng|2.3 Đặc tả người dùng]]
+	- [[#2. Tổng quan hệ thống và đặc tả chức năng#2.4 Đặc tả yêu cầu chức năng|2.4 Đặc tả yêu cầu chức năng]]
+- [[#3. Mô hình hóa hệ thống|3. Mô hình hóa hệ thống]]
+	- [[#3. Mô hình hóa hệ thống#3.1 Vai trò (phân quyền người dùng)|3.1 Vai trò (phân quyền người dùng)]]
+	- [[#3. Mô hình hóa hệ thống#3.2 Sơ đồ use case tổng quát của hệ thống|3.2 Sơ đồ use case tổng quát của hệ thống]]
+	- [[#3. Mô hình hóa hệ thống#3.3 Đặc tả use case:|3.3 Đặc tả use case:]]
+	- [[#3. Mô hình hóa hệ thống#3.4 Luồng màn hình (Screen flow)|3.4 Luồng màn hình (Screen flow)]]
+	- [[#3. Mô hình hóa hệ thống#3.5 Mô tả màn hình|3.5 Mô tả màn hình]]
+	- [[#3. Mô hình hóa hệ thống#3.6 Hệ thống cấp quyền|3.6 Hệ thống cấp quyền]]
+	- [[#3. Mô hình hóa hệ thống#3.7 Yêu cầu phi chức năng|3.7 Yêu cầu phi chức năng]]
+		- [[#3.7 Yêu cầu phi chức năng#3.7.1 Tính bảo mật|3.7.1 Tính bảo mật]]
+		- [[#3.7 Yêu cầu phi chức năng#3.7.2 Tính sẵn sàng và khả năng đáp ứng|3.7.2 Tính sẵn sàng và khả năng đáp ứng]]
+		- [[#3.7 Yêu cầu phi chức năng#3.7.3 Giao diện|3.7.3 Giao diện]]
+		- [[#3.7 Yêu cầu phi chức năng#3.7.4 Khả năng sử dụng|3.7.4 Khả năng sử dụng]]
 
 ## Revision History
 | **Date**  | **Version** | **Description**       | **Author**      |
 | :-------- | :---------- | :-------------------- | :-------------- |
 | 14/6/2024 | 1.0         | Khởi tạo tài liệu SRS | Phạm Thiên Minh |
 
-## Mục lục
 
-1. Giới thiệu tổng quan về tài liệu
-2. Tổng quan hệ thống và đặc tả chức năng
-3. Mô hình hóa hệ thống
 
 ---
 
