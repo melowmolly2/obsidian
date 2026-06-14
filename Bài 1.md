@@ -135,6 +135,7 @@ flowchart LR
 ### 3.4 Luồng màn hình (Screen flow)
 
 ```mermaid
+%%{init: {'sequence': {'useMaxWidth': true}}}%%
 graph LR
     A[Màn hình Đăng nhập] --> B[Màn hình Trang chủ Dashboard]
     B --> C[Màn hình Chi tiết Dự án]
