@@ -2,9 +2,9 @@
 ***<<Hệ thống Web Quản lý Dự án Công ty X>>***
 
 ## Revision History
-| **Date**        | **Version** | **Description**       | **Author**    |
-| :-------------- | :---------- | :-------------------- | :------------ |
-| <Ngày hiện tại> | 1.0         | Khởi tạo tài liệu SRS | <Tên của bạn> |
+| **Date**  | **Version** | **Description**       | **Author**      |
+| :-------- | :---------- | :-------------------- | :-------------- |
+| 14/6/2024 | 1.0         | Khởi tạo tài liệu SRS | Phạm Thiên Minh |
 
 ## Mục lục
 1. Giới thiệu tổng quan về tài liệu
@@ -122,11 +122,11 @@ graph LR
 
 ### 3.5 Mô tả màn hình
 
-|**#**|**Màn hình**|**Mô tả**|
-|:--|:--|:--|
-|1|Màn hình Trang chủ|Hiển thị danh sách các dự án người dùng đang tham gia|
-|2|Màn hình Chi tiết Dự án|Hiển thị tổng quan dự án, thanh menu chứa Issues, Milestones, Releases|
-|3|Màn hình Tạo Issue Mới|Form điền thông tin (Tiêu đề, mô tả, tệp đính kèm, người chịu trách nhiệm)|
+| **#** | **Màn hình**            | **Mô tả**                                                                  |
+| :---- | :---------------------- | :------------------------------------------------------------------------- |
+| 1     | Màn hình Trang chủ      | Hiển thị danh sách các dự án người dùng đang tham gia                      |
+| 2     | Màn hình Chi tiết Dự án | Hiển thị tổng quan dự án, thanh menu chứa Issues, Milestones, Releases     |
+| 3     | Màn hình Tạo Issue Mới  | Form điền thông tin (Tiêu đề, mô tả, tệp đính kèm, người chịu trách nhiệm) |
 
 ### 3.6 Hệ thống cấp quyền
 
