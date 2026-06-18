@@ -16,3 +16,11 @@
 ![](../Assets/Pasted%20image%2020260610170454.png)
 # Định luật thứ nhất của Newton
 - Một vật không chịu tác dụng của lực (tổng hợp lực tác dụng bằng 0) thì sẽ có vận tốc không đổi (có thể bằng 0) và gia tốc bằng 0. 
+$$ \vec{F_2}=-\vec{F_1}$$
+$$ \sum \vec F = \vec {F_1} +\vec F_2 =0$$
+$$\sum \vec F =0$$
+![](../Assets/Pasted%20image%2020260618162053.png)
+![](../Assets/Pasted%20image%2020260618162100.png)
+## Định luật thứ hai của Newton
+$$ \vec a = \frac{\sum \vec F}{m}$$
+Nếu một lực tổng hợp bên ngoài tác dụng lên một vật, vật đó sẽ gia
