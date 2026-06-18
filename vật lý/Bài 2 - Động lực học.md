@@ -24,4 +24,6 @@ $$\sum \vec F =0$$
 ## Định luật thứ hai của Newton
 $$ \vec a = \frac{\sum \vec F}{m}$$
 - Nếu một lực tổng hợp bên ngoài tác dụng lên một vật, vật đó sẽ gia tốc. Gia tốc của vật tỷ lệ thuận với tổng hợp lực tác dụng, tỷ lệ nghịch với khối lượng của vật.
-- Phương trình $\sum \vec F = m \vec a$ là một phương trình vector được phân tích thành phương trình riêng cho từng thành phần của lực và thành phần tương ứng của gia tốc. 
+- Phương trình $\sum \vec F = m \vec a$ là một phương trình vector được phân tích thành phương trình riêng cho từng thành phần của lực và thành phần tương ứng của gia tốc:
+$$ F_x = ma_x; \, F_y=ma_y;\; F_z=ma_z. $$
+- Định luật II Newton chỉ đề cập đến các ngoại lực. Một vật không
