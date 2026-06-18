@@ -2,15 +2,22 @@
 - Công là một đại lượng vô hướng
 - Dương, âm hoặc bằng 0
 - Để tìm tổng công thực hiện lên một vật thể đang chuyển động, hãy tính tổng các lượng công được thực hiện bởi mỗi lực tác dụng lên vật. Tổng công cũng bằng công do hợp lực thực hiện lên vật. 
+---
 ## Động năng và định lý Công - Động năng
 - Ý nghĩa:
 	- Động năng của một vật có tốc độ $v$ bằng công đã thực hiện để tăng tốc nó từ trạng thái nghỉ đến tốc độ $v$. 
 	$$ k = \frac 12 mv^2$$
+---
+
+	
 - Chúng ta chỉ áp dụng định lý công - động năng cho vật coi là chất điểm (nghĩa là vật nhỏ, chuyển động đơn giản, không quay, và không biến dạng).
 - Với các hệ phức tạp hơn (vật lớn, vật quay, hoặc hệ nhiều vật liên kết), thì sẽ xuất hiện những vấn đề sau:
 	- Mỗi phần của vật có thể chuyển động khác nhau
 	- Vật có thể vừa trượt vừa quay
 	- Có thể có lực tác dụng giữa các phần tử bên trong hệ
+---
+
 - Khi đó, ta cần phân tích kỹ từng phần, hoặc chia nhỏ vật thành nhiều chất điểm để áp dụng định lý. 
+
 ## Công và động năng khi lực thay đổi
 - Hình (a) trình bày chuyển động thẳng của một vật theo trục $x$ chịu tác dụng của lực $F_x$ thay đổi khi chuyển động. Giả sử vật chuyển từ điểm $x_1$ đến $x_2$, (b) là đồ thị của thành phần $x$ của lực theo hướng $x$. Công 
