@@ -54,22 +54,4 @@ Largest Column: standard
 - Tích phân 14 được gọi là tích phân đường. 
 --- end-column ---
 ![](../Assets/Pasted%20image%2020260618214524.png)
---- end-multi-column
-
---- start-multi-column: ID_7rzi
-```column-settings
-Number of Columns: 2
-Largest Column: standard
-```
-
-
---- column-break ---
-
-
-
-fffff
-
---- column-break ---
-fffff
---- end-multi-column
-
+--- multi-column-end
