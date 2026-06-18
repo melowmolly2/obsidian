@@ -41,3 +41,4 @@ $$ F_x = ma_x; \, F_y=ma_y;\; F_z=ma_z. $$
  ![](../Assets/Pasted%20image%2020260618201347.png)
 ## Tóm tắt
 ![](../Assets/Pasted%20image%2020260618201404.png)
+![](../Assets/Pasted%20image%2020260618201428.png)
