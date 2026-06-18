@@ -62,4 +62,4 @@ Shadow: disabled
 
 
 --- multi-column-end
-<u>Lưu ý
+<u>Lưu ý: </u> Chỉ có thành phần của hợp lực tịnh tiến song song với quỹ đạo, $F_{II}$ mới sinh công lên vật. Do đó, chỉ thành phần này mới có thể làm thay đổi tốc độ và động năng của hạt Thành phần vuông góc với quỹ đạo, $F_{\perp}=F\sin \phi$ , không làm thay đổi tốc độ, nó chỉ tác dụng để thay đổi hướng chuyển động của vật. 
