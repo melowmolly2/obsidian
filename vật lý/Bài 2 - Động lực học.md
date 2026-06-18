@@ -35,4 +35,9 @@ $$ F_x = ma_x; \, F_y=ma_y;\; F_z=ma_z. $$
 - Khối lượng và trọng lượng có liên hệ với nhau: Vật có khối lượng lớn thì cũng có trọng lượng lớn. Một hòn đá lớn khó ném đi vì nó có khối lượng lớn, và khó nhấc khỏi mặt đất vì nó có trọng lượng lớn. $$\vec W = m \vec g$$
 ![](../Assets/Pasted%20image%2020260618201158.png)
 ## Định luật thứ ba của Newton
-- Nếu vật A tác dụng một lực lên va
+- Nếu vật A tác dụng một lực lên vật B (gọi là "lực tác dụng"), thì vật B cũng sẽ tác dụng một lực trỏ lại lên vật A (gọi là "lực phản lực"). Hai lực này có cùng độ lớn nhưng ngược hướng, và tác dụng lên hai vật khác nhau. 
+- Hai lực trong một cặp lực tác dụng - phản lực tác dụng lên hai vật khác nhau $\rightarrow$ không triệt tiêu. 
+ ![](../Assets/Pasted%20image%2020260618201338.png)
+ ![](../Assets/Pasted%20image%2020260618201347.png)
+## Tóm tắt
+![](../Assets/Pasted%20image%2020260618201404.png)
