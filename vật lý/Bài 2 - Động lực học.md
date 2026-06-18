@@ -32,4 +32,7 @@ $$ F_x = ma_x; \, F_y=ma_y;\; F_z=ma_z. $$
 ## Khối lượng và trọng lượng
 - Khối lượng mô tả quán tính của một vật. Vật có khối lượng càng lớn thì càng cần một lực lớn hơn để gây ra cùng một gia tốc, và điều này được phản ánh trong định luật II Newton. 
 - Trọng lượng, ngược lại, là **một lực do lực hút của Trái Đất tác dụng lên một vật.** 
-- Khối lượng và trọng lượng 
+- Khối lượng và trọng lượng có liên hệ với nhau: Vật có khối lượng lớn thì cũng có trọng lượng lớn. Một hòn đá lớn khó ném đi vì nó có khối lượng lớn, và khó nhấc khỏi mặt đất vì nó có trọng lượng lớn. $$\vec W = m \vec g$$
+![](../Assets/Pasted%20image%2020260618201158.png)
+## Định luật thứ ba của Newton
+- Nếu vật A tác dụng một lực lên va
