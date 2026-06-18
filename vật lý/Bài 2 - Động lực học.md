@@ -26,4 +26,7 @@ $$ \vec a = \frac{\sum \vec F}{m}$$
 - Nếu một lực tổng hợp bên ngoài tác dụng lên một vật, vật đó sẽ gia tốc. Gia tốc của vật tỷ lệ thuận với tổng hợp lực tác dụng, tỷ lệ nghịch với khối lượng của vật.
 - Phương trình $\sum \vec F = m \vec a$ là một phương trình vector được phân tích thành phương trình riêng cho từng thành phần của lực và thành phần tương ứng của gia tốc:
 $$ F_x = ma_x; \, F_y=ma_y;\; F_z=ma_z. $$
-- Định luật II Newton chỉ đề cập đến các ngoại lực. Một vật không
+- Định luật II Newton chỉ đề cập đến các ngoại lực. Một vật không thể tự tác động lực lên chính nó để làm thay đổi chuyển động của chính nó $\rightarrow$ Nội lực không sinh công. 
+- Phương trình $\sum \vec F=m\vec a$ chỉ đúng khi khối lượng $m$ là không thay đổi. Có rất nhiều hệ vật lý mà khối lượng thay đổi, chẳng hạn như một xe bồn bị rò rỉ, một tàu vũ trụ đang phóng, hoặc một toa tàu đang được chất than khi di chuyển. Những hệ như vậy nên được xử lý bằng khái niệm động lượng. 
+- Định luật II Newton chỉ đúng trong các hệ quy chiếu quán tính, tương tự như định luật I. 
+### Khối lượng và trọng lượt
