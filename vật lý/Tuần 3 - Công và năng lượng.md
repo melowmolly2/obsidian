@@ -79,4 +79,7 @@ Shadow: disabled
 ![](../Assets/Pasted%20image%2020260619152629.png)
 ![](../Assets/Pasted%20image%2020260619152646.png)
 - Giá trị ban đầu của nó là $U_{hd}=mgy_1$ và giá trị cuối cùng là $U_{hd}=mgy_2$. Sự thay đổi trong $U_{hd}$ là giá trị cuối cùng trừ đi giá trị ban đầu, hay $\Delta U_{hd}=U_{hd2}-U_{hd1}$. Sử dụng (7.2), chúng ta có thể viết lại (7.1) cho công thực hiện bởi lực hấp dẫn trong quá trình dịch chuyển từ $y_1$ đến $y_2$:$$ W_{hd}=U_{hd1}-U_{hd2}=-U_{hd2}-U_{hd1}=-\Delta U_{hd}\qquad(7.3)$$
-	Lưu ý: Khi vật chuyển động lên, $y$ tăng, công do lực hấp dẫn thực hiện là âm, và thế năng tăng ($\Delta U_{hd}>0$). Khi vật chuyển động xuống, $y$ giảm, lực hấp dẫn thực hiện công dương, và thế năng giảm ($\Delta U_{hd}<0$.)
+	Lưu ý: Khi vật chuyển động lên, $y$ tăng, công do lực hấp dẫn thực hiện là âm, và thế năng tăng ($\Delta U_{hd}>0$). Khi vật chuyển động xuống, $y$ giảm, lực hấp dẫn thực hiện công dương, và thế năng giảm ($\Delta U_{hd}<0$). 
+### Bảo toàn cơ năng
+- Giả sử trọng lcujw là lực duy nhất tác dụng lên vật, tức là $\vec F_{khác}=0$. Khi đó, vật đang rơi tự do không có sức cản không khí, và có thể đang chuyển động lên hoặc xuống. Gọi tốc độ của nó tại điểm $y_1$ là $v_1$ và tốc độ của nó tại $y_2$ là $v_2$. Theo định lý công - động năng, phương trình (6.6), tổng công thực hiện lên vật bằng sự thay đổi động năng: $$W_{tot}=\Delta K=K_2-K_1$$
+	Nếu trọng lực là lực duy nhất t5a
