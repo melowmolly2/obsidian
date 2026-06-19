@@ -70,70 +70,35 @@ Shadow: disabled
 - Đơn vị SI của công suất là watt (W). Một watt bằng 1 joule trên giây: 1W=1J/s. Kilowatt ($1kW=10^3 W$) và megawatt ($1MW=10^6W$) cũng là nhứng đơn vị thường được sử dụng. 
 - Chúng ta cũng có thể biểu diễn công suất theo lực và vận tốc. Giả sử một lực $\vec F$ tác dụng lên một vật khi nó trải qua một dịch chuyển vector $\Delta \vec s$. Nếu $F_{II}$ là thành phần của $\vec F$ tiếp tuyến với quỹ đạo, thì công thực hiện bởi lực là $\Delta W = F_{II}\Delta s$. Công suất trung bình là: $$P_{tb}=\frac{F_{II}\Delta s}{\Delta t}=F_{II}\frac{\Delta s}{\Delta t}=F_{II}v_{aV}\qquad (6.17)$$
 - Công suất tức thời 
-$$$$
-$$\begin{array}{c}
-\text{Bell Curve Trend:} \\
-\dots \leftarrow [-\dots] \leftarrow -3\sigma \leftarrow -2\sigma \leftarrow -\sigma \leftarrow \mathbf{\mu} \rightarrow \sigma \rightarrow 2\sigma \rightarrow 3\sigma \rightarrow [\dots] \rightarrow \dots
-\end{array}
-$$```tikz
-  \begin{tikzpicture}
-% pgfplots doesn't always work perfectly in basic TikZ plugins, 
-% so a pure TikZ mathematical drawing is safer:
-\draw[->] (-4,0) -- (4,0) node[right] {$x$};
-\draw[->] (0,0) -- (0,4.5) node[above] {$f(x)$};
 
-% Draw the bell curve using native TikZ math
-\draw[color=cyan!80!black, ultra thick, domain=-3.5:3.5, samples=100] 
-    plot (\x, {4*exp(-\x*\x/2)});
-    
-% Add standard deviation marks
-\draw[dashed, gray] (0,0) -- (0,4);
-\node[below] at (0,0) {$\mu$};
-\node[below] at (1,0) {$\sigma$};
-\node[below] at (-1,0) {$-\sigma$};
-\end{tikzpicture}
-  ```
 ```tikz
-\usepackage{pgfplots}
-\pgfplotsset{compat=1.18}
-
 \begin{document}
+\begin{tikzpicture}[x={(0.866cm,0.5cm)}, y={(-0.866cm,0.5cm)}, z={(0cm,1cm)}, scale=1.5]
 
-\begin{tikzpicture}
-\begin{axis}[
-    no markers, 
-    domain=-4:4, 
-    samples=100,
-    axis lines=left, 
-    xlabel={$x$}, 
-    ylabel={$f(x)$},
-    every axis y label/.style={at=(current axis.above origin),anchor=south},
-    every axis x label/.style={at=(current axis.right of origin),anchor=west},
-    height=6cm, 
-    width=10cm,
-    xtick={-3,-2,-1,0,1,2,3},
-    xticklabels={$-3\sigma$, $-2\sigma$, $-\sigma$, $\mu$, $\sigma$, $2\sigma$, $3\sigma$},
-    ytick=\empty,
-    enlargelimits=false, 
-    clip=false, 
-    axis on top,
-    grid = none
-]
+    % Draw the coordinate bounding box/axes
+    \draw[gray!50, ->] (-2.5,-2.5,-1) -- (2.5,-2.5,-1) node[right, black] {$x$};
+    \draw[gray!50, ->] (-2.5,-2.5,-1) -- (-2.5,2.5,-1) node[left, black] {$y$};
+    \draw[gray!50, ->] (-2.5,-2.5,-1) -- (-2.5,-2.5,2) node[above, black] {$z$};
 
-    % Shaded area for -1 to 1 standard deviation
-    \addplot [fill=cyan!20, draw=none, domain=-1:1] {gauss(x, 0, 1)} \closedcycle;
+    % Loop to draw standard mesh lines along X axis
+    \foreach \x in {-2,-1.5,...,2} {
+        \draw[cyan!70!black, thin] plot[domain=-2:2, samples=30] 
+            ({\x}, {\x2}, {1.5*exp(-(\x*\x + \x2*\x2)/1.5)});
+    }
 
-    % The standard normal distribution curve
-    \addplot [very thick, cyan!80!black] {gauss(x, 0, 1)};
+    % Loop to draw standard mesh lines along Y axis
+    \foreach \y in {-2,-1.5,...,2} {
+        \draw[cyan!70!black, thin] plot[domain=-2:2, samples=30] 
+            ({\x2}, {\y}, {1.5*exp(-(\x2*\x2 + \y*\y)/1.5)});
+    }
 
-    % Optional: Add a label for the mean
-    \draw [dashed, gray] (axis cs:0,0) -- (axis cs:0,0.4);
+    % Highlight the peak point
+    \node[circle, fill=orange, inner sep=1.5pt] at (0,0,1.5) {};
 
-\end{axis}
 \end{tikzpicture}
 
-\end{document}
 ```
+
 ```tikz
 \usepackage{tikz-cd}
 \begin{document}
