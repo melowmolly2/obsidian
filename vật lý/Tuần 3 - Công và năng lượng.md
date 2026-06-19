@@ -70,10 +70,31 @@ Shadow: disabled
 - Đơn vị SI của công suất là watt (W). Một watt bằng 1 joule trên giây: 1W=1J/s. Kilowatt ($1kW=10^3 W$) và megawatt ($1MW=10^6W$) cũng là nhứng đơn vị thường được sử dụng. 
 - Chúng ta cũng có thể biểu diễn công suất theo lực và vận tốc. Giả sử một lực $\vec F$ tác dụng lên một vật khi nó trải qua một dịch chuyển vector $\Delta \vec s$. Nếu $F_{II}$ là thành phần của $\vec F$ tiếp tuyến với quỹ đạo, thì công thực hiện bởi lực là $\Delta W = F_{II}\Delta s$. Công suất trung bình là: $$P_{tb}=\frac{F_{II}\Delta s}{\Delta t}=F_{II}\frac{\Delta s}{\Delta t}=F_{II}v_{aV}\qquad (6.17)$$
 - Công suất tức thời 
+$$$$
+$$\begin{array}{c}
+\text{Bell Curve Trend:} \\
+\dots \leftarrow [-\dots] \leftarrow -3\sigma \leftarrow -2\sigma \leftarrow -\sigma \leftarrow \mathbf{\mu} \rightarrow \sigma \rightarrow 2\sigma \rightarrow 3\sigma \rightarrow [\dots] \rightarrow \dots
+\end{array}
+$$```tikz
+  \begin{tikzpicture}
+% pgfplots doesn't always work perfectly in basic TikZ plugins, 
+% so a pure TikZ mathematical drawing is safer:
+\draw[->] (-4,0) -- (4,0) node[right] {$x$};
+\draw[->] (0,0) -- (0,4.5) node[above] {$f(x)$};
+
+% Draw the bell curve using native TikZ math
+\draw[color=cyan!80!black, ultra thick, domain=-3.5:3.5, samples=100] 
+    plot (\x, {4*exp(-\x*\x/2)});
+    
+% Add standard deviation marks
+\draw[dashed, gray] (0,0) -- (0,4);
+\node[below] at (0,0) {$\mu$};
+\node[below] at (1,0) {$\sigma$};
+\node[below] at (-1,0) {$-\sigma$};
+\end{tikzpicture}
+  ```
 ```tikz
-\documentclass[tikz, border=10pt]{standalone}
 \usepackage{pgfplots}
-\usepackage{tikz-cd}
 \pgfplotsset{compat=1.18}
 
 \begin{document}
@@ -173,3 +194,63 @@ to[R=$R_2$, i>_=$i_2$]
 
 \end{document}
 ```
+
+```tikz
+\usepackage{tikz-cd}
+
+\begin{document}
+\begin{tikzcd}
+
+    T
+    \arrow[drr, bend left, "x"]
+    \arrow[ddr, bend right, "y"]
+    \arrow[dr, dotted, "{(x,y)}" description] & & \\
+    K & X \times_Z Y \arrow[r, "p"] \arrow[d, "q"]
+    & X \arrow[d, "f"] \\
+    & Y \arrow[r, "g"]
+    & Z
+
+\end{tikzcd}
+
+\quad \quad
+
+\begin{tikzcd}[row sep=2.5em]
+
+A' \arrow[rr,"f'"] \arrow[dr,swap,"a"] \arrow[dd,swap,"g'"] &&
+  B' \arrow[dd,swap,"h'" near start] \arrow[dr,"b"] \\
+& A \arrow[rr,crossing over,"f" near start] &&
+  B \arrow[dd,"h"] \\
+C' \arrow[rr,"k'" near end] \arrow[dr,swap,"c"] && D' \arrow[dr,swap,"d"] \\
+& C \arrow[rr,"k"] \arrow[uu,<-,crossing over,"g" near end]&& D
+
+\end{tikzcd}
+
+\end{document}
+```
+
+```tikz
+\usepackage{chemfig}
+\begin{document}
+
+\definesubmol\fragment1{
+
+    (-[:#1,0.85,,,draw=none]
+    -[::126]-[::-54](=_#(2pt,2pt)[::180])
+    -[::-70](-[::-56.2,1.07]=^#(2pt,2pt)[::180,1.07])
+    -[::110,0.6](-[::-148,0.60](=^[::180,0.35])-[::-18,1.1])
+    -[::50,1.1](-[::18,0.60]=_[::180,0.35])
+    -[::50,0.6]
+    -[::110])
+    }
+
+\chemfig{
+!\fragment{18}
+!\fragment{90}
+!\fragment{162}
+!\fragment{234}
+!\fragment{306}
+}
+
+\end{document}
+```
+````
