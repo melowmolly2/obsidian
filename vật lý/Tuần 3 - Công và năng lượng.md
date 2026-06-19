@@ -75,4 +75,6 @@ Shadow: disabled
 - Giả sử một vật có khối lượng $m$ di chuyển dọc theo trục $y$, lực tác dụng lên vật với độ lớn $w=mg$, và có thể một số lực khác $\vec F_{khác}$. Trong trường hợp này, ta giả thiết vật ở gần mặt đất nên trọng lực là không đổi. Mục tiêu cảu ta là tìm công mà trọng lực thực hiện khi vật di chuyển từ độ cao $y_1$ xuống độ cao thấp hơn $y_2$. 
 - Trọng lực và độ dịch chuyển cùng hướng. Vì vậy, công $W_{\text{hấp dẫn}}$ là dương: $$W_{\text{hấp dẫn}}=F\cdot s=w(y_1-y_2)=mgy_1-mgy_2\qquad(7.1)$$
 ![](../Assets/Pasted%20image%2020260619152433.png)
-- Biểu thức cho công khi vật chuyển động lên trên và $y_2$ lớn hơn $y_1$ (Hình 7.2b). Khi đó, đại lượng $y_1-y_2$ là âm, và $W_{\text{hấp dẫn}}$ là âm vì trọng lực và độ dịch chuyển ngược chiều nhau. Phương trình (7.1) biểu diễn $W_{\text{hấp dẫn}}$ theo các giá trị của đại lượng $mg
+- Biểu thức cho công khi vật chuyển động lên trên và $y_2$ lớn hơn $y_1$ (Hình 7.2b). Khi đó, đại lượng $y_1-y_2$ là âm, và $W_{\text{hấp dẫn}}$ là âm vì trọng lực và độ dịch chuyển ngược chiều nhau. Phương trình (7.1) biểu diễn $W_{\text{hấp dẫn}}$ theo các giá trị của đại lượng $mgy$ ở đầu và cuối độ dịch chuyển. Đại lượng này được gọi là **thế năng (trường) hấp dẫn)**, $U_{\text{hấp dẫn}}$:
+![](../Assets/Pasted%20image%2020260619152629.png)
+![](../Assets/Pasted%20image%2020260619152646.png)
