@@ -70,3 +70,45 @@ Shadow: disabled
 - Đơn vị SI của công suất là watt (W). Một watt bằng 1 joule trên giây: 1W=1J/s. Kilowatt ($1kW=10^3 W$) và megawatt ($1MW=10^6W$) cũng là nhứng đơn vị thường được sử dụng. 
 - Chúng ta cũng có thể biểu diễn công suất theo lực và vận tốc. Giả sử một lực $\vec F$ tác dụng lên một vật khi nó trải qua một dịch chuyển vector $\Delta \vec s$. Nếu $F_{II}$ là thành phần của $\vec F$ tiếp tuyến với quỹ đạo, thì công thực hiện bởi lực là $\Delta W = F_{II}\Delta s$. Công suất trung bình là: $$P_{tb}=\frac{F_{II}\Delta s}{\Delta t}=F_{II}\frac{\Delta s}{\Delta t}=F_{II}v_{aV}\qquad (6.17)$$
 - Công suất tức thời 
+```tikz
+\documentclass[tikz, border=10pt]{standalone}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+
+\begin{document}
+
+\begin{tikzpicture}
+\begin{axis}[
+    no markers, 
+    domain=-4:4, 
+    samples=100,
+    axis lines=left, 
+    xlabel={$x$}, 
+    ylabel={$f(x)$},
+    every axis y label/.style={at=(current axis.above origin),anchor=south},
+    every axis x label/.style={at=(current axis.right of origin),anchor=west},
+    height=6cm, 
+    width=10cm,
+    xtick={-3,-2,-1,0,1,2,3},
+    xticklabels={$-3\sigma$, $-2\sigma$, $-\sigma$, $\mu$, $\sigma$, $2\sigma$, $3\sigma$},
+    ytick=\empty,
+    enlargelimits=false, 
+    clip=false, 
+    axis on top,
+    grid = none
+]
+
+    % Shaded area for -1 to 1 standard deviation
+    \addplot [fill=cyan!20, draw=none, domain=-1:1] {gauss(x, 0, 1)} \closedcycle;
+
+    % The standard normal distribution curve
+    \addplot [very thick, cyan!80!black] {gauss(x, 0, 1)};
+
+    % Optional: Add a label for the mean
+    \draw [dashed, gray] (axis cs:0,0) -- (axis cs:0,0.4);
+
+\end{axis}
+\end{tikzpicture}
+
+\end{document}
+```
