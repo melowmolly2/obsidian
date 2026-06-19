@@ -64,4 +64,6 @@ Shadow: disabled
 --- multi-column-end
 <u>Lưu ý: </u> Chỉ có thành phần của hợp lực tịnh tiến song song với quỹ đạo, $F_{II}$ mới sinh công lên vật. Do đó, chỉ thành phần này mới có thể làm thay đổi tốc độ và động năng của hạt Thành phần vuông góc với quỹ đạo, $F_{\perp}=F\sin \phi$ , không làm thay đổi tốc độ, nó chỉ tác dụng để thay đổi hướng chuyển động của vật. 
 ## Công suất
-- Công suất là tốc độ biến thiên của công theo thời gian. Tương tự như công và động năng, công suất là một
+- Công suất là tốc độ biến thiên của công theo thời gian. Tương tự như công và động năng, công suất là một đại lượng vô hướng
+- Công thực hiện trung bình trên một đơn vị thời gian, hay công suất trung bình $P_{tb}$ được định nghĩa là: $$P_{tb}=\frac{\Delta W}{\Delta t} \qquad (6.15)$$
+- Tốc độ thực hiện công có thể không phải là hằng số. Chúng ta định nghĩa công suất tức thời $P$ là tỉ số
