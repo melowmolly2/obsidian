@@ -78,3 +78,4 @@ Shadow: disabled
 - Biểu thức cho công khi vật chuyển động lên trên và $y_2$ lớn hơn $y_1$ (Hình 7.2b). Khi đó, đại lượng $y_1-y_2$ là âm, và $W_{\text{hấp dẫn}}$ là âm vì trọng lực và độ dịch chuyển ngược chiều nhau. Phương trình (7.1) biểu diễn $W_{\text{hấp dẫn}}$ theo các giá trị của đại lượng $mgy$ ở đầu và cuối độ dịch chuyển. Đại lượng này được gọi là **thế năng (trường) hấp dẫn)**, $U_{\text{hấp dẫn}}$:
 ![](../Assets/Pasted%20image%2020260619152629.png)
 ![](../Assets/Pasted%20image%2020260619152646.png)
+- Giá trị ban đầu của nó là $U_{hd}=mgy_1$ và giá trị cuối cùng là $U_{hd}=mgy_2$. Sự thay đổi trong $U_{hd}$ là giá trị cuối cùng trừ đi giá trị ban đầu, hay $\Delta U_{hd}=U_{hd2}-U_{hd1}$. Sử dụng (7.2), chúng ta có thể viết lại (7.1) cho công thực hiện bởi lực hấp dẫn trong quá trinh
