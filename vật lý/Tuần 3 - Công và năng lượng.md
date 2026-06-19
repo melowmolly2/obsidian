@@ -88,4 +88,4 @@ Shadow: disabled
 - $E=K+U_{hd}=const$ (chỉ đúng khi chỉ có trọng lực thực hiện công)
 	**Chú ý: trọng lực hay gọi là lực trọng trường**
 - Một đại lượng luôn không đổi gọi là đại lượng bảo toàn. Khi chỉ có lực hấp dẫn thực hiện công, tổng cơ năng là không đổi - tức là nó được bảo toàn (Hình 7.3). Đây là ví dụ đầu tiên của chúng ta về bảo toàn cơ năng. ![](../Assets/Pasted%20image%2020260619155745.png)
-	Lưu ý: Khi làm việc với thế năng hấp dẫn, chúng ta có thể chọn mốc thế năng ($y=0$) tại độ cao bất kỳ. Nếu dịch chuyển gốc tọa độ cho $y$, các giá trị của $y_1$ và $y_2$ thay đổi, cũng như các giá trị của $U_{hd1}$ và $U_{hd2}$. Nhưng sự dịch c
+	Lưu ý: Khi làm việc với thế năng hấp dẫn, chúng ta có thể chọn mốc thế năng ($y=0$) tại độ cao bất kỳ. Nếu dịch chuyển gốc tọa độ cho $y$, các giá trị của $y_1$ và $y_2$ thay đổi, cũng như các giá trị của $U_{hd1}$ và $U_{hd2}$. Nhưng sự dịch chuyển này không ảnh hưởng đến hiệu số độ cao $y_2-y_1$ hoặc đến hiệu số thế năng hấp dẫn. 
