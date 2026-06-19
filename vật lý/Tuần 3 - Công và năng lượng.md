@@ -72,4 +72,5 @@ Shadow: disabled
 - Công suất tức thời $P$ là giới hạn của biểu thức này khi $\Delta t \to 0$: $$P=F_{II}v\qquad (6.18)$$
 	trong đó $v$ là vận tốc tức thời. Chúng ta cũng có thể biển diễn (6.18) dưới dạng tích vô hướng: $$P=\vec F \cdot \vec v\qquad (6.19)$$
 ## Thế năng trường hấp dẫn
-- Giả sử một 
+- Giả sử một vật có khối lượng $m$ di chuyển dọc theo trục $y$, lực tác dụng lên vật với độ lớn $w=mg$, và có thể một số lực khác $\vec F_{khác}$. Trong trường hợp này, ta giả thiết vật ở gần mặt đất nên trọng lực là không đổi. Mục tiêu cảu ta là tìm công mà trọng lực thực hiện khi vật di chuyển từ độ cao $y_1$ xuống độ cao thấp hơn $y_2$. 
+- Trọng lực và độ dịch chuyển cùng hướng. Vì vậy, công $W_{hấp dâ}
