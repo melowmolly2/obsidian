@@ -82,4 +82,8 @@ Shadow: disabled
 	Lưu ý: Khi vật chuyển động lên, $y$ tăng, công do lực hấp dẫn thực hiện là âm, và thế năng tăng ($\Delta U_{hd}>0$). Khi vật chuyển động xuống, $y$ giảm, lực hấp dẫn thực hiện công dương, và thế năng giảm ($\Delta U_{hd}<0$). 
 ### Bảo toàn cơ năng
 - Giả sử trọng lcujw là lực duy nhất tác dụng lên vật, tức là $\vec F_{khác}=0$. Khi đó, vật đang rơi tự do không có sức cản không khí, và có thể đang chuyển động lên hoặc xuống. Gọi tốc độ của nó tại điểm $y_1$ là $v_1$ và tốc độ của nó tại $y_2$ là $v_2$. Theo định lý công - động năng, phương trình (6.6), tổng công thực hiện lên vật bằng sự thay đổi động năng: $$W_{tot}=\Delta K=K_2-K_1$$
-	Nếu trọng lực là lực duy nhất t5a
+	Nếu trọng lực là lực duy nhất tác dụng, thì từ (7.3) ta có: $$W_{tot}=W_{hp}=U_{hd1}-U_{hd2}=-\Delta U_{hd}$$
+- Kết hợp các phương trình này, chúng ta có được:![](../Assets/Pasted%20image%2020260619155541.png)
+- Tổng của động năng $K+U_{hd}$ được gọi là $E$, tổng cơ năng của hệ. 
+- $E=K+U_{hd}=const$ (chỉ đúng khi chỉ có trọng lực thực hiện công)
+	==Chú ý: trọng lực h
