@@ -110,5 +110,7 @@ Trong hai ví dụ ở trên, vật thể di chuyển dọc theo một đường
 
 ![](../Assets/Pasted%20image%2020260620102445.png)
 --- end-multi-column
-- Để tìm công $W_{hd}$ thực hiển bởi lực hấp dẫn trong quá trình dịch chuyển này, chúng ta chia quỹ đạo thành các đoạn nhỏ $\Delta \vec s$. Công thực hiện bởi lực hấp  dẫn trên đoạn này là tích vô hướng của lực và độ dịch chuyển. Theo các vecto đơn vị, lực là $\vec W=m\vec g = -mg\hat j$ và độ dịch chuyển là $\Delta s=\Delta x\hat i +\Delta y \hat j$ $-mg\hat j\cdot (\Delta x\hat i+\Delta y\hat j)=-mg\Delta y$$   
+- Để tìm công $W_{hd}$ thực hiển bởi lực hấp dẫn trong quá trình dịch chuyển này, chúng ta chia quỹ đạo thành các đoạn nhỏ $\Delta \vec s$. Công thực hiện bởi lực hấp  dẫn trên đoạn này là tích vô hướng của lực và độ dịch chuyển. Theo các vecto đơn vị, lực là $\vec W=m\vec g = -mg\hat j$ và độ dịch chuyển là $\Delta s=\Delta x\hat i +\Delta y \hat j$:
+$$W_{hd}=\vec w + \Delta \vec s=-mg\hat j\cdot (\Delta x\hat i+\Delta y\hat j)=-mg\Delta y$$
+- Công thực hiện bởi trọng lực (lực trọng trường) cũng giống như khi vật bị dịch chuyển thẳng đúng một khoảng $\Delta y$: $$W_{hd}=-mg(y_2-y_1)=mgy_1-mgy_2=U_{hd1}-U_{hd2}$$ 
 
