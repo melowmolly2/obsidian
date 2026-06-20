@@ -126,5 +126,7 @@ $$W_{hd}=\vec w + \Delta \vec s=-mg\hat j\cdot (\Delta x\hat i+\Delta y\hat j)=-
 	2. Công là thuận nghịch. 
 	3. Công không phụ thuộc vào đường đi của vật mà ==chỉ phụ thuộc== vào điểm bắt đầu và kết thúc. 
 	4. Khi điểm bắt đầu và kết thúc là như nhau, tổng công bằng không. Khi các lực duy nhất thực hiện công là các lực bảo toàn, tổng năng lượng cơ học $E=K+U$ là hằng số. 
-	
+**Định luật bảo toàn năng lượng:** Năng lượng không được sinh ra hay bị mất đi, nó chỉ biến đổi từ dạng này sang dạng khác: ![](../Assets/Pasted%20image%2020260620103816.png)
+## Biểu đồ năng lượng
+- Áp dụng điều này vào một dịch chuyển nhỏ $\Delta x$. Công thực hiện bởi lực $F_x(x)$ trong quá trình dịch chuyển này gần đúng 
 
