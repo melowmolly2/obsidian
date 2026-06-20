@@ -120,5 +120,11 @@ $$W_{hd}=\vec w + \Delta \vec s=-mg\hat j\cdot (\Delta x\hat i+\Delta y\hat j)=-
 - Công $W_{dh}$ thực hiện bởi lò xo:![](../Assets/Pasted%20image%2020260620103404.png)
 - Định lý công - năng lượng phát biểu rằng $W_{tot}=K_2-K_1$, bất kể loại lực nào tác dụng lên vật. Nếu lực đàn hồi là lực *duy nhất* thực hiện công lên vật, thì: $$W_{tot}=W_{el}-U_{el1}-U_{el2}$$ Và ![](../Assets/Pasted%20image%2020260620103459.png)
 ## Lực thế và công của trường lực thế
-- Lực bảo toàn: Một lực cho phép chuyển đổi hai chiều giữa động năng và thế năng được gọi là lực bảo toàn
+**Lực bảo toàn**: Một lực cho phép chuyển đổi hai chiều giữa động năng và thế năng được gọi là lực bảo toàn
+- Công thực hiện bởi một lực bảo toàn có bốn tính chát:
+	1. Công có thể được biểu thị dưới dạng hiệu giữa giá trị ban đầu và giá trị cuối cùng của một hàm thế năng. 
+	2. Công là thuận nghịch. 
+	3. Công không phụ thuộc vào đường đi của vật mà ==chỉ phụ thuộc== vào điểm bắt đầu và kết thúc. 
+	4. Khi điểm bắt đầu và kết thúc là như nhau, tổng công bằng không. Khi các lực duy nhất thực hiện công là các lực bảo toàn, tổng năng lượng cơ học $E=K+U$ là hằng số. 
+	
 
