@@ -19,4 +19,8 @@ Kết luận: Tại thời điểm $t=2.0s$, tọa độ của robot là $(1.0m;
 - Khoảng cách từ robot đến tàu đổ bộ (gốc tọa độ $O$): $$r=\sqrt{x^2+y^2}=\sqrt{1.0^2+2.2^2}=\sqrt{1.0+4.84}=\sqrt{5.84} \approx2.42m$$
 (b)
 - Xác định các vector vị trí: 
-	- Tại $t_1=0.0s: x_1=2.0m$ và $y+1=0.0m\Rightarrow $r+1=
+	- Tại $t_1=0.0s: x_1=2.0m$ và $y+1=0.0m\Rightarrow r+1=2.0\hat i$ (m)
+	- Tại $t_2=2.0s:x_2=1.0m$ vả $y_2=2.2m\Rightarrow r_2 = 2.0\hat i + 2.2 \hat j$ (m)
+- Vector độ dời ($\Delta r$): 
+	$$\Delta r = r_2-r_1 = (1.0-2.0)\hat i +(2.2-0.0)\hat j = -1.0\hat i + 2.2 \hat j $$
+	
