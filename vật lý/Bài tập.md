@@ -5,4 +5,7 @@ x & = 2.0m - (0.25m/s^2)t^2 \\
 y & = (1.0m/s)t+(0.025m/s^3)t^3
 \end{aligned}
 $$
-(a) Tìm tọa độ của robot và khoảng cách từ robot đến tàu đổ bộ tại thời điểm $t=2.0
+(a) Tìm tọa độ của robot và khoảng cách từ robot đến tàu đổ bộ tại thời điểm $t=2.0s$. 
+(b) Tìm vector độ dời và vector vận tốc trung bình của robot trong khoảng thời gian từ $t=0.0s$ đến $t=2.0s$. 
+(c) Tìm biểu thức tổng quát cho vector vận tốc tức thời $\vec v$ của robot. Biểu diễn $\vec v$ tại $t=2.0s$ theo dạng thành phần và theo độ lớn cùng hướng. 
+
