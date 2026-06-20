@@ -112,5 +112,9 @@ Trong hai ví dụ ở trên, vật thể di chuyển dọc theo một đường
 --- end-multi-column
 - Để tìm công $W_{hd}$ thực hiển bởi lực hấp dẫn trong quá trình dịch chuyển này, chúng ta chia quỹ đạo thành các đoạn nhỏ $\Delta \vec s$. Công thực hiện bởi lực hấp  dẫn trên đoạn này là tích vô hướng của lực và độ dịch chuyển. Theo các vecto đơn vị, lực là $\vec W=m\vec g = -mg\hat j$ và độ dịch chuyển là $\Delta s=\Delta x\hat i +\Delta y \hat j$:
 $$W_{hd}=\vec w + \Delta \vec s=-mg\hat j\cdot (\Delta x\hat i+\Delta y\hat j)=-mg\Delta y$$
-- Công thực hiện bởi trọng lực (lực trọng trường) cũng giống như khi vật bị dịch chuyển thẳng đúng một khoảng $\Delta y$: $$W_{hd}=-mg(y_2-y_1)=mgy_1-mgy_2=U_{hd1}-U_{hd2}$$ 
+- Công thực hiện bởi trọng lực (lực trọng trường) cũng giống như khi vật bị dịch chuyển thẳng đúng một khoảng $\Delta y$: $$W_{hd}=-mg(y_2-y_1)=mgy_1-mgy_2=U_{hd1}-U_{hd2}$$
+## Thế năng đàn hồi
+- Công mà chúng ta thực hiện để kéo dài lò xo từ $x_1$ đến $x_2$ là: $$W=\frac 12 kx_2^2-\frac 12 kx_1^2\qquad (7.8)$$
+- Thay đổi dấu trong (7.8), thấy rằng trong một dịch chuyển từ $x_1$ đến $x_2$ lò xo thực hiện một lượng công $w_{\text{đàn hồi}}$ được cho bởi: $$W_{dh}=\frac 12 kx_1^2-\frac 12 kx_2^2\qquad (7.9)$$
+- 
 
