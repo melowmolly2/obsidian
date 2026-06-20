@@ -23,4 +23,7 @@ Kết luận: Tại thời điểm $t=2.0s$, tọa độ của robot là $(1.0m;
 	- Tại $t_2=2.0s:x_2=1.0m$ vả $y_2=2.2m\Rightarrow r_2 = 2.0\hat i + 2.2 \hat j$ (m)
 - Vector độ dời ($\Delta r$): 
 	$$\Delta r = r_2-r_1 = (1.0-2.0)\hat i +(2.2-0.0)\hat j = -1.0\hat i + 2.2 \hat j $$
-	
+
+
+### 5.1
+Một động cơ ô tô có trọng lượng $w$ được treo bởi một sợi xích nối vào vòng 0, vòng này liên kết với hai sợi xích khác: một gắn vào trần và một gắn vào tường (Hình vẽ). Hãy tìm biểu thức cho lực căng trong mỗi sợi xích theo $w$. Trọng lượng của vòng và các sợi xích được coi là không đáng 
