@@ -100,6 +100,8 @@ Shadow: disabled
 ```column-settings
 Number of Columns: 2
 Largest Column: left
+Border: disabled
+Shadow: disabled
 ```
 Trong hai ví dụ ở trên, vật thể di chuyển dọc theo một đường thẳng đúng. Điều gì sẽ xảy ra khi quỹ đạo nghiêng hoặc cong (7.7a). Vật thể chịu tác dụng của lực hấp dẫn $\vec w = m\vec g$ và có thể cả các lực khác mà tổng hợp lực của chúng ta gọi là $\vec F_{khác}$. 
 
@@ -108,4 +110,5 @@ Trong hai ví dụ ở trên, vật thể di chuyển dọc theo một đường
 
 ![](../Assets/Pasted%20image%2020260620102445.png)
 --- end-multi-column
+- Để tìm công $W_{hd}$ thực hiển bởi lực hấp dẫn trong quá trình dịch chuyển này, chúng ta chia quỹ đạo thành các đoạn nhỏ $\Delta \vec s$. Công thực hiện bởi lực hấp dẫn trên đoạn này là tích vô hướng của lực và độ dịch chuyển. Theo các vecto đơn vị, lực là $\vec W=m\vec g = -mg$ 
 
