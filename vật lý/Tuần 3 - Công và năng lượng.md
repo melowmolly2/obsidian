@@ -116,5 +116,9 @@ $$W_{hd}=\vec w + \Delta \vec s=-mg\hat j\cdot (\Delta x\hat i+\Delta y\hat j)=-
 ## Thế năng đàn hồi
 - Công mà chúng ta thực hiện để kéo dài lò xo từ $x_1$ đến $x_2$ là: $$W=\frac 12 kx_2^2-\frac 12 kx_1^2\qquad (7.8)$$
 - Thay đổi dấu trong (7.8), thấy rằng trong một dịch chuyển từ $x_1$ đến $x_2$ lò xo thực hiện một lượng công $w_{\text{đàn hồi}}$ được cho bởi: $$W_{dh}=\frac 12 kx_1^2-\frac 12 kx_2^2\qquad (7.9)$$
-- 
+- Thế năng đàn hồi: ![](../Assets/Pasted%20image%2020260620103350.png)
+- Công $W_{dh}$ thực hiện bởi lò xo:![](../Assets/Pasted%20image%2020260620103404.png)
+- Định lý công - năng lượng phát biểu rằng $W_{tot}=K_2-K_1$, bất kể loại lực nào tác dụng lên vật. Nếu lực đàn hồi là lực *duy nhất* thực hiện công lên vật, thì: $$W_{tot}=W_{el}-U_{el1}-U_{el2}$$ Và ![](../Assets/Pasted%20image%2020260620103459.png)
+## Lực thế và công của trường lực thế
+- Lực bảo toàn: Một lực cho phép chuyển đổi hai chiều giữa động năng và thế năng được gọi là lực bảo toàn
 
