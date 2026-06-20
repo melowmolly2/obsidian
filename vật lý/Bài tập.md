@@ -26,4 +26,8 @@ Kết luận: Tại thời điểm $t=2.0s$, tọa độ của robot là $(1.0m;
 
 
 ### 5.1
-Một động cơ ô tô có trọng lượng $w$ được treo bởi một sợi xích nối vào vòng 0, vòng này liên kết với hai sợi xích khác: một gắn vào trần và một gắn vào tường (Hình vẽ). Hãy tìm biểu thức cho lực căng trong mỗi sợi xích theo $w$. Trọng lượng của vòng và các sợi xích được coi là không đáng 
+Một động cơ ô tô có trọng lượng $w$ được treo bởi một sợi xích nối vào vòng 0, vòng này liên kết với hai sợi xích khác: một gắn vào trần và một gắn vào tường (Hình vẽ). Hãy tìm biểu thức cho lực căng trong mỗi sợi xích theo $w$. Trọng lượng của vòng và các sợi xích được coi là không đáng kể so với trọng lượng của động cơ. ![](../Assets/Pasted%20image%2020260620205411.png)
+![](../Assets/Pasted%20image%2020260620205451.png)
+![](../Assets/Pasted%20image%2020260620205530.png)
+![](../Assets/Pasted%20image%2020260620205537.png)
+![](../Assets/Pasted%20image%2020260620205556.png)
