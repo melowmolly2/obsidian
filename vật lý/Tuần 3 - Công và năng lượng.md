@@ -94,4 +94,18 @@ Shadow: disabled
 - Định nghĩa một hệ tọa độ, và chọn mức mà tại đó $y=0$. Chọn chiều dương của trục $y$ hướng lên. 
 - Xác định bất kỳ lực nào thực hiện công lên mỗi vật thể và mà không thể được mô tả dưới dạng thế năng. Phác thảo biểu đồ vật thể tự do cho mỗi vật thể.
 - Liệt kê các đại lượng đã biết và chưa biết, bao gồm tọa độ và vận tốc tại mỗi điểm. Xác định các biến cần tính toán. 
-### Thế năng trọng trường cho chuyển d
+### Thế năng trọng trường cho chuyển động dọc theo một quỹ đạo cong
+
+--- start-multi-column: ID_sccm
+```column-settings
+Number of Columns: 2
+Largest Column: left
+```
+Trong hai ví dụ ở trên, vật thể di chuyển dọc theo một đường thẳng đúng. Điều gì sẽ xảy ra khi quỹ đạo nghiêng hoặc cong (7.7a). Vật thể chịu tác dụng của lực hấp dẫn $\vec w = m\vec g$ và có thể cả các lực khác mà tổng hợp lực của chúng ta gọi là $\vec F_{khác}$. 
+
+
+--- column-end ---
+
+![](../Assets/Pasted%20image%2020260620102445.png)
+--- end-multi-column
+
