@@ -31,3 +31,4 @@ Một động cơ ô tô có trọng lượng $w$ được treo bởi một sợ
 ![](../Assets/Pasted%20image%2020260620205530.png)
 ![](../Assets/Pasted%20image%2020260620205537.png)
 ![](../Assets/Pasted%20image%2020260620205556.png)
+![](../Assets/Pasted%20image%2020260620205609.png)
