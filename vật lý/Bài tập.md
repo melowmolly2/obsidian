@@ -15,4 +15,8 @@ Tọa độ và khoảng cách của robot tại thời điểm $t=2.0s$:
 - Tọa độ $x$: 
 $$ x(2.0)=2.0-0.25\cdot2.0^2=2.0-2.0=1.0m$$
 - Tọa độ $y$: $$y(2.0)=1.0\cdot 2.0 +0.025\cdot 2.0^3=2.0+0.2=2.2m$$
-Kết luận: Tại thời điểm $t=2.0s$, tọa độ của robot là $(1.0m; 2.2m)$. 
+Kết luận: Tại thời điểm $t=2.0s$, tọa độ của robot là $(1.0m; 2.2m)$.
+- Khoảng cách từ robot đến tàu đổ bộ (gốc tọa độ $O$): $$r=\sqrt{x^2+y^2}=\sqrt{1.0^2+2.2^2}=\sqrt{1.0+4.84}=\sqrt{5.84} \approx2.42m$$
+(b)
+- Xác định các vector vị trí: 
+	- Tại $t_1=0.0s: x_1=2.0m$ và $y+1=0.0m\Rightarrow $r+1=
