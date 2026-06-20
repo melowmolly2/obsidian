@@ -89,3 +89,5 @@ Shadow: disabled
 	**Chú ý: trọng lực hay gọi là lực trọng trường**
 - Một đại lượng luôn không đổi gọi là đại lượng bảo toàn. Khi chỉ có lực hấp dẫn thực hiện công, tổng cơ năng là không đổi - tức là nó được bảo toàn (Hình 7.3). Đây là ví dụ đầu tiên của chúng ta về bảo toàn cơ năng. ![](../Assets/Pasted%20image%2020260619155745.png)
 	Lưu ý: Khi làm việc với thế năng hấp dẫn, chúng ta có thể chọn mốc thế năng ($y=0$) tại độ cao bất kỳ. Nếu dịch chuyển gốc tọa độ cho $y$, các giá trị của $y_1$ và $y_2$ thay đổi, cũng như các giá trị của $U_{hd1}$ và $U_{hd2}$. Nhưng sự dịch chuyển này không ảnh hưởng đến hiệu số độ cao $y_2-y_1$ hoặc đến hiệu số thế năng hấp dẫn. 
+### Các vấn đề sử dụng cơ năng I
+- Khi sử dụng phương pháp năng lượng, trước tiên hãy xác định trạng thái ban đầu và trạng thái cuối cùng (vị trí và vận tốc của các vật thể được đề cập.) Sử dụng chỉ số 1 cho trạng thái ban đầu và chỉ số 2 cho trạng thái cuối cùng. Vẽ các phác thảo thể hiện các than
