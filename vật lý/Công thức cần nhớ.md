@@ -147,4 +147,21 @@ Tuần 9 tập trung vào Dao động tuần hoàn. Dưới đây là các công
 - **Li độ:** $x = Ae^{-(b/2m)t}\cos(\omega' t + \phi)$ (biên độ giảm theo hàm mũ),.
 - **Tần số góc dao động tắt dần:** $\omega' = \sqrt{\frac{k}{m} - \frac{b^2}{4m^2}}$.
 
-Bạn có muốn xem một ví dụ áp dụng công thức bảo toàn năng lượng cho con lắc lò xo, hay chúng ta chuyển luôn sang các công thức của Tuần 11 về Nhiệt độ và Nhiệt lượng?
+Bạn có muốn xem một ví dụ áp dụng công thức bảo toàn năng lượng cho con lắc lò xo, hay chúng ta chuyển luôn sang các công thức của Tuần 11 về Nhiệt độ và Nhiệt lượng?**1. Sự giãn nở nhiệt**
+
+- **Giãn nở dài:** ΔL=αL0​ΔT (với α là hệ số giãn nở dài).
+- **Giãn nở thể tích:** ΔV=βV0​ΔT, trong đó đối với chất rắn thì β=3α.
+- **Ứng suất nhiệt:** AF​=−YαΔT (lực sinh ra khi vật bị ngàm chặt và thay đổi nhiệt độ, với Y là mô-đun Young).
+
+**2. Nhiệt lượng**
+
+- **Tính theo nhiệt dung riêng (khối lượng):** Q=mcΔT.
+- **Tính theo nhiệt dung mol (số mol):** Q=nCΔT.
+- **Sự chuyển pha:** Nhiệt lượng cần để thay đổi trạng thái (nhưng không đổi nhiệt độ) sử dụng các hằng số nhiệt nóng chảy (Lf​) hoặc nhiệt hóa hơi (Lv​).
+
+**3. Cơ chế truyền nhiệt (Dẫn nhiệt)**
+
+- **Dòng nhiệt qua thanh dẫn:** H=−kAdxdT​ (với k là độ dẫn nhiệt của vật liệu).
+- **Tính qua nhiệt trở (**R**):** H=RA(TH​−TC​)​, trong đó R=kL​ (thường dùng trong cách nhiệt tòa nhà).
+
+Bạn muốn xem một ví dụ áp dụng công thức giãn nở và ứng suất nhiệt (thường hay gặp trong thực tế và bài tập), hay chúng ta đi tiếp sang các công thức của Tuần 12 (Tính chất nhiệt của vật chất) luôn nhỉ?
