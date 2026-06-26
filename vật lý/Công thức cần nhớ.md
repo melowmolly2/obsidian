@@ -14,4 +14,16 @@
 - Gia tốc hướng tâm: $a_{rad}=\frac{v^2}R=\frac{4\pi^2R}{T^2}$
 - Phép biến đổi vận tốc Galile (vận tốc tương đối): $v_{P/A}=v_{P/B}+v_{B/A}$. 
 # Tuần 2:
-- Định luật II Newton: $\sum F=ma$. Khi giải b
+- Định luật II Newton: $\sum F=ma$. Khi giải bài tập, phương trình này thường được phân tích theo các trục tọa độ: $\sum F_x=ma_x$ và $\sum F_y=ma_y$ 
+- Định luật III Newton: $\sum F_{\text{ A lên B}}=-\sum F_{\text{B lên A}}
+-  **Trọng lượng:** w=mg,.
+
+**2. Lực ma sát**
+
+- **Lực ma sát động:** fk​=μk​n (trong đó n là phản lực pháp tuyến).
+- **Lực ma sát nghỉ:** fs​≤μs​n (lực ma sát nghỉ lớn nhất bằng μs​n).
+
+**3. Động lực học chuyển động tròn**
+
+- **Gia tốc hướng tâm:** arad​=Rv2​=T24π2R​,.
+- **Lực hướng tâm:** Lực tổng hợp hướng vào tâm quỹ đạo ΣFrad​=mRv2​.
