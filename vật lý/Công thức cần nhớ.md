@@ -15,38 +15,38 @@
 - Phép biến đổi vận tốc Galile (vận tốc tương đối): $v_{P/A}=v_{P/B}+v_{B/A}$. 
 # Tuần 2
 
-**1. Các định luật của Newton và Trọng lượng**
+## **1. Các định luật của Newton và Trọng lượng**
 
-- **Định luật II Newton:** $\Sigma\vec{F} = m\vec{a}$,. Khi giải bài tập, phương trình này thường được phân tích theo các trục tọa độ: $\Sigma F_x = ma_x$ và $\Sigma F_y = ma_y$,.
+- **Định luật II Newton:** $\Sigma\vec{F} = m\vec{a}$,. Khi giải bài tập, phương trình này thường được phân tích theo các trục tọa độ: $\Sigma F_x = ma_x$ và $\Sigma F_y = ma_y$.
 - **Định luật III Newton:** $\vec{F}_{A \text{ lên } B} = -\vec{F}_{B \text{ lên } A}$ (lực tác dụng và phản lực luôn cùng độ lớn nhưng ngược chiều).
-- **Trọng lượng:** $w = mg$,.
+- **Trọng lượng:** $w = mg$.
 
-**2. Lực ma sát**
+## **2. Lực ma sát**
 
 - **Lực ma sát động:** $f_k = \mu_k n$ (trong đó $n$ là phản lực pháp tuyến).
 - **Lực ma sát nghỉ:** $f_s \le \mu_s n$ (lực ma sát nghỉ lớn nhất bằng $\mu_s n$).
 
-**3. Động lực học chuyển động tròn**
+## **3. Động lực học chuyển động tròn**
 
 - **Gia tốc hướng tâm:** $a_{rad} = \frac{v^2}{R} = \frac{4\pi^2R}{T^2}$,.
 - **Lực hướng tâm:** Lực tổng hợp hướng vào tâm quỹ đạo $\Sigma F_{rad} = m\frac{v^2}{R}$.
 
 # Tuần 3
 
-**1. Công và Động năng**
+## **1. Công và Động năng**
 
 - **Công của lực thay đổi:** $W = \int_{x_1}^{x_2} F_x dx$.
 - **Động năng:** $K = \frac{1}{2}mv^2$.
 - **Định lý Công - Động năng:** $W_{tot} = K_2 - K_1$ (tổng công bằng độ biến thiên động năng).
 - **Công suất tức thời:** $P = \vec{F} \cdot \vec{v}$.
 
-**2. Thế năng và Bảo toàn năng lượng**
+## **2. Thế năng và Bảo toàn năng lượng**
 
 - **Thế năng trọng trường:** $U = mgy$.
 - **Thế năng đàn hồi (lò xo):** $U_{el} = \frac{1}{2}kx^2$.
 - **Bảo toàn năng lượng tổng quát:** $K_1 + U_1 + W_{khac} = K_2 + U_2$ (với $W_{khac}$ là công của các lực không bảo toàn như lực ma sát).
 
-**3. Động lượng và Xung lực**
+## **3. Động lượng và Xung lực**
 
 - **Động lượng:** $\vec{p} = m\vec{v}$.
 - **Định lý Xung lực - Động lượng:** $\vec{J} = \int \vec{F} dt = \vec{p}_2 - \vec{p}_1$,.
@@ -73,19 +73,18 @@
 - Động năng quay: $K = \frac{1}{2}I\omega^2$.
 - Định lý trục song song: $I_P = I_{cm} + Md^2$ (giúp tính mômen quán tính qua một trục bất kỳ song song với trục đi qua khối tâm).
 
-Bạn có muốn xem một ví dụ về cách áp dụng định lý trục song song, hay muốn thử tính mômen quán tính của một hình dạng cụ thể nào đó không?
-Tuần 6 tiếp tục mở rộng các khái niệm chuyển động quay sang phần Động lực học. Dưới đây là các công thức quan trọng nhất bạn cần nắm vững:
+# Tuần 6
 
-**1. Mômen lực (Torque):**
+## **1. Mômen lực (Torque):**
 
 - **Dạng véctơ:** $\vec{\tau} = \vec{r} \times \vec{F}$.
 - **Độ lớn:** $\tau = rF\sin\phi = Fl$, trong đó $l$ là cánh tay đòn (khoảng cách vuông góc từ trục quay đến giá của lực).
 
-**2. Định luật II Newton cho chuyển động quay:**
+## **2. Định luật II Newton cho chuyển động quay:**
 
 - $\Sigma\tau_z = I\alpha_z$ (tổng mômen lực tác dụng lên vật bằng tích của mômen quán tính và gia tốc góc).
 
-**3. Động năng của vật rắn (vừa tịnh tiến vừa quay):**
+## **3. Động năng của vật rắn (vừa tịnh tiến vừa quay):**
 
 - $K = \frac{1}{2}Mv_{cm}^2 + \frac{1}{2}I_{cm}\omega^2$ (động năng toàn phần bằng tổng của động năng tịnh tiến khối tâm và động năng quay quanh trục đi qua khối tâm).
 
