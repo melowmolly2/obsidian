@@ -53,3 +53,24 @@
 - **Bảo toàn động lượng:** Khi tổng ngoại lực tác dụng lên hệ bằng 0, tổng động lượng của hệ không đổi ($\vec{P}_A + \vec{P}_B = \text{const}$).
 - **Vị trí khối tâm:** $\vec{r}_{cm} = \frac{\sum m_i \vec{r}_i}{\sum m_i}$.
 
+# Tuần 5
+
+## 1. Chuyển động quay với gia tốc góc không đổi (Rất giống với các công thức chuyển động thẳng):
+
+- Vận tốc góc: $\omega_z = \omega_{0z} + \alpha_z t$
+- Vị trí góc: $\theta = \theta_0 + \omega_{0z}t + \frac{1}{2}\alpha_z t^2$
+- Hệ thức độc lập thời gian: $\omega_z^2 = \omega_{0z}^2 + 2\alpha_z(\theta - \theta_0)$
+
+## 2. Liên hệ giữa đại lượng chuyển động tịnh tiến và quay:
+
+- Vận tốc tiếp tuyến: $v = r\omega$
+- Gia tốc tiếp tuyến (làm thay đổi tốc độ): $a_{tan} = r\alpha$
+- Gia tốc hướng tâm (làm thay đổi hướng): $a_{rad} = \omega^2 r$
+
+## 3. Mômen quán tính và Động năng quay:
+
+- Mômen quán tính: $I = \sum m_i r_i^2$ (với hệ chất điểm) hoặc $I = \int r^2 dm$ (với vật thể liên tục).
+- Động năng quay: $K = \frac{1}{2}I\omega^2$.
+- Định lý trục song song: $I_P = I_{cm} + Md^2$ (giúp tính mômen quán tính qua một trục bất kỳ song song với trục đi qua khối tâm).
+
+Bạn có muốn xem một ví dụ về cách áp dụng định lý trục song song, hay muốn thử tính mômen quán tính của một hình dạng cụ thể nào đó không?
