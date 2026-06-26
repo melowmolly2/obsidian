@@ -31,6 +31,25 @@
 - **Gia tốc hướng tâm:** $a_{rad} = \frac{v^2}{R} = \frac{4\pi^2R}{T^2}$,.
 - **Lực hướng tâm:** Lực tổng hợp hướng vào tâm quỹ đạo $\Sigma F_{rad} = m\frac{v^2}{R}$.
 
-Để áp dụng các công thức này thành công, bước quan trọng nhất là phải biết cách vẽ **giản đồ lực (free-body diagram)** cho vật,.
+# Tuần 3
 
-Bạn có muốn chúng ta ôn lại cách vẽ giản đồ lực cho một trường hợp cụ thể (ví dụ: vật trượt trên mặt phẳng nghiêng), hay bạn muốn xem luôn một bài tập vận dụng định luật II Newton?
+**1. Công và Động năng**
+
+- **Công của lực thay đổi:** $W = \int_{x_1}^{x_2} F_x dx$.
+- **Động năng:** $K = \frac{1}{2}mv^2$.
+- **Định lý Công - Động năng:** $W_{tot} = K_2 - K_1$ (tổng công bằng độ biến thiên động năng).
+- **Công suất tức thời:** $P = \vec{F} \cdot \vec{v}$.
+
+**2. Thế năng và Bảo toàn năng lượng**
+
+- **Thế năng trọng trường:** $U = mgy$.
+- **Thế năng đàn hồi (lò xo):** $U_{el} = \frac{1}{2}kx^2$.
+- **Bảo toàn năng lượng tổng quát:** $K_1 + U_1 + W_{khac} = K_2 + U_2$ (với $W_{khac}$ là công của các lực không bảo toàn như lực ma sát).
+
+**3. Động lượng và Xung lực**
+
+- **Động lượng:** $\vec{p} = m\vec{v}$.
+- **Định lý Xung lực - Động lượng:** $\vec{J} = \int \vec{F} dt = \vec{p}_2 - \vec{p}_1$,.
+- **Bảo toàn động lượng:** Khi tổng ngoại lực tác dụng lên hệ bằng 0, tổng động lượng của hệ không đổi ($\vec{P}_A + \vec{P}_B = \text{const}$).
+- **Vị trí khối tâm:** $\vec{r}_{cm} = \frac{\sum m_i \vec{r}_i}{\sum m_i}$.
+
