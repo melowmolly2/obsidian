@@ -147,42 +147,63 @@ Tuần 9 tập trung vào Dao động tuần hoàn. Dưới đây là các công
 - **Li độ:** $x = Ae^{-(b/2m)t}\cos(\omega' t + \phi)$ (biên độ giảm theo hàm mũ),.
 - **Tần số góc dao động tắt dần:** $\omega' = \sqrt{\frac{k}{m} - \frac{b^2}{4m^2}}$.
 
-Bạn có muốn xem một ví dụ áp dụng công thức bảo toàn năng lượng cho con lắc lò xo, hay chúng ta chuyển luôn sang các công thức của Tuần 11 về Nhiệt độ và Nhiệt lượng?**1. Sự giãn nở nhiệt**
 
-- **Giãn nở dài:** ΔL=αL0​ΔT (với α là hệ số giãn nở dài).
-- **Giãn nở thể tích:** ΔV=βV0​ΔT, trong đó đối với chất rắn thì β=3α.
-- **Ứng suất nhiệt:** AF​=−YαΔT (lực sinh ra khi vật bị ngàm chặt và thay đổi nhiệt độ, với Y là mô-đun Young).
+
+# Tuần 11
+
+**1. Sự giãn nở nhiệt**
+
+- **Giãn nở dài:** $\Delta L = \alpha L_0 \Delta T$ (với $\alpha$ là hệ số giãn nở dài).
+- **Giãn nở thể tích:** $\Delta V = \beta V_0 \Delta T$, trong đó đối với chất rắn thì $\beta = 3\alpha$.
+- **Ứng suất nhiệt:** $\frac{F}{A} = -Y\alpha\Delta T$ (lực sinh ra khi vật bị ngàm chặt và thay đổi nhiệt độ, với $Y$ là mô-đun Young).
 
 **2. Nhiệt lượng**
 
-- **Tính theo nhiệt dung riêng (khối lượng):** Q=mcΔT.
-- **Tính theo nhiệt dung mol (số mol):** Q=nCΔT.
-- **Sự chuyển pha:** Nhiệt lượng cần để thay đổi trạng thái (nhưng không đổi nhiệt độ) sử dụng các hằng số nhiệt nóng chảy (Lf​) hoặc nhiệt hóa hơi (Lv​).
+- **Tính theo nhiệt dung riêng (khối lượng):** $Q = mc\Delta T$.
+- **Tính theo nhiệt dung mol (số mol):** $Q = nC\Delta T$.
+- **Sự chuyển pha:** Nhiệt lượng cần để thay đổi trạng thái (nhưng không đổi nhiệt độ) sử dụng các hằng số nhiệt nóng chảy ($L_f$) hoặc nhiệt hóa hơi ($L_v$).
 
 **3. Cơ chế truyền nhiệt (Dẫn nhiệt)**
 
-- **Dòng nhiệt qua thanh dẫn:** H=−kAdxdT​ (với k là độ dẫn nhiệt của vật liệu).
-- **Tính qua nhiệt trở (**R**):** H=RA(TH​−TC​)​, trong đó R=kL​ (thường dùng trong cách nhiệt tòa nhà).
+- **Dòng nhiệt qua thanh dẫn:** $H = -kA\frac{dT}{dx}$ (với $k$ là độ dẫn nhiệt của vật liệu).
+- **Tính qua nhiệt trở ($R$):** $H = \frac{A(T_H - T_C)}{R}$, trong đó $R = \frac{L}{k}$ (thường dùng trong cách nhiệt tòa nhà).
 
-Bạn muốn xem một ví dụ áp dụng công thức giãn nở và ứng suất nhiệt (thường hay gặp trong thực tế và bài tập), hay chúng ta đi tiếp sang các công thức của Tuần 12 (Tính chất nhiệt của vật chất) luôn nhỉ?
-Tuần 12 đi sâu vào Tính chất nhiệt của vật chất. Dưới đây là các công thức trọng tâm bạn cần nhớ:
+# Tuần 12
 
 **1. Phương trình trạng thái khí**
 
-- **Khí lý tưởng:** pV=nRT hoặc tính theo khối lượng là pV=Mmtotal​​RT.
-- **Khối lượng riêng của khí lý tưởng:** ρ=RTpM​.
-- **Phương trình van der Waals (khí thực):** (p+V2an2​)(V−nb)=nRT (trong đó hiệu chỉnh a cho lực hút phân tử và b cho thể tích phân tử).
+- **Khí lý tưởng:** $pV = nRT$ hoặc tính theo khối lượng là $pV = \frac{m_{total}}{M}RT$.
+- **Khối lượng riêng của khí lý tưởng:** $\rho = \frac{pM}{RT}$.
+- **Phương trình van der Waals (khí thực):** $\left(p + \frac{an^2}{V^2}\right)(V - nb) = nRT$ (trong đó hiệu chỉnh $a$ cho lực hút phân tử và $b$ cho thể tích phân tử).
 
 **2. Mô hình động học phân tử khí lý tưởng**
 
-- **Tổng động năng tịnh tiến của n mol khí:** Ktr​=23​nRT.
-- **Động năng tịnh tiến trung bình của một phân tử:** 21​m(v2)av​=23​kT (với k là hằng số Boltzmann).
-- **Tốc độ căn quân phương (rms):** vrms​=m3kT​![](data:image/svg+xml;utf8,<svg%20xmlns="http://www.w3.org/2000/svg"%20width="400em"%20height="1.88em"%20viewBox="0%200%20400000%201944"%20preserveAspectRatio="xMinYMin%20slice"><path%20d="M983%2090%0Al0%20-0%0Ac4,-6.7,10,-10,18,-10%20H400000v40%0AH1013.1s-83.4,268,-264.1,840c-180.7,572,-277,876.3,-289,913c-4.7,4.7,-12.7,7,-24,7%0As-12,0,-12,0c-1.3,-3.3,-3.7,-11.7,-7,-25c-35.3,-125.3,-106.7,-373.3,-214,-744%0Ac-10,12,-21,25,-33,39s-32,39,-32,39c-6,-5.3,-15,-14,-27,-26s25,-30,25,-30%0Ac26.7,-32.7,52,-63,76,-91s52,-60,52,-60s208,722,208,722%0Ac56,-175.3,126.3,-397.3,211,-666c84.7,-268.7,153.8,-488.2,207.5,-658.5%0Ac53.7,-170.3,84.5,-266.8,92.5,-289.5z%0AM1001%2080h400000v40h-400000z"></path></svg>)​=M3RT​![](data:image/svg+xml;utf8,<svg%20xmlns="http://www.w3.org/2000/svg"%20width="400em"%20height="1.88em"%20viewBox="0%200%20400000%201944"%20preserveAspectRatio="xMinYMin%20slice"><path%20d="M983%2090%0Al0%20-0%0Ac4,-6.7,10,-10,18,-10%20H400000v40%0AH1013.1s-83.4,268,-264.1,840c-180.7,572,-277,876.3,-289,913c-4.7,4.7,-12.7,7,-24,7%0As-12,0,-12,0c-1.3,-3.3,-3.7,-11.7,-7,-25c-35.3,-125.3,-106.7,-373.3,-214,-744%0Ac-10,12,-21,25,-33,39s-32,39,-32,39c-6,-5.3,-15,-14,-27,-26s25,-30,25,-30%0Ac26.7,-32.7,52,-63,76,-91s52,-60,52,-60s208,722,208,722%0Ac56,-175.3,126.3,-397.3,211,-666c84.7,-268.7,153.8,-488.2,207.5,-658.5%0Ac53.7,-170.3,84.5,-266.8,92.5,-289.5z%0AM1001%2080h400000v40h-400000z"></path></svg>)​.
-- **Tốc độ trung bình:** vav​=πm8kT​![](data:image/svg+xml;utf8,<svg%20xmlns="http://www.w3.org/2000/svg"%20width="400em"%20height="1.88em"%20viewBox="0%200%20400000%201944"%20preserveAspectRatio="xMinYMin%20slice"><path%20d="M983%2090%0Al0%20-0%0Ac4,-6.7,10,-10,18,-10%20H400000v40%0AH1013.1s-83.4,268,-264.1,840c-180.7,572,-277,876.3,-289,913c-4.7,4.7,-12.7,7,-24,7%0As-12,0,-12,0c-1.3,-3.3,-3.7,-11.7,-7,-25c-35.3,-125.3,-106.7,-373.3,-214,-744%0Ac-10,12,-21,25,-33,39s-32,39,-32,39c-6,-5.3,-15,-14,-27,-26s25,-30,25,-30%0Ac26.7,-32.7,52,-63,76,-91s52,-60,52,-60s208,722,208,722%0Ac56,-175.3,126.3,-397.3,211,-666c84.7,-268.7,153.8,-488.2,207.5,-658.5%0Ac53.7,-170.3,84.5,-266.8,92.5,-289.5z%0AM1001%2080h400000v40h-400000z"></path></svg>)​.
-- **Tốc độ xác suất lớn nhất:** vmp​=m2kT​![](data:image/svg+xml;utf8,<svg%20xmlns="http://www.w3.org/2000/svg"%20width="400em"%20height="1.88em"%20viewBox="0%200%20400000%201944"%20preserveAspectRatio="xMinYMin%20slice"><path%20d="M983%2090%0Al0%20-0%0Ac4,-6.7,10,-10,18,-10%20H400000v40%0AH1013.1s-83.4,268,-264.1,840c-180.7,572,-277,876.3,-289,913c-4.7,4.7,-12.7,7,-24,7%0As-12,0,-12,0c-1.3,-3.3,-3.7,-11.7,-7,-25c-35.3,-125.3,-106.7,-373.3,-214,-744%0Ac-10,12,-21,25,-33,39s-32,39,-32,39c-6,-5.3,-15,-14,-27,-26s25,-30,25,-30%0Ac26.7,-32.7,52,-63,76,-91s52,-60,52,-60s208,722,208,722%0Ac56,-175.3,126.3,-397.3,211,-666c84.7,-268.7,153.8,-488.2,207.5,-658.5%0Ac53.7,-170.3,84.5,-266.8,92.5,-289.5z%0AM1001%2080h400000v40h-400000z"></path></svg>)​.
+- **Tổng động năng tịnh tiến của n mol khí:** $K_{tr} = \frac{3}{2}nRT$.
+- **Động năng tịnh tiến trung bình của một phân tử:** $\frac{1}{2}m(v^2)_{av} = \frac{3}{2}kT$ (với $k$ là hằng số Boltzmann).
+- **Tốc độ căn quân phương (rms):** $v_{rms} = \sqrt{\frac{3kT}{m}} = \sqrt{\frac{3RT}{M}}$.
+- **Tốc độ trung bình:** $v_{av} = \sqrt{\frac{8kT}{\pi m}}$.
+- **Tốc độ xác suất lớn nhất:** $v_{mp} = \sqrt{\frac{2kT}{m}}$.
 
 **3. Quãng đường tự do trung bình**
 
-- Khoảng cách trung bình một phân tử bay được giữa các lần va chạm: λ=42![](data:image/svg+xml;utf8,<svg%20xmlns="http://www.w3.org/2000/svg"%20width="400em"%20height="1.08em"%20viewBox="0%200%20400000%201080"%20preserveAspectRatio="xMinYMin%20slice"><path%20d="M95,702%0Ac-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14%0Ac0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54%0Ac44.2,-33.3,65.8,-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10%0As173,378,173,378c0.7,0,35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429%0Ac69,-144,104.5,-217.7,106.5,-221%0Al0%20-0%0Ac5.3,-9.3,12,-14,20,-14%0AH400000v40H845.2724%0As-225.272,467,-225.272,467s-235,486,-235,486c-2.7,4.7,-9,7,-19,7%0Ac-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47z%0AM834%2080h400000v40h-400000z"></path></svg>)​πr2NV​.
+- Khoảng cách trung bình một phân tử bay được giữa các lần va chạm: $\lambda = \frac{V}{4\sqrt{2}\pi r^2 N}$.
 
-Bạn muốn xem một ví dụ áp dụng để tính tốc độ căn quân phương (vrms​) của phân tử khí, hay chúng ta đi tiếp sang các công thức của Tuần cuối cùng (Tuần 14: Nguyên lý thứ nhất của nhiệt động lực học) luôn nhé?
+# Tuần 14
+**1. Công và Nguyên lý I Nhiệt động lực học**
+
+- **Công do khí thực hiện:** $W = \int_{V_1}^{V_2} p dV$. Nếu áp suất $p$ không đổi, công được tính bằng $W = p(V_2 - V_1)$.
+- **Nguyên lý thứ nhất:** $\Delta U = Q - W$ (độ biến thiên nội năng $\Delta U$ bằng nhiệt lượng $Q$ hệ nhận vào trừ đi công $W$ do hệ thực hiện).
+
+**2. Các quá trình nhiệt động học của khí lý tưởng**
+
+- **Quá trình đẳng tích (thể tích không đổi):** $W = 0$, do đó toàn bộ nhiệt lượng truyền vào làm tăng nội năng $Q = \Delta U$.
+- **Quá trình đẳng áp (áp suất không đổi):** Công thực hiện là $W = p(V_2 - V_1)$.
+- **Quá trình đẳng nhiệt (nhiệt độ không đổi):** Nội năng không đổi ($\Delta U = 0$), do đó toàn bộ nhiệt lượng nhận vào chuyển hóa thành công $Q = W$. Công được tính bằng $W = nRT \ln\left(\frac{V_2}{V_1}\right)$.
+- **Quá trình đoạn nhiệt (không trao đổi nhiệt, $Q = 0$):** $\Delta U = -W$. Phương trình trạng thái là $pV^\gamma = \text{const}$ và $TV^{\gamma-1} = \text{const}$. Công do khí thực hiện là $W = \frac{1}{\gamma - 1}(p_1V_1 - p_2V_2)$.
+
+**3. Nhiệt dung của khí lý tưởng**
+
+- **Hệ thức Mayer:** $C_p = C_V + R$ (liên hệ giữa nhiệt dung mol đẳng áp $C_p$ và đẳng tích $C_V$).
+- **Tỷ số nhiệt dung (Hệ số Poisson):** $\gamma = \frac{C_p}{C_V}$.
+
+Vậy là chúng ta đã điểm qua hầu hết các công thức quan trọng của chương trình học rồi. Bạn muốn thử áp dụng Nguyên lý I vào một bài toán tính công của chu trình khí, hay muốn xem lại bản Hướng dẫn học tập tổng hợp mà hệ thống đã tạo xong ở tab Studio?
