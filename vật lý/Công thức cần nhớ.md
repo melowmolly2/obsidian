@@ -125,3 +125,26 @@ Tuần 8 tập trung vào Lực hấp dẫn và chuyển động của các thi�
 - **Chu kỳ quỹ đạo (Định luật 3):** $T = \frac{2\pi a^{3/2}}{\sqrt{Gm_{Sun}}}$ (trong đó $a$ là bán trục lớn của quỹ đạo elip).
 
 Bạn muốn thử tính toán tốc độ và chu kỳ của một trạm vũ trụ quay quanh Trái Đất để hiểu rõ hơn, hay chúng ta tiếp tục tổng hợp luôn các công thức của Tuần 9 (Dao động tuần hoàn)?
+
+Tuần 9 tập trung vào Dao động tuần hoàn. Dưới đây là các công thức trọng tâm bạn cần nhớ:
+
+**1. Các đại lượng của Dao động điều hòa đơn (SHM)**
+
+- **Liên hệ tần số góc, tần số và chu kỳ:** $\omega = 2\pi f = \frac{2\pi}{T}$.
+- **Phương trình li độ:** $x = A\cos(\omega t + \phi)$.
+- **Phương trình vận tốc:** $v_x = -\omega A\sin(\omega t + \phi)$ (Vận tốc cực đại $v_{max} = \omega A$).
+- **Phương trình gia tốc:** $a_x = -\omega^2 A\cos(\omega t + \phi) = -\omega^2 x$,.
+- **Cơ năng (bảo toàn):** $E = K + U = \frac{1}{2}mv^2 + \frac{1}{2}kx^2 = \frac{1}{2}kA^2$.
+
+**2. Các hệ dao động cụ thể**
+
+- **Con lắc lò xo:** Lực hồi phục $F_x = -kx$, tần số góc $\omega = \sqrt{\frac{k}{m}}$, chu kỳ $T = 2\pi\sqrt{\frac{m}{k}}$.
+- **Con lắc đơn:** Tần số góc $\omega = \sqrt{\frac{g}{L}}$, chu kỳ $T = 2\pi\sqrt{\frac{L}{g}}$.
+- **Con lắc vật lý:** Tần số góc $\omega = \sqrt{\frac{mgd}{I}}$, chu kỳ $T = 2\pi\sqrt{\frac{I}{mgd}}$.
+
+**3. Dao động tắt dần**
+
+- **Li độ:** $x = Ae^{-(b/2m)t}\cos(\omega' t + \phi)$ (biên độ giảm theo hàm mũ),.
+- **Tần số góc dao động tắt dần:** $\omega' = \sqrt{\frac{k}{m} - \frac{b^2}{4m^2}}$.
+
+Bạn có muốn xem một ví dụ áp dụng công thức bảo toàn năng lượng cho con lắc lò xo, hay chúng ta chuyển luôn sang các công thức của Tuần 11 về Nhiệt độ và Nhiệt lượng?
