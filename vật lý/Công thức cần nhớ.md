@@ -13,17 +13,24 @@
 ## Chuyển động tròn đều và Vận tốc tương đối
 - Gia tốc hướng tâm: $a_{rad}=\frac{v^2}R=\frac{4\pi^2R}{T^2}$
 - Phép biến đổi vận tốc Galile (vận tốc tương đối): $v_{P/A}=v_{P/B}+v_{B/A}$. 
-# Tuần 2:
-- Định luật II Newton: $\sum F=ma$. Khi giải bài tập, phương trình này thường được phân tích theo các trục tọa độ: $\sum F_x=ma_x$ và $\sum F_y=ma_y$ 
-- Định luật III Newton: $\sum F_{\text{ A lên B}}=-\sum F_{\text{B lên A}}
--  **Trọng lượng:** w=mg,.
+# Tuần 2
+
+**1. Các định luật của Newton và Trọng lượng**
+
+- **Định luật II Newton:** $\Sigma\vec{F} = m\vec{a}$,. Khi giải bài tập, phương trình này thường được phân tích theo các trục tọa độ: $\Sigma F_x = ma_x$ và $\Sigma F_y = ma_y$,.
+- **Định luật III Newton:** $\vec{F}_{A \text{ lên } B} = -\vec{F}_{B \text{ lên } A}$ (lực tác dụng và phản lực luôn cùng độ lớn nhưng ngược chiều).
+- **Trọng lượng:** $w = mg$,.
 
 **2. Lực ma sát**
 
-- **Lực ma sát động:** fk​=μk​n (trong đó n là phản lực pháp tuyến).
-- **Lực ma sát nghỉ:** fs​≤μs​n (lực ma sát nghỉ lớn nhất bằng μs​n).
+- **Lực ma sát động:** $f_k = \mu_k n$ (trong đó $n$ là phản lực pháp tuyến).
+- **Lực ma sát nghỉ:** $f_s \le \mu_s n$ (lực ma sát nghỉ lớn nhất bằng $\mu_s n$).
 
 **3. Động lực học chuyển động tròn**
 
-- **Gia tốc hướng tâm:** arad​=Rv2​=T24π2R​,.
-- **Lực hướng tâm:** Lực tổng hợp hướng vào tâm quỹ đạo ΣFrad​=mRv2​.
+- **Gia tốc hướng tâm:** $a_{rad} = \frac{v^2}{R} = \frac{4\pi^2R}{T^2}$,.
+- **Lực hướng tâm:** Lực tổng hợp hướng vào tâm quỹ đạo $\Sigma F_{rad} = m\frac{v^2}{R}$.
+
+Để áp dụng các công thức này thành công, bước quan trọng nhất là phải biết cách vẽ **giản đồ lực (free-body diagram)** cho vật,.
+
+Bạn có muốn chúng ta ôn lại cách vẽ giản đồ lực cho một trường hợp cụ thể (ví dụ: vật trượt trên mặt phẳng nghiêng), hay bạn muốn xem luôn một bài tập vận dụng định luật II Newton?
