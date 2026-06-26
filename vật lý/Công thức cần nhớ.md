@@ -74,3 +74,54 @@
 - Định lý trục song song: $I_P = I_{cm} + Md^2$ (giúp tính mômen quán tính qua một trục bất kỳ song song với trục đi qua khối tâm).
 
 Bạn có muốn xem một ví dụ về cách áp dụng định lý trục song song, hay muốn thử tính mômen quán tính của một hình dạng cụ thể nào đó không?
+Tuần 6 tiếp tục mở rộng các khái niệm chuyển động quay sang phần Động lực học. Dưới đây là các công thức quan trọng nhất bạn cần nắm vững:
+
+**1. Mômen lực (Torque):**
+
+- **Dạng véctơ:** $\vec{\tau} = \vec{r} \times \vec{F}$.
+- **Độ lớn:** $\tau = rF\sin\phi = Fl$, trong đó $l$ là cánh tay đòn (khoảng cách vuông góc từ trục quay đến giá của lực).
+
+**2. Định luật II Newton cho chuyển động quay:**
+
+- $\Sigma\tau_z = I\alpha_z$ (tổng mômen lực tác dụng lên vật bằng tích của mômen quán tính và gia tốc góc).
+
+**3. Động năng của vật rắn (vừa tịnh tiến vừa quay):**
+
+- $K = \frac{1}{2}Mv_{cm}^2 + \frac{1}{2}I_{cm}\omega^2$ (động năng toàn phần bằng tổng của động năng tịnh tiến khối tâm và động năng quay quanh trục đi qua khối tâm).
+
+**4. Công và Công suất trong chuyển động quay:**
+
+- **Công của mômen lực (khi không đổi):** $W = \tau_z \Delta\theta$.
+- **Định lý Công - Động năng quay:** $W_{tot} = \frac{1}{2}I\omega_2^2 - \frac{1}{2}I\omega_1^2$.
+- **Công suất:** $P = \tau_z\omega_z$.
+
+**5. Mômen động lượng và Định luật bảo toàn:**
+
+- **Mômen động lượng của vật rắn:** $L_z = I\omega_z$.
+- **Mối liên hệ với mômen lực:** $\Sigma\vec{\tau} = \frac{d\vec{L}}{dt}$ (tổng mômen ngoại lực bằng tốc độ thay đổi mômen động lượng).
+- **Định luật bảo toàn:** Khi tổng mômen ngoại lực bằng 0 ($\Sigma\vec{\tau} = 0$), mômen động lượng của hệ được bảo toàn: $\vec{L} = \text{const}$, tức là $I_1\omega_1 = I_2\omega_2$.
+
+Bí quyết để dễ nhớ phần này là đối chiếu nó với chuyển động thẳng (ví dụ: lực $\vec{F}$ tương ứng với mômen lực $\vec{\tau}$, khối lượng $m$ tương ứng với $I$, và động lượng $\vec{p}$ tương ứng với $\vec{L}$).
+
+Bạn có muốn xem thử một ví dụ thực tế về bảo toàn mômen động lượng, chẳng hạn như tại sao các vũ công ba lê lại xoay nhanh hơn hẳn khi họ thu gọn tay vào sát người không?
+
+Tuần 8 tập trung vào Lực hấp dẫn và chuyển động của các thiên thể. Dưới đây là các công thức cốt lõi bạn cần nắm:
+
+**1. Lực hấp dẫn và Thế năng**
+
+- **Định luật vạn vật hấp dẫn của Newton:** $F_g = \frac{Gm_1m_2}{r^2}$.
+- **Gia tốc trọng trường:** $g = \frac{GM_E}{R_E^2}$.
+- **Thế năng hấp dẫn:** $U = -\frac{GM_Em}{r}$ (với $r$ là khoảng cách tính từ tâm, mốc thế năng ở vô cực).
+
+**2. Chuyển động của vệ tinh (Quỹ đạo tròn)**
+
+- **Tốc độ vệ tinh:** $v = \sqrt{\frac{GM_E}{r}}$.
+- **Chu kỳ quỹ đạo:** $T = \frac{2\pi r^{3/2}}{\sqrt{GM_E}}$.
+- **Năng lượng cơ học toàn phần:** $E = K + U = -\frac{GM_Em}{2r}$.
+
+**3. Các định luật Kepler cho hành tinh**
+
+- **Vận tốc diện tích (Định luật 2):** $\frac{dA}{dt} = \frac{1}{2}rv\sin\phi = \text{const}$ (đây là hệ quả của việc bảo toàn mômen động lượng).
+- **Chu kỳ quỹ đạo (Định luật 3):** $T = \frac{2\pi a^{3/2}}{\sqrt{Gm_{Sun}}}$ (trong đó $a$ là bán trục lớn của quỹ đạo elip).
+
+Bạn muốn thử tính toán tốc độ và chu kỳ của một trạm vũ trụ quay quanh Trái Đất để hiểu rõ hơn, hay chúng ta tiếp tục tổng hợp luôn các công thức của Tuần 9 (Dao động tuần hoàn)?
