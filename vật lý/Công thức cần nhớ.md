@@ -10,3 +10,6 @@
 - Tọa độ tại thời điểm $t$: $x=(v_0 \cos \alpha_0)t$ và $y=(v_0\sin\alpha_0)t-\frac12gt^2$
 - Vận tốc tại thời điểm $t$: $v_x=v_0\cos\alpha_0$ và $v_y=v_0\sin\alpha_0-gt$ 
 - Phương trình quỹ đạo: $y=(\tan\alpha_0)x-\frac g{2v_0^2\cos^2\alpha_0}x^2$. 
+## Chuyển động tròn đều và Vận tốc tương đối
+- Gia tốc hướng tâm: $a_{rad}=\frac{v^2}R=\frac{4\pi^2R}{T^2}$
+- Phép biến đổi vận tốc Galile (vận tốc tương đối): $v_{P/A}=v_{P/B}+v_{B/A}$. 
