@@ -23,3 +23,35 @@
 - **Kết quả:** Độ lớn vận tốc gió là $v_g = \sqrt{(-20)^2 + (-40)^2} \approx 44,7$ km/h, thổi theo hướng Tây Nam.
 
 Bạn có muốn xem lại bước tính toán của bài nào không, hay chúng ta tiếp tục với phần vẽ giản đồ lực của bài tập Tuần 2 nhé?
+
+Dưới đây là lời giải chi tiết cho 4 bài tập tiêu biểu của Tuần 2:
+
+**Bài 1: Gia tốc của electron (Bài 4.6)**
+
+- **Dữ kiện:** $s = 1,80 \text{ cm} = 0,018 \text{ m}$; vận tốc ban đầu $v_0 = 0$; vận tốc cuối $v = 3,00 \times 10^6 \text{ m/s}$; khối lượng $m = 9,11 \times 10^{-31} \text{ kg}$.
+- **Tính gia tốc ($a$):** Sử dụng hệ thức độc lập thời gian $v^2 = v_0^2 + 2as \Rightarrow a = \frac{v^2}{2s} = \frac{(3 \times 10^6)^2}{2 \times 0,018} = 2,50 \times 10^{14} \text{ m/s}^2$.
+- **Tính thời gian ($t$):** Dùng công thức $v = v_0 + at \Rightarrow t = \frac{v}{a} = \frac{3 \times 10^6}{2,50 \times 10^{14}} = 1,20 \times 10^{-8} \text{ s}$.
+- **Tính lực ($F$):** Áp dụng định luật II Newton $F = ma = 9,11 \times 10^{-31} \times 2,50 \times 10^{14} = 2,28 \times 10^{-16} \text{ N}$.
+
+**Bài 2: Người trượt băng (Bài 4.7)**
+
+- **Dữ kiện:** Khối lượng $m = 68,5 \text{ kg}$, vận tốc đầu $v_0 = 2,40 \text{ m/s}$, vận tốc cuối $v = 0$ (dừng lại), thời gian $t = 3,52 \text{ s}$.
+- **Tính gia tốc:** $a = \frac{v - v_0}{t} = \frac{0 - 2,40}{3,52} \approx -0,682 \text{ m/s}^2$.
+- **Tính lực ma sát:** Lực duy nhất theo phương ngang là lực ma sát động $f_k$. Áp dụng $\Sigma F_x = ma \Rightarrow f_k = 68,5 \times (-0,682) \approx -46,7 \text{ N}$. Vậy ma sát tác dụng một lực có độ lớn $46,7 \text{ N}$ ngược chiều chuyển động.
+
+**Bài 3: Lực trong thang máy (Bài 4.22)**
+
+- **Dữ kiện:** Trọng lượng $w = 650 \text{ N} \Rightarrow$ khối lượng $m = \frac{w}{g} = \frac{650}{9,8} \approx 66,3 \text{ kg}$. Lực pháp tuyến do sàn đẩy lên là $n = 620 \text{ N}$.
+- **Xác định gia tốc:** Chọn chiều dương hướng lên. Áp dụng định luật II Newton: $\Sigma F_y = n - w = ma_y \Rightarrow 620 - 650 = 66,3 \times a_y \Rightarrow a_y \approx -0,45 \text{ m/s}^2$.
+- **Kết luận:** Vì gia tốc âm, hành khách đang có gia tốc $0,45 \text{ m/s}^2$ hướng xuống. Điều này nghĩa là thang máy đang tăng tốc đi xuống, hoặc đang chuyển động lên nhưng phanh chậm dần.
+
+**Bài 4: Hệ vật trên mặt phẳng nghiêng (Bài 5.90)**
+
+- **Dữ kiện:** Vật $m_1 = 100 \text{ kg}$ (góc $\alpha = 30^\circ$), vật $m_2 = 50 \text{ kg}$ (góc $\beta = 53,1^\circ$).
+- **Xác định hướng:** Thành phần trọng lực kéo trượt vật 1 là $P_1 = m_1g\sin(30^\circ) = 100 \times 9,8 \times 0,5 = 490 \text{ N}$. Đối với vật 2 là $P_2 = m_2g\sin(53,1^\circ) = 50 \times 9,8 \times 0,8 = 392 \text{ N}$. Vì $P_1 > P_2$, hệ sẽ trượt về bên trái (vật 100 kg đi xuống, vật 50 kg bị kéo lên).
+- **Tính gia tốc và lực căng ($T$):** Lập hệ phương trình cho 2 vật:
+    - Vật 1 (đi xuống): $490 - T = 100a$
+    - Vật 2 (đi lên): $T - 392 = 50a$
+- Cộng hai phương trình ta được $98 = 150a \Rightarrow a \approx 0,653 \text{ m/s}^2$. Thay $a$ vào phương trình 2 ta tính được lực căng $T = 50 \times 0,653 + 392 \approx 425 \text{ N}$.
+
+Bạn đã nắm rõ các bước giải của tuần 2 chưa, hay muốn chúng ta chuyển sang luyện tập một số bài tiêu biểu của Tuần 3 (Công và Năng lượng)?
