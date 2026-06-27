@@ -135,3 +135,20 @@ Bí quyết để dễ nhớ phần này là đối chiếu nó với chuyển �
 - **Hệ thức Mayer:** $C_p = C_V + R$ (liên hệ giữa nhiệt dung mol đẳng áp $C_p$ và đẳng tích $C_V$).
 - **Tỷ số nhiệt dung (Hệ số Poisson):** $\gamma = \frac{C_p}{C_V}$.
 
+Yes, Portugal is **virtually guaranteed** to finish in the top 2. The media and tournament analysts are widely reporting them as locked into the Round of 32 along with Colombia.
+
+To understand just how secure they are, it helps to look at the exact math behind the Group K standings:
+
+### The Mathematical Reality
+
+* **The Goal Difference Cushion:** Because Portugal obliterated Uzbekistan **5-0**, they sit on a massive **$+5$ goal difference**.
+* **Congo's Deficit:** Having drawn 1-1 with Portugal and lost 1-0 to Colombia, Congo sits at a **$-1$ goal difference**.
+
+### The Only Way Portugal Drops to 3rd
+
+For Congo to leapfrog Portugal into 2nd place, there has to be a **6-goal swing** on the final matchday. For example:
+
+* If Portugal loses **1-0** to Colombia, their goal difference drops to $+4$.
+* For Congo to beat that $+4$ goal difference, they would need to defeat Uzbekistan by **at least 6 goals** (e.g., 6-0) to reach a $+5$ goal difference.
+
+If Portugal loses by more goals, Congo's target gets slightly smaller, but it still requires a historic, highly unlikely lopsided blowout by Congo combined with a heavy Portuguese collapse. Unless that specific miracle happens, Portugal finishes top 2 and advances.
