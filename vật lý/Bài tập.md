@@ -63,13 +63,28 @@ TikZJax trong Obsidian không render được vì nó không hỗ trợ các l�
 Để Obsidian hiểu được, bạn cần xóa các dòng cấu trúc đó đi và đặt mã vào trong một code block có tên là `tikz`.
 
 Bạn hãy copy lại nguyên đoạn này dán vào Obsidian nhé (đây là gộp chung cả 4 hình):
-
 ```tikz
 \begin{tikzpicture}[>=stealth]
-  \node[above] at (0, 1) {Bài 1: Electron};
+  \node[above] at (0, 1) {Bai 1: Electron};
+  \filldraw (0,0) circle (2pt) node[below] {e$^{-}$};
+  \draw[->, thick, blue] (0,0) -- (2.5,0) node[right] {$\vec{F}$};
+  \draw[->, thick, green] (0,0.5) -- (1.5,0.5) node[above] {$\vec{a}$};
+\end{tikzpicture}
+```
+```tikz
+\begin{tikzpicture}[>=stealth]
+  \node[above] at (0, 1) {Bai 1: Electron};
   \filldraw (0,0) circle (2pt) node[below] {e$^{-}$};
   \draw[->, thick, blue] (0,0) -- (2.5,0) node[right] {$\vec{F}$};
   \draw[->, thick, green] (0,0.5) -- (1.5,0.5) node[above] {$\vec{a}$};
 \end{tikzpicture}
 ```
 Bạn dán thử xem hình đã hiển thị chuẩn chưa nhé. Nếu mọi thứ đã ổn, bạn có muốn chúng ta đi tiếp sang các bài tập thực hành của Tuần 3 (Công và Năng lượng) không?
+```tikz
+\begin{tikzpicture}[>=stealth]
+  \node[above] at (0, 1) {Part 1: Electron};
+  \filldraw (0,0) circle (2pt) node[below] {e-};
+  \draw[->, thick, blue] (0,0) -- (2.5,0) node[right] {F};
+  \draw[->, thick, green] (0,0.5) -- (1.5,0.5) node[above] {a};
+\end{tikzpicture}
+```
