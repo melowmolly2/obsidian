@@ -59,11 +59,3 @@ Dưới đây là lời giải chi tiết cho 4 bài tập tiêu biểu của Tu
 - Cộng hai phương trình ta được $98 = 150a \Rightarrow a \approx 0,653 \text{ m/s}^2$. Thay $a$ vào phương trình 2 ta tính được lực căng $T = 50 \times 0,653 + 392 \approx 425 \text{ N}$.
 
 
-```tikz
-\begin{tikzpicture}[>=stealth]
-  \node[above] at (0, 1) {Part 1: Electron};
-  \filldraw (0,0) circle (2pt) node[below] {e-};
-  \draw[->, thick, blue] (0,0) -- (2.5,0) node[right] {F};
-  \draw[->, thick, green] (0,0.5) -- (1.5,0.5) node[above] {a};
-\end{tikzpicture}
-```
