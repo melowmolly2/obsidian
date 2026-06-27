@@ -59,3 +59,11 @@ Dưới đây là lời giải chi tiết cho 4 bài tập tiêu biểu của Tu
 - Cộng hai phương trình ta được $98 = 150a \Rightarrow a \approx 0,653 \text{ m/s}^2$. Thay $a$ vào phương trình 2 ta tính được lực căng $T = 50 \times 0,653 + 392 \approx 425 \text{ N}$.
 
 
+Dưới đây là một số dạng bài tập trọng tâm tiêu biểu của Tuần 3 về Công và Năng lượng:
+
+- **Dạng 1: Tính công bằng tích vô hướng.** Cho biểu thức véctơ của lực $\vec{F}$ và độ dịch chuyển $\vec{s}$ (ví dụ: $\vec{F} = 30\hat{i} - 40\hat{j}$ và $\vec{s} = -9,0\hat{i} - 3,0\hat{j}$), yêu cầu tính công do lực thực hiện.
+- **Dạng 2: Tính công của từng lực trên hệ vật.** Cho một hệ vật chuyển động trên mặt phẳng (có ma sát hoặc vắt qua ròng rọc). Yêu cầu tính công của lực căng dây, trọng lực, lực ma sát, lực pháp tuyến và tổng công thực hiện lên vật.
+- **Dạng 3: Áp dụng Định lý Công - Động năng.** Tính vận tốc của một vật (ví dụ: hòn đá ném thẳng đứng với vận tốc ban đầu cho trước) tại một độ cao cụ thể bằng cách sử dụng công của trọng lực và sự biến thiên động năng.
+- **Dạng 4: Bảo toàn cơ năng (có và không có ma sát).** Phân tích chuyển động của vật trên quỹ đạo phức tạp như vòng lượn siêu tốc, đoạn dốc, hoặc đệm tuyết để tìm giới hạn độ cao, vận tốc tại một điểm, hoặc xác định hệ số ma sát trượt.
+
+Bạn muốn xem hướng dẫn chi tiết cho bài toán vòng lượn siêu tốc (bảo toàn cơ năng), hay thử tự tính công bằng phép nhân véctơ (Dạng 1) trước nhé?
