@@ -1,34 +1,25 @@
-### 3.1
-Một phương tiện robot, đang khám phá bề mặt sao Hỏa. Tàu đổ bộ sao Hỏa đưng yên được chọn làm gốc tọa độ, và bề mặt sao Hỏa xung quanh nằm trên mặt phẳng $xy$. Robot, được biểu diễn như một điểm, có tọa độ $x$ vả $y$ thay đổi theo thời gian như sau: 
-$$\begin{aligned}
-x & = 2.0m - (0.25m/s^2)t^2 \\ 
-y & = (1.0m/s)t+(0.025m/s^3)t^3
-\end{aligned}
-$$
-(a) Tìm tọa độ của robot và khoảng cách từ robot đến tàu đổ bộ tại thời điểm $t=2.0s$. 
-(b) Tìm vector độ dời và vector vận tốc trung bình của robot trong khoảng thời gian từ $t=0.0s$ đến $t=2.0s$. 
-(c) Tìm biểu thức tổng quát cho vector vận tốc tức thời $\vec v$ của robot. Biểu diễn $\vec v$ tại $t=2.0s$ theo dạng thành phần và theo độ lớn cùng hướng. 
+# Tuần 1
 
-**Bài làm**: 
-(a)
-Tọa độ và khoảng cách của robot tại thời điểm $t=2.0s$: 
-- Tọa độ $x$: 
-$$ x(2.0)=2.0-0.25\cdot2.0^2=2.0-2.0=1.0m$$
-- Tọa độ $y$: $$y(2.0)=1.0\cdot 2.0 +0.025\cdot 2.0^3=2.0+0.2=2.2m$$
-Kết luận: Tại thời điểm $t=2.0s$, tọa độ của robot là $(1.0m; 2.2m)$.
-- Khoảng cách từ robot đến tàu đổ bộ (gốc tọa độ $O$): $$r=\sqrt{x^2+y^2}=\sqrt{1.0^2+2.2^2}=\sqrt{1.0+4.84}=\sqrt{5.84} \approx2.42m$$
-(b)
-- Xác định các vector vị trí: 
-	- Tại $t_1=0.0s: x_1=2.0m$ và $y+1=0.0m\Rightarrow r+1=2.0\hat i$ (m)
-	- Tại $t_2=2.0s:x_2=1.0m$ vả $y_2=2.2m\Rightarrow r_2 = 2.0\hat i + 2.2 \hat j$ (m)
-- Vector độ dời ($\Delta r$): 
-	$$\Delta r = r_2-r_1 = (1.0-2.0)\hat i +(2.2-0.0)\hat j = -1.0\hat i + 2.2 \hat j $$
+**Bài 1 (Phương trình chuyển động - Bài 2.6):** Phương trình vị trí của chiếc xe là $x(t) = 1,50t^2 - 0,0500t^3$. Vận tốc trung bình được tính bằng công thức $v_{av} = \frac{\Delta x}{\Delta t}$.
 
+- **Khoảng $t = 0$ đến $t = 2,00$ s:** $x(2) = 1,50(2^2) - 0,0500(2^3) = 5,6$ m. Vận tốc $v_{av} = \frac{5,6 - 0}{2} = 2,8$ m/s.
+- **Khoảng $t = 0$ đến $t = 4,00$ s:** $x(4) = 1,50(4^2) - 0,0500(4^3) = 20,8$ m. Vận tốc $v_{av} = \frac{20,8 - 0}{4} = 5,2$ m/s.
+- **Khoảng $t = 2,00$ đến $t = 4,00$ s:** Vận tốc $v_{av} = \frac{20,8 - 5,6}{4 - 2} = 7,6$ m/s.
 
-### 5.1
-Một động cơ ô tô có trọng lượng $w$ được treo bởi một sợi xích nối vào vòng 0, vòng này liên kết với hai sợi xích khác: một gắn vào trần và một gắn vào tường (Hình vẽ). Hãy tìm biểu thức cho lực căng trong mỗi sợi xích theo $w$. Trọng lượng của vòng và các sợi xích được coi là không đáng kể so với trọng lượng của động cơ. ![](../Assets/Pasted%20image%2020260620205411.png)
-![](../Assets/Pasted%20image%2020260620205451.png)
-![](../Assets/Pasted%20image%2020260620205530.png)
-![](../Assets/Pasted%20image%2020260620205537.png)
-![](../Assets/Pasted%20image%2020260620205556.png)
-![](../Assets/Pasted%20image%2020260620205609.png)
+**Bài 2 (Ném thẳng đứng - Bài 2.36):** Viên đá được ném lên từ độ cao $y_0 = 30,0$ m với vận tốc $v_0 = 22,0$ m/s. Chọn mặt đất làm gốc tọa độ ($y=0$) và chiều dương hướng lên, ta có gia tốc $a = -9,8$ m/s².
+
+- **Vận tốc khi chạm đất:** Dùng công thức $v^2 = v_0^2 + 2a(y - y_0)$, ta có $v^2 = 22,0^2 + 2(-9,8)(0 - 30,0) = 1072$. Suy ra $v = -\sqrt{1072} \approx -32,7$ m/s (dấu âm vì đá đang rơi xuống hướng về đất).
+- **Thời gian rơi:** Từ $v = v_0 + at$, ta có $-32,7 = 22,0 - 9,8t$, suy ra thời gian rơi $t \approx 5,58$ s.
+
+**Bài 3 (Hai quả bóng ném - Bài 2.89):** Tòa nhà cao $h = 20,0$ m. Quả bóng thứ 2 (được thả rơi tự do) sẽ chạm đất sau thời gian $t_2 = \sqrt{\frac{2h}{g}} = \sqrt{\frac{40}{9,8}} \approx 2,02$ s.
+
+- Vì bóng 1 được ném trước 1 giây và cả hai chạm đất cùng lúc, nên thời gian bay của bóng 1 là $t_1 = 2,02 + 1 = 3,02$ s.
+- Dùng phương trình vị trí $y = y_0 + v_{01}t_1 - \frac{1}{2}gt_1^2 = 0$. Thế số: $20 + v_{01}(3,02) - 4,9(3,02)^2 = 0$. Giải phương trình ta được vận tốc ném ban đầu của bóng 1 là $v_{01} \approx 8,18$ m/s.
+
+**Bài 4 (Vận tốc tương đối máy bay - Bài 3.71):** Máy bay bay theo hướng Tây (chiều âm trục x) với vận tốc so với không khí là $v_{m/k, x} = -220$ km/h. Sau 0,5 giờ, vị trí thực tế so với mặt đất là $x = -120$ km (Tây) và $y = -20$ km (Nam).
+
+- **Vận tốc thực tế so với đất:** $v_{dx} = -120 / 0,5 = -240$ km/h và $v_{dy} = -20 / 0,5 = -40$ km/h.
+- **Phân tích vận tốc gió:** Áp dụng cộng véctơ $\vec{v}_{\text{gió}} = \vec{v}_{\text{thực tế}} - \vec{v}_{m/k}$. Thành phần vận tốc gió là $v_{gx} = -240 - (-220) = -20$ km/h và $v_{gy} = -40 - 0 = -40$ km/h.
+- **Kết quả:** Độ lớn vận tốc gió là $v_g = \sqrt{(-20)^2 + (-40)^2} \approx 44,7$ km/h, thổi theo hướng Tây Nam.
+
+Bạn có muốn xem lại bước tính toán của bài nào không, hay chúng ta tiếp tục với phần vẽ giản đồ lực của bài tập Tuần 2 nhé?
