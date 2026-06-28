@@ -152,3 +152,33 @@ Dưới đây là một số bài tập tiêu biểu của Tuần 6 (Động l�
 - **Dạng 3: Lăn không trượt và bảo toàn năng lượng (Bài 10.28):** Một bánh xe nặng 2,25 kg (coi như hình trụ rỗng thành mỏng, đường kính 85,0 cm) rơi ra khỏi xe đạp khi đang ở độ cao 75,0 m (so với chân đồi) với tốc độ ban đầu 11,0 m/s. Nếu bánh xe lăn không trượt xuống dốc, hãy tính vận tốc và tổng động năng của nó khi đến chân đồi,.
 
 Bạn muốn chúng ta bắt đầu bằng việc thiết lập phương trình cho bài toán đĩa quay chịu lực tiếp tuyến (Bài 10.8), hay muốn xem cách giải bài toán bánh xe lăn không trượt (Bài 10.28) trước?
+
+Dưới đây là hướng dẫn giải chi tiết cho các dạng bài tập tiêu biểu của Tuần 6 (tôi đã cập nhật đúng số liệu từ tài liệu bài tập trọng tâm của bạn):
+
+**1. Dạng 1: Tính mômen lực (Bài 10.1)**
+
+- **Dữ kiện:** Lực $F = 10,0 \text{ N}$ tác dụng lên một thanh dài $r = 4,00 \text{ m}$ tại các góc khác nhau.
+- **Phương pháp:** Sử dụng công thức mômen lực $\tau = rF\sin\theta$, với $\theta$ là góc giữa phương của thanh và phương của lực.
+- **Thực hiện:**
+    - Lực tác dụng vuông góc ($\theta = 90^\circ$): $\tau = 4,00 \times 10,0 \times \sin(90^\circ) = 40,0 \text{ N}\cdot\text{m}$,.
+    - Lực hợp một góc $30^\circ$: $\tau = 4,00 \times 10,0 \times \sin(30^\circ) = 20,0 \text{ N}\cdot\text{m}$,.
+    - Lực tác dụng dọc theo thanh ($\theta = 0^\circ$): Thanh không quay vì $\sin(0^\circ) = 0$, suy ra $\tau = 0$,.
+- **Đánh giá:** Áp dụng quy tắc bàn tay phải, nếu lực có xu hướng làm thanh quay ngược chiều kim đồng hồ, mômen lực sẽ mang dấu dương.
+
+**2. Dạng 2: Động lực học quay và Công suất (Bài 10.29)**
+
+- **Dữ kiện:** Một chiếc đu quay có bán kính $R = 2,40 \text{ m}$ và mômen quán tính $I = 2100 \text{ kg}\cdot\text{m}^2$. Một đứa trẻ đẩy đu quay với lực tiếp tuyến $F = 18,0 \text{ N}$ trong thời gian $t = 15,0 \text{ s}$ từ trạng thái nghỉ.
+- **Thực hiện:**
+    - **(a) Tốc độ góc:** Mômen lực tác dụng $\tau = F \cdot R = 18,0 \times 2,40 = 43,2 \text{ N}\cdot\text{m}$,. Gia tốc góc $\alpha = \frac{\tau}{I} = \frac{43,2}{2100} \approx 0,0206 \text{ rad/s}^2$. Vận tốc góc sau 15,0 s là $\omega = \omega_0 + \alpha t = 0 + 0,0206 \times 15,0 = 0,309 \text{ rad/s}$.
+    - **(b) Công thực hiện:** Độ dịch chuyển góc $\Delta\theta = \frac{1}{2}\alpha t^2 = 0,5 \times 0,0206 \times (15,0)^2 \approx 2,32 \text{ rad}$. Công thực hiện là $W = \tau \Delta\theta = 43,2 \times 2,32 \approx 100 \text{ J}$.
+    - **(c) Công suất trung bình:** $P_{av} = \frac{W}{t} = \frac{100}{15,0} \approx 6,67 \text{ W}$.
+
+**3. Dạng 3: Mômen động lượng của chất điểm (Bài 10.35)**
+
+- **Dữ kiện:** Một tảng đá $m = 2,00 \text{ kg}$ đang trượt ngang với vận tốc $v = 12,0 \text{ m/s}$. Tại một thời điểm, nó cách gốc tọa độ khoảng $r = 8,00 \text{ m}$ với góc tạo bởi phương ngang là $36,9^\circ$.
+- **Thực hiện:**
+    - Mômen động lượng được tính bằng $L = mvr\sin\theta$ (với $r\sin\theta$ chính là cánh tay đòn vuông góc $r_\perp$).
+    - Khoảng cách vuông góc là $r_\perp = 8,00 \times \sin(36,9^\circ) \approx 4,80 \text{ m}$.
+    - Độ lớn mômen động lượng $L = 2,00 \times 12,0 \times 4,80 = 115,2 \text{ kg}\cdot\text{m}^2/\text{s}$.
+
+Bạn có thấy các bước giải này dễ hiểu định hướng không, hay bạn muốn chúng ta chuyển tiếp sang ôn tập Tuần 8 (Lực hấp dẫn và định luật Kepler) nhé?
