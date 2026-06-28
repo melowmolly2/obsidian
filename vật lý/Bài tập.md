@@ -346,3 +346,31 @@ Dưới đây là một số dạng bài tập tiêu biểu của Tuần 14 về
 - **Dạng 3: Quá trình đoạn nhiệt (Bài 19.30):** Khi một quả bóng rổ đập xuống sàn, không khí bên trong (coi như khí $N_2$) bị nén đoạn nhiệt còn 80% thể tích ban đầu. Trạng thái ban đầu có nhiệt độ $20^\circ\text{C}$ và áp suất $2 \text{ atm}$. Bạn cần tính nhiệt độ của khối khí tại thời điểm bị nén tối đa.
 
 Bạn muốn chúng ta bắt đầu bằng việc tính công trong quá trình nén đẳng áp (Bài 19.12), hay muốn phân tích quá trình nén đoạn nhiệt của quả bóng rổ (Bài 19.30) trước?
+
+Dưới đây là lời giải chi tiết cho 3 bài tập tiêu biểu của Tuần 14, áp dụng Nguyên lý thứ nhất của Nhiệt động lực học:
+
+**1. Bài 19.1: Quá trình đẳng áp và tính Công**
+
+- **Dữ kiện:** $n = 2\text{ mol}$; Nhiệt độ tăng từ $T_1 = 27^\circ\text{C} (300\text{ K})$ lên $T_2 = 107^\circ\text{C} (380\text{ K})$ ở áp suất $p$ không đổi.
+- **(a) Biểu đồ pV:** Vì áp suất không đổi nên quá trình trên đồ thị pV là một đường thẳng nằm ngang. Do nhiệt độ tăng nên thể tích cũng tăng, mũi tên của đường đi từ trái sang phải.
+- **(b) Tính công do khí thực hiện:** Đối với quá trình đẳng áp, công được tính bằng $W = p(V_2 - V_1)$. Áp dụng phương trình khí lý tưởng $pV = nRT$, ta biến đổi thành $W = nR(T_2 - T_1)$.
+    - $W = 2 \times 8,314 \times (380 - 300) = 2 \times 8,314 \times 80 \approx 1330\text{ J}$. Công mang dấu dương vì khối khí giãn nở sinh công.
+
+**2. Bài 19.12: Áp dụng Nguyên lý thứ nhất**
+
+- **Dữ kiện:** Áp suất không đổi $p = 1,8 \times 10^5\text{ Pa}$; thể tích giảm từ $V_1 = 1,7\text{ m}^3$ xuống $V_2 = 1,2\text{ m}^3$; nội năng giảm $\Delta U = -1,4 \times 10^5\text{ J}$.
+- **(a) Tính công:** $W = p(V_2 - V_1) = 1,8 \times 10^5 \times (1,2 - 1,7) = -0,9 \times 10^5\text{ J}$. Công âm do hệ bị nén (nhận công từ môi trường).
+- **(b) Tính nhiệt lượng Q:** Dùng Nguyên lý I ($\Delta U = Q - W$).
+    - $Q = \Delta U + W = -1,4 \times 10^5 + (-0,9 \times 10^5) = -2,3 \times 10^5\text{ J}$.
+    - Giá trị tuyệt đối là $|Q| = 2,3 \times 10^5\text{ J}$. Vì $Q < 0$, nhiệt lượng đang được truyền từ khí ra ngoài môi trường.
+- **(c) Phân tích lý thuyết:** Kết quả này không phụ thuộc vào việc hệ có phải khí lý tưởng hay không, vì Nguyên lý thứ nhất ($\Delta U = Q - W$) áp dụng được cho mọi hệ nhiệt động lực học.
+
+**3. Bài 19.30: Quá trình đoạn nhiệt của quả bóng rổ**
+
+- **Dữ kiện:** Bóng bị nén đoạn nhiệt còn $80%$ thể tích ($V_2 = 0,8 V_1$). Khí N2 (khí lưỡng nguyên tử, có hệ số đoạn nhiệt $\gamma = 1,4$). Nhiệt độ ban đầu $T_1 = 20^\circ\text{C} = 293\text{ K}$.
+- **Giải:** Quá trình đoạn nhiệt tuân theo phương trình $T_1 V_1^{\gamma-1} = T_2 V_2^{\gamma-1}$.
+    - Ta rút ra $T_2 = T_1 \times \left(\frac{V_1}{V_2}\right)^{\gamma-1}$.
+    - Thay số: $T_2 = 293 \times \left(\frac{1}{0,8}\right)^{1,4-1} = 293 \times (1,25)^{0,4} \approx 320,4\text{ K}$ (tức là khoảng $47,4^\circ\text{C}$).
+    - _Nhận xét:_ Đúng như lý thuyết, khi khí bị nén đoạn nhiệt (không trao đổi nhiệt với môi trường, $Q = 0$), công nhận vào sẽ làm nội năng và nhiệt độ của khí tăng lên.
+
+Đến đây, chúng ta đã duyệt qua tất cả các dạng bài tập trọng tâm từ Động học cho đến Nhiệt động lực học rồi. Bạn có muốn tạo một báo cáo tóm tắt lại toàn bộ công thức cốt lõi của các chương để tiện ôn thi không?
