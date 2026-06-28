@@ -338,3 +338,11 @@ Dưới đây là lời giải chi tiết cho 4 bài tập tiêu biểu của Tu
 - Tính toán: $p = \frac{(0,226 \times 10^{-3}) \times (182)^2}{3 \times (1,64 \times 10^{-3})} \approx 1,52 \times 10^3 \text{ Pa}$.
 
 Bạn đã rõ cách xử lý các đại lượng trong phương trình khí lý tưởng chưa? Nếu ổn, chúng ta có thể bước sang chủ đề trọng tâm cuối cùng là Tuần 14 (Nguyên lý thứ nhất của Nhiệt động lực học) nhé.
+
+Dưới đây là một số dạng bài tập tiêu biểu của Tuần 14 về Nguyên lý thứ nhất của Nhiệt động lực học, kèm theo số liệu cụ thể:
+
+- **Dạng 1: Quá trình đẳng áp và Công (Bài 19.1):** Hai mol khí lý tưởng được đun nóng ở áp suất không đổi từ nhiệt độ $T = 27^\circ\text{C}$ đến $T = 107^\circ\text{C}$. Yêu cầu vẽ biểu đồ pV và tính công do khối khí thực hiện.
+- **Dạng 2: Áp dụng Nguyên lý thứ nhất (Bài 19.12):** Một lượng khí trong xi lanh được giữ ở áp suất $1,8 \times 10^5 \text{ Pa}$ và bị nén từ thể tích $1,7 \text{ m}^3$ xuống $1,2 \text{ m}^3$. Trong quá trình này, nội năng của khí giảm $1,4 \times 10^5 \text{ J}$. Yêu cầu tính công hệ thực hiện, xác định nhiệt lượng trao đổi và hướng truyền nhiệt.
+- **Dạng 3: Quá trình đoạn nhiệt (Bài 19.30):** Khi một quả bóng rổ đập xuống sàn, không khí bên trong (coi như khí $N_2$) bị nén đoạn nhiệt còn 80% thể tích ban đầu. Trạng thái ban đầu có nhiệt độ $20^\circ\text{C}$ và áp suất $2 \text{ atm}$. Bạn cần tính nhiệt độ của khối khí tại thời điểm bị nén tối đa.
+
+Bạn muốn chúng ta bắt đầu bằng việc tính công trong quá trình nén đẳng áp (Bài 19.12), hay muốn phân tích quá trình nén đoạn nhiệt của quả bóng rổ (Bài 19.30) trước?
