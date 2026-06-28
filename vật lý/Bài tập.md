@@ -228,3 +228,44 @@ Dưới đây là một số bài tập tiêu biểu của Tuần 9 về Dao đ�
 - **Dạng 4: Con lắc đơn góc nhỏ (Bài 14.45):** Một con lắc đơn có chiều dài $0,240\text{ m}$ được kéo lệch một góc $3,50^\circ$ so với phương thẳng đứng rồi thả ra. Hãy tính tốc độ lớn nhất của con lắc và thời gian để nó đi đến vị trí có góc lệch $1,75^\circ$.
 
 Bạn muốn chúng ta bắt đầu bằng việc phân tích phương trình vận tốc của Bài 14.20, hay muốn giải bài toán cơ bản về chu kỳ và biên độ của Bài 14.2 trước?
+
+**Bài 14.2: Các đại lượng cơ bản của dao động**
+
+- **Dữ kiện:** Vật được kéo ra khỏi vị trí cân bằng $0,120 \text{ m}$ và thả ra không vận tốc đầu. Thời gian đi từ vị trí thả đến vị trí cân bằng là $0,800 \text{ s}$.
+- **(a) Biên độ ($A$):** Vì vật được thả ra từ trạng thái nghỉ tại vị trí cách gốc cân bằng $0,120 \text{ m}$, nên biên độ chính là khoảng cách này: $A = 0,120 \text{ m}$.
+- **(b) Chu kỳ ($T$):** Thời gian để vật đi từ biên (vận tốc bằng 0) về đến vị trí cân bằng tương đương với $1/4$ chu kỳ dao động. Vậy $T/4 = 0,800 \text{ s} \Rightarrow T = 3,20 \text{ s}$.
+- **(c) Tần số ($f$):** Tần số là nghịch đảo của chu kỳ: $f = \frac{1}{T} = \frac{1}{3,20} = 0,3125 \text{ Hz}$.
+
+**Bài 14.20: Khai thác phương trình vận tốc**
+
+- **Dữ kiện:** Phương trình vận tốc $v_x(t) = -(3,60 \text{ cm/s})\sin[(4,71 \text{ rad/s})t - (\pi/2)]$ đối với vật $m = 0,500 \text{ kg}$.
+- **Phân tích:** Đối chiếu với dạng tổng quát $v_x = -\omega A \sin(\omega t + \phi)$, ta có tần số góc $\omega = 4,71 \text{ rad/s}$ và vận tốc cực đại $v_{max} = \omega A = 3,60 \text{ cm/s} = 0,036 \text{ m/s}$.
+- **(a) Chu kỳ:** $T = \frac{2\pi}{\omega} = \frac{2\pi}{4,71} \approx 1,33 \text{ s}$.
+- **(b) Biên độ:** Từ $v_{max} = \omega A$, suy ra $A = \frac{3,60}{4,71} \approx 0,764 \text{ cm}$ (hoặc $7,64 \times 10^{-3} \text{ m}$).
+- **(c) Gia tốc cực đại:** $a_{max} = \omega^2 A = (4,71)^2 \times 0,00764 \approx 0,170 \text{ m/s}^2$.
+- **(d) Độ cứng lò xo:** Áp dụng công thức $\omega = \sqrt{\frac{k}{m}}$, ta có $k = m\omega^2 = 0,500 \times (4,71)^2 \approx 11,1 \text{ N/m}$.
+
+**Bài 14.35: Năng lượng con lắc lò xo**
+
+- **Dữ kiện:** Khối lượng $m = 2,00 \text{ kg}$, độ cứng $k = 315 \text{ N/m}$, tốc độ cực đại $v_{max} = 4,00 \text{ m/s}$.
+- **Chuẩn bị:** Tần số góc $\omega = \sqrt{\frac{k}{m}} = \sqrt{\frac{315}{2,00}} \approx 12,55 \text{ rad/s}$.
+- **(a) Biên độ:** Từ $v_{max} = \omega A$, ta tính được $A = \frac{v_{max}}{\omega} = \frac{4,00}{12,55} \approx 0,319 \text{ m}$.
+- **(b) Gia tốc cực đại:** $a_{max} = \omega^2 A = \omega \cdot (\omega A) = 12,55 \times 4,00 = 50,2 \text{ m/s}^2$.
+- **(c) Lực lớn nhất:** Áp dụng định luật Hooke cho vị trí biên, $F_{max} = kA = 315 \times 0,319 \approx 100 \text{ N}$.
+
+**Bài 14.45: Con lắc đơn**
+
+- **Dữ kiện:** Chiều dài $L = 0,240 \text{ m}$, biên độ góc $\theta_0 = 3,50^\circ$. Tần số góc của con lắc đơn là $\omega = \sqrt{\frac{g}{L}} = \sqrt{\frac{9,8}{0,240}} \approx 6,39 \text{ rad/s}$.
+- **(a) Tốc độ lớn nhất:** Biên độ cung là $A = L\theta_0$ (với $\theta_0$ đổi sang radian: $3,50 \times \frac{\pi}{180} \approx 0,0611 \text{ rad}$). Suy ra $A = 0,240 \times 0,0611 \approx 0,0147 \text{ m}$. Tốc độ lớn nhất $v_{max} = \omega A = 6,39 \times 0,0147 \approx 0,0939 \text{ m/s}$.
+- **(b) Thời gian góc đạt $1,75^\circ$:** Phương trình góc là $\theta(t) = \theta_0 \cos(\omega t)$. Khi $\theta = 1,75^\circ$ (bằng một nửa biên độ $\theta_0$), ta có $\cos(6,39 t) = 0,5$. Suy ra $6,39 t = \frac{\pi}{3} \Rightarrow t \approx 0,164 \text{ s}$.
+
+Những lời giải này có đáp ứng đúng mong đợi của bạn chưa? Nếu mọi thứ đã rõ ràng, chúng ta sẽ bắt đầu chuyển sang mảng kiến thức tiếp theo về Nhiệt động lực học (Tuần 11) nhé?
+
+Dưới đây là các dạng bài tập tiêu biểu của Tuần 11 về Nhiệt độ và Nhiệt lượng kèm theo dữ kiện cụ thể:
+
+- **Dạng 1: Chuyển đổi thang nhiệt độ (Bài 17.5):** Một chai nước ngọt được đặt vào tủ lạnh đến khi nhiệt độ của nó giảm $10\text{ K}$. Bạn cần xác định sự thay đổi nhiệt độ này tương đương với bao nhiêu độ Fahrenheit ($^\circ\text{F}$) và độ Celsius ($^\circ\text{C}$).
+- **Dạng 2: Sự giãn nở vì nhiệt (Bài 17.11):** Cầu Humber ở Anh có mặt cầu bằng thép với nhịp đơn dài $1410\text{ m}$. Bài toán yêu cầu tính độ thay đổi chiều dài của mặt cầu này khi nhiệt độ môi trường tăng từ $-5,0^\circ\text{C}$ lên $18,0^\circ\text{C}$.
+- **Dạng 3: Cân bằng nhiệt lượng (Bài 17.39):** Một nồi bằng đồng khối lượng $0,5\text{ kg}$ chứa $0,17\text{ kg}$ nước, cả hai đều đang ở nhiệt độ $20^\circ\text{C}$. Người ta thả một khối sắt $0,25\text{ kg}$ ở $85^\circ\text{C}$ vào nồi. Bạn cần tìm nhiệt độ cuối cùng của hệ, giả sử không có sự thất thoát nhiệt ra môi trường.
+- **Dạng 4: Cơ chế truyền nhiệt (Bài 17.60):** Lớp cách nhiệt của một bếp điện làm bằng sợi thủy tinh dày $4\text{ cm}$ với tổng diện tích $1,4\text{ m}^2$. Biết nhiệt độ mặt trong là $175^\circ\text{C}$, mặt ngoài là $35^\circ\text{C}$ và hệ số dẫn nhiệt của sợi thủy tinh là $0,04\text{ W/m.K}$. Yêu cầu tìm dòng nhiệt truyền qua lớp cách nhiệt này.
+
+Bạn muốn bắt đầu bằng cách tính độ giãn nở của cây cầu thép, hay thiết lập phương trình cân bằng nhiệt cho bài toán đun nước trước?
