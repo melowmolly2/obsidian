@@ -310,3 +310,31 @@ Dưới đây là một số dạng bài tập tiêu biểu của Tuần 12 về
 - **Dạng 4: Vận tốc căn quân phương và áp suất (Bài 18.30):** Một bình thể tích $1,64 \text{ L}$ được nạp $0,226 \text{ g}$ khí $N_2$. Biết vận tốc căn bậc hai trung bình ($v_{rms}$) của các phân tử khí là $182 \text{ m/s}$, yêu cầu tính áp suất của khối khí.
 
 Bạn muốn bắt đầu bằng việc tính số mol và áp suất của bình Heli (Bài 18.1) hay thiết lập phương trình biến đổi trạng thái cho bình Nitơ (Bài 18.9) trước?
+
+Dưới đây là lời giải chi tiết cho 4 bài tập tiêu biểu của Tuần 12 về Khí lý tưởng:
+
+**1. Bài 18.1: Phương trình trạng thái**
+
+- **Dữ kiện:** Khối lượng $m = 4,86 \times 10^{-4} \text{ kg}$; $M_{He} = 4 \times 10^{-3} \text{ kg/mol}$; $V = 20 \text{ L} = 20 \times 10^{-3} \text{ m}^3$; $T = 18^\circ\text{C} = 291,15 \text{ K}$.
+- **(a) Số mol khí:** $n = \frac{m}{M} = \frac{4,86 \times 10^{-4}}{4 \times 10^{-3}} = 0,1215 \text{ mol}$.
+- **(b) Áp suất:** Áp dụng $pV = nRT \Rightarrow p = \frac{nRT}{V} = \frac{0,1215 \times 8,314 \times 291,15}{20 \times 10^{-3}} \approx 1,47 \times 10^4 \text{ Pa}$. Đổi sang atm: $p = \frac{1,47 \times 10^4}{1,013 \times 10^5} \approx 0,145 \text{ atm}$.
+
+**2. Bài 18.9: Biến đổi trạng thái khí**
+
+- **Dữ kiện:** Trạng thái 1 có $V_1 = 0,75 \text{ m}^3$, $T_1 = 27^\circ\text{C} = 300 \text{ K}$, $p_1 = 7,5 \times 10^3 \text{ Pa}$. Trạng thái 2 có $V_2 = 0,41 \text{ m}^3$, $T_2 = 157^\circ\text{C} = 430 \text{ K}$.
+- **Giải:** Vì lượng khí không đổi, sử dụng phương trình $\frac{p_1 V_1}{T_1} = \frac{p_2 V_2}{T_2}$.
+- Suy ra: $p_2 = p_1 \frac{V_1}{V_2} \frac{T_2}{T_1} = (7,5 \times 10^3) \times \left(\frac{0,75}{0,41}\right) \times \left(\frac{430}{300}\right) \approx 1,97 \times 10^4 \text{ Pa}$.
+
+**3. Bài 18.27: Động năng tịnh tiến**
+
+- **Dữ kiện:** Phòng có thể tích $V = 8 \times 12 \times 4 = 384 \text{ m}^3$, áp suất $p = 1 \text{ atm} = 1,013 \times 10^5 \text{ Pa}$.
+- **Giải:** Tổng động năng tịnh tiến của khí lý tưởng liên hệ trực tiếp với áp suất và thể tích qua công thức $K_{tr} = \frac{3}{2}nRT = \frac{3}{2}pV$.
+- Tính toán: $K_{tr} = \frac{3}{2} \times (1,013 \times 10^5) \times 384 \approx 5,83 \times 10^7 \text{ J}$.
+
+**4. Bài 18.30: Vận tốc căn quân phương**
+
+- **Dữ kiện:** $V = 1,64 \times 10^{-3} \text{ m}^3$, khối lượng $m = 0,226 \times 10^{-3} \text{ kg}$, $v_{rms} = 182 \text{ m/s}$.
+- **Giải:** Kết hợp $v_{rms} = \sqrt{\frac{3RT}{M}}$ và $pV = \frac{m}{M}RT$, ta rút ra được biểu thức tính áp suất trực tiếp từ vận tốc: $p = \frac{m \cdot v_{rms}^2}{3V}$.
+- Tính toán: $p = \frac{(0,226 \times 10^{-3}) \times (182)^2}{3 \times (1,64 \times 10^{-3})} \approx 1,52 \times 10^3 \text{ Pa}$.
+
+Bạn đã rõ cách xử lý các đại lượng trong phương trình khí lý tưởng chưa? Nếu ổn, chúng ta có thể bước sang chủ đề trọng tâm cuối cùng là Tuần 14 (Nguyên lý thứ nhất của Nhiệt động lực học) nhé.
