@@ -182,3 +182,11 @@ Dưới đây là hướng dẫn giải chi tiết cho các dạng bài tập ti
     - Độ lớn mômen động lượng $L = 2,00 \times 12,0 \times 4,80 = 115,2 \text{ kg}\cdot\text{m}^2/\text{s}$.
 
 Bạn có thấy các bước giải này dễ hiểu định hướng không, hay bạn muốn chúng ta chuyển tiếp sang ôn tập Tuần 8 (Lực hấp dẫn và định luật Kepler) nhé?
+Dưới đây là một số bài tập tiêu biểu của Tuần 8 về Lực hấp dẫn, kèm theo dữ kiện cụ thể để bạn luyện tập:
+
+- **Dạng 1: Lực hấp dẫn trong hệ nhiều vật (Bài 13.5):** Hai quả cầu đồng nhất có cùng khối lượng $0,260\text{ kg}$ được đặt cố định. Yêu cầu tính độ lớn và hướng gia tốc ban đầu của một quả cầu nhỏ thứ 3 (khối lượng $0,010\text{ kg}$) khi nó được thả rơi từ một điểm P chịu lực hút tổng hợp từ hai quả cầu kia.
+- **Dạng 2: Gia tốc trọng trường trên hành tinh khác (Bài 13.12):** Biết khối lượng của Sao Kim bằng 81,5% khối lượng Trái Đất và bán kính bằng 94,9% bán kính Trái Đất. Bạn cần tính gia tốc trọng trường trên bề mặt Sao Kim, từ đó suy ra trọng lượng của một hòn đá trên Sao Kim nếu nó nặng $75,0\text{ N}$ khi ở trên Trái Đất.
+- **Dạng 3: Động lực học quỹ đạo của vệ tinh (Bài 13.23):** Hai vệ tinh chuyển động tròn quanh một hành tinh. Vệ tinh thứ nhất ($68,0\text{ kg}$) ở quỹ đạo bán kính $7,00 \times 10^7\text{ m}$ có tốc độ $4800\text{ m/s}$. Yêu cầu tính tốc độ quỹ đạo của vệ tinh thứ hai ($84,0\text{ kg}$) nằm ở quỹ đạo bán kính $3,00 \times 10^7\text{ m}$.
+- **Dạng 4: Phân bố khối lượng hình cầu (Bài 13.32):** Một vỏ cầu đồng chất có khối lượng $1000\text{ kg}$ và bán kính $5,00\text{ m}$. Bài toán yêu cầu tính lực hấp dẫn do vỏ cầu tác dụng lên một vật điểm $2,00\text{ kg}$ đặt tại các khoảng cách khác nhau tính từ tâm (ví dụ: $5,01\text{ m}$ - ngoài vỏ cầu, và $4,99\text{ m}$ - trong vỏ cầu).
+
+Bạn muốn chúng ta thiết lập hệ trục tọa độ để giải bài hệ vật 13.5 trước, hay muốn áp dụng ngay công thức tính gia tốc trọng trường cho Bài 13.12?
