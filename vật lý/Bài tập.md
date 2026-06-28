@@ -189,4 +189,34 @@ Dưới đây là một số bài tập tiêu biểu của Tuần 8 về Lực h
 - **Dạng 3: Động lực học quỹ đạo của vệ tinh (Bài 13.23):** Hai vệ tinh chuyển động tròn quanh một hành tinh. Vệ tinh thứ nhất ($68,0\text{ kg}$) ở quỹ đạo bán kính $7,00 \times 10^7\text{ m}$ có tốc độ $4800\text{ m/s}$. Yêu cầu tính tốc độ quỹ đạo của vệ tinh thứ hai ($84,0\text{ kg}$) nằm ở quỹ đạo bán kính $3,00 \times 10^7\text{ m}$.
 - **Dạng 4: Phân bố khối lượng hình cầu (Bài 13.32):** Một vỏ cầu đồng chất có khối lượng $1000\text{ kg}$ và bán kính $5,00\text{ m}$. Bài toán yêu cầu tính lực hấp dẫn do vỏ cầu tác dụng lên một vật điểm $2,00\text{ kg}$ đặt tại các khoảng cách khác nhau tính từ tâm (ví dụ: $5,01\text{ m}$ - ngoài vỏ cầu, và $4,99\text{ m}$ - trong vỏ cầu).
 
-Bạn muốn chúng ta thiết lập hệ trục tọa độ để giải bài hệ vật 13.5 trước, hay muốn áp dụng ngay công thức tính gia tốc trọng trường cho Bài 13.12?
+Dưới đây là lời giải chi tiết cho 4 dạng bài tập tiêu biểu của Tuần 8 về Lực hấp dẫn:
+
+**1. Bài 13.5: Lực hấp dẫn trong hệ vật**
+
+- **Dữ kiện:** Hai quả cầu $M_A = M_B = 0,260\text{ kg}$ cách nhau $16,0\text{ cm}$. Quả cầu thứ ba $m_P = 0,010\text{ kg}$ cách đều A và B $10,0\text{ cm}$ (cách đường nối AB $6,0\text{ cm}$).
+- **Phân tích lực:** Lực hút từ A và B lên P có độ lớn bằng nhau. Do tính đối xứng, hai thành phần lực theo phương ngang triệt tiêu lẫn nhau, lực tổng hợp $\vec{F}_{net}$ chỉ hướng thẳng đứng xuống dưới về phía trung điểm của AB.
+- **Độ lớn một lực:** $F_A = G\frac{m_P M_A}{r^2} = (6,674 \times 10^{-11}) \times \frac{0,010 \times 0,260}{(0,100)^2} = 1,735 \times 10^{-11}\text{ N}$.
+- **Lực tổng hợp:** Lấy hình chiếu lên phương thẳng đứng ($\cos\theta = \frac{6,0}{10,0} = 0,6$). $F_{net} = 2F_A\cos\theta = 2 \times (1,735 \times 10^{-11}) \times 0,6 = 2,08 \times 10^{-11}\text{ N}$.
+- **Gia tốc:** $a = \frac{F_{net}}{m_P} = \frac{2,08 \times 10^{-11}}{0,010} = 2,08 \times 10^{-9}\text{ m/s}^2$ (hướng xuống).
+
+**2. Bài 13.12: Gia tốc trọng trường trên hành tinh khác**
+
+- **Dữ kiện:** Sao Kim có $M_K = 0,815 M_E$ và $R_K = 0,949 R_E$.
+- **(a) Gia tốc trọng trường:** Áp dụng công thức $g = G\frac{M}{R^2}$. Ta lập tỉ lệ: $g_K = \frac{0,815}{(0,949)^2}g_E \approx 0,905 \times 9,8 \approx 8,87\text{ m/s}^2$.
+- **(b) Trọng lượng hòn đá:** Trọng lượng tỉ lệ thuận với gia tốc trọng trường. Hòn đá nặng $75,0\text{ N}$ trên Trái Đất sẽ nặng $W_K = W_E \times 0,905 = 75,0 \times 0,905 \approx 67,9\text{ N}$ trên Sao Kim.
+
+**3. Bài 13.23: Động lực học quỹ đạo của vệ tinh**
+
+- **Dữ kiện:** Vệ tinh 1 có $r_1 = 7,00 \times 10^7\text{ m}$ và $v_1 = 4800\text{ m/s}$. Tìm $v_2$ của vệ tinh 2 ở quỹ đạo $r_2 = 3,00 \times 10^7\text{ m}$.
+- **Phân tích:** Tốc độ quỹ đạo $v = \sqrt{\frac{GM}{r}}$ hoàn toàn không phụ thuộc vào khối lượng của bản thân vệ tinh.
+- **Giải:** Ta lập tỉ lệ nghịch: $\frac{v_2}{v_1} = \sqrt{\frac{r_1}{r_2}} = \sqrt{\frac{7,00 \times 10^7}{3,00 \times 10^7}} \approx 1,527$. Vậy $v_2 = 4800 \times 1,527 \approx 7332\text{ m/s}$.
+
+**4. Bài 13.32: Phân bố khối lượng hình cầu**
+
+- **Dữ kiện:** Vỏ cầu có khối lượng $M = 1000\text{ kg}$, bán kính $R = 5,00\text{ m}$. Vật điểm $m = 2,00\text{ kg}$.
+- **Lý thuyết:** Lực hấp dẫn bên ngoài vỏ cầu tính như khi toàn bộ khối lượng tập trung ở tâm. Đối với vật nằm bên trong vỏ cầu, lực hấp dẫn tổng cộng bằng 0.
+- **(i) Khoảng cách 5,01 m (bên ngoài):** $F = G\frac{Mm}{r^2} = (6,674 \times 10^{-11}) \times \frac{1000 \times 2,00}{(5,01)^2} \approx 5,32 \times 10^{-9}\text{ N}$.
+- **(ii) Khoảng cách 4,99 m (bên trong):** $F = 0\text{ N}$.
+- **(iii) Khoảng cách 2,72 m (bên trong):** $F = 0\text{ N}$.
+
+Bạn xem qua các bước giải này có điểm nào cần làm rõ thêm không, hay chúng ta tiếp tục sang các bài toán về Dao động tuần hoàn (Tuần 9) nhé?
