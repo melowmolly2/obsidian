@@ -269,3 +269,44 @@ Dưới đây là các dạng bài tập tiêu biểu của Tuần 11 về Nhi�
 - **Dạng 4: Cơ chế truyền nhiệt (Bài 17.60):** Lớp cách nhiệt của một bếp điện làm bằng sợi thủy tinh dày $4\text{ cm}$ với tổng diện tích $1,4\text{ m}^2$. Biết nhiệt độ mặt trong là $175^\circ\text{C}$, mặt ngoài là $35^\circ\text{C}$ và hệ số dẫn nhiệt của sợi thủy tinh là $0,04\text{ W/m.K}$. Yêu cầu tìm dòng nhiệt truyền qua lớp cách nhiệt này.
 
 Bạn muốn bắt đầu bằng cách tính độ giãn nở của cây cầu thép, hay thiết lập phương trình cân bằng nhiệt cho bài toán đun nước trước?
+
+Dưới đây là hướng dẫn giải chi tiết cho 4 bài tập tiêu biểu của Tuần 11:
+
+**Bài 17.5: Chuyển đổi thang nhiệt độ**
+
+- **Dữ kiện:** Nhiệt độ giảm $10 \text{ K}$ ($\Delta T = -10 \text{ K}$).
+- **(b) Theo độ Celsius:** Thang Celsius và Kelvin có cùng khoảng chia độ, do đó sự thay đổi $10 \text{ K}$ chính bằng sự thay đổi $10^\circ\text{C}$. Vậy $\Delta T = -10^\circ\text{C}$.
+- **(a) Theo độ Fahrenheit:** Khoảng chia của thang Fahrenheit bằng $9/5$ khoảng chia của thang Celsius. Do đó, độ thay đổi là $\Delta T_{F} = \frac{9}{5}\Delta T_{C} = \frac{9}{5}(-10) = -18^\circ\text{F}$.
+
+**Bài 17.11: Sự giãn nở vì nhiệt của chất rắn**
+
+- **Dữ kiện:** Chiều dài $L_0 = 1410 \text{ m}$, nhiệt độ thay đổi $\Delta T = 18,0 - (-5,0) = 23,0^\circ\text{C} = 23,0 \text{ K}$. Hệ số giãn nở tuyến tính của thép là $\alpha = 1,2 \times 10^{-5} \text{ K}^{-1}$.
+- **Giải:** Áp dụng công thức độ giãn nở tuyến tính $\Delta L = \alpha L_0 \Delta T$.
+- Thay số: $\Delta L = (1,2 \times 10^{-5}) \times 1410 \times 23,0 \approx 0,389 \text{ m}$. (Mặt cầu dài ra thêm $38,9 \text{ cm}$).
+
+**Bài 17.39: Cân bằng nhiệt lượng**
+
+- **Dữ kiện:** Nồi đồng ($m_1 = 0,5 \text{ kg}$, $c_1 \approx 390 \text{ J/kg.K}$) và Nước ($m_2 = 0,17 \text{ kg}$, $c_2 \approx 4190 \text{ J/kg.K}$) ở $T_1 = 20^\circ\text{C}$. Khối sắt ($m_3 = 0,25 \text{ kg}$, $c_3 \approx 470 \text{ J/kg.K}$) ở $T_2 = 85^\circ\text{C}$.
+- **Giải:** Giả sử nhiệt độ cân bằng cuối cùng là $T_f$. Tổng nhiệt lượng trao đổi bằng 0: $Q_{đồng} + Q_{nước} + Q_{sắt} = 0$.
+- $m_1 c_1 (T_f - 20) + m_2 c_2 (T_f - 20) + m_3 c_3 (T_f - 85) = 0$.
+- $(0,5 \times 390)(T_f - 20) + (0,17 \times 4190)(T_f - 20) + (0,25 \times 470)(T_f - 85) = 0$.
+- $195(T_f - 20) + 712,3(T_f - 20) + 117,5(T_f - 85) = 0 \Rightarrow 907,3(T_f - 20) = 117,5(85 - T_f)$.
+- Giải phương trình ta được nhiệt độ cân bằng $T_f \approx 27,5^\circ\text{C}$.
+
+**Bài 17.60: Cơ chế dẫn nhiệt**
+
+- **Dữ kiện:** Độ dày $L = 4 \text{ cm} = 0,04 \text{ m}$, diện tích $A = 1,4 \text{ m}^2$, độ chênh lệch nhiệt $\Delta T = 175 - 35 = 140^\circ\text{C}$, hệ số dẫn nhiệt của sợi thủy tinh $k = 0,04 \text{ W/m.K}$.
+- **(a) Dòng nhiệt ($H$):** Sử dụng định luật Fourier về dẫn nhiệt $H = kA\frac{\Delta T}{L}$.
+- Thay số: $H = 0,04 \times 1,4 \times \frac{140}{0,04} = 196 \text{ W}$.
+- **(b) Công suất điện:** Để duy trì nhiệt độ ổn định, công suất điện cung cấp cho bếp phải bù đắp chính xác tốc độ nhiệt thoát ra ngoài. Do đó, công suất cần thiết là $P = 196 \text{ W}$.
+
+Bạn đã nắm vững các nguyên lý của Nhiệt độ và Nhiệt lượng chưa? Nếu ổn, chúng ta có thể chuyển sang Tuần 12 (Tính chất nhiệt của vật chất - Khí lý tưởng) nhé.
+
+Dưới đây là một số dạng bài tập tiêu biểu của Tuần 12 về Tính chất nhiệt của vật chất, tập trung vào Khí lý tưởng:
+
+- **Dạng 1: Áp dụng phương trình trạng thái khí lý tưởng (Bài 18.1):** Một bình $20 \text{ L}$ chứa $4,86 \times 10^{-4} \text{ kg}$ khí heli (khối lượng mol $4 \text{ g/mol}$) ở nhiệt độ $18^\circ\text{C}$. Yêu cầu tính số mol khí và áp suất trong bình theo đơn vị pascal và atm.
+- **Dạng 2: Biến đổi trạng thái của khối khí (Bài 18.9):** Một bình trụ chứa $0,75 \text{ m}^3$ khí nitơ ở $27^\circ\text{C}$ và áp suất $7,5 \times 10^3 \text{ Pa}$. Pít-tông nén khí làm thể tích giảm xuống $0,41 \text{ m}^3$ và nhiệt độ tăng lên $157^\circ\text{C}$. Bạn cần tính áp suất mới của bình.
+- **Dạng 3: Động năng tịnh tiến của chất khí (Bài 18.27):** Tính tổng động năng tịnh tiến của không khí (coi là khí lý tưởng) chứa trong một căn phòng trống kích thước $8 \text{ m} \times 12 \text{ m} \times 4 \text{ m}$ ở áp suất $1 \text{ atm}$.
+- **Dạng 4: Vận tốc căn quân phương và áp suất (Bài 18.30):** Một bình thể tích $1,64 \text{ L}$ được nạp $0,226 \text{ g}$ khí $N_2$. Biết vận tốc căn bậc hai trung bình ($v_{rms}$) của các phân tử khí là $182 \text{ m/s}$, yêu cầu tính áp suất của khối khí.
+
+Bạn muốn bắt đầu bằng việc tính số mol và áp suất của bình Heli (Bài 18.1) hay thiết lập phương trình biến đổi trạng thái cho bình Nitơ (Bài 18.9) trước?
