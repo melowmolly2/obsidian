@@ -220,3 +220,11 @@ Dưới đây là lời giải chi tiết cho 4 dạng bài tập tiêu biểu c
 - **(iii) Khoảng cách 2,72 m (bên trong):** $F = 0\text{ N}$.
 
 Bạn xem qua các bước giải này có điểm nào cần làm rõ thêm không, hay chúng ta tiếp tục sang các bài toán về Dao động tuần hoàn (Tuần 9) nhé?
+Dưới đây là một số bài tập tiêu biểu của Tuần 9 về Dao động tuần hoàn, kèm theo dữ kiện cụ thể:
+
+- **Dạng 1: Đại lượng cơ bản của dao động (Bài 14.2):** Một vật nằm ngang gắn vào lò xo, được kéo ra khỏi vị trí cân bằng $0,120\text{ m}$ rồi thả ra (vận tốc ban đầu bằng 0). Sau $0,800\text{ s}$, vật đi qua vị trí cân bằng lần đầu tiên. Yêu cầu tính biên độ, chu kỳ và tần số của dao động.
+- **Dạng 2: Khai thác phương trình dao động (Bài 14.20):** Một vật khối lượng $0,500\text{ kg}$ gắn vào lò xo có phương trình vận tốc là $v_x(t) = -(3,60\text{ cm/s})\sin[(4,71\text{ rad/s})t - (\pi/2)]$. Bạn cần tìm chu kỳ, biên độ, gia tốc cực đại của vật và độ cứng của lò xo.
+- **Dạng 3: Năng lượng con lắc lò xo (Bài 14.35):** Một khối nặng $2,00\text{ kg}$ gắn vào lò xo có độ cứng $315\text{ N/m}$. Khi hệ dao động, vận tốc cực đại của khối là $4,00\text{ m/s}$. Yêu cầu tìm biên độ dao động, gia tốc cực đại và lực lớn nhất tác dụng lên khối.
+- **Dạng 4: Con lắc đơn góc nhỏ (Bài 14.45):** Một con lắc đơn có chiều dài $0,240\text{ m}$ được kéo lệch một góc $3,50^\circ$ so với phương thẳng đứng rồi thả ra. Hãy tính tốc độ lớn nhất của con lắc và thời gian để nó đi đến vị trí có góc lệch $1,75^\circ$.
+
+Bạn muốn chúng ta bắt đầu bằng việc phân tích phương trình vận tốc của Bài 14.20, hay muốn giải bài toán cơ bản về chu kỳ và biên độ của Bài 14.2 trước?
