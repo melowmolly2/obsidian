@@ -76,13 +76,25 @@ Dưới đây là một số dạng bài tập trọng tâm tiêu biểu của T
     - Thay số: $W = (30)(-9,0) + (-40)(-3,0) = -270 + 120 = -150\text{ J}$.
     - _Ý nghĩa:_ Công âm cho thấy lực cản trở chuyển động của xe.
 
-**Bài 2: Định lý Công - Động năng (Bài 6.24)**
 
-- **Dữ kiện:** Hòn đá có trọng lượng $w = 3\text{ N}$ (suy ra $m = \frac{w}{g} = \frac{3}{9,8} \approx 0,306\text{ kg}$), ném lên với $v_1 = 25,0\text{ m/s}$. Tại độ cao cực đại $v_2 = 0$.
-- **Giải:**
-    - Định lý Công - Động năng: $W_{tot} = K_2 - K_1 = 0 - \frac{1}{2}mv_1^2$.
-    - Trong quá trình bay lên, lực duy nhất sinh công là trọng lực (hướng xuống), nên công của trọng lực là $W_{tot} = -mgh$.
-    - Ta có: $-mgh = -\frac{1}{2}mv_1^2 \Rightarrow h = \frac{v_1^2}{2g} = \frac{25,0^2}{2 \times 9,8} \approx 31,9\text{ m}$.
+ **Bài 6.24**:
+
+- **Dữ kiện:** Trọng lượng $w = 3 \text{ N}$ $\Rightarrow m = \frac{w}{g} = \frac{3}{9,8} \approx 0,306 \text{ kg}$. Tại độ cao $y_2 = 15,0 \text{ m}$, vận tốc $v_2 = 25,0 \text{ m/s}$.
+
+**a) Vận tốc ngay khi vừa rời mặt đất ($v_1$ tại $y_1 = 0$):**
+
+- Áp dụng định lý Công - Động năng cho đoạn từ mặt đất lên 15 m: $W_{tot} = K_2 - K_1$.
+- Công của trọng lực: $W_{tot} = -w(y_2 - y_1) = -3 \times 15 = -45 \text{ J}$.
+- Động năng tại 15 m: $K_2 = \frac{1}{2}mv_2^2 = \frac{1}{2}(0,306)(25^2) \approx 95,6 \text{ J}$.
+- Thay vào phương trình: $-45 = 95,6 - K_1 \Rightarrow K_1 = 140,6 \text{ J}$.
+- Từ $K_1 = \frac{1}{2}mv_1^2$, ta tính được vận tốc ban đầu: $v_1 = \sqrt{\frac{2 \times 140,6}{0,306}} \approx 30,3 \text{ m/s}$.
+
+**b) Độ cao cực đại ($h_{max}$):**
+
+- Tại độ cao cực đại, vận tốc $v_3 = 0$ nên $K_3 = 0$.
+- Áp dụng định lý Công - Động năng từ mặt đất lên đỉnh: $-w \cdot h_{max} = K_3 - K_1$.
+- $-3 \cdot h_{max} = 0 - 140,6 \Rightarrow h_{max} \approx 46,9 \text{ m}$.
+
 
 **Bài 3: Bảo toàn cơ năng - Vòng lượn siêu tốc (Bài 7.42)**
 
