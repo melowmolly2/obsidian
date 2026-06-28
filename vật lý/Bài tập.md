@@ -66,4 +66,39 @@ Dưới đây là một số dạng bài tập trọng tâm tiêu biểu của T
 - **Dạng 3: Áp dụng Định lý Công - Động năng.** Tính vận tốc của một vật (ví dụ: hòn đá ném thẳng đứng với vận tốc ban đầu cho trước) tại một độ cao cụ thể bằng cách sử dụng công của trọng lực và sự biến thiên động năng.
 - **Dạng 4: Bảo toàn cơ năng (có và không có ma sát).** Phân tích chuyển động của vật trên quỹ đạo phức tạp như vòng lượn siêu tốc, đoạn dốc, hoặc đệm tuyết để tìm giới hạn độ cao, vận tốc tại một điểm, hoặc xác định hệ số ma sát trượt.
 
-Bạn muốn xem hướng dẫn chi tiết cho bài toán vòng lượn siêu tốc (bảo toàn cơ năng), hay thử tự tính công bằng phép nhân véctơ (Dạng 1) trước nhé?
+
+
+**Bài 1: Tính công bằng tích vô hướng (Bài 6.8)**
+
+- **Dữ kiện:** Lực $\vec{F} = (30\text{ N})\hat{i} - (40\text{ N})\hat{j}$; Độ dịch chuyển $\vec{s} = (-9,0\text{ m})\hat{i} - (3,0\text{ m})\hat{j}$.
+- **Giải:**
+    - Công được tính bằng tích vô hướng của hai véctơ: $W = \vec{F} \cdot \vec{s} = F_x s_x + F_y s_y$.
+    - Thay số: $W = (30)(-9,0) + (-40)(-3,0) = -270 + 120 = -150\text{ J}$.
+    - _Ý nghĩa:_ Công âm cho thấy lực cản trở chuyển động của xe.
+
+**Bài 2: Định lý Công - Động năng (Bài 6.24)**
+
+- **Dữ kiện:** Hòn đá có trọng lượng $w = 3\text{ N}$ (suy ra $m = \frac{w}{g} = \frac{3}{9,8} \approx 0,306\text{ kg}$), ném lên với $v_1 = 25,0\text{ m/s}$. Tại độ cao cực đại $v_2 = 0$.
+- **Giải:**
+    - Định lý Công - Động năng: $W_{tot} = K_2 - K_1 = 0 - \frac{1}{2}mv_1^2$.
+    - Trong quá trình bay lên, lực duy nhất sinh công là trọng lực (hướng xuống), nên công của trọng lực là $W_{tot} = -mgh$.
+    - Ta có: $-mgh = -\frac{1}{2}mv_1^2 \Rightarrow h = \frac{v_1^2}{2g} = \frac{25,0^2}{2 \times 9,8} \approx 31,9\text{ m}$.
+
+**Bài 3: Bảo toàn cơ năng - Vòng lượn siêu tốc (Bài 7.42)**
+
+- **Dữ kiện:** Xe trượt không ma sát từ độ cao $h$ vào vòng lượn bán kính $R$.
+- **Giải (Tìm $h$ tối thiểu để xe không rơi ở đỉnh vòng):**
+    - _Điều kiện động lực học:_ Tại đỉnh vòng (độ cao $2R$), lực hướng tâm là trọng lực và phản lực $\Rightarrow mg + n = m\frac{v^2}{R}$. Để xe không rơi, $n \ge 0 \Rightarrow v_{min}^2 = gR$.
+    - _Bảo toàn cơ năng:_ Từ lúc thả ($v=0$) đến đỉnh vòng: $mgh = mg(2R) + \frac{1}{2}mv_{min}^2$.
+    - Thay $v_{min}^2 = gR$ vào: $mgh = 2mgR + 0,5mgR = 2,5mgR \Rightarrow h = 2,5R$.
+
+**Bài 4: Năng lượng khi có lực cản/ma sát (Bài 7.54)**
+
+- **Dữ kiện:** Vận động viên $m = 60,0\text{ kg}$ trượt từ dốc cao $h = 65,0\text{ m}$. Công của lực ma sát $W_{khác} = -10,5\text{ kJ} = -10500\text{ J}$.
+- **Giải (Tính vận tốc ở chân dốc):**
+    - Sử dụng định luật bảo toàn năng lượng tổng quát: $K_1 + U_1 + W_{khác} = K_2 + U_2$.
+    - Ban đầu ở đỉnh dốc: $K_1 = 0$, $U_1 = mgh = 60 \times 9,8 \times 65 = 38220\text{ J}$.
+    - Lúc tới chân dốc: $U_2 = 0$, $K_2 = \frac{1}{2}mv_2^2 = 30v_2^2$.
+    - Thay vào phương trình: $0 + 38220 - 10500 = 30v_2^2 \Rightarrow 27720 = 30v_2^2 \Rightarrow v_2 = \sqrt{924} \approx 30,4\text{ m/s}$.
+
+Các bước giải này có dễ theo dõi đối với bạn không? Nếu ổn rồi, chúng ta sẽ chuyển sang một số bài tập tính toán Mômen quán tính và Động năng quay của Tuần 5 nhé?
