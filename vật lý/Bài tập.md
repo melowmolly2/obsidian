@@ -144,3 +144,11 @@ Dưới đây là một số bài tập tiêu biểu của Tuần 5 với số l
 - **Tính động năng quay:** $K = \frac{1}{2}I\omega^2 = \frac{1}{2}(42,2)(80\pi)^2 \approx 1,33 \times 10^6 \text{ J}$.
 
 Bạn đã hiểu rõ cách áp dụng các công thức động học quay này chưa, hay chúng ta tiếp tục sang các bài toán về Động lực học của chuyển động quay (Mômen lực và định luật II Newton) ở Tuần 6 luôn nhé?
+
+Dưới đây là một số bài tập tiêu biểu của Tuần 6 (Động lực học của chuyển động quay) với đề bài cụ thể:
+
+- **Dạng 1: Tính mômen lực cơ bản (Bài 10.1):** Tính mômen lực (độ lớn và hướng) tại điểm O do lực $\vec{F}$ gây ra đối với một thanh dài 4,00 m. Biết lực có độ lớn $F = 10,0 \text{ N}$ và tác dụng lên thanh dưới nhiều góc độ khác nhau (như vuông góc, hợp với thanh một góc $30^\circ$, $60^\circ$, $120^\circ$).
+- **Dạng 2: Mômen lực và động học quay (Bài 10.8):** Một đĩa đồng nhất khối lượng 40,0 kg, bán kính 0,200 m được gắn trên một trục ngang. Có một lực không đổi $F = 30,0 \text{ N}$ tác dụng theo phương tiếp tuyến lên vành đĩa. Yêu cầu tính vận tốc tiếp tuyến và độ lớn của gia tốc tổng hợp tại một điểm trên vành sau khi đĩa đã quay được 0,200 vòng.
+- **Dạng 3: Lăn không trượt và bảo toàn năng lượng (Bài 10.28):** Một bánh xe nặng 2,25 kg (coi như hình trụ rỗng thành mỏng, đường kính 85,0 cm) rơi ra khỏi xe đạp khi đang ở độ cao 75,0 m (so với chân đồi) với tốc độ ban đầu 11,0 m/s. Nếu bánh xe lăn không trượt xuống dốc, hãy tính vận tốc và tổng động năng của nó khi đến chân đồi,.
+
+Bạn muốn chúng ta bắt đầu bằng việc thiết lập phương trình cho bài toán đĩa quay chịu lực tiếp tuyến (Bài 10.8), hay muốn xem cách giải bài toán bánh xe lăn không trượt (Bài 10.28) trước?
