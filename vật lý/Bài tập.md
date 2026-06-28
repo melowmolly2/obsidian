@@ -113,7 +113,6 @@ Dưới đây là một số dạng bài tập trọng tâm tiêu biểu của T
     - Lúc tới chân dốc: $U_2 = 0$, $K_2 = \frac{1}{2}mv_2^2 = 30v_2^2$.
     - Thay vào phương trình: $0 + 38220 - 10500 = 30v_2^2 \Rightarrow 27720 = 30v_2^2 \Rightarrow v_2 = \sqrt{924} \approx 30,4\text{ m/s}$.
 
-Các bước giải này có dễ theo dõi đối với bạn không? Nếu ổn rồi, chúng ta sẽ chuyển sang một số bài tập tính toán Mômen quán tính và Động năng quay của Tuần 5 nhé?
 
 Dưới đây là một số bài tập tiêu biểu của Tuần 5 với số liệu cụ thể, tập trung vào Động học quay và Năng lượng quay:
 
@@ -121,4 +120,27 @@ Dưới đây là một số bài tập tiêu biểu của Tuần 5 với số l
 - **Dạng 2: Gia tốc của một điểm trên vật rắn quay (Bài 9.21):** Một bánh xe đường kính $40,0 \text{ cm}$ bắt đầu quay từ trạng thái đứng yên với gia tốc góc không đổi là $3,00 \text{ rad/s}^2$. Yêu cầu tính gia tốc hướng tâm của một điểm trên vành bánh xe tại thời điểm bánh xe vừa hoàn thành vòng quay thứ hai.
 - **Dạng 3: Động năng quay và Mômen quán tính (Bài 9.34):** Một cánh quạt máy bay có chiều dài $2,08 \text{ m}$ (tính từ tâm đến đầu cánh) và khối lượng $117 \text{ kg}$ đang quay với tốc độ $2400 \text{ vòng/phút}$ quanh trục qua tâm. Coi cánh quạt như một thanh mỏng, hãy tính động năng quay của cánh quạt đó.
 
-Bạn muốn cùng tôi áp dụng công thức để giải bài tính động năng của cánh quạt máy bay trước, hay muốn đi vào phân tích gia tốc góc của bài bánh xe đầu tiên?
+
+**1. Bài 9.8: Động học quay với gia tốc góc không đổi**
+
+- **Dữ kiện:** $\omega_{0z} = -6,00 \text{ rad/s}$; tại $t = 7,00 \text{ s}$ thì $\omega_z = +4,00 \text{ rad/s}$.
+- **(a) Dấu của gia tốc góc:** Sử dụng công thức $\alpha_z = \frac{\Delta\omega_z}{\Delta t} = \frac{4,00 - (-6,00)}{7,00} = \frac{10}{7} \approx 1,43 \text{ rad/s}^2$. Vì kết quả lớn hơn 0 nên gia tốc góc mang dấu **dương**.
+- **(b) Khoảng thời gian tốc độ tăng/giảm:** Tốc độ quay là độ lớn của vận tốc góc ($|\omega_z|$).
+    - Từ $t = 0$ đến khi dừng lại ($\omega_z = 0$), tốc độ giảm từ 6 xuống 0. Thời gian để dừng là $t = \frac{0 - (-6)}{10/7} = 4,20 \text{ s}$. Vậy tốc độ **giảm** trong khoảng $t = 0$ đến $t = 4,20 \text{ s}$.
+    - Từ $t = 4,20 \text{ s}$ đến $t = 7,00 \text{ s}$, vận tốc góc tăng từ 0 đến +4, do đó tốc độ **tăng**.
+- **(c) Độ dịch chuyển góc:** Áp dụng phương trình $\Delta\theta = \omega_{0z}t + \frac{1}{2}\alpha_z t^2$. Thay số ta có: $\Delta\theta = (-6,00)(7,00) + \frac{1}{2}(\frac{10}{7})(7,00)^2 = -42,0 + 35,0 = -7,00 \text{ rad}$.
+
+**2. Bài 9.21: Gia tốc hướng tâm trên vật rắn quay**
+
+- **Dữ kiện:** Bán kính $R = \frac{40,0}{2} = 20,0 \text{ cm} = 0,200 \text{ m}$; $\omega_{0z} = 0$; $\alpha_z = 3,00 \text{ rad/s}^2$. Bánh xe hoàn thành 2 vòng, tương đương $\Delta\theta = 2 \times 2\pi = 4\pi \text{ rad}$.
+- **Tính vận tốc góc bình phương:** Áp dụng hệ thức độc lập thời gian $\omega_z^2 = \omega_{0z}^2 + 2\alpha_z\Delta\theta$. Suy ra $\omega_z^2 = 0 + 2(3,00)(4\pi) = 24\pi \text{ (rad/s)}^2$.
+- **Tính gia tốc hướng tâm:** $a_{rad} = \omega_z^2 R = (24\pi)(0,200) = 4,8\pi \approx 15,1 \text{ m/s}^2$.
+
+**3. Bài 9.34: Động năng quay của cánh quạt**
+
+- **Dữ kiện:** Chiều dài (từ đầu cánh đến đầu cánh) $L = 2,08 \text{ m}$; khối lượng $m = 117 \text{ kg}$; $\omega = 2400 \text{ vòng/phút}$.
+- **Đổi đơn vị:** $\omega = 2400 \times \frac{2\pi}{60} = 80\pi \approx 251 \text{ rad/s}$.
+- **Tính Mômen quán tính:** Coi cánh quạt như một thanh mảnh quay quanh trục đi qua khối tâm, $I = \frac{1}{12}mL^2$. Thay số: $I = \frac{1}{12}(117)(2,08)^2 \approx 42,2 \text{ kg}\cdot\text{m}^2$.
+- **Tính động năng quay:** $K = \frac{1}{2}I\omega^2 = \frac{1}{2}(42,2)(80\pi)^2 \approx 1,33 \times 10^6 \text{ J}$.
+
+Bạn đã hiểu rõ cách áp dụng các công thức động học quay này chưa, hay chúng ta tiếp tục sang các bài toán về Động lực học của chuyển động quay (Mômen lực và định luật II Newton) ở Tuần 6 luôn nhé?
