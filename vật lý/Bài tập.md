@@ -114,3 +114,11 @@ Dưới đây là một số dạng bài tập trọng tâm tiêu biểu của T
     - Thay vào phương trình: $0 + 38220 - 10500 = 30v_2^2 \Rightarrow 27720 = 30v_2^2 \Rightarrow v_2 = \sqrt{924} \approx 30,4\text{ m/s}$.
 
 Các bước giải này có dễ theo dõi đối với bạn không? Nếu ổn rồi, chúng ta sẽ chuyển sang một số bài tập tính toán Mômen quán tính và Động năng quay của Tuần 5 nhé?
+
+Dưới đây là một số bài tập tiêu biểu của Tuần 5 với số liệu cụ thể, tập trung vào Động học quay và Năng lượng quay:
+
+- **Dạng 1: Động học quay với gia tốc góc không đổi (Bài 9.8):** Một bánh xe quay quanh trục Oz. Vận tốc góc $\omega_z = -6,00 \text{ rad/s}$ tại $t = 0$, tăng tuyến tính và đạt $+4,00 \text{ rad/s}$ ở $t = 7,00 \text{ s}$. Yêu cầu: Xác định dấu của gia tốc góc, khoảng thời gian tốc độ quay tăng/giảm, và tính độ dịch chuyển góc tại $t = 7,00 \text{ s}$.
+- **Dạng 2: Gia tốc của một điểm trên vật rắn quay (Bài 9.21):** Một bánh xe đường kính $40,0 \text{ cm}$ bắt đầu quay từ trạng thái đứng yên với gia tốc góc không đổi là $3,00 \text{ rad/s}^2$. Yêu cầu tính gia tốc hướng tâm của một điểm trên vành bánh xe tại thời điểm bánh xe vừa hoàn thành vòng quay thứ hai.
+- **Dạng 3: Động năng quay và Mômen quán tính (Bài 9.34):** Một cánh quạt máy bay có chiều dài $2,08 \text{ m}$ (tính từ tâm đến đầu cánh) và khối lượng $117 \text{ kg}$ đang quay với tốc độ $2400 \text{ vòng/phút}$ quanh trục qua tâm. Coi cánh quạt như một thanh mỏng, hãy tính động năng quay của cánh quạt đó.
+
+Bạn muốn cùng tôi áp dụng công thức để giải bài tính động năng của cánh quạt máy bay trước, hay muốn đi vào phân tích gia tốc góc của bài bánh xe đầu tiên?
