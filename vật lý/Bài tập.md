@@ -26,9 +26,6 @@
 3. **Dạng 3: Lực trong thang máy (Trọng lượng biểu kiến).** Lực pháp tuyến hướng lên do sàn thang máy tác dụng lên một hành khách là 620 N, trong khi trọng lượng thực của người này là 650 N. Cần xác định xem hành khách đang chuyển động theo hướng nào (lên hay xuống) và tính gia tốc.
 4. **Dạng 4: Hệ vật trên mặt phẳng nghiêng.** Hai khối nặng 100 kg và 50 kg được nối với nhau bằng một sợi dây vắt qua ròng rọc, nằm trên hai mặt phẳng nghiêng không ma sát với góc nghiêng lần lượt là $30,0^\circ$ và $53,1^\circ$. Yêu cầu xác định hướng chuyển động của hệ, tính gia tốc các khối và lực căng dây.
 
-Bạn muốn thử sức vẽ giản đồ lực cho bài nào trước, hay muốn tôi tiếp tục cung cấp hướng dẫn giải chi tiết 4 bước cho các dạng bài này?
-
-Dưới đây là lời giải chi tiết cho 4 bài tập tiêu biểu của Tuần 2:
 
 **Bài 1: Gia tốc của electron (Bài 4.6)**
 
@@ -114,7 +111,7 @@ Dưới đây là một số dạng bài tập trọng tâm tiêu biểu của T
     - Thay vào phương trình: $0 + 38220 - 10500 = 30v_2^2 \Rightarrow 27720 = 30v_2^2 \Rightarrow v_2 = \sqrt{924} \approx 30,4\text{ m/s}$.
 
 
-Dưới đây là một số bài tập tiêu biểu của Tuần 5 với số liệu cụ thể, tập trung vào Động học quay và Năng lượng quay:
+# Tuần 5
 
 - **Dạng 1: Động học quay với gia tốc góc không đổi (Bài 9.8):** Một bánh xe quay quanh trục Oz. Vận tốc góc $\omega_z = -6,00 \text{ rad/s}$ tại $t = 0$, tăng tuyến tính và đạt $+4,00 \text{ rad/s}$ ở $t = 7,00 \text{ s}$. Yêu cầu: Xác định dấu của gia tốc góc, khoảng thời gian tốc độ quay tăng/giảm, và tính độ dịch chuyển góc tại $t = 7,00 \text{ s}$.
 - **Dạng 2: Gia tốc của một điểm trên vật rắn quay (Bài 9.21):** Một bánh xe đường kính $40,0 \text{ cm}$ bắt đầu quay từ trạng thái đứng yên với gia tốc góc không đổi là $3,00 \text{ rad/s}^2$. Yêu cầu tính gia tốc hướng tâm của một điểm trên vành bánh xe tại thời điểm bánh xe vừa hoàn thành vòng quay thứ hai.
@@ -143,17 +140,12 @@ Dưới đây là một số bài tập tiêu biểu của Tuần 5 với số l
 - **Tính Mômen quán tính:** Coi cánh quạt như một thanh mảnh quay quanh trục đi qua khối tâm, $I = \frac{1}{12}mL^2$. Thay số: $I = \frac{1}{12}(117)(2,08)^2 \approx 42,2 \text{ kg}\cdot\text{m}^2$.
 - **Tính động năng quay:** $K = \frac{1}{2}I\omega^2 = \frac{1}{2}(42,2)(80\pi)^2 \approx 1,33 \times 10^6 \text{ J}$.
 
-Bạn đã hiểu rõ cách áp dụng các công thức động học quay này chưa, hay chúng ta tiếp tục sang các bài toán về Động lực học của chuyển động quay (Mômen lực và định luật II Newton) ở Tuần 6 luôn nhé?
-
-Dưới đây là một số bài tập tiêu biểu của Tuần 6 (Động lực học của chuyển động quay) với đề bài cụ thể:
+# Tuần 6
 
 - **Dạng 1: Tính mômen lực cơ bản (Bài 10.1):** Tính mômen lực (độ lớn và hướng) tại điểm O do lực $\vec{F}$ gây ra đối với một thanh dài 4,00 m. Biết lực có độ lớn $F = 10,0 \text{ N}$ và tác dụng lên thanh dưới nhiều góc độ khác nhau (như vuông góc, hợp với thanh một góc $30^\circ$, $60^\circ$, $120^\circ$).
 - **Dạng 2: Mômen lực và động học quay (Bài 10.8):** Một đĩa đồng nhất khối lượng 40,0 kg, bán kính 0,200 m được gắn trên một trục ngang. Có một lực không đổi $F = 30,0 \text{ N}$ tác dụng theo phương tiếp tuyến lên vành đĩa. Yêu cầu tính vận tốc tiếp tuyến và độ lớn của gia tốc tổng hợp tại một điểm trên vành sau khi đĩa đã quay được 0,200 vòng.
 - **Dạng 3: Lăn không trượt và bảo toàn năng lượng (Bài 10.28):** Một bánh xe nặng 2,25 kg (coi như hình trụ rỗng thành mỏng, đường kính 85,0 cm) rơi ra khỏi xe đạp khi đang ở độ cao 75,0 m (so với chân đồi) với tốc độ ban đầu 11,0 m/s. Nếu bánh xe lăn không trượt xuống dốc, hãy tính vận tốc và tổng động năng của nó khi đến chân đồi,.
 
-Bạn muốn chúng ta bắt đầu bằng việc thiết lập phương trình cho bài toán đĩa quay chịu lực tiếp tuyến (Bài 10.8), hay muốn xem cách giải bài toán bánh xe lăn không trượt (Bài 10.28) trước?
-
-Dưới đây là hướng dẫn giải chi tiết cho các dạng bài tập tiêu biểu của Tuần 6 (tôi đã cập nhật đúng số liệu từ tài liệu bài tập trọng tâm của bạn):
 
 **1. Dạng 1: Tính mômen lực (Bài 10.1)**
 
@@ -181,8 +173,7 @@ Dưới đây là hướng dẫn giải chi tiết cho các dạng bài tập ti
     - Khoảng cách vuông góc là $r_\perp = 8,00 \times \sin(36,9^\circ) \approx 4,80 \text{ m}$.
     - Độ lớn mômen động lượng $L = 2,00 \times 12,0 \times 4,80 = 115,2 \text{ kg}\cdot\text{m}^2/\text{s}$.
 
-Bạn có thấy các bước giải này dễ hiểu định hướng không, hay bạn muốn chúng ta chuyển tiếp sang ôn tập Tuần 8 (Lực hấp dẫn và định luật Kepler) nhé?
-Dưới đây là một số bài tập tiêu biểu của Tuần 8 về Lực hấp dẫn, kèm theo dữ kiện cụ thể để bạn luyện tập:
+# Tuần 8
 
 - **Dạng 1: Lực hấp dẫn trong hệ nhiều vật (Bài 13.5):** Hai quả cầu đồng nhất có cùng khối lượng $0,260\text{ kg}$ được đặt cố định. Yêu cầu tính độ lớn và hướng gia tốc ban đầu của một quả cầu nhỏ thứ 3 (khối lượng $0,010\text{ kg}$) khi nó được thả rơi từ một điểm P chịu lực hút tổng hợp từ hai quả cầu kia.
 - **Dạng 2: Gia tốc trọng trường trên hành tinh khác (Bài 13.12):** Biết khối lượng của Sao Kim bằng 81,5% khối lượng Trái Đất và bán kính bằng 94,9% bán kính Trái Đất. Bạn cần tính gia tốc trọng trường trên bề mặt Sao Kim, từ đó suy ra trọng lượng của một hòn đá trên Sao Kim nếu nó nặng $75,0\text{ N}$ khi ở trên Trái Đất.
