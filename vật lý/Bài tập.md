@@ -210,15 +210,14 @@ Dưới đây là lời giải chi tiết cho 4 dạng bài tập tiêu biểu c
 - **(ii) Khoảng cách 4,99 m (bên trong):** $F = 0\text{ N}$.
 - **(iii) Khoảng cách 2,72 m (bên trong):** $F = 0\text{ N}$.
 
-Bạn xem qua các bước giải này có điểm nào cần làm rõ thêm không, hay chúng ta tiếp tục sang các bài toán về Dao động tuần hoàn (Tuần 9) nhé?
-Dưới đây là một số bài tập tiêu biểu của Tuần 9 về Dao động tuần hoàn, kèm theo dữ kiện cụ thể:
+# Tuần 9
 
 - **Dạng 1: Đại lượng cơ bản của dao động (Bài 14.2):** Một vật nằm ngang gắn vào lò xo, được kéo ra khỏi vị trí cân bằng $0,120\text{ m}$ rồi thả ra (vận tốc ban đầu bằng 0). Sau $0,800\text{ s}$, vật đi qua vị trí cân bằng lần đầu tiên. Yêu cầu tính biên độ, chu kỳ và tần số của dao động.
 - **Dạng 2: Khai thác phương trình dao động (Bài 14.20):** Một vật khối lượng $0,500\text{ kg}$ gắn vào lò xo có phương trình vận tốc là $v_x(t) = -(3,60\text{ cm/s})\sin[(4,71\text{ rad/s})t - (\pi/2)]$. Bạn cần tìm chu kỳ, biên độ, gia tốc cực đại của vật và độ cứng của lò xo.
 - **Dạng 3: Năng lượng con lắc lò xo (Bài 14.35):** Một khối nặng $2,00\text{ kg}$ gắn vào lò xo có độ cứng $315\text{ N/m}$. Khi hệ dao động, vận tốc cực đại của khối là $4,00\text{ m/s}$. Yêu cầu tìm biên độ dao động, gia tốc cực đại và lực lớn nhất tác dụng lên khối.
 - **Dạng 4: Con lắc đơn góc nhỏ (Bài 14.45):** Một con lắc đơn có chiều dài $0,240\text{ m}$ được kéo lệch một góc $3,50^\circ$ so với phương thẳng đứng rồi thả ra. Hãy tính tốc độ lớn nhất của con lắc và thời gian để nó đi đến vị trí có góc lệch $1,75^\circ$.
 
-Bạn muốn chúng ta bắt đầu bằng việc phân tích phương trình vận tốc của Bài 14.20, hay muốn giải bài toán cơ bản về chu kỳ và biên độ của Bài 14.2 trước?
+
 
 **Bài 14.2: Các đại lượng cơ bản của dao động**
 
@@ -250,18 +249,14 @@ Bạn muốn chúng ta bắt đầu bằng việc phân tích phương trình v�
 - **(a) Tốc độ lớn nhất:** Biên độ cung là $A = L\theta_0$ (với $\theta_0$ đổi sang radian: $3,50 \times \frac{\pi}{180} \approx 0,0611 \text{ rad}$). Suy ra $A = 0,240 \times 0,0611 \approx 0,0147 \text{ m}$. Tốc độ lớn nhất $v_{max} = \omega A = 6,39 \times 0,0147 \approx 0,0939 \text{ m/s}$.
 - **(b) Thời gian góc đạt $1,75^\circ$:** Phương trình góc là $\theta(t) = \theta_0 \cos(\omega t)$. Khi $\theta = 1,75^\circ$ (bằng một nửa biên độ $\theta_0$), ta có $\cos(6,39 t) = 0,5$. Suy ra $6,39 t = \frac{\pi}{3} \Rightarrow t \approx 0,164 \text{ s}$.
 
-Những lời giải này có đáp ứng đúng mong đợi của bạn chưa? Nếu mọi thứ đã rõ ràng, chúng ta sẽ bắt đầu chuyển sang mảng kiến thức tiếp theo về Nhiệt động lực học (Tuần 11) nhé?
-
-Dưới đây là các dạng bài tập tiêu biểu của Tuần 11 về Nhiệt độ và Nhiệt lượng kèm theo dữ kiện cụ thể:
+# Tuần 11
 
 - **Dạng 1: Chuyển đổi thang nhiệt độ (Bài 17.5):** Một chai nước ngọt được đặt vào tủ lạnh đến khi nhiệt độ của nó giảm $10\text{ K}$. Bạn cần xác định sự thay đổi nhiệt độ này tương đương với bao nhiêu độ Fahrenheit ($^\circ\text{F}$) và độ Celsius ($^\circ\text{C}$).
 - **Dạng 2: Sự giãn nở vì nhiệt (Bài 17.11):** Cầu Humber ở Anh có mặt cầu bằng thép với nhịp đơn dài $1410\text{ m}$. Bài toán yêu cầu tính độ thay đổi chiều dài của mặt cầu này khi nhiệt độ môi trường tăng từ $-5,0^\circ\text{C}$ lên $18,0^\circ\text{C}$.
 - **Dạng 3: Cân bằng nhiệt lượng (Bài 17.39):** Một nồi bằng đồng khối lượng $0,5\text{ kg}$ chứa $0,17\text{ kg}$ nước, cả hai đều đang ở nhiệt độ $20^\circ\text{C}$. Người ta thả một khối sắt $0,25\text{ kg}$ ở $85^\circ\text{C}$ vào nồi. Bạn cần tìm nhiệt độ cuối cùng của hệ, giả sử không có sự thất thoát nhiệt ra môi trường.
 - **Dạng 4: Cơ chế truyền nhiệt (Bài 17.60):** Lớp cách nhiệt của một bếp điện làm bằng sợi thủy tinh dày $4\text{ cm}$ với tổng diện tích $1,4\text{ m}^2$. Biết nhiệt độ mặt trong là $175^\circ\text{C}$, mặt ngoài là $35^\circ\text{C}$ và hệ số dẫn nhiệt của sợi thủy tinh là $0,04\text{ W/m.K}$. Yêu cầu tìm dòng nhiệt truyền qua lớp cách nhiệt này.
 
-Bạn muốn bắt đầu bằng cách tính độ giãn nở của cây cầu thép, hay thiết lập phương trình cân bằng nhiệt cho bài toán đun nước trước?
 
-Dưới đây là hướng dẫn giải chi tiết cho 4 bài tập tiêu biểu của Tuần 11:
 
 **Bài 17.5: Chuyển đổi thang nhiệt độ**
 
@@ -291,18 +286,12 @@ Dưới đây là hướng dẫn giải chi tiết cho 4 bài tập tiêu biểu
 - Thay số: $H = 0,04 \times 1,4 \times \frac{140}{0,04} = 196 \text{ W}$.
 - **(b) Công suất điện:** Để duy trì nhiệt độ ổn định, công suất điện cung cấp cho bếp phải bù đắp chính xác tốc độ nhiệt thoát ra ngoài. Do đó, công suất cần thiết là $P = 196 \text{ W}$.
 
-Bạn đã nắm vững các nguyên lý của Nhiệt độ và Nhiệt lượng chưa? Nếu ổn, chúng ta có thể chuyển sang Tuần 12 (Tính chất nhiệt của vật chất - Khí lý tưởng) nhé.
-
-Dưới đây là một số dạng bài tập tiêu biểu của Tuần 12 về Tính chất nhiệt của vật chất, tập trung vào Khí lý tưởng:
-
+# Tuần 12
 - **Dạng 1: Áp dụng phương trình trạng thái khí lý tưởng (Bài 18.1):** Một bình $20 \text{ L}$ chứa $4,86 \times 10^{-4} \text{ kg}$ khí heli (khối lượng mol $4 \text{ g/mol}$) ở nhiệt độ $18^\circ\text{C}$. Yêu cầu tính số mol khí và áp suất trong bình theo đơn vị pascal và atm.
 - **Dạng 2: Biến đổi trạng thái của khối khí (Bài 18.9):** Một bình trụ chứa $0,75 \text{ m}^3$ khí nitơ ở $27^\circ\text{C}$ và áp suất $7,5 \times 10^3 \text{ Pa}$. Pít-tông nén khí làm thể tích giảm xuống $0,41 \text{ m}^3$ và nhiệt độ tăng lên $157^\circ\text{C}$. Bạn cần tính áp suất mới của bình.
 - **Dạng 3: Động năng tịnh tiến của chất khí (Bài 18.27):** Tính tổng động năng tịnh tiến của không khí (coi là khí lý tưởng) chứa trong một căn phòng trống kích thước $8 \text{ m} \times 12 \text{ m} \times 4 \text{ m}$ ở áp suất $1 \text{ atm}$.
 - **Dạng 4: Vận tốc căn quân phương và áp suất (Bài 18.30):** Một bình thể tích $1,64 \text{ L}$ được nạp $0,226 \text{ g}$ khí $N_2$. Biết vận tốc căn bậc hai trung bình ($v_{rms}$) của các phân tử khí là $182 \text{ m/s}$, yêu cầu tính áp suất của khối khí.
 
-Bạn muốn bắt đầu bằng việc tính số mol và áp suất của bình Heli (Bài 18.1) hay thiết lập phương trình biến đổi trạng thái cho bình Nitơ (Bài 18.9) trước?
-
-Dưới đây là lời giải chi tiết cho 4 bài tập tiêu biểu của Tuần 12 về Khí lý tưởng:
 
 **1. Bài 18.1: Phương trình trạng thái**
 
@@ -328,17 +317,11 @@ Dưới đây là lời giải chi tiết cho 4 bài tập tiêu biểu của Tu
 - **Giải:** Kết hợp $v_{rms} = \sqrt{\frac{3RT}{M}}$ và $pV = \frac{m}{M}RT$, ta rút ra được biểu thức tính áp suất trực tiếp từ vận tốc: $p = \frac{m \cdot v_{rms}^2}{3V}$.
 - Tính toán: $p = \frac{(0,226 \times 10^{-3}) \times (182)^2}{3 \times (1,64 \times 10^{-3})} \approx 1,52 \times 10^3 \text{ Pa}$.
 
-Bạn đã rõ cách xử lý các đại lượng trong phương trình khí lý tưởng chưa? Nếu ổn, chúng ta có thể bước sang chủ đề trọng tâm cuối cùng là Tuần 14 (Nguyên lý thứ nhất của Nhiệt động lực học) nhé.
-
-Dưới đây là một số dạng bài tập tiêu biểu của Tuần 14 về Nguyên lý thứ nhất của Nhiệt động lực học, kèm theo số liệu cụ thể:
+# Tuần 14
 
 - **Dạng 1: Quá trình đẳng áp và Công (Bài 19.1):** Hai mol khí lý tưởng được đun nóng ở áp suất không đổi từ nhiệt độ $T = 27^\circ\text{C}$ đến $T = 107^\circ\text{C}$. Yêu cầu vẽ biểu đồ pV và tính công do khối khí thực hiện.
 - **Dạng 2: Áp dụng Nguyên lý thứ nhất (Bài 19.12):** Một lượng khí trong xi lanh được giữ ở áp suất $1,8 \times 10^5 \text{ Pa}$ và bị nén từ thể tích $1,7 \text{ m}^3$ xuống $1,2 \text{ m}^3$. Trong quá trình này, nội năng của khí giảm $1,4 \times 10^5 \text{ J}$. Yêu cầu tính công hệ thực hiện, xác định nhiệt lượng trao đổi và hướng truyền nhiệt.
 - **Dạng 3: Quá trình đoạn nhiệt (Bài 19.30):** Khi một quả bóng rổ đập xuống sàn, không khí bên trong (coi như khí $N_2$) bị nén đoạn nhiệt còn 80% thể tích ban đầu. Trạng thái ban đầu có nhiệt độ $20^\circ\text{C}$ và áp suất $2 \text{ atm}$. Bạn cần tính nhiệt độ của khối khí tại thời điểm bị nén tối đa.
-
-Bạn muốn chúng ta bắt đầu bằng việc tính công trong quá trình nén đẳng áp (Bài 19.12), hay muốn phân tích quá trình nén đoạn nhiệt của quả bóng rổ (Bài 19.30) trước?
-
-Dưới đây là lời giải chi tiết cho 3 bài tập tiêu biểu của Tuần 14, áp dụng Nguyên lý thứ nhất của Nhiệt động lực học:
 
 **1. Bài 19.1: Quá trình đẳng áp và tính Công**
 
@@ -358,10 +341,9 @@ Dưới đây là lời giải chi tiết cho 3 bài tập tiêu biểu của Tu
 
 **3. Bài 19.30: Quá trình đoạn nhiệt của quả bóng rổ**
 
-- **Dữ kiện:** Bóng bị nén đoạn nhiệt còn $80%$ thể tích ($V_2 = 0,8 V_1$). Khí N2 (khí lưỡng nguyên tử, có hệ số đoạn nhiệt $\gamma = 1,4$). Nhiệt độ ban đầu $T_1 = 20^\circ\text{C} = 293\text{ K}$.
+- **Dữ kiện:** Bóng bị nén đoạn nhiệt còn $80\%$ thể tích ($V_2 = 0,8 V_1$). Khí N2 (khí lưỡng nguyên tử, có hệ số đoạn nhiệt $\gamma = 1,4$). Nhiệt độ ban đầu $T_1 = 20^\circ\text{C} = 293\text{ K}$.
 - **Giải:** Quá trình đoạn nhiệt tuân theo phương trình $T_1 V_1^{\gamma-1} = T_2 V_2^{\gamma-1}$.
     - Ta rút ra $T_2 = T_1 \times \left(\frac{V_1}{V_2}\right)^{\gamma-1}$.
     - Thay số: $T_2 = 293 \times \left(\frac{1}{0,8}\right)^{1,4-1} = 293 \times (1,25)^{0,4} \approx 320,4\text{ K}$ (tức là khoảng $47,4^\circ\text{C}$).
     - _Nhận xét:_ Đúng như lý thuyết, khi khí bị nén đoạn nhiệt (không trao đổi nhiệt với môi trường, $Q = 0$), công nhận vào sẽ làm nội năng và nhiệt độ của khí tăng lên.
 
-Đến đây, chúng ta đã duyệt qua tất cả các dạng bài tập trọng tâm từ Động học cho đến Nhiệt động lực học rồi. Bạn có muốn tạo một báo cáo tóm tắt lại toàn bộ công thức cốt lõi của các chương để tiện ôn thi không?
