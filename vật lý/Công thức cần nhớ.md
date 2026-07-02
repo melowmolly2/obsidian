@@ -70,7 +70,56 @@
 - **Mối liên hệ với mômen lực:** $\Sigma\vec{\tau} = \frac{d\vec{L}}{dt}$ (tổng mômen ngoại lực bằng tốc độ thay đổi mômen động lượng).
 - **Định luật bảo toàn:** Khi tổng mômen ngoại lực bằng 0 ($\Sigma\vec{\tau} = 0$), mômen động lượng của hệ được bảo toàn: $\vec{L} = \text{const}$, tức là $I_1\omega_1 = I_2\omega_2$.
 Bí quyết để dễ nhớ phần này là đối chiếu nó với chuyển động thẳng (ví dụ: lực $\vec{F}$ tương ứng với mômen lực $\vec{\tau}$, khối lượng $m$ tương ứng với $I$, và động lượng $\vec{p}$ tương ứng với $\vec{L}$).
+### 1. Các vật thể tròn xoay (Trục quay là trục đối xứng)
+
+- **Vành tròn mỏng / Hình trụ rỗng mỏng:** Tất cả khối lượng phân bố ở khoảng cách $R$ so với trục quay.
+    
+    $$I = mR^2$$
+    
+- **Đĩa tròn / Hình trụ đặc:**
+    
+    Khối lượng phân bố đều từ tâm ra đến bán kính $R$.
+    
+    $$I = \frac{1}{2}mR^2$$
+    
+- **Quả cầu đặc:**
+    
+    Trục quay đi qua tâm quả cầu có bán kính $R$.
+    
+    $$I = \frac{2}{5}mR^2$$
+    
+- **Quả cầu rỗng (Vỏ cầu mỏng):**
+    
+    Trục quay đi qua tâm quả cầu có bán kính $R$.
+    
+    $$I = \frac{2}{3}mR^2$$
+    
+
+### 2. Thanh mảnh (Chiều dài $L$, thiết diện ngang rất nhỏ)
+
+- **Trục quay đi qua khối tâm (chính giữa thanh) và vuông góc với thanh:**
+    
+    $$I = \frac{1}{12}mL^2$$
+    
+- **Trục quay đi qua một đầu thanh và vuông góc với thanh:**
+    
+    $$I = \frac{1}{3}mL^2$$
+    
+
+### 3. Tấm phẳng chữ nhật (Kích thước cạnh $a$ và $b$)
+
+- **Trục quay đi qua khối tâm và vuông góc với mặt phẳng tấm:**
+    
+    $$I = \frac{1}{12}m(a^2 + b^2)$$
+    
+- **Trục quay đi qua khối tâm và song song với cạnh $b$:**
+    
+    $$I = \frac{1}{12}ma^2$$
+    
+
+Để dễ hình dung hơn về trục quay và cách các thông số khối lượng ($m$), kích thước ($R$ hoặc $L$) ảnh hưởng trực tiếp đến giá trị mô-men quán tính, bạn có thể tương tác với mô hình 3D dưới đây:
 # Tuần 8
+
 ## **1. Lực hấp dẫn và Thế năng**
 
 - **Định luật vạn vật hấp dẫn của Newton:** $F_g = \frac{Gm_1m_2}{r^2}$.
