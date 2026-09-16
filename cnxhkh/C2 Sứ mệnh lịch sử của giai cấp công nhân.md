@@ -26,4 +26,8 @@
 - Phát triển văn hóa, xây dựng con người mới, đạo đức và lối sống mới xã hội chủ nghĩa
 ### ==$\Rightarrow$ Xây dựng nền văn hóa mới, trên nền tảng hệ tư tưởng chính trị của giai cáp công nhân, thay thế hệ tư tưởng chính trị của giai cấp tư sản.==
 
-## Nhân tố chủ uan quy định sứ mệnh lịch sử của giai ca
+## Nhân tố chủ uan quy định sứ mệnh lịch sử của giai cấp công nhân
+- Sự phát triển của giai cấp công nhân về số lượng và chất lượng
+- Vai trò của Đảng Cộng sản
+- Mối quan hệ giữa Đảng Cộng sản với giai cấp công nhân
+- Sự liên minh giai cấp công - nông và các tầng lớp lao động khác. 
