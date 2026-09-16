@@ -6,4 +6,4 @@
 - Giai cấp công nhân là những người không có hoặc về cơ bản không có tư liệu sản xuất phải làm thuê cho giai cấp tư sản và bị giai cấp tư sản bóc lột giá trị thặng dư.
 (Giá trị thặng dư: )
 ## Ở các nước xã hội chủ nghĩa
-- Ở các xã hội chủ nghĩa, giai cấp công nhân cùng nhân dân lao động làm chủ những tư liệu sản xuất chủ yếu và cùn nhau hợp tác lao động vì lợi ích chung của toàn xã hội trong đó có lợi ích chính đáng của bản thân họ. 
+- Ở các xã hội chủ nghĩa, giai cấp công nhân cùng nhân dân lao động làm chủ những tư liệu sản xuất chủ yếu và cùng nhau hợp tác lao động vì lợi ích chung của toàn xã hội trong đó có lợi ích chính đáng của bản thân họ. 
