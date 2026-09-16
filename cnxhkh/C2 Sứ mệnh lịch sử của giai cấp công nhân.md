@@ -44,9 +44,12 @@
 - Tăng nhanh về số lượng chất lượng và thay đổi lớn về cơ cấu, trở thành lực lượng sản xuất của toàn cầu và mang tính chất quốc tế.
 - Trở thành giai cấp lãnh đạo và Đảng Cộng sản trở thành Đảng cầm quyền ở các nước xã hội chủ nghĩa.
 ## Sứ mệnh lịch sử của giai cấp công nahan về mặt kinh tế
-- Có vai trò tiên phong tạo ra của cải vật chất, thúc đẩy xã hội phát triển bằng phương thức sản xuất công
+- Có vai trò tiên phong tạo ra của cải vật chất, thúc đẩy xã hội phát triển bằng phương thức sản xuất công nghiệp hiện đại mang tính xã hội hóa cao, thúc đẩy sự chín muồi
 
 ## Về nội dung chính trị - xã hội
 ### Ở các nước TBCN:
 - Chống bất công và bất bình đẳng xã hội
-- 
+- Giành chính quyền về tay giai cấp công nhân và nhân dân lao động
+### Ở các nước XHCN:
+- Lãnh đạo thành công sự nghiệp đổi mới, giải quyết thành công các nhiệm vụ trong thời kỳ quá độ lên CNXH;
+- Đưa đất nước phát triển nhanh và bền vững
