@@ -7,3 +7,6 @@
 (Giá trị thặng dư: )
 ## Ở các nước xã hội chủ nghĩa
 - Ở các xã hội chủ nghĩa, giai cấp công nhân cùng nhân dân lao động làm chủ những tư liệu sản xuất chủ yếu và cùng nhau hợp tác lao động vì lợi ích chung của toàn xã hội trong đó có lợi ích chính đáng của bản thân họ. 
+# Hai thuộc tính cơ bản của giai cấp công nhân
+## Về phương thức lao động, phương thức sản xuất
+- Đó là những người lao động trực tiếp 
