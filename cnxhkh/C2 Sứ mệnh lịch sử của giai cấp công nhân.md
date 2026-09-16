@@ -34,4 +34,7 @@
 
 # Sứ mệnh lịch sử của giai cấp công nhân ngày này
 - Giai cấp công nhân ngày này là những tập đoàn người sản xuất và dịch vụ bằng phương thức công nghiệp tọa nên cơ sở vật chất cho sự tồn tại và phát triển của thế giới hiện đại.
-- So với giai cấp công nhân truyền thống ở thế kỷ 19, giai cấp công nhân hiện nay vừa có những điểm tương ddoo
+- So với giai cấp công nhân truyền thống ở thế kỷ 19, giai cấp công nhân hiện nay vừa có những điểm tương đồng vừa có những điểm khác biệt.
+## Điểm tương đồng
+- Giai cấp công nhân hiện nay vẫn là lực lượng sản xuất hàng đầu của xã hội hiện đại. 
+- Giai cấp công nhân vẫn bị giai cấp tư sạn và chủ nghĩa tư bản bóc lột giá trị thặng dư.
