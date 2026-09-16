@@ -38,3 +38,8 @@
 ## Điểm tương đồng
 - Giai cấp công nhân hiện nay vẫn là lực lượng sản xuất hàng đầu của xã hội hiện đại. 
 - Giai cấp công nhân vẫn bị giai cấp tư sạn và chủ nghĩa tư bản bóc lột giá trị thặng dư.
+## Điểm khác biệt:
+- Giai cấp công nhân hiện đại có xu hướng trí tuệ hóa
+- Trở thành nguồn lực cơ bản, nguồn vốn xã hội quan trọng nhất của xã hội hiện đại
+- Tăng nhanh về số lượng chất lượng và thay đổi lớn về cơ cấu, trở thành lực lượng sản xuất của toàn cầu và mang tính chất quốc tế.
+- Trở thành giai cấp lãnh đạo và Đảng Cộng sản trở thành Đảng cầm quyền ở các nước xã hội chủ nghĩa.
