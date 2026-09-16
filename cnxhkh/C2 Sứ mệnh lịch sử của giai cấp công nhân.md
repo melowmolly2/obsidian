@@ -19,3 +19,7 @@
 - Trong quá trình công nghiệp hóa, họ là lực lượng đi đầu thực hiện tăng năng suất lao động xã hội. 
 - Thực hiện các nguyên tắc sở hữu, quản lý và phân phối phù hợp với nhu cầu phát triển sản xuất, thực hiện tiến bộ và công bằng xã hội.
 ## ==$\Rightarrow$ Cải tạo quan hệ sản xuất tư nhân tư bản chủ nghĩa, xây dựng quan hệ sản xuất mới - xã hội chủ nghĩa== 
+
+## Nội dung văn hóa, tư tưởng
+- Giải cấp công nhân có sứ mệnh cải tạo cái cũ lỗi thời, lạc hậu, xây dựng cái mới, tiến bộ trong lĩnh vực ý thức tư tưởng, tâm lý, lối sống và đời sống tinh thần của xã hội;
+- Xây dựng và củng cố ý thức hệ tiên tiến theo ch
