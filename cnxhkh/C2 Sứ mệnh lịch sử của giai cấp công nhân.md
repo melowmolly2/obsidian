@@ -12,3 +12,5 @@
 - Đó là những người lao động trực tiếp hay gián tiếp vận hành các công cụ sản xuất có tính chất công nghiệp ngày càng hiện đại và xã hội hó cao. Đại biểu cho lực lượng sản xuất tiên tiến, cho phương thức sản xuất hiện đại. 
 ## Về vị trí trong quan hệ sản xuất tư bản chủ nghĩa
 - Đó là những người lao động không có tư liệu sản xuất phải bán sức lao động cho nhà tư bản và bị nhà tư bản bóc lột về giá trị thặng dư, họ được gọi là giai cấp vô dản và đối kháng với giai cấp tư sản. 
+# Nội dung, điều kiện khách quan và nhân tố chủ quan quy định sứ mệnh lịch sử của giai cấp công nhân
+## 
