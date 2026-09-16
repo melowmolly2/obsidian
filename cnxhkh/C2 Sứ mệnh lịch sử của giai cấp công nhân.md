@@ -18,8 +18,11 @@
 - Đóng vai trò nòng cốt trong quá trình giải phóng lực lượng sản xuất, thúc đẩy lực lượng sản xuất phát triển dể tạo cơ sở cho quan hệ sản xuất mới xã hội chủ nghĩa ra đời. 
 - Trong quá trình công nghiệp hóa, họ là lực lượng đi đầu thực hiện tăng năng suất lao động xã hội. 
 - Thực hiện các nguyên tắc sở hữu, quản lý và phân phối phù hợp với nhu cầu phát triển sản xuất, thực hiện tiến bộ và công bằng xã hội.
-## ==$\Rightarrow$ Cải tạo quan hệ sản xuất tư nhân tư bản chủ nghĩa, xây dựng quan hệ sản xuất mới - xã hội chủ nghĩa== 
+### ==$\Rightarrow$ Cải tạo quan hệ sản xuất tư nhân tư bản chủ nghĩa, xây dựng quan hệ sản xuất mới - xã hội chủ nghĩa== 
 
 ## Nội dung văn hóa, tư tưởng
 - Giải cấp công nhân có sứ mệnh cải tạo cái cũ lỗi thời, lạc hậu, xây dựng cái mới, tiến bộ trong lĩnh vực ý thức tư tưởng, tâm lý, lối sống và đời sống tinh thần của xã hội;
-- Xây dựng và củng cố ý thức hệ tiên tiến theo ch
+- Xây dựng và củng cố ý thức hệ tiên tiến theo chủ nghĩa M-LN, đấu tranh khắc phục ý thức hệ tư sản và các tàn dư của hệ tư tưởng cũ;
+- Phát triển văn hóa, xây dựng con người mới, đạo đức và lối sống mới xã hội chủ nghĩa
+### ==$\Rightarrow$ Xây dựng nền văn hóa mới, trên nền tảng hệ tư tưởng chính trị của giai cáp công nhân, thay thế hệ tư tưởng chính trị của giai cấp tư sản.==
+
