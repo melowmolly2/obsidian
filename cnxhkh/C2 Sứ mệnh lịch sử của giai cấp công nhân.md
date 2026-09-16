@@ -18,4 +18,4 @@
 - Đóng vai trò nòng cốt trong quá trình giải phóng lực lượng sản xuất, thúc đẩy lực lượng sản xuất phát triển dể tạo cơ sở cho quan hệ sản xuất mới xã hội chủ nghĩa ra đời. 
 - Trong quá trình công nghiệp hóa, họ là lực lượng đi đầu thực hiện tăng năng suất lao động xã hội. 
 - Thực hiện các nguyên tắc sở hữu, quản lý và phân phối phù hợp với nhu cầu phát triển sản xuất, thực hiện tiến bộ và công bằng xã hội.
-==$\Rightarrow$ Cải tạo quan hệ sản xuất tư nhân tư bản chủ nghĩa, xây dựng quan hệ sản xuất mới - xã hội chủ nghĩa== 
+## ==$\Rightarrow$ Cải tạo quan hệ sản xuất tư nhân tư bản chủ nghĩa, xây dựng quan hệ sản xuất mới - xã hội chủ nghĩa== 
