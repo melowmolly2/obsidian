@@ -70,5 +70,8 @@ Số lượng và phân bố
 - Địa bàn: Các Khu công nghiệp - khu chế xuất
 - Ngành nghề chủ yếu: Công nghiệp chế biến - chế tạo, khai thác - năng lượng, xây dụng, giao thông - vận tải - cảng biển, chế biến thực phẩm - nông sản, công nghệ - dịch vụ kỹ thuật (đang tăng nhanh)
 
-## Nội dung sứ mệnh lịch sử của giai cấp công nhân Việt Nam
-- 
+# Nội dung sứ mệnh lịch sử của giai cấp công nhân Việt Nam
+## Về kinh tế
+- Phát huy vai trò và trách nhiệm của lực lượng đi đầu trong sự nghiệp đẩy mạnh công nghieeph hóa, liện đại hóa đất nước
+## Về chính trị - xã hội
+- Có nhiệm vụ giữ vũng và tăng cường sự lãnh đạo của Đảng Cộng sản Việt Nam, "Giữ"
