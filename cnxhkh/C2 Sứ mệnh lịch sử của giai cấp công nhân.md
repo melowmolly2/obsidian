@@ -55,4 +55,5 @@
 - Đưa đất nước phát triển nhanh và bền vững
 
 # Hiện nay
-#
+## Về mặt kinh tế
+## Chính trị xã hội
