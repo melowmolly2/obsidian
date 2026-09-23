@@ -63,4 +63,4 @@
 - Giai cấp công nhân Việt Nam phát triển chậm, số luongj ít, trình độ nghề nghiệp thấp, còng mang nhiều tàn du của tâm lý và tập quán tiể nông, song đã sóm giác ngộ lý tưởng, mục tiêu cách mạng, nhanh chóng trưởng thành về ý thức chính trị của giai cấp, vương lên đảm đương vai trò lãnh đạo cách mạng ở Việt Nam.
 - Giai cấp công nhân Việt Nam sinh ra trong lòng một dân tộc có truyền thống đấu tranh bất khuất chống ngoại xâm.
 - Giai cấp công nhân Việt Nam gắn bó mật thiết với các tầng lớp nhân dân trong xã hội.
-- Giai cấp công nhân Việt Nam hiện nay đã tăng nhanh
+- Giai cấp công nhân Việt Nam hiện nay đã tăng nhanh về số lượng và chất lượng, là giai cấp đi đầu trong sự nghiệp đẩy mạng công nghiệp hóa, hiện đại hóa, gắn vói phát triển kinh tế tri thức, bảo vệ tài nguyên và môi trường.
