@@ -43,7 +43,7 @@
 - Trở thành nguồn lực cơ bản, nguồn vốn xã hội quan trọng nhất của xã hội hiện đại
 - Tăng nhanh về số lượng chất lượng và thay đổi lớn về cơ cấu, trở thành lực lượng sản xuất của toàn cầu và mang tính chất quốc tế.
 - Trở thành giai cấp lãnh đạo và Đảng Cộng sản trở thành Đảng cầm quyền ở các nước xã hội chủ nghĩa.
-## Sứ mệnh lịch sử của giai cấp công nahan về mặt kinh tế
+## Sứ mệnh lịch sử của giai cấp công nhân về mặt kinh tế
 - Có vai trò tiên phong tạo ra của cải vật chất, thúc đẩy xã hội phát triển bằng phương thức sản xuất công nghiệp hiện đại mang tính xã hội hóa cao, thúc đẩy sự chín muồi 
 
 ## Về nội dung chính trị - xã hội
