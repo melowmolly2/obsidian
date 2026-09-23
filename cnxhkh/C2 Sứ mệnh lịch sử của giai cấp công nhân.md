@@ -81,3 +81,4 @@ Số lượng và phân bố
 ### Phương hướng xây dụng giai cấp công nhân Việt Nam hiện nay:
 - Xây dựng giai cấp công nhân có giác ngộ giai cấp có ý thức công dân, yêu nước, yêu chủ nghĩa xã hội, nhạy bén và vững vàng trước những diễn biến phức tạp của tình hình thế giới và những biến đổi của tình hình trong nước; có tinh thần đoàn kết dân tộc, đoàn kết, hợp tác quố tế; thực hiện sứ mệnh lịch sử của giai cấp lãnh đạo cách mạng thông qua đội tiền phong là Đảng Cộng sản Việt Nam. 
 - Bảo đảm việc làm, nhà ở, các công trình phúc lợi phục vụ cho công nhân
+### Một số giải pháp chủ yếu
