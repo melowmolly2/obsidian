@@ -54,6 +54,4 @@
 - Lãnh đạo thành công sự nghiệp đổi mới, giải quyết thành công các nhiệm vụ trong thời kỳ quá độ lên CNXH;
 - Đưa đất nước phát triển nhanh và bền vững
 
-# Hiện nay
-## Về mặt kinh tế
-## Chính trị xã hội
+
