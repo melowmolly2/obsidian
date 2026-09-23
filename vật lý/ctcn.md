@@ -161,12 +161,102 @@ Khi r >> kích thước vật mang điện:
 
 ## Bảng hằng số cần nhớ
 
-| Hằng số | Giá trị |
-|---|---|
-| k (Coulomb) | 9 × 10⁹ N·m²/C² |
-| ε₀ | 8,854 × 10⁻¹² C²/(N·m²) |
-| e | 1,6 × 10⁻¹⁹ C |
-| mₑ | 9,109 × 10⁻³¹ kg |
-| mₚ | 1,672 × 10⁻²⁷ kg |
-| Nₐ | 6,022 × 10²³ mol⁻¹ |
-| g | 9,8 m/s² |
+| Hằng số     | Giá trị                 |
+| ----------- | ----------------------- |
+| k (Coulomb) | 9 × 10⁹ N·m²/C²         |
+| ε₀          | 8,854 × 10⁻¹² C²/(N·m²) |
+| e           | 1,6 × 10⁻¹⁹ C           |
+| mₑ          | 9,109 × 10⁻³¹ kg        |
+| mₚ          | 1,672 × 10⁻²⁷ kg        |
+| Nₐ          | 6,022 × 10²³ mol⁻¹      |
+| g           | 9,8 m/s²                |
+## Kiến thức cần nhớ — Chương 21 & 22
+
+---
+
+### ⚡ COULOMB & LỰC ĐIỆN
+
+$$F = k\frac{|q_1 q_2|}{r^2}, \quad k = 9\times10^9 \text{ N·m}^2/\text{C}^2$$
+
+- Cùng dấu → **đẩy**, khác dấu → **hút**
+- Lực là vector → cộng vector từng cặp
+- Newton 3: $\vec{F}_{12} = -\vec{F}_{21}$
+
+---
+
+### 🎯 ĐIỆN TRƯỜNG
+
+$$\vec{E} = \frac{\vec{F}}{q}, \quad E_{\text{điểm}} = k\frac{|Q|}{r^2}$$
+
+| Vật | Công thức E |
+|-----|-------------|
+| Điện tích điểm | $k Q/r^2$ |
+| Dây thẳng vô hạn | $\lambda/(2\pi\varepsilon_0 r)$ |
+| Tấm phẳng vô hạn | $\sigma/(2\varepsilon_0)$ |
+| Vòng tròn (trục) | $kQx/(x^2+a^2)^{3/2}$ |
+| Đĩa tròn (trục) | $\frac{\sigma}{2\varepsilon_0}\left(1-\frac{x}{\sqrt{x^2+R^2}}\right)$ |
+
+- Xa vô cùng → mọi vật đều $\approx$ điện tích điểm
+- Nhiều tấm → cộng đại số các $E$ theo hướng
+
+---
+
+### 🧭 LƯỠNG CỰC ĐIỆN
+
+$$p = qd, \quad \tau = pE\sin\phi, \quad W = -pE\cos\phi$$
+
+---
+
+### 📐 ĐỊNH LUẬT GAUSS
+
+$$\oint \vec{E}\cdot d\vec{A} = \frac{Q_{\text{enc}}}{\varepsilon_0}$$
+
+**Cách dùng:** chọn mặt Gauss có đối xứng → $E$ = const trên mặt → kéo ra ngoài tích phân.
+
+| Đối xứng | Mặt Gauss | Kết quả |
+|----------|-----------|---------|
+| Cầu | Mặt cầu | $E = kQ_{\text{enc}}/r^2$ |
+| Trụ | Mặt trụ | $E = \lambda_{\text{enc}}/(2\pi\varepsilon_0 r)$ |
+| Phẳng | Hộp/trụ | $E = \sigma/(2\varepsilon_0)$ |
+
+---
+
+### 🔵 VẬT DẪN vs CÁCH ĐIỆN
+
+| | Vật dẫn | Cách điện |
+|--|---------|-----------|
+| E bên trong | **= 0** | ≠ 0 |
+| Điện tích | Chỉ trên **bề mặt** | Phân bố trong **thể tích** |
+| E sát mặt ngoài | $\sigma/\varepsilon_0$ | $\sigma/2\varepsilon_0$ (mỗi mặt) |
+| E xuyên qua | Không | Có |
+
+---
+
+### 📊 KỸ THUẬT TÍCH PHÂN $Q_{\text{enc}}$
+
+$$Q_{\text{enc}} = \int \rho\, dV$$
+
+| Đối xứng | $dV$ |
+|----------|------|
+| Cầu | $4\pi r^2 dr$ |
+| Trụ | $2\pi r\, l\, dr$ |
+| Phẳng | $A\, dx$ |
+
+---
+
+### 🏃 CHUYỂN ĐỘNG HẠT TRONG ĐIỆN TRƯỜNG
+
+$$F = qE, \quad a = \frac{qE}{m}$$
+
+- Dùng động học: $v^2 = v_0^2 + 2as$
+- Bỏ qua trọng lực khi $qE \gg mg$
+- Electron lệch **nhiều hơn** proton (khối lượng nhỏ hơn ~1836 lần)
+
+---
+
+### ⚖️ CÂN BẰNG ĐIỆN TÍCH
+
+Để tìm vị trí $E = 0$ (hoặc $F = 0$):
+- Xác định vùng có **hướng ngược nhau**
+- Lập phương trình cân bằng → giải $r$
+- Kiểm tra nghiệm có nằm đúng vùng không
