@@ -55,3 +55,5 @@
 - Đưa đất nước phát triển nhanh và bền vững
 
 
+## Về văn hóa - tư tưởng
+- Có nhiệm vụ đấu tranh bảo vệ nền tảng tư tưởng của Đảng Cộng sản; giáo dục nhận thức và củng cố niềm tin khoa học đối với lý tưởng, mục tiêu của 
