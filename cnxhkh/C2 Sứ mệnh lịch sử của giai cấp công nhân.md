@@ -69,4 +69,6 @@ Số lượng và phân bố
 - Số lượng : 30 triệu người (2023-24), 
 - Địa bàn: Các Khu công nghiệp - khu chế xuất
 - Ngành nghề chủ yếu: Công nghiệp chế biến - chế tạo, khai thác - năng lượng, xây dụng, giao thông - vận tải - cảng biển, chế biến thực phẩm - nông sản, công nghệ - dịch vụ kỹ thuật (đang tăng nhanh)
+
+## Nội dung sứ mệnh lịch sử của giai cấp công nhân Việt Nam
 - 
