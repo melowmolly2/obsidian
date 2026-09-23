@@ -60,3 +60,7 @@
 # Sứ mệnh lịch sử của giai cấp công nhân Việt Nam
 ## Đặc điểm giai cấp công nhân Việt Nam
 - Giai cấp công nhân Việt Nam ra đòi vào đầu thế kỉ 20 gắn liền với chính sách khai thác thuộc địa của thực dân Pháp ở Việt Nam, trước cả sự ra đời của giai cấp tư sản Việt Nam và là giai cấp trực tiếp đối kháng với tư bản thực dân Pháp.
+- Giai cấp công nhân Việt Nam phát triển chậm, số luongj ít, trình độ nghề nghiệp thấp, còng mang nhiều tàn du của tâm lý và tập quán tiể nông, song đã sóm giác ngộ lý tưởng, mục tiêu cách mạng, nhanh chóng trưởng thành về ý thức chính trị của giai cấp, vương lên đảm đương vai trò lãnh đạo cách mạng ở Việt Nam.
+- Giai cấp công nhân Việt Nam sinh ra trong lòng một dân tộc có truyền thống đấu tranh bất khuất chống ngoại xâm.
+- Giai cấp công nhân Việt Nam gắn bó mật thiết với các tầng lớp nhân dân trong xã hội.
+- Giai cấp công nhân Việt Nam hiện nay đã tăng nhanh
