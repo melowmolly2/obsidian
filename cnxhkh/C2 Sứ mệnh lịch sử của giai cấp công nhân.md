@@ -59,3 +59,4 @@
 - Có nhiệm vụ đấu tranh bảo vệ nền tảng tư tưởng của Đảng Cộng sản; giáo dục nhận thức và củng cố niềm tin khoa học đối với lý tưởng, mục tiêu của CNXH cho giai cấp mình và nhân dân lao động; giáo dục và thực hiện chủ nghĩa quốc tế chân chính trên cơ sở phát huy chủ nghĩa yêu nước và tinh thần dân tộc.
 # Sứ mệnh lịch sử của giai cấp công nhân Việt Nam
 ## Đặc điểm giai cấp công nhân Việt Nam
+- Giai cấp công nhân Việt Nam ra đòi vào đầu thế kỉ 20 gắn liền với chính sách kh
