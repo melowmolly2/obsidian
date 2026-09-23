@@ -86,4 +86,4 @@ Số lượng và phân bố
 - Xây dụng giai cấp công nhân lớn mạnh gắn với xây dụng và phát huy sức mạnh của liên minh giai cấp công - nông - tri thức - doanh nhân đặt dưới sự lãnh đạo của Đảng. 
 - Thực hiện chiến lược xây dụng giai cấp công nhân lớn mạnh, gắn kết chặt chẽ với chiến lược phát triển kinh tế - xã hội, công nghiệp hóa, hiện đại hóa đất nước và hội nhập quốc tế.
 - Đào tạo bồi thường, nâng cao trình độ mọi mặt cho công nhân, không ngừng tri thức hóa giai cấp công nhân
-- Xây dụng giai cấp công nhân lonwsm nhạ, gắn liền với xây dựng Đảng trong sạch, vứng mạnh về chính tị, 
+- Xây dụng giai cấp công nhân lonwsm nhạ, gắn liền với xây dựng Đảng trong sạch, vứng mạnh về chính tị, tư tưởng, tổ chức và đạo đức, xây dụng tổ chức Công đoàn, Đoàn thanh niên và các tổ chức chính trị - xã hội khác trong giai cấp công nhân
