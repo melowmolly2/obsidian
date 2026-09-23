@@ -74,4 +74,6 @@ Số lượng và phân bố
 ## Về kinh tế
 - Phát huy vai trò và trách nhiệm của lực lượng đi đầu trong sự nghiệp đẩy mạnh công nghieeph hóa, liện đại hóa đất nước
 ## Về chính trị - xã hội
-- Có nhiệm vụ giữ vũng và tăng cường sự lãnh đạo của Đảng Cộng sản Việt Nam, "Giữ"
+- Có nhiệm vụ giữ vũng và tăng cường sự lãnh đạo của Đảng Cộng sản Việt Nam, "giữ vũng bản chất giai cấp công nhân của Đảng"
+## Về văn hóa tư tưởng
+- Xây dụng con người mới XHCN, giáo dục đạo đức cách mạng, rèn luyện lối sống, tác phong công ngheeipj, văn minh, hiện đại, xây dụng hệ giá trị văn hóa và con người Việt Nam, hoàn thiện nhân cách, bảo vệ sự trong sáng của chủ nghĩa Mác - Lenin và tư tưởng Hồ Chí Minh
