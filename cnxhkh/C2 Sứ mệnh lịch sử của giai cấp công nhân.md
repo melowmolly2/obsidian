@@ -64,3 +64,9 @@
 - Giai cấp công nhân Việt Nam sinh ra trong lòng một dân tộc có truyền thống đấu tranh bất khuất chống ngoại xâm.
 - Giai cấp công nhân Việt Nam gắn bó mật thiết với các tầng lớp nhân dân trong xã hội.
 - Giai cấp công nhân Việt Nam hiện nay đã tăng nhanh về số lượng và chất lượng, là giai cấp đi đầu trong sự nghiệp đẩy mạng công nghiệp hóa, hiện đại hóa, gắn vói phát triển kinh tế tri thức, bảo vệ tài nguyên và môi trường.
+
+Số lượng và phân bố
+- Số lượng : 30 triệu người (2023-24), 
+- Địa bàn: Các Khu công nghiệp - khu chế xuất
+- Ngành nghề chủ yếu: Công nghiệp chế biến - chế tạo, khai thác - năng lượng, xây dụng, giao thông - vận tải - cảng biển, chế biến thực phẩm - nông sản, công nghệ - dịch vụ kỹ thuật (đang tăng nhanh)
+- 
