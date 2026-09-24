@@ -20,4 +20,5 @@
 
 # A* Search
 - uses evaluation function $f(n)=g(n)+h(n)$
-	- $g(n)
+	- $g(n)$: cost frrom initial node to node n
+	- $h(n)$: estimated total cost of cheapest solution
