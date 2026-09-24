@@ -22,3 +22,7 @@
 - uses evaluation function $f(n)=g(n)+h(n)$
 	- $g(n)$: cost frrom initial node to node n
 	- $h(n)$: estimated total cost of cheapest solution
+ - Idea: preserve efficientcy of greedy search but avoid expanding path 
+- A heuristic h is admissible (optimistic) if:
+$$0\le h(n) \le h^*(n)$$
+	where $h^*(n)$ is the true cost to a nearest goal
