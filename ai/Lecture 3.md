@@ -17,4 +17,7 @@
 # Beam search
 - Similar to best first search
 - However, expand only k nodes at the next level, not the whole expands
-- 
+
+# A* Search
+- uses evaluation function $f(n)=g(n)+h(n)$
+	- $g(n)
