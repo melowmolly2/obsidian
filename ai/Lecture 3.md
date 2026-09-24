@@ -7,3 +7,5 @@
 - A heuristic function is:
 	- A function that estimates how close a state is to a goal
 	- Designed for a particular search problem
+	- Examples: Manhattan distance, Euclidean distance for pathing
+	- 
