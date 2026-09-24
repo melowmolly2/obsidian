@@ -13,4 +13,8 @@
 	- Total Manhattan distance 
 - There can be many ways to evaluate 
 - Evaluation functions may not be optimal
-- How the evaluation function is chosen determines a lot of the results of huristics search
+- How the evaluation function is chosen determines a lot of the results of heuristics search
+# Beam search
+- Similar to best first search
+- However, expand only k nodes at the next level, not the whole expands
+- 
