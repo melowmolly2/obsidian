@@ -260,3 +260,101 @@ $$F = qE, \quad a = \frac{qE}{m}$$
 - Xác định vùng có **hướng ngược nhau**
 - Lập phương trình cân bằng → giải $r$
 - Kiểm tra nghiệm có nằm đúng vùng không
+## Kiến thức cần nhớ — Chương 23: Điện Thế
+
+---
+
+### ⚡ ĐIỆN THẾ & THẾ NĂNG
+
+$$V = \frac{U}{q}, \quad U = qV \quad \text{(J)}$$
+
+$$W_{A\to B} = q(V_A - V_B) = \Delta K = K_B - K_A$$
+
+> Công của lực điện **không phụ thuộc đường đi** — chỉ phụ thuộc điểm đầu và cuối.
+
+---
+
+### 🎯 ĐIỆN THẾ DO ĐIỆN TÍCH GÂY RA
+
+| Vật | Công thức V |
+|-----|------------|
+| Điện tích điểm | $V = \dfrac{kq}{r}$ |
+| Nhiều điện tích | $V = \sum \dfrac{kq_i}{r_i}$ (vô hướng!) |
+| Vỏ cầu ($r \geq R$) | $V = \dfrac{kQ}{r}$ |
+| Vỏ cầu ($r < R$) | $V = \dfrac{kQ}{R}$ = const |
+| Trục vòng tròn | $V = \dfrac{kQ}{\sqrt{x^2+R^2}}$ |
+| Trụ dài (ngoài) | $V = -\dfrac{\lambda}{2\pi\varepsilon_0}\ln r + \text{const}$ |
+| Tấm phẳng đều | $V = -Ex + \text{const}$ |
+
+> **Điện thế là đại lượng vô hướng** → cộng đại số, không cộng vector!
+
+---
+
+### 🔗 LIÊN HỆ E VÀ V
+
+$$E = -\frac{dV}{dr} \quad \text{(1D)}$$
+
+$$\vec{E} = -\nabla V = -\left(\frac{\partial V}{\partial x}\hat{x} + \frac{\partial V}{\partial y}\hat{y} + \frac{\partial V}{\partial z}\hat{z}\right)$$
+
+$$\Delta V = V_B - V_A = -\int_A^B \vec{E}\cdot d\vec{l}$$
+
+$$|E| = \frac{|\Delta V|}{d} \quad \text{(điện trường đều)}$$
+
+---
+
+### 🌐 MẶT ĐẲNG THẾ
+
+- Là mặt có $V =$ const
+- **Vuông góc** với đường sức điện
+- **Gần nhau hơn** ở nơi $E$ lớn
+- Không tốn công để di chuyển điện tích **trên** mặt đẳng thế ($W=0$)
+
+| Nguồn | Mặt đẳng thế |
+|-------|-------------|
+| Điện tích điểm | Mặt **cầu** đồng tâm |
+| Tấm phẳng | Mặt **phẳng** song song |
+| Trụ dài | Mặt **trụ** đồng trục |
+
+---
+
+### ⚖️ BẢO TOÀN NĂNG LƯỢNG
+
+$$K_A + U_A = K_B + U_B$$
+
+$$\frac{1}{2}mv_A^2 + qV_A = \frac{1}{2}mv_B^2 + qV_B$$
+
+**Ứng dụng thường gặp:**
+- Tìm $v$ tại điểm nào đó khi biết $v_0$
+- Tìm khoảng cách gần nhất ($v_f = 0$)
+- Electron tăng tốc qua hiệu điện thế $\Delta V$: $v = \sqrt{2e\Delta V/m_e}$
+
+---
+
+### 🔋 THẾ NĂNG HỆ NHIỀU ĐIỆN TÍCH
+
+$$U = \sum_{i<j} \frac{kq_iq_j}{r_{ij}}$$
+
+Ví dụ 3 điện tích:
+
+$$U = k\left(\frac{q_1q_2}{r_{12}} + \frac{q_1q_3}{r_{13}} + \frac{q_2q_3}{r_{23}}\right)$$
+
+---
+
+### 📐 HAI CẦU ĐỒNG TÂM (vật dẫn)
+
+$$V_a - V_b = kq\left(\frac{1}{r_a} - \frac{1}{r_b}\right)$$
+
+$$E(r) = \frac{kq}{r^2} \quad (r_a < r < r_b)$$
+
+---
+
+### 🧠 QUY TẮC DẤU NHANH
+
+| Tình huống | Kết quả |
+|-----------|---------|
+| $q>0$ đi từ V cao → thấp | $W > 0$, tăng tốc |
+| $q>0$ đi từ V thấp → cao | $W < 0$, giảm tốc |
+| $q<0$ đi từ V cao → thấp | $W < 0$, giảm tốc |
+| $q<0$ đi từ V thấp → cao | $W > 0$, tăng tốc |
+| Di chuyển **ngược** $\vec{E}$ | $V$ **tăng** |
+| Di chuyển **theo** $\vec{E}$ | $V$ **giảm** |
