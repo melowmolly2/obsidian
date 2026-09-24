@@ -25,4 +25,4 @@
  - Idea: preserve efficientcy of greedy search but avoid expanding path 
 - A heuristic h is admissible (optimistic) if:
 $$0\le h(n) \le h^*(n)$$
-	where $h^*(n)$ is the true cost to a nearest goal
+where $h^*(n)$ is the true cost to a nearest goal.
