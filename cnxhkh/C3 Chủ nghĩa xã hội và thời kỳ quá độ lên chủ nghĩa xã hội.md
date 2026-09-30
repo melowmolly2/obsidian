@@ -17,3 +17,5 @@
 - CNXH chính là giai đoạn đâu cua hinh hái kinh ế - xã hội cộng sản chủ nghĩa và thời kỳ 
 - Đói với các nước chưa trải qua chủ nghĩa tư bản phát triển là thời kỳ quá độ lên chủ nghĩa xã hội.
 - Dối với những nước đã trải qua chủ nghĩa tư bản phát triển là thời kỳ quá độ lên chủ nghĩa xã hội. 
+### Điều kiện ra đời chủ nghĩa xã hội
+- Sự phát triển của LLS
