@@ -18,4 +18,10 @@
 - Đói với các nước chưa trải qua chủ nghĩa tư bản phát triển là thời kỳ quá độ lên chủ nghĩa xã hội.
 - Dối với những nước đã trải qua chủ nghĩa tư bản phát triển là thời kỳ quá độ lên chủ nghĩa xã hội. 
 ### Điều kiện ra đời chủ nghĩa xã hội
-- Sự phát triển của LLS
+- Sự phát triển của LLSX
+	- LLSX xã hội hóa ngày càng cao mâu thuẫn gay gắt với qhsx tư nhân lỗi thời của cntb. 
+	- đòi hỏi xác lập qhsx mới mở đường cho llsx tiếp tục phát triển,
+- Sự trưởng thành của giai cấp công nhân
+	- Phong trào đấu tranh của công nhân dịch chuyển từ tự phát sang tự giác
+	- Đảng Cộng sản được thành lập để dẫn dắt cách mạng
+- 
