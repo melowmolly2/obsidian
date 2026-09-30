@@ -24,4 +24,6 @@
 - Sự trưởng thành của giai cấp công nhân
 	- Phong trào đấu tranh của công nhân dịch chuyển từ tự phát sang tự giác
 	- Đảng Cộng sản được thành lập để dẫn dắt cách mạng
-- 
+- Cách mạng vô sản
+	- Là cuộc cách mạng của giai cấp công nhân và nhân dân lao động dưới sự lãnh đạo của Đảng Cộng sản được thực hiện bằng con đường bạo lực cách mạng nhằm lật đổ chế độ tư bản chủ nghĩa, thiết lập nhà nước chuyên chính vô sản, thực hiện sự nghiệp cải tạo xã hội cũ, xây dựng xã hội mới, xã hội chủ nghĩa và cộng sản chủ nghĩa.
+## Đặc trưng của cnxh
