@@ -37,4 +37,6 @@
 ## Tính tất yếu của thời kỳ quá độ lên cnxh
 - Thời kỳ quá độ lên cnxh được tính từ khi giai cấp công nhân giành được chính quyền cho đến khi xây dựng xong cơ sở vật chất - kỹ thuật và những quan hệ xã hội căn bản của chủ nghĩa xã hội.
 - Các quan hệ xã hội của cnxh không tự phát nảy sinh trong lòng cntb, chúng là kết quả của quá trình xây dugnj và cải tạo xã hội chủ nghĩa. 
-- CNXH được xây dựng trên cơ sợ chế độ công hữu về tư liệu sản xuất chủ yếu, tồn tại dưới hai hình thức là nhà nước và tập thể, không còn các giai cấp đối kháng, không còn tình trạng áp bức, bóc lột
+- CNXH được xây dựng trên cơ sợ chế độ công hữu về tư liệu sản xuất chủ yếu, tồn tại dưới hai hình thức là nhà nước và tập thể, không còn các giai cấp đối kháng, không còn tình trạng áp bức, bóc lột.
+- Xây dựng cnxh là công cuộc mới mẻ, khó khăn và phức tạp, phải cần có thời gian để giai cấp công nhân từng bước làm quen với những công việc đó.
+- CNXH được xây dựng trên nền tảng  sản xuất đại công nghiệp có trình độ cao. Đối với những nước chưa từng trải qua quá trình công nghiệp hóa tiến lên cnxh, thời kỳ quá độ cho việc xây dựng csvc - kỹ thuật cho chủ nghĩa xã hội có thể phải kéo dài với nhiệm vụ trọng tâm là tiến hành công nghiệp hóa xã hội chủ nghĩa
