@@ -53,4 +53,6 @@
 - Xây dựng đảng cộng sản ngày càng trong sạch, vững mạnh, ngang tầm với các nhiệm vụ của mỗi thời kỳ lịch sử
 ### Văn hóa tư tưởng
 - Từng bước xây dựng văn hóa vô sản, nền văn hóa mới xã hội chủ nghĩa, tiếp thu giá trị văn hóa dân tộc và tinh hoa văn hóa nhân loại,bảo đảm đáp ứng nhu cầu văn hóa - tinh thần ngày càng tăng của nhân dân
-- Thực hiện tuyên truyền, phổ biến những tư tưởng khoa học và cách mạng của chủ nghĩa Mác-Le
+- Thực hiện tuyên truyền, phổ biến những tư tưởng khoa học và cách mạng của chủ nghĩa Mác-Leenin trong toàn xã hội
+- Khắc phục những tư tưởng và tâm lý có ảnh hưởng tiêu cực đối với tiến trình xây dựng chủ nghĩa xã hội. 
+##
