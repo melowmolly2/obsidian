@@ -61,4 +61,7 @@
 - Từng bước khắc phục sự chênh lệch phát triển giữa các vùng miền, các tầng lớp dân cư trong xã hội
 - Thực hiện mục tiêu lý tưởng tự do của người này là điều kiện tiền đề cho sự tự do cho người khác. 
 # Quá độ lên cnxh ở Việt Nam
-## Quá độ lên cnxh bỏ qua chế độ
+## Quá độ lên cnxh bỏ qua chế độ tbcn
+- Việt Nam tiến lên chủ nghĩa xã hội trong điều kiện vừa thuận lợi vừa khó khăn đan xen, có những đặc trưng cơ bản:
+	- Xuất phát từ một xã hội vốn là thuộc địa nửa phong kiến, lực lượng sản xuất rất thấp. Đất nước trải qua chiến tranh ác liệt, kéo dài nhiều thập kỷ, hậu quả để lại còn nặng nề. Những tàn dư thực dân phong kiến còn nhiều. Các thế lực thù địch thường xuyên tìm cách phá hoại chế độ xã hội chủ nghĩa và nền độc lập dân tộc của nhân dân ta. 
+	- Cuộc cách mạng khoa học và công nghệ hiện đại đang dieenax ra mạnh mẽ, cuốn hút tất cả các nước ở mức độ khác nhau. Những xu thế đó vừa tạo thời có phát triển nhanh 
