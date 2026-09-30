@@ -36,3 +36,5 @@
 # Thời kỳ quá độ lên chủ nghĩa xã hội
 ## Tính tất yếu của thời kỳ quá độ lên cnxh
 - Thời kỳ quá độ lên cnxh được tính từ khi giai cấp công nhân giành được chính quyền cho đến khi xây dựng xong cơ sở vật chất - kỹ thuật và những quan hệ xã hội căn bản của chủ nghĩa xã hội.
+- Các quan hệ xã hội của cnxh không tự phát nảy sinh trong lòng cntb, chúng là kết quả của quá trình xây dugnj và cải tạo xã hội chủ nghĩa. 
+- CNXH được xây dựng trên cơ sợ chế độ công hữu về tư liệu sản xuất chủ yếu, tồn tại dưới hai hình thức là nhà nước và tập thể, không còn các giai cấp đối kháng, không còn tình trạng áp bức, bóc lột
