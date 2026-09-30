@@ -44,4 +44,8 @@
 ### Kinh tế
 - Tất yếu tồn tại nền kinh tế nhiều thành phần và có thành phần đối lập trong mối quan hệ vừa thống nhất vừa mâu thuẫn và đấu tranh với nhau.
 - Tồn tại nhiều loại hình sở hữu về tư liệu sản xuất với những hình thức tổ chức kinh tế đa dạng, đan xen hỗn hợp.
-- Có những hình thức phân phối khác nhau, trong đó hin
+- Có những hình thức phân phối khác nhau, trong đó hình thức phân phối theo lao động giữ vai trò chủ đạo.
+### Chính trị
+- Thực hiện dân chủ đối với nhân dân, tổ chức xây dựng và bảo vệ chế độ mới
+- Tiến hành cuộc đấu tranh chống lại những thế lực thù địch, chống phá sự nghịa xây dựng chủ nghĩa xã hội. 
+- Củng cố nahf nước và nền dân chủ xã
