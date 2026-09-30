@@ -358,3 +358,99 @@ $$E(r) = \frac{kq}{r^2} \quad (r_a < r < r_b)$$
 | $q<0$ đi từ V thấp → cao | $W > 0$, tăng tốc |
 | Di chuyển **ngược** $\vec{E}$ | $V$ **tăng** |
 | Di chuyển **theo** $\vec{E}$ | $V$ **giảm** |
+# Tổng Hợp Kiến Thức Chương 24 — Tụ Điện (Capacitance)
+
+---
+
+## 1. Định nghĩa Điện Dung
+
+$$C = \frac{Q}{V}$$
+
+Đơn vị: Farad (F) = C/V
+
+---
+
+## 2. Công Thức C theo Hình Dạng
+
+| Loại tụ | Công thức | Ghi chú |
+|---|---|---|
+| Phẳng | $C = \dfrac{\varepsilon_0 A}{d}$ | A: diện tích, d: khoảng cách |
+| Trụ | $C = \dfrac{2\pi\varepsilon_0 L}{\ln(r_b/r_a)}$ | L: chiều dài |
+| Cầu | $C = 4\pi\varepsilon_0\dfrac{r_a r_b}{r_b - r_a}$ | rₐ < r_b |
+| Cầu đơn | $C = 4\pi\varepsilon_0 r$ | r_b → ∞ |
+
+---
+
+## 3. Ghép Tụ Điện
+
+| Ghép | Điện dung tương đương | Đặc điểm |
+|---|---|---|
+| Song song | $C_{eq} = \sum C_i$ | V như nhau |
+| Nối tiếp | $\dfrac{1}{C_{eq}} = \sum\dfrac{1}{C_i}$ | Q như nhau |
+
+---
+
+## 4. Năng Lượng Lưu Trữ
+
+$$U = \frac{Q^2}{2C} = \frac{1}{2}CV^2 = \frac{QV}{2}$$
+
+**Mật độ năng lượng:**
+
+$$u = \frac{1}{2}\varepsilon_0 E^2 \quad \text{(chân không)}$$
+
+$$u = \frac{1}{2}\kappa\varepsilon_0 E^2 \quad \text{(có điện môi)}$$
+
+---
+
+## 5. Điện Môi
+
+Khi lấp đầy điện môi hằng số κ:
+
+$$C = \kappa C_0, \quad E = \frac{E_0}{\kappa}, \quad V = \frac{V_0}{\kappa}$$
+
+| Trường hợp | Q | V | C | U |
+|---|---|---|---|---|
+| Ngắt nguồn (Q = const) | = Q₀ | giảm κ lần | tăng κ lần | **giảm κ lần** |
+| Giữ nguồn (V = const) | tăng κ lần | = V₀ | tăng κ lần | **tăng κ lần** |
+
+**Độ bền điện môi:** $E_{max}$ → điện áp tối đa:
+
+$$V_{max} = E_{max} \cdot d$$
+
+---
+
+## 6. Định Luật Gauss Trong Điện Môi
+
+$$\oint \kappa\vec{E}\cdot d\vec{A} = \frac{Q_{free}}{\varepsilon_0} \quad \Leftrightarrow \quad \oint \vec{E}\cdot d\vec{A} = \frac{Q_{free}}{\kappa\varepsilon_0}$$
+
+---
+
+## 7. Sơ Đồ Tư Duy Nhanh
+
+```
+Bài toán tụ điện
+├── Hình dạng đơn → dùng công thức C(hình dạng)
+├── Ghép tụ → nối tiếp / song song / mạch cầu (KCL)
+├── Điện môi → nhân κ vào C₀
+├── Năng lượng → U = Q²/2C hoặc ½CV²
+└── Mật độ năng lượng → u = ½ε₀E²
+```
+
+---
+
+## 8. Các Bài Đã Giải
+
+| Bài | Nội dung | Kết quả nổi bật |
+|---|---|---|
+| 24.3 | Tụ phẳng cơ bản | E = 1.84×10⁶ V/m |
+| 24.5 | Thay đổi d, nối nguồn | Q, C thay đổi theo d |
+| 24.10 | Tụ trụ | r_b = 3.00 mm |
+| 24.11 | Tụ cầu | rₐ = 3.09 cm |
+| 24.17 | Ghép hỗn hợp 4 tụ | Q₄ = 67.2 μC |
+| 24.20 | Ghép hỗn hợp 3 tụ | V_ab = 28 V |
+| 24.25 | Tụ phẳng + năng lượng | V_max = 4500 V |
+| 24.26 | Giảm d, so sánh Q/V const | U giảm ½ hoặc tăng ×2 |
+| 24.32 | Tụ cầu, mật độ năng lượng | u ∝ 1/r⁴ |
+| 24.37 | Điện môi, tìm A_min | A = 135 cm² |
+| 24.41 | Điện môi vào tụ đang nối nguồn | κ = 1.25 |
+| 24.43 | Dẫn xuất C từ Gauss | $C = \kappa\varepsilon_0 A/d$ ✓ |
