@@ -40,3 +40,8 @@
 - CNXH được xây dựng trên cơ sợ chế độ công hữu về tư liệu sản xuất chủ yếu, tồn tại dưới hai hình thức là nhà nước và tập thể, không còn các giai cấp đối kháng, không còn tình trạng áp bức, bóc lột.
 - Xây dựng cnxh là công cuộc mới mẻ, khó khăn và phức tạp, phải cần có thời gian để giai cấp công nhân từng bước làm quen với những công việc đó.
 - CNXH được xây dựng trên nền tảng  sản xuất đại công nghiệp có trình độ cao. Đối với những nước chưa từng trải qua quá trình công nghiệp hóa tiến lên cnxh, thời kỳ quá độ cho việc xây dựng csvc - kỹ thuật cho chủ nghĩa xã hội có thể phải kéo dài với nhiệm vụ trọng tâm là tiến hành công nghiệp hóa xã hội chủ nghĩa
+## Đặc điểm thời kỳ quá độ lên chủ nghĩa xã hội
+### Kinh tế
+- Tất yếu tồn tại nền kinh tế nhiều thành phần và có thành phần đối lập trong mối quan hệ vừa thống nhất vừa mâu thuẫn và đấu tranh với nhau.
+- Tồn tại nhiều loại hình sở hữu về tư liệu sản xuất với những hình thức tổ chức kinh tế đa dạng, đan xen hỗn hợp.
+- Có những hình thức phân phối khác nhau, trong đó hin
