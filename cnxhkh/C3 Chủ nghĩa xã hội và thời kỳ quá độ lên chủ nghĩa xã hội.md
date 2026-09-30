@@ -27,3 +27,6 @@
 - Cách mạng vô sản
 	- Là cuộc cách mạng của giai cấp công nhân và nhân dân lao động dưới sự lãnh đạo của Đảng Cộng sản được thực hiện bằng con đường bạo lực cách mạng nhằm lật đổ chế độ tư bản chủ nghĩa, thiết lập nhà nước chuyên chính vô sản, thực hiện sự nghiệp cải tạo xã hội cũ, xây dựng xã hội mới, xã hội chủ nghĩa và cộng sản chủ nghĩa.
 ## Đặc trưng của cnxh
+- Chủ nghĩa xã hội giải phóng giai cấp, giải phóng dân tộc, giải phóng xã hội, giải phóng con người, tạo điều kiện để con người phát triển toàn diện
+- Chủ nghĩa xã hội là xã hội do nhân dân lao động làm chủ
+- Chủ nghĩa xã hội có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về
