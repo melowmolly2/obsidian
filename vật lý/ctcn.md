@@ -454,3 +454,156 @@ Bài toán tụ điện
 | 24.37 | Điện môi, tìm A_min | A = 135 cm² |
 | 24.41 | Điện môi vào tụ đang nối nguồn | κ = 1.25 |
 | 24.43 | Dẫn xuất C từ Gauss | $C = \kappa\varepsilon_0 A/d$ ✓ |
+# Lý Thuyết Chương 24 — Tụ Điện (Capacitance)
+
+---
+
+## 1. Tụ Điện Là Gì?
+
+Tụ điện gồm **hai vật dẫn** (bản cực) cách nhau bởi chân không hoặc điện môi. Khi tích điện, hai bản mang điện tích **+Q** và **−Q**.
+
+**Điện dung** đo khả năng lưu trữ điện tích:
+
+$$C = \frac{Q}{V} \quad \text{(F = C/V)}$$
+
+> C chỉ phụ thuộc vào **hình dạng hình học** và **vật liệu điện môi**, không phụ thuộc Q hay V.
+
+---
+
+## 2. Điện Dung Theo Hình Dạng
+
+### 2.1 Tụ Phẳng
+
+Hai bản diện tích A, cách nhau d:
+
+$$E = \frac{\sigma}{\varepsilon_0} = \frac{Q}{\varepsilon_0 A}, \quad V = Ed$$
+
+$$\boxed{C = \frac{\varepsilon_0 A}{d}}$$
+
+### 2.2 Tụ Trụ
+
+Hai trụ đồng trục bán kính rₐ < r_b, dài L:
+
+$$E(r) = \frac{\lambda}{2\pi\varepsilon_0 r}, \quad V = \frac{\lambda}{2\pi\varepsilon_0}\ln\frac{r_b}{r_a}$$
+
+$$\boxed{C = \frac{2\pi\varepsilon_0 L}{\ln(r_b/r_a)}}$$
+
+### 2.3 Tụ Cầu
+
+Hai cầu đồng tâm bán kính rₐ < r_b:
+
+$$E(r) = \frac{kQ}{r^2}, \quad V = kQ\left(\frac{1}{r_a} - \frac{1}{r_b}\right)$$
+
+$$\boxed{C = 4\pi\varepsilon_0\frac{r_a r_b}{r_b - r_a}}$$
+
+Khi r_b → ∞ (cầu đơn độc):
+
+$$C = 4\pi\varepsilon_0 r_a$$
+
+---
+
+## 3. Ghép Tụ Điện
+
+### Song Song — cùng V
+
+$$\boxed{C_{eq} = C_1 + C_2 + \cdots + C_n}$$
+
+$$Q_{total} = Q_1 + Q_2 + \cdots, \quad V_1 = V_2 = \cdots = V$$
+
+### Nối Tiếp — cùng Q
+
+$$\boxed{\frac{1}{C_{eq}} = \frac{1}{C_1} + \frac{1}{C_2} + \cdots + \frac{1}{C_n}}$$
+
+$$Q_1 = Q_2 = \cdots = Q, \quad V_{total} = V_1 + V_2 + \cdots$$
+
+### Mạch Cầu (không thể rút gọn)
+
+Dùng **KCL tại các nút trung gian**, lập hệ phương trình:
+
+$$Q_i = C_i \cdot \Delta V_i$$
+
+---
+
+## 4. Năng Lượng Lưu Trữ
+
+$$\boxed{U = \frac{Q^2}{2C} = \frac{1}{2}CV^2 = \frac{1}{2}QV}$$
+
+### Mật Độ Năng Lượng (J/m³)
+
+$$\boxed{u = \frac{1}{2}\varepsilon_0 E^2}$$
+
+> Năng lượng được lưu trữ **trong điện trường**, không phải trong bản cực.
+
+- Tụ phẳng: u = const (E đồng đều)
+- Tụ cầu/trụ: u = u(r), không đồng đều
+
+---
+
+## 5. Điện Môi
+
+### 5.1 Tác Dụng Của Điện Môi
+
+Khi lấp đầy điện môi hằng số κ > 1:
+
+| Đại lượng | Thay đổi |
+|---|---|
+| Điện dung | $C = \kappa C_0$ (tăng) |
+| Điện trường | $E = E_0/\kappa$ (giảm) |
+| Điện áp (Q=const) | $V = V_0/\kappa$ (giảm) |
+
+### 5.2 So Sánh Hai Trường Hợp
+
+| | Q = const (ngắt nguồn) | V = const (giữ nguồn) |
+|---|---|---|
+| C | κC₀ ↑ | κC₀ ↑ |
+| E | E₀/κ ↓ | E₀ (không đổi) |
+| Q | Q₀ | κQ₀ ↑ |
+| U | U₀/κ ↓ | κU₀ ↑ |
+
+### 5.3 Cơ Chế Vật Lý
+
+Điện môi bị **phân cực** → xuất hiện điện tích bề mặt cảm ứng **σ_ind** ngược chiều → làm yếu E bên trong:
+
+$$E = \frac{E_0}{\kappa} = \frac{\sigma - \sigma_{ind}}{\varepsilon_0}$$
+
+### 5.4 Định Luật Gauss Trong Điện Môi
+
+$$\oint \vec{E} \cdot d\vec{A} = \frac{Q_{free}}{\kappa\varepsilon_0}$$
+
+### 5.5 Độ Bền Điện Môi
+
+Nếu $E > E_{max}$ → **đánh thủng** (breakdown):
+
+$$V_{max} = E_{max} \cdot d$$
+
+$$A_{min} = \frac{C \cdot d_{min}}{\kappa\varepsilon_0}$$
+
+---
+
+## 6. Mật Độ Năng Lượng Trong Điện Môi
+
+$$\boxed{u = \frac{1}{2}\kappa\varepsilon_0 E^2}$$
+
+---
+
+## 7. Sơ Đồ Tổng Hợp
+
+```
+TỤ ĐIỆN
+│
+├── Hình dạng → C₀ (phẳng / trụ / cầu)
+│
+├── Ghép tụ
+│   ├── Song song: Ceq = ΣCᵢ
+│   ├── Nối tiếp: 1/Ceq = Σ1/Cᵢ
+│   └── Mạch cầu: KCL
+│
+├── Năng lượng: U = Q²/2C = ½CV²
+│   └── Mật độ: u = ½ε₀E²
+│
+└── Điện môi (κ)
+    ├── C → κC₀
+    ├── Ngắt nguồn: U giảm κ lần
+    ├── Giữ nguồn: U tăng κ lần
+    └── Đánh thủng: V > E_max·d
+```
