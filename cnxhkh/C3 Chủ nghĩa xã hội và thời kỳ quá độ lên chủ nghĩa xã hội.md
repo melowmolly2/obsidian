@@ -33,3 +33,6 @@
 - Chủ nghĩa xã hội có nhà nước kiểu mới mang bản chất giai cấp công nhân, đại biểu cho lợi ích, quyền lực và ý chí của nhân dân lao động.
 - Chủ nghĩa xã hội có nền văn hóa phát triển cao, kế thừa và phát huy những giá trị của văn hóa dân tộc và tinh hoa văn hóa nhân loại. 
 - Chủ nghĩa xã hội bảo đảm bình đẳng, đoàn kết giữa các dân tộc và quan hệ hữu nghị, hợp tác với nhân dân các nước trên thế giới.
+# Thời kỳ quá độ lên chủ nghĩa xã hội
+## Tính tất yếu của thời kỳ quá độ lên cnxh
+- Thời kỳ quá độ lên cnxh được tính từ khi giai cấp công nhân giành được chính quyền cho đến khi xây dựng xong cơ sở vật chất - kỹ thuật và những quan hệ xã hội căn bản của chủ nghĩa xã hội.
