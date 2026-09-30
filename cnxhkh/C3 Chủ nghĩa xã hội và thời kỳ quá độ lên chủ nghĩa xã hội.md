@@ -48,4 +48,6 @@
 ### Chính trị
 - Thực hiện dân chủ đối với nhân dân, tổ chức xây dựng và bảo vệ chế độ mới
 - Tiến hành cuộc đấu tranh chống lại những thế lực thù địch, chống phá sự nghịa xây dựng chủ nghĩa xã hội. 
-- Củng cố nahf nước và nền dân chủ xã
+- Củng cố nahf nước và nền dân chủ xã hội chủ nghĩa ngày càng vững mạnh, đảm bảo quyền làm chủ trong hoạt động kinh tế, chính trị, văn hóa xã hội của nhân dân lao động. 
+- Xây dựng các tổ chức chính trị xã hội thực sự là nơi thực hiện quyền làm chủ của nhân dân lao động
+- Xây dựng đảng cộng sản ngày càng trong sạch, vững mạnh, ngang tầm với các nhiệm vụ của mỗi thời kỳ lịch sử
