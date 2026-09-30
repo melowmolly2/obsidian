@@ -51,3 +51,6 @@
 - Củng cố nahf nước và nền dân chủ xã hội chủ nghĩa ngày càng vững mạnh, đảm bảo quyền làm chủ trong hoạt động kinh tế, chính trị, văn hóa xã hội của nhân dân lao động. 
 - Xây dựng các tổ chức chính trị xã hội thực sự là nơi thực hiện quyền làm chủ của nhân dân lao động
 - Xây dựng đảng cộng sản ngày càng trong sạch, vững mạnh, ngang tầm với các nhiệm vụ của mỗi thời kỳ lịch sử
+### Văn hóa tư tưởng
+- Từng bước xây dựng văn hóa vô sản, nền văn hóa mới xã hội chủ nghĩa, tiếp thu giá trị văn hóa dân tộc và tinh hoa văn hóa nhân loại,bảo đảm đáp ứng nhu cầu văn hóa - tinh thần ngày càng tăng của nhân dân
+- Thực hiện tuyên truyền, phổ biến những tư tưởng khoa học và cách mạng của chủ nghĩa Mác-Le
