@@ -55,4 +55,9 @@
 - Từng bước xây dựng văn hóa vô sản, nền văn hóa mới xã hội chủ nghĩa, tiếp thu giá trị văn hóa dân tộc và tinh hoa văn hóa nhân loại,bảo đảm đáp ứng nhu cầu văn hóa - tinh thần ngày càng tăng của nhân dân
 - Thực hiện tuyên truyền, phổ biến những tư tưởng khoa học và cách mạng của chủ nghĩa Mác-Leenin trong toàn xã hội
 - Khắc phục những tư tưởng và tâm lý có ảnh hưởng tiêu cực đối với tiến trình xây dựng chủ nghĩa xã hội. 
-##
+### Xã hội
+- Chống áp bức bất công, xóa bộ tệ nạn xã hội và những tàn dư của xã hội cũ để lại
+- Thiết lập công bằng xã hội trên cơ sở thực hiện nguyên tắc phân phối theo lao động là chủ đạo
+- Từng bước khắc phục sự chênh lệch phát triển giữa các vùng miền, các tầng lớp dân cư trong xã hội
+- Thực hiện mục tiêu lý tưởng tự do của người này là điều kiện tiền đề cho sự tự do cho người khác. 
+- 
