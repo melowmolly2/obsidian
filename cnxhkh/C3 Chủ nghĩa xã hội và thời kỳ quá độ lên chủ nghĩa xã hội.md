@@ -60,4 +60,5 @@
 - Thiết lập công bằng xã hội trên cơ sở thực hiện nguyên tắc phân phối theo lao động là chủ đạo
 - Từng bước khắc phục sự chênh lệch phát triển giữa các vùng miền, các tầng lớp dân cư trong xã hội
 - Thực hiện mục tiêu lý tưởng tự do của người này là điều kiện tiền đề cho sự tự do cho người khác. 
-- 
+# Quá độ lên cnxh ở Việt Nam
+## Quá độ lên cnxh bỏ qua chế độ
