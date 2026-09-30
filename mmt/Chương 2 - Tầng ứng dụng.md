@@ -1,4 +1,3 @@
-
 ## 📚 Chương 2: Tầng Ứng Dụng — Lý thuyết cần nhớ
 
 ---
