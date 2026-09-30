@@ -12,3 +12,6 @@
 2 con đường quá độ lên cnxh: Quá độ trực tiếp và quá độ gián tiếp
 - Quá độ trực tiếp: các nước cn tư bản ptr cao
 - Quá độ gián tiếp: các nước tiền tư bản (ptr trung bình)
+## Chủ nghĩa xã hội
+### Giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa
+- Chính la fgiai d
