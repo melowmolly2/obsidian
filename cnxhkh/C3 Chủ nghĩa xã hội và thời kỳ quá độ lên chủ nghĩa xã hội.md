@@ -14,4 +14,5 @@
 - Quá độ gián tiếp: các nước tiền tư bản (ptr trung bình)
 ## Chủ nghĩa xã hội
 ### Giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa
-- Chính la fgiai d
+- CNXH chính là giai đoạn đâu cua hinh hái kinh ế - xã hội cộng sản chủ nghĩa và thời kỳ 
+- Đói với các nước chưa trải wwqqqqua chủ nghĩa tư bản phát triển là thời kỳ quá độ lên chủ nghĩa xã hội.
