@@ -39,7 +39,7 @@ AI đang tác động tới trí tưởng tượng của công chúng, kinh tế
 
 **Bốn cách nhìn về AI** (chia theo hai trục):
 
-||Giống con người|Lý trí (rational)|
+| |Giống con người|Lý trí (rational)|
 |---|---|---|
 |**Suy nghĩ**|Thinking humanly|Thinking rationally|
 |**Hành động**|Acting humanly|Acting rationally|
@@ -58,10 +58,80 @@ AI đang tác động tới trí tưởng tượng của công chúng, kinh tế
     3. Suy diễn tự động (automated reasoning).
     4. Học máy (machine learning).
 
-## 5. Lịch sử AI (giai đoạn gần đây)
+## 5. Lịch sử AI 
 
-- **2000 đến nay:** thống kê và học máy, với các mô hình truyền thống như HMM, SVM, Gaussian processes, mô hình đồ thị (mạng Bayes, CRF), cùng khai phá dữ liệu.
-- **2010 đến nay:** học sâu và mô hình ngôn ngữ lớn (Deep Learning / LLM).
+## Dòng thời gian tóm tắt
+
+|Giai đoạn|Tên|Nội dung chính|
+|---|---|---|
+|1950|Turing Test|Alan Turing đặt vấn đề máy có hành xử thông minh được không|
+|1956|AI ra đời|Hội thảo mùa hè Dartmouth đặt tên "AI"|
+|1952-1969|Giai đoạn hào hứng (enthusiasm)|Máy tính làm được "X", nhưng nhiều bài toán chỉ là bài toán đồ chơi|
+|1966-1973|Va chạm thực tế (reality)|Gặp ba giới hạn lớn, nhiều khoản tài trợ bị cắt|
+|1969-1988|Hệ chuyên gia (expert systems)|Thêm tri thức chuyên ngành để dẫn dắt tìm kiếm|
+|1988 trở đi|Mùa đông AI (AI winter)|Bong bóng hệ chuyên gia vỡ|
+|1986 trở đi|Mạng nơ-ron (neural nets)|Perceptron nhiều lớp và lan truyền ngược|
+|2000 đến nay|Thống kê (stat)|Học máy truyền thống, khai phá dữ liệu|
+|2010 đến nay|Học sâu và LLM|Deep Learning, Large Language Models|
+
+## Chi tiết từng giai đoạn
+
+**1950: Turing Test**
+
+- Câu hỏi đổi từ "Máy có biết nghĩ không?" thành "Có phân biệt được máy với người qua hội thoại không?".
+- Hình thức: văn bản vào, văn bản ra (text in / text out). Chatbot minh họa là A.L.I.C.E.
+- Bài báo gốc: Turing (1950), _Computing machinery and intelligence_, Mind, 59, 433-460. Bài này còn nhắc tới thuật toán di truyền và nhân bản người.
+
+**1956: Hội thảo Dartmouth**
+
+- Đây là lúc **tên gọi "AI" xuất hiện**.
+- Các nhân vật lớn: John McCarthy, Marvin Minsky, Claude Shannon, Nathaniel Rochester, Trenchard More, Arthur Samuel, Ray Solomonoff, Oliver Selfridge, Allen Newell, Herbert Simon.
+- Giới nghiên cứu **chưa có đồng thuận** về AI là gì.
+
+**1952-1969: Hào hứng ban đầu**
+
+- Máy tính làm được: giải câu đố, chứng minh định lý hình học, chơi cờ đam (checkers), Lisp, thế giới khối (block world), ELIZA, perceptron.
+- Hạn chế: nhiều thành tựu chỉ là **toy problems** (bài toán đồ chơi).
+
+**1966-1973: Va chạm thực tế**
+
+- **Cú pháp mà không có tri thức miền thì không hiệu quả.** Ví dụ dịch máy: câu "The spirit is willing but the flesh is weak" (Anh → Nga → Anh) bị dịch thành "The vodka is good but the meat is rotten". Chính phủ Mỹ cắt tài trợ cho dịch máy.
+- **Bùng nổ tổ hợp (intractability):** độ phức tạp hàm mũ. Chính phủ Anh ngừng hỗ trợ AI dựa trên **báo cáo Lighthill**.
+- **Giới hạn lý thuyết:** perceptron không giải được hàm **XOR**, nên nghiên cứu mạng nơ-ron bị đình trệ.
+
+**1969-1988: Hệ thống dựa trên tri thức**
+
+- Thêm tri thức chuyên ngành để dẫn dắt tìm kiếm.
+- **CYC:** mô tả thế giới bằng hàng triệu luật.
+- **Hệ chuyên gia** được thương mại hóa trong thập niên 80: mỗi công ty lớn của Mỹ có một nhóm AI, thành ngành công nghiệp trị giá hàng tỷ đô la.
+
+**Từ 1988: Mùa đông AI**
+
+- Các nhà đầu tư mạo hiểm rót vốn ồ ạt và các lời hứa quá mức.
+- Bong bóng vỡ: nguồn vốn cho AI cạn, các công ty AI sụp đổ.
+
+**Từ 1986: Mạng nơ-ron**
+
+- Perceptron nhiều lớp (multi-layer perceptron) và thuật toán lan truyền ngược (back-propagation) được tái khám phá.
+- Cuộc tranh luận giữa các trường phái:
+    - **Connectionists** (mạng nơ-ron);
+    - **Symbolic models** (Newell, Simon);
+    - **Logicist** (McCarthy).
+- Bản chất thật của hướng này là **học máy thống kê**.
+
+**2000 đến nay: Thống kê**
+
+- Học máy với các mô hình truyền thống: HMM, SVM, Gaussian processes, mô hình đồ thị (mạng Bayes, CRF).
+- Khai phá dữ liệu (data mining).
+- Từ **2010**: học sâu và mô hình ngôn ngữ lớn.
+
+## Cách nhớ nhanh
+
+Lịch sử AI đi theo chu kỳ **kỳ vọng cao rồi thất vọng**:
+
+$$\text{hào hứng (50-60s)} \to \text{thực tế phũ phàng (66-73)} \to \text{hệ chuyên gia (70-80s)} \to \text{AI winter (1988)} \to \text{thống kê} \to \text{học sâu / LLM}$$
+
+Ba nguyên nhân khiến giai đoạn đầu thất bại, hay được hỏi: thiếu tri thức miền, độ phức tạp hàm mũ, và giới hạn lý thuyết của perceptron (XOR).
 
 ## 6. Đặc điểm của các bài toán AI
 
@@ -94,4 +164,5 @@ AI đang tác động tới trí tưởng tượng của công chúng, kinh tế
 - Nhớ các cột mốc: AlphaGo (2016), ImageNet (26% $\to$ 3.1%), ChatGPT (11/2022), DeepSeek-R1 (1/2025).
 - Nắm rõ chính sách dùng AI sinh văn bản và cách tính điểm của môn.
 
-Nếu bạn gửi ảnh chụp các slide lịch sử AI (42-48), mình sẽ bổ sung phần mốc thời gian. Mình cũng có thể làm bộ trắc nghiệm hoặc flashcard cho cả ba tuần.
+
+
