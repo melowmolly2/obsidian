@@ -96,7 +96,7 @@ Ba tham số:
 
 - Mở rộng nút có chi phí đường đi $g(n)$ nhỏ nhất, dùng hàng đợi ưu tiên theo $g(n)$.
 - Tương đương BFS nếu mọi bước có chi phí bằng nhau, và tương đương thuật toán Dijkstra nói chung.
-- Gọi $C^_$ là chi phí nghiệm tối ưu và $\varepsilon$ là chi phí cung nhỏ nhất. Độ sâu hiệu dụng khoảng $C^_/\varepsilon$, nên thời gian và không gian đều là $O!\left(b^{C^*/\varepsilon}\right)$.
+- Gọi $C^*$ là chi phí nghiệm tối ưu và $\varepsilon$ là chi phí cung nhỏ nhất. Độ sâu hiệu dụng khoảng $C^*/\varepsilon$, nên thời gian và không gian đều là $O!\left(b^{C^*/\varepsilon}\right)$.
 - Đầy đủ nếu $\varepsilon > 0$ và $C^*$ hữu hạn. **Tối ưu**.
 - Chứng minh tối ưu (phản chứng):
     - Giả sử UCS dừng tại đích $n$ nhưng tồn tại đích $n'$ với $g(n') < g(n)$.
@@ -132,4 +132,4 @@ Ba tham số:
 - Slide có bài tập "Find path from A to K" (BFS và DFS) và câu hỏi "When will BFS outperform DFS?". Nên tự làm hai bài này.
 - Ví dụ UCS trong slide: thứ tự mở rộng là $(S, p, d, b, e, a, r, f, e, G)$.
 
-Nếu muốn, mình có thể làm thêm bộ câu hỏi trắc nghiệm hoặc flashcard để ôn phần này.
+Nếu muốn, mình có thể làm thêm bộ câu hỏi trắc nghiệm hoặc flashcard để ôn phần này. 
