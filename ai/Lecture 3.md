@@ -82,8 +82,8 @@ với $h^*(n)$ là chi phí thật tới đích gần nhất. Nói cách khác, 
 Giả sử $G_2$ là đích dưới tối ưu đang nằm trong frontier. Gọi $n$ là nút chưa mở rộng nằm trên đường ngắn nhất tới đích tối ưu $G$. Khi đó:
 
 $$f(G_2) > f(G)$$  
-$$h(n) \le h^_(n) ;\Rightarrow; g(n) + h(n) \le g(n) + h^_(n)$$  
-$$\Rightarrow; f(n) \le f(G) < f(G_2)$$
+$$h(n) \le h^*(n) \Rightarrow g(n) + h(n) \le g(n) + h^*(n)$$  
+$$\Rightarrow f(n) \le f(G) < f(G_2)$$
 
 Vì $f(n) < f(G_2)$ nên A* không bao giờ chọn $G_2$ để mở rộng.
 
@@ -135,14 +135,14 @@ $$h(A) - h(C) \le \text{cost}(A \to C) \quad\Longleftrightarrow\quad h(A) \le \t
 
 ## 8. Bảng tổng hợp các thuật toán tìm kiếm
 
-|Thuật toán|Đầy đủ?|Tối ưu?|Thời gian|Không gian|Frontier|
-|---|---|---|---|---|---|
-|BFS|Có|Nếu chi phí bước bằng nhau|$O(b^d)$|$O(b^d)$|Queue|
-|DFS|Không|Không|$O(b^m)$|$O(bm)$|Stack|
-|IDS|Có|Nếu chi phí bước bằng nhau|$O(b^d)$|$O(bd)$|Stack|
-|UCS|Có|Có|số nút có $g(n) \le C^*$|số nút có $g(n) \le C^*$|Priority queue theo $g(n)$|
-|Greedy|Không|Không|Xấu nhất $O(b^m)$, tốt nhất $O(bd)$|Xấu nhất $O(b^m)$, tốt nhất $O(bd)$|Priority queue theo $h(n)$|
-|A*|Có|Có|số nút có $g(n)+h(n) \le C^*$|số nút có $g(n)+h(n) \le C^*$|Priority queue theo $g(n)+h(n)$|
+| Thuật toán | Đầy đủ? | Tối ưu?                    | Thời gian                           | Không gian                          | Frontier                        |
+| ---------- | ------- | -------------------------- | ----------------------------------- | ----------------------------------- | ------------------------------- |
+| BFS        | Có      | Nếu chi phí bước bằng nhau | $O(b^d)$                            | $O(b^d)$                            | Queue                           |
+| DFS        | Không   | Không                      | $O(b^m)$                            | $O(bm)$                             | Stack                           |
+| IDS        | Có      | Nếu chi phí bước bằng nhau | $O(b^d)$                            | $O(bd)$                             | Stack                           |
+| UCS        | Có      | Có                         | số nút có $g(n) \le C^*$            | số nút có $g(n) \le C^*$            | Priority queue theo $g(n)$      |
+| Greedy     | Không   | Không                      | Xấu nhất $O(b^m)$, tốt nhất $O(bd)$ | Xấu nhất $O(b^m)$, tốt nhất $O(bd)$ | Priority queue theo $h(n)$      |
+| A*         | Có      | Có                         | số nút có $g(n)+h(n) \le C^*$       | số nút có $g(n)+h(n) \le C^*$       | Priority queue theo $g(n)+h(n)$ |
 
 ## 9. Bài tập cuối slide (67): tìm đường ngắn nhất từ S tới G bằng A*
 
