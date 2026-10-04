@@ -1,5 +1,3 @@
-Đây là phần cần nhớ của **Bài 1: Giới thiệu Trí tuệ nhân tạo**, 55 slide. Các slide về lịch sử AI (42-48) và các slide về lĩnh vực ứng dụng (37-41) chỉ là hình ảnh nên mình chưa đọc được nội dung. Bạn nên tự xem lại các slide đó.
-
 ## 1. Thông tin môn học (INT3401E)
 
 - Giảng viên: TS. Lê Đức Trọng, Khoa CNTT, VNU-UET.
@@ -24,7 +22,7 @@ Quan hệ bao hàm: Artificial Intelligence ⊃ Machine Learning ⊃ Deep Learni
 **Một số cột mốc nổi bật:**
 
 - **AlphaGo:** tháng 3/2016 thắng kỳ thủ cờ vây Lee Sedol (Hàn Quốc) với tỉ số 4-1. Năm 2017, **AlphaGo Zero** thắng AlphaGo gốc với tỉ số 100-0.
-- **ImageNet:** lỗi phân loại ảnh của hệ thống tốt nhất giảm từ $26%$ (2011) xuống $3.1%$ (2016), thấp hơn con người.
+- **ImageNet:** lỗi phân loại ảnh của hệ thống tốt nhất giảm từ 26% (2011) xuống 3.1% (2016), thấp hơn con người.
 - **ChatGPT:** OpenAI ra mắt tháng 11/2022, dựa trên GPT-3 (kiến trúc transformer, 175 tỷ tham số, ngữ cảnh 2048 token). Theo slide, đạt 10 triệu người dùng sau 40 ngày.
 - **DeepSeek-R1:** ra mắt ngày 23/1/2025, là mô hình suy luận mã nguồn mở, tương tự o1 của OpenAI.
 - **OpenClaw (2025-2026):**
@@ -93,7 +91,7 @@ AI đang tác động tới trí tưởng tượng của công chúng, kinh tế
 ## Mẹo ôn thi
 
 - Học thuộc **bốn cách nhìn về AI** và **bốn năng lực cần có để qua Turing Test**.
-- Nhớ các cột mốc: AlphaGo (2016), ImageNet ($26% \to 3.1%$), ChatGPT (11/2022), DeepSeek-R1 (1/2025).
+- Nhớ các cột mốc: AlphaGo (2016), ImageNet (26% $\to$ 3.1%), ChatGPT (11/2022), DeepSeek-R1 (1/2025).
 - Nắm rõ chính sách dùng AI sinh văn bản và cách tính điểm của môn.
 
 Nếu bạn gửi ảnh chụp các slide lịch sử AI (42-48), mình sẽ bổ sung phần mốc thời gian. Mình cũng có thể làm bộ trắc nghiệm hoặc flashcard cho cả ba tuần.
