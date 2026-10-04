@@ -6,4 +6,6 @@ Một bài toán tìm kiếm gồm 5 thành phần:
 - Mô hình chuyển trạng thái (transition model): làm hành động $a$ ở trạng thái $s$ thì sang trạng thái nào. 
 - Kiểm tra đích (goal test)
 - Chi phí đường đi (path cost): tổng các chi phí bước đi, với $c(s,a,s')\ge 0$.
-**Nghiệm** là một dãy hành động đưa trạng
+**Nghiệm** là một dãy hành động đưa trạng thái đầu tới trạng thái đích. Nghiệm tối ưu là nghiệm có chi phí đường đi nhỏ nhất. 
+
+**Tác tử hợp lý** (rational agent) chọn hành động để cực đại hóa độ thỏa dụng kỳ vọng 
