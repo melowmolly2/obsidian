@@ -87,4 +87,8 @@ Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ
 Phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam hiện nay 
 - Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nuocs nuocs gắn với phát triển kinh tế tri thức, bảo vệ tài nguyên, môi trường
 - Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa
-- Xây dụng nền văn hóa tiên tiến, đậm đà bản sác dân tộc, xây dụng 
+- Xây dụng nền văn hóa tiên tiến, đậm đà bản sác dân tộc; xây dựng con người, nâng cao đời sống nhân ân, thực hiện tiến bộ và công bằng xã hội.
+- Bảo đảm vững chắc quốc phòng và an ninh quốc gia, trật tự, an toàn xã hội
+- Thực hiện đường lối đối ngoại độc lập, tự chủ, hòa bình, hữu nghĩ, hợp tác và phát triển, chủ dộng và tích cực hội nhập quốc tế
+- Xây dựng nền dân chủ xã hội chủ nghĩa, thực hiện đại đoàn kết toàn dân tộc, tăng cường và mở rộng mặt trận dân tộc thống nhất
+- Xây dựng Nhà nước 
