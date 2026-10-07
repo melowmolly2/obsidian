@@ -67,4 +67,4 @@
 	- Cuộc cách mạng khoa học và công nghệ hiện đại đang diễn ra mạnh mẽ, cuốn hút tất cả các nước ở mức độ khác nhau. Những xu thế đó vừa tạo thời có phát triển nhanh cho các nước, vừa đặt ra những thách thức gay gắt.
 - Quá độ lên cnxh bỏ qua chế độ tư bản chủ nghĩa là sự lựa chọn duy nhất đúng, khoa học, phản ánh đúng quy luật phát triển khách quan của cách mạng Việt Nam trong thời đại ngày nay. 
 - Cương lĩnh năm 1930 của Đảng chỉ rõ: Sau khi hoàn thành cách mạng dân tộc, dân chủ nhân dân, sẽ tiến lên chủ nghĩa xã hội. Đây là sự lựa chọn dứt khoát và đúng đắn của Đảng, đáp ứng nguyện vọng thiết tha của dân tộc, nhân dân, phản ánh xu thế phát triển của thời đại, phù hợp với quan điểm khoa học, cách mạng và sáng tạo của chủ nghĩa mác lenin.
-ê
+- edsaeew2qerw2qew2qredwqrewqre
