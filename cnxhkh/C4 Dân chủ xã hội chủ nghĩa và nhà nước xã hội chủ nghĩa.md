@@ -17,4 +17,4 @@ Sự phát triển của nền dân chủ
 - Nền dân chủ tư bản - chế độ tư bản chủ nghĩa
 - Nền dân chủ xã hội chủ nghĩa - chế độ xã hội chủ nghĩa
 ### Quá trình ra đời của nền dân chủ xã hội chủ nghĩa
-- D
+- Dân chủ xã hội chủ nghĩa là nền dân chủ cao hơn về chất so với nền dân chủ tư sản, là nền dân chủ mà ở đó, mọi quyền lực thuộc về nhân dân, dân là chủ và dân làm chủ, dân chủ và pháp luật nằm trong sự thống nhất biện chứng được thực hiện bằng nhà nước pháp quyền xã hội chủ nghía, đặt dưới sự lãnh đạo của Đảng Cộng sản.
