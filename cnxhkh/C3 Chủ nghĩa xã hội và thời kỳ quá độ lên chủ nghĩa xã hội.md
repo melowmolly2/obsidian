@@ -74,3 +74,10 @@
 	- Là bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa. 
 	- Tiếp thu, kế thừa những thành tựu khoa học và công nghệ quản lý của chủ nghĩa tư bản để xây dựng nền kinh tế hiện đại, phát triển nhanh lực lượng sản xuất.
 	- Là sự nghiệp khó khăn, phức tạp, lâu dài với nhiều chặng đường, nhiều hình thức, đòi hỏi phải có quyết tâm chính trị cao và khát vọng lớn của toàn Đảng, toàn dân. 
+### Đặc trưng và phương huongs xây dựng chủ nghĩa xã hội ở Việt Nam hiện nay
+Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011) đã phát triển mô hình chủ nghĩa xã hội Việt Nam với tám đặc trưng cơ bản:
+- Dân giàu, nước mạnh, dân chủ, công bằng, văn minh
+- Do nhân dân làm chủ
+- Có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại quan hệ sản xuất tiến bộ phù hợp
+- Có nền văn hóa tiên tiến, đậm đà bản sắc dân tộc
+- Con người có cuộc sống ấm no, tự do, hạnh phúc, có đ
