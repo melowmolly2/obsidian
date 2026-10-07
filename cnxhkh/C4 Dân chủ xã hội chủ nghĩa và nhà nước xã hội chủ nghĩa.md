@@ -16,3 +16,5 @@ Sự phát triển của nền dân chủ
 - Nền dân chủ chủ nô - chế độ chiếm hữu nô lệ
 - Nền dân chủ tư bản - chế độ tư bản chủ nghĩa
 - Nền dân chủ xã hội chủ nghĩa - chế độ xã hội chủ nghĩa
+### Quá trình ra đời của nền dân chủ xã hội chủ nghĩa
+- D
