@@ -6,4 +6,7 @@
 - Về phương diện chế độ xã hội và trong lĩnh vực chính trị: Dân chủ là một hình thức hay hình thái nhà nước, là chính thể dân chủ hay chế độ dân chủ
 - Về phương diện tổ chức và quản lý xã hội: Dân chủ là một nguyên tắc - nguyên tắc dân chủ
 - Về phương diện giá trị xã hội: Dân chủ là mục tiêu, là tiền dề và là phương tiện dể vươn tới tự do, giải phóng con người, giải phóng giai cấp, giải phóng xã hội. 
-- 
+Dân chủ là mọi quyền hạn đều thuộc về nhân dân
+- Dân là chủ thể của xã hội và được làm chủ một cách toàn diện
+- Thực hiện dân chủ trên tất cả các lĩnh vực của đời sống kinh tế - xã hội.
+- Dân chủ trong hai lĩnh vực kinh tế và chính trị có vai trò quan trọng nhất
