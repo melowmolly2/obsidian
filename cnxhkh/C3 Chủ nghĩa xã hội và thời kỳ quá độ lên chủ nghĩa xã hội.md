@@ -85,4 +85,6 @@ Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ
 - Có Nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nahan dân, vì nhân dân do Đảng Cộng sản lãnh đạo.
 - Có quan hệ hữu nghị và hợp tác với các nước trên thế giới. 
 Phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam hiện nay 
-- Đẩy man
+- Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nuocs nuocs gắn với phát triển kinh tế tri thức, bảo vệ tài nguyên, môi trường
+- Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa
+- Xây dụng nền văn hóa tiên tiến, đậm đà bản sác dân tộc, xây dụng 
