@@ -18,3 +18,8 @@ Sự phát triển của nền dân chủ
 - Nền dân chủ xã hội chủ nghĩa - chế độ xã hội chủ nghĩa
 ### Quá trình ra đời của nền dân chủ xã hội chủ nghĩa
 - Dân chủ xã hội chủ nghĩa là nền dân chủ cao hơn về chất so với nền dân chủ tư sản, là nền dân chủ mà ở đó, mọi quyền lực thuộc về nhân dân, dân là chủ và dân làm chủ, dân chủ và pháp luật nằm trong sự thống nhất biện chứng được thực hiện bằng nhà nước pháp quyền xã hội chủ nghía, đặt dưới sự lãnh đạo của Đảng Cộng sản.
+### Bản chất của nền dân chủ xã hội chủ nghĩa
+- Bản chất chính trị
+	- Là sự lãnh đạo chính trị của giai cấp công nhân thông qua Đảng Cộng sản đối với toàn xã hội để đảm bảo quyền lực thực sự thuộc về nhân dân. 
+	- Vừa có bản chất giai cáp công nhân, vừa có tính nhân dân rộng rãi, tính dân tộc sâu sắc.
+	- Mang tính nhất nguyên về chính trị. 
