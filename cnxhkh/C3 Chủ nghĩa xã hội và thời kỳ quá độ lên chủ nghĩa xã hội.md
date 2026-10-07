@@ -91,4 +91,6 @@ Phương hướng xây dựng chủ nghĩa xã hội ở Việt Nam hiện nay
 - Bảo đảm vững chắc quốc phòng và an ninh quốc gia, trật tự, an toàn xã hội
 - Thực hiện đường lối đối ngoại độc lập, tự chủ, hòa bình, hữu nghĩ, hợp tác và phát triển, chủ dộng và tích cực hội nhập quốc tế
 - Xây dựng nền dân chủ xã hội chủ nghĩa, thực hiện đại đoàn kết toàn dân tộc, tăng cường và mở rộng mặt trận dân tộc thống nhất
-- Xây dựng Nhà nước 
+- Xây dựng Nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân.
+- Xây dựng Đảng trong sạch, vững mạnh.
+- 
