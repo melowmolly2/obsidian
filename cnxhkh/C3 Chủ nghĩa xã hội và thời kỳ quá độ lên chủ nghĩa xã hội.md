@@ -80,4 +80,7 @@ Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ
 - Do nhân dân làm chủ
 - Có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại quan hệ sản xuất tiến bộ phù hợp
 - Có nền văn hóa tiên tiến, đậm đà bản sắc dân tộc
-- Con người có cuộc sống ấm no, tự do, hạnh phúc, có đ
+- Con người có cuộc sống ấm no, tự do, hạnh phúc, có điều kiện phát triển toàn diện
+- Các dân tộc trong cộng đồng Việt Nạm bình đẳng, đoàn kết, tôn trọng và giúp nhau cùng phát triển
+- Có Nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nahan dân, vì nhân dân do Đảng Cộng sản lãnh đạo.
+- Có quan hệ hữu nghị và hợp tác với các nước trên thế giới. 
