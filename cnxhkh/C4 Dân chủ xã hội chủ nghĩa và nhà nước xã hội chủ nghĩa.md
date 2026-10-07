@@ -23,7 +23,7 @@ Sự phát triển của nền dân chủ
 	- Là sự lãnh đạo chính trị của giai cấp công nhân thông qua Đảng Cộng sản đối với toàn xã hội để đảm bảo quyền lực thực sự thuộc về nhân dân. 
 	- Vừa có bản chất giai cáp công nhân, vừa có tính nhân dân rộng rãi, tính dân tộc sâu sắc.
 	- Mang tính nhất nguyên về chính trị. 
-	- 
+	
 |Dân chủ xã hội chủ nghĩa|Dân chủ tư sản|
 |-|-|
 |Bản chất giai cấp công nhân|Bản chất giai cấp tư sản|
@@ -31,3 +31,6 @@ Sự phát triển của nền dân chủ
 |Một đảng|Nhiều đảng|
 |Nhà nước pháp quyền xã hội chủ nghĩa|Nhà nước pháp quyền tư sản|
 
+- Bản chất kinh tế
+	- Đảm bảo quyền làm chủ của nhân dân về các tư liệu sản xuất chủ yếu; quyền làm chủ trong quá tình sản xuất kinh doanh, quản lý và phân phối, coi lợi ích kinh tế của người lao động là động lực cơ bản nhất có sức thúc đẩy kinh tế - xã hội phát triển.
+	- Thực hiện chế độ công hữu về tư liệu sản xuất chủ yếu đáp ứng sự phát triển ngày càng cao của lực lượng sản xuất dựa trên cơ sở khoa học - công nghệ hiện đại nhằm thỏa mãn ngày càng cao những nhu cầu vật chất và tinh thần của toàn thể nhân dân lao
