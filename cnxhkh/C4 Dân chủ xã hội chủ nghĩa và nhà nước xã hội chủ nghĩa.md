@@ -33,4 +33,7 @@ Sự phát triển của nền dân chủ
 
 - Bản chất kinh tế
 	- Đảm bảo quyền làm chủ của nhân dân về các tư liệu sản xuất chủ yếu; quyền làm chủ trong quá tình sản xuất kinh doanh, quản lý và phân phối, coi lợi ích kinh tế của người lao động là động lực cơ bản nhất có sức thúc đẩy kinh tế - xã hội phát triển.
-	- Thực hiện chế độ công hữu về tư liệu sản xuất chủ yếu đáp ứng sự phát triển ngày càng cao của lực lượng sản xuất dựa trên cơ sở khoa học - công nghệ hiện đại nhằm thỏa mãn ngày càng cao những nhu cầu vật chất và tinh thần của toàn thể nhân dân lao
+	- Thực hiện chế độ công hữu về tư liệu sản xuất chủ yếu đáp ứng sự phát triển ngày càng cao của lực lượng sản xuất dựa trên cơ sở khoa học - công nghệ hiện đại nhằm thỏa mãn ngày càng cao những nhu cầu vật chất và tinh thần của toàn thể nhân dân lao động. 
+	- Thực hiện chế độ phân phối lợi ích theo kết quả lao động là chủ yếu
+- Bản chất văn hóa - tư tưởng
+	- Lấy hệ tư tưởng Mác - Lenin làm chủ đạo đối với mọi hình thái ý thức xã hội khác trong xã hội mới. Đồng thời kế thừa, phát huy những tinh hoa văn hóa truyền thống dân tộc
