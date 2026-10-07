@@ -72,4 +72,5 @@
 - Con đường đi lên cnxh bỏ qua chế độ tbcn ở việt nam
 	- Là con đường cách mạng tất yếu khách quan, xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta.
 	- Là bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa. 
-	- Tiếp thu, kế thu
+	- Tiếp thu, kế thừa những thành tựu khoa học và công nghệ quản lý của chủ nghĩa tư bản để xây dựng nền kinh tế hiện đại, phát triển nhanh lực lượng sản xuất.
+	- Là sự nghiệp khó khăn, phức tạp, lâu dài với nhiều chặng đường, nhiều hình thức, đòi hỏi phải có quyết tâm chính trị cao và khát vọng lớn của toàn Đảng, toàn dân. 
