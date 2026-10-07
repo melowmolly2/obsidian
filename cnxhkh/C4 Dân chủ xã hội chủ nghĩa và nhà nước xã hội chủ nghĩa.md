@@ -36,4 +36,6 @@ Sự phát triển của nền dân chủ
 	- Thực hiện chế độ công hữu về tư liệu sản xuất chủ yếu đáp ứng sự phát triển ngày càng cao của lực lượng sản xuất dựa trên cơ sở khoa học - công nghệ hiện đại nhằm thỏa mãn ngày càng cao những nhu cầu vật chất và tinh thần của toàn thể nhân dân lao động. 
 	- Thực hiện chế độ phân phối lợi ích theo kết quả lao động là chủ yếu
 - Bản chất văn hóa - tư tưởng
-	- Lấy hệ tư tưởng Mác - Lenin làm chủ đạo đối với mọi hình thái ý thức xã hội khác trong xã hội mới. Đồng thời kế thừa, phát huy những tinh hoa văn hóa truyền thống dân tộc
+	- Lấy hệ tư tưởng Mác - Lenin làm chủ đạo đối với mọi hình thái ý thức xã hội khác trong xã hội mới. Đồng thời kế thừa, phát huy những tinh hoa văn hóa truyền thống dân tộc; tiếp thu những giá trị tư tưởng - văn hóa, văn minh, tiến bộ xã hội...
+	- Nhân dân được làm chủ những giá trị văn hóa tinh thần; được nâng cao tình độ văn hóa, có điều kiện để phát triển cá nhân.
+	- Có sự kết hợp hài hòa về lợi ích giữa cá nhân, tập thể và lợi ích của toàn xã hội, ra sức động viên, thu hút mọi tiềm năng sáng tạo, tính tích cực xã hội của nhân dân trong sự nghiệp xây dựng xã hội mới. 
