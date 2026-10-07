@@ -11,3 +11,8 @@ Dân chủ là mọi quyền hạn đều thuộc về nhân dân
 - Thực hiện dân chủ trên tất cả các lĩnh vực của đời sống kinh tế - xã hội.
 - Dân chủ trong hai lĩnh vực kinh tế và chính trị có vai trò quan trọng nhất
 Dân chủ là một giá trị xã hội phản ánh những quyền cơ bản của con người; là một phạm trù chính trị gắn với các hình thức tổ chức nhà nước của giai cấp cầm quyền; là một phạm trù lịch sử gắn với quá trình ra đời, phát triển của lịch sử xã hội nhân loại.
+
+Sự phát triển của nền dân chủ
+- Nền dân chủ chủ nô - chế độ chiếm hữu nô lệ
+- Nền dân chủ tư bản - chế độ tư bản chủ nghĩa
+- Nền dân chủ xã hội chủ nghĩa - chế độ xã hội chủ nghĩa
