@@ -384,12 +384,13 @@ $$\text{3 quy luật} = \underbrace{\text{Lượng–Chất}}_{\text{Cách thứ
 
 **Các khái niệm:**
 
-| Khái niệm              | Nội dung                                                           |
-| ---------------------- | ------------------------------------------------------------------ |
-| **Mặt đối lập**        | Những mặt, thuộc tính có khuynh hướng biến đổi **trái ngược nhau** |
-| **Thống nhất của MĐL** | Nương tựa nhau, làm điều kiện và tiền đề cho nhau tồn tại          |
-| **Đấu tranh của MĐL**  | Phủ định, bài trừ, triệt tiêu lẫn nhau                             |
-| **Mâu thuẫn BC**       |                                                                    |
+| Khái niệm              | Nội dung                                                                                                                   |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Mặt đối lập**        | Những mặt, thuộc tính có khuynh hướng biến đổi **trái ngược nhau**                                                         |
+| **Thống nhất của MĐL** | Nương tựa nhau, làm điều kiện và tiền đề cho nhau tồn tại                                                                  |
+| **Đấu tranh của MĐL**  | Phủ định, bài trừ, triệt tiêu lẫn nhau                                                                                     |
+| **Mâu thuẫn BC**       | Phạm trù chỉ **mối liên hệ thống nhất và đấu tranh, chuyển hóa** giữa các mặt đối lập của một SV hoặc giữa các SV với nhau |
+|                        |                                                                                                                            |
 
 
 ---
