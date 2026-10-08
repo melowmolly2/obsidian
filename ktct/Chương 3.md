@@ -143,10 +143,10 @@ $$\text{Hao mòn vô hình} = \text{GT còn lại máy cũ} - \text{GT còn lạ
 
 **Tỉ suất và khối lượng giá trị thặng dư**
 
-| |Tỉ suất gttd ($m'$)|Khối lượng gttd ($M$)|
-|---|---|---|
-|Khái niệm|Tỉ lệ % giữa gttd và tư bản khả biến|Tích số giữa tỉ suất gttd và tổng tư bản khả biến|
-|Công thức|$m' = \dfrac{m}{v} \times 100% = \dfrac{t'}{t} \times 100%$|$M = m' \cdot V = m \times \text{số công nhân}$|
+|           | Tỉ suất gttd ($m'$)                                         | Khối lượng gttd ($M$)                             |
+| --------- | ----------------------------------------------------------- | ------------------------------------------------- |
+| Khái niệm | Tỉ lệ % giữa gttd và tư bản khả biến                        | Tích số giữa tỉ suất gttd và tổng tư bản khả biến |
+| Công thức | $m' = \dfrac{m}{v} \times 100% = \dfrac{t'}{t} \times 100%$ | $M = m' \cdot V = m \times \text{số công nhân}$   |
 |Ý nghĩa|Phản ánh **trình độ khai thác** lao động làm thuê|Phản ánh **quy mô** gttd nhà tư bản thu được|
 
 ### 3.1.3. Hai phương pháp sản xuất giá trị thặng dư
