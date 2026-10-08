@@ -239,7 +239,7 @@ $$p' = \frac{p}{c + v} \times 100\%$$
 
 - **Cạnh tranh giữa các ngành** là cơ chế hình thành lợi nhuận bình quân: tư bản di chuyển từ ngành có $p'$ thấp sang ngành có $p'$ cao, cho đến khi $p'$ các ngành xấp xỉ ngang nhau, đó là **tỉ suất lợi nhuận bình quân**.
 
-$$\bar{p}' = \frac{\sum p}{\sum (c + v)} \times 100% \qquad\qquad \bar{p} = \bar{p}' \times k$$
+$$\bar{p}' = \frac{\sum p}{\sum (c + v)} \times 100\% \qquad\qquad \bar{p} = \bar{p}' \times k$$
 
 - Giá trị hàng hóa chuyển thành **giá cả sản xuất**:
 
@@ -247,7 +247,7 @@ $$GCSX = k + \bar{p}$$
 
 - Toàn xã hội: $\sum p = \sum \bar{p} = \sum m$ và $\sum GCSX = \sum \text{giá trị}$.
 
-**Ví dụ** ($k = 100$/ngành, $m' = 100%$)
+**Ví dụ** ($k = 100$/ngành, $m' = 100\%$)
 
 |Ngành|Chi phí SX|$m$|$p'$|$\bar{p}'$|$\bar{p}$|Giá trị|GCSX|
 |---|---|---|---|---|---|---|---|
@@ -256,7 +256,7 @@ $$GCSX = k + \bar{p}$$
 |Da|$60c + 40v$|40|40%|30%|30|140|130|
 |**Tổng**|300|90|||90|390|390|
 
-$\bar{p}' = \dfrac{90}{300} = 30%$.
+$\bar{p}' = \dfrac{90}{300} = 30\%$.
 
 **e) Lợi nhuận thương nghiệp**
 
@@ -267,7 +267,7 @@ $\bar{p}' = \dfrac{90}{300} = 30%$.
 
 **Ví dụ**: TBSX có $K = 900$, $c/v = 4/1$, $m' = 100%$: $720c + 180v + 180m = 1080$; tư bản thương nghiệp ứng thêm 100.
 
-$$\bar{p}' = \frac{180}{900 + 100} = 18%$$
+$$\bar{p}' = \frac{180}{900 + 100} = 18\%$$
 
 - Giá bán của TBSX (= giá mua của TBTN): $1080 - 18 = 1062$.
 - Lợi nhuận TBTN: $1080 - 1062 = 18 = K_{tn} \cdot \bar{p}'$.
@@ -280,7 +280,7 @@ $$\bar{p}' = \frac{180}{900 + 100} = 18%$$
 - **Đặc điểm của tư bản cho vay**: quyền sử dụng tách rời quyền sở hữu; là hàng hóa đặc biệt (giá cả do giá trị sử dụng quyết định); là hình thái phiến diện nhất nhưng được sùng bái nhất.
 - **Tỉ suất lợi tức**:
 
-$$z' = \frac{z}{TBCV} \times 100%$$
+$$z' = \frac{z}{TBCV} \times 100\%$$
 
 phụ thuộc vào tỉ suất lợi nhuận bình quân và quan hệ cung – cầu về tư bản cho vay.
 
@@ -299,7 +299,7 @@ $$R_{\text{chênh lệch}} = GCSX_{\text{chung (đất xấu)}} - GCSX_{\text{c�
 
 - 2 loại: **chênh lệch I** (do đất màu mỡ tự nhiên hoặc vị trí thuận lợi) và **chênh lệch II** (do đầu tư thâm canh).
 
-**Ví dụ**: 3 mảnh đất $K = 100$, $\bar{p}' = 20%$; sản lượng: tốt 6 tạ, trung bình 5 tạ, xấu 4 tạ.
+**Ví dụ**: 3 mảnh đất $K = 100$, $\bar{p}' = 20\%$; sản lượng: tốt 6 tạ, trung bình 5 tạ, xấu 4 tạ.
 
 |Loại đất|$K + \bar{p}$|Sản lượng|GCSX cá biệt/tạ|GCSX chung/tạ|Địa tô chênh lệch|
 |---|---|---|---|---|---|
@@ -315,7 +315,7 @@ $$R_{\text{chênh lệch}} = GCSX_{\text{chung (đất xấu)}} - GCSX_{\text{c�
 
 $$R_{\text{tuyệt đối}} = \text{Giá trị nông phẩm} - GCSX_{\text{chung của nông phẩm}}$$
 
-- Ví dụ: $K = 1000$, $m' = 100%$. Công nghiệp ($c/v = 4/1$): $m = 200$. Nông nghiệp ($c/v = 3/2$): $m = 400$. Địa tô tuyệt đối $= 400 - 200 = 200$.
+- Ví dụ: $K = 1000$, $m' = 100\%$. Công nghiệp ($c/v = 4/1$): $m = 200$. Nông nghiệp ($c/v = 3/2$): $m = 400$. Địa tô tuyệt đối $= 400 - 200 = 200$.
 
 **Giá cả ruộng đất**: là giá mua địa tô theo lãi suất tiền gửi ngân hàng:
 
@@ -342,4 +342,3 @@ Gợi ý hướng trả lời: (1) mua hàng hóa sức lao động rồi kéo d
 - Lợi nhuận thương nghiệp, lợi tức, địa tô đều là **hình thức biểu hiện của gttd**.
 - Địa tô: chênh lệch (đất tốt, trung bình), tuyệt đối (mọi đất, do độc quyền sở hữu).
 
-Nếu bạn muốn, mình có thể tạo bộ câu hỏi trắc nghiệm hoặc bài tập tính toán cho chương 1–3 để bạn luyện tập.
