@@ -143,12 +143,12 @@ C: QUIT
 
 ### So sánh SMTP vs HTTP
 
-| | **SMTP** | **HTTP** |
-|---|---|---|
-| Hướng | **Push** (client đẩy) | **Pull** (client kéo) |
-| Dữ liệu | ASCII 7-bit | Không giới hạn |
+|         | **SMTP**                     | **HTTP**              |
+| ------- | ---------------------------- | --------------------- |
+| Hướng   | **Push** (client đẩy)        | **Pull** (client kéo) |
+| Dữ liệu | ASCII 7-bit                  | Không giới hạn        |
 | Objects | Nhiều object trong 1 message | Mỗi object 1 response |
-| Kết nối | Persistent | Persistent (HTTP/1.1) |
+| Kết nối | Persistent                   | Persistent (HTTP/1.1) |
 
 ### IMAP
 - Dùng để **lấy** email từ server về User Agent.
