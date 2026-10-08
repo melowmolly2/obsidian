@@ -1,9 +1,3 @@
-Đọc tiếp nội dung file 2 (Chương 2) để tổng hợp đầy đủ.
-
-
-Dựa trên toàn bộ nội dung đọc được, đây là tổng kết lý thuyết **Chương 2** đầy đủ:
-
----
 
 # 📘 TỔNG KẾT LÝ THUYẾT CHƯƠNG 2
 ## CHỦ NGHĨA DUY VẬT BIỆN CHỨNG
