@@ -143,15 +143,15 @@ $$\text{Hao mòn vô hình} = \text{GT còn lại máy cũ} - \text{GT còn lạ
 
 **Tỉ suất và khối lượng giá trị thặng dư**
 
-|           | Tỉ suất gttd ($m'$)                                         | Khối lượng gttd ($M$)                             |
-| --------- | ----------------------------------------------------------- | ------------------------------------------------- |
-| Khái niệm | Tỉ lệ % giữa gttd và tư bản khả biến                        | Tích số giữa tỉ suất gttd và tổng tư bản khả biến |
-| Công thức | $m' = \dfrac{m}{v} \times 100% = \dfrac{t'}{t} \times 100%$ | $M = m' \cdot V = m \times \text{số công nhân}$   |
-|Ý nghĩa|Phản ánh **trình độ khai thác** lao động làm thuê|Phản ánh **quy mô** gttd nhà tư bản thu được|
+|           | Tỉ suất gttd ($m'$)                                           | Khối lượng gttd ($M$)                             |
+| --------- | ------------------------------------------------------------- | ------------------------------------------------- |
+| Khái niệm | Tỉ lệ % giữa gttd và tư bản khả biến                          | Tích số giữa tỉ suất gttd và tổng tư bản khả biến |
+| Công thức | $m' = \dfrac{m}{v} \times 100\% = \dfrac{t'}{t} \times 100\%$ | $M = m' \cdot V = m \times \text{số công nhân}$   |
+| Ý nghĩa   | Phản ánh **trình độ khai thác** lao động làm thuê             | Phản ánh **quy mô** gttd nhà tư bản thu được      |
 
 ### 3.1.3. Hai phương pháp sản xuất giá trị thặng dư
 
-||GTTD **tuyệt đối**|GTTD **tương đối**|
+| |GTTD **tuyệt đối**|GTTD **tương đối**|
 |---|---|---|
 |Nội dung|**Kéo dài ngày lao động** (trong khi thời gian lao động tất yếu không đổi) để tăng thời gian lao động thặng dư|**Rút ngắn thời gian lao động tất yếu** để tăng thời gian lao động thặng dư (độ dài ngày lao động không đổi)|
 |Biện pháp|Kéo dài ngày lao động; tăng cường độ lao động|Tăng **năng suất lao động xã hội**|
@@ -166,7 +166,7 @@ $$\text{GTTD siêu ngạch} = \text{GT xã hội} - \text{GT cá biệt}$$
 - Là **động lực trực tiếp, mạnh mẽ nhất** thúc đẩy nhà tư bản cải tiến kỹ thuật, tăng năng suất lao động.
 - Là **hình thức biến tướng** của gttd tương đối. Giống nhau: đều dựa trên tăng năng suất lao động. Khác nhau:
 
-||GTTD siêu ngạch|GTTD tương đối|
+| |GTTD siêu ngạch|GTTD tương đối|
 |---|---|---|
 |Dựa trên|Tăng năng suất lao động **cá biệt**|Tăng năng suất lao động **xã hội**|
 |Ai thu được|Một số nhà tư bản có kỹ thuật tiên tiến|Tất cả các nhà tư bản|
@@ -223,17 +223,17 @@ $$G = c + v + m ;\to; G = k + m ;\to; G = k + p$$
 
 **c) Tỉ suất lợi nhuận**
 
-$$p' = \frac{p}{c + v} \times 100%$$
+$$p' = \frac{p}{c + v} \times 100\%$$
 
 - Ý nghĩa: phản ánh mức doanh lợi của đầu tư tư bản; là động cơ mạnh nhất thúc đẩy cạnh tranh.
 - **Các nhân tố ảnh hưởng đến $p'$**:
 
-|Nhân tố|Quan hệ với $p'$|Ví dụ|
-|---|---|---|
-|Tỉ suất gttd ($m'$)|Tỉ lệ **thuận**|$K = 1000$, $c/v = 4/1$: $m' = 100% \Rightarrow p' = 20%$; $m' = 200% \Rightarrow p' = 40%$|
-|Cấu tạo hữu cơ ($c/v$)|Tỉ lệ **nghịch**|$m' = 100%$: $c/v = 3/2 \Rightarrow p' = 40%$; $c/v = 4/1 \Rightarrow p' = 20%$|
-|Tốc độ chu chuyển ($n$)|Tỉ lệ **thuận**|$n = 1 \Rightarrow p' = 20%$; $n = 2 \Rightarrow p' = 40%$|
-|Tiết kiệm tư bản bất biến ($c$)|Tỉ lệ **thuận**|$800c \Rightarrow p' = 200/1000 = 20%$; $600c \Rightarrow p' = 200/800 = 25%$|
+| Nhân tố                         | Quan hệ với $p'$ | Ví dụ                                                                                           |
+| ------------------------------- | ---------------- | ----------------------------------------------------------------------------------------------- |
+| Tỉ suất gttd ($m'$)             | Tỉ lệ **thuận**  | $K = 1000$, $c/v = 4/1$: $m' = 100\% \Rightarrow p' = 20\%$; $m' = 200\% \Rightarrow p' = 40\%$ |
+| Cấu tạo hữu cơ ($c/v$)          | Tỉ lệ **nghịch** | $m' = 100\%$: $c/v = 3/2 \Rightarrow p' = 40\%$; $c/v = 4/1 \Rightarrow p' = 20\%$              |
+| Tốc độ chu chuyển ($n$)         | Tỉ lệ **thuận**  | $n = 1 \Rightarrow p' = 20\%$; $n = 2 \Rightarrow p' = 40\%$                                    |
+| Tiết kiệm tư bản bất biến ($c$) | Tỉ lệ **thuận**  | $800c \Rightarrow p' = 200/1000 = 20\%$; $600c \Rightarrow p' = 200/800 = 25\%$                 |
 
 **d) Lợi nhuận bình quân**
 
