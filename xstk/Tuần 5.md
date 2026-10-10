@@ -99,13 +99,13 @@ Bayes cập nhật xác suất của "nguyên nhân" $A_j$ sau khi quan sát k�
 
 **Sơ đồ cây:** nhân các xác suất dọc theo một nhánh, cộng xác suất các nhánh rời nhau cùng dẫn đến kết quả cần xét.
 
-**Ví dụ hai dây chuyền** (A: $60%$, lỗi $2%$; B: $40%$, lỗi $5%$):
+**Ví dụ hai dây chuyền** (A: $60\%$, lỗi $2\%$; B: $40\%$, lỗi $5\%$):
 
 $$P(L)=0.02(0.60)+0.05(0.40)=0.032, \qquad P(B\mid L)=\frac{0.05(0.40)}{0.032}=0.625$$
 
-Dây chuyền B chỉ tạo $40%$ sản lượng nhưng chiếm $62.5%$ sản phẩm lỗi. Lưu ý $P(L\mid B)=0.05$ khác $P(B\mid L)=0.625$.
+Dây chuyền B chỉ tạo $40\%$ sản lượng nhưng chiếm $62.5\%$ sản phẩm lỗi. Lưu ý $P(L\mid B)=0.05$ khác $P(B\mid L)=0.625$.
 
-**Ví dụ ba tài khoản email** ($70%,20%,10%$; tỷ lệ rác $1%,2%,5%$): $P(\text{rác})=0.016$. Hậu nghiệm:
+**Ví dụ ba tài khoản email** ($70\%,20\%,10\%$; tỷ lệ rác $1\%,2\%,5\%$): $P(\text{rác})=0.016$. Hậu nghiệm:
 
 |Tài khoản|$P(A_i)$|$P(A_i\mid \text{rác})$|
 |---|---|---|
@@ -115,7 +115,7 @@ Dây chuyền B chỉ tạo $40%$ sản lượng nhưng chiếm $62.5%$ sản ph
 
 Tài khoản $3$ có tỷ lệ rác cao nhất nhưng tài khoản $1$ vẫn là nguồn có khả năng cao nhất vì nhận nhiều thư hơn.
 
-**Mô hình SIR** (cảm nhiễm $60%$, đang nhiễm $10%$, hồi phục $30%$; xác suất dương tính lần lượt $0.05$, $0.99$, $0.35$):
+**Mô hình SIR** (cảm nhiễm $60\%$, đang nhiễm $10\%$, hồi phục $30\%$; xác suất dương tính lần lượt $0.05$, $0.99$, $0.35$):
 
 $$P(+)=0.60(0.05)+0.10(0.99)+0.30(0.35)=0.234, \qquad P(\text{nhiễm}\mid +)=\frac{0.099}{0.234}\approx 0.423$$
 
