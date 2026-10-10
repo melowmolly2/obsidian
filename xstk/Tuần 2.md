@@ -75,12 +75,12 @@ Chọn trung bình là một quyết định mô hình hóa (mất mát bình ph
 
 Ví dụ STAT20 với dãy $8, 11, 7, 7, 8, 11, 9, 6, 10, 7, 9$:
 
-||Trung bình|Trung vị|
+| |Trung bình|Trung vị|
 |---|---|---|
 |Gốc|$8.45$|$8$|
 |Thay $6$ bằng $-200$|$-10.27$|$8$|
 
-**Quan hệ trung bình–trung vị với hình dạng:** đuôi kéo về phía thấp thì trung bình nhỏ hơn trung vị (ví dụ trung bình $76%$, trung vị $80%$). Đuôi kéo về phía cao thì ngược lại.
+**Quan hệ trung bình–trung vị với hình dạng:** đuôi kéo về phía thấp thì trung bình nhỏ hơn trung vị (ví dụ trung bình $76\%$, trung vị $80\%$). Đuôi kéo về phía cao thì ngược lại.
 
 ## 4. Độ phân tán và biểu đồ hộp
 
@@ -113,7 +113,7 @@ Ví dụ bài điểm thi: $Q_1 = 72.5$, $Q_3 = 82.5$, $IQR = 10$, hàng rào l�
 
 **Tính bền vững:** khi một quan sát bị đẩy cực đoan, trung bình và SD đổi mạnh, trung vị và IQR đổi ít. Với dãy STAT20 gốc và dãy đã thay $6$ bằng $-200$:
 
-||Trung bình|Trung vị|SD mẫu|IQR|
+| |Trung bình|Trung vị|SD mẫu|IQR|
 |---|---|---|---|---|
 |Gốc|$8.455$|$8$|$1.695$|$2.5$|
 |Sau thay|$-10.273$|$8$|$62.943$|$2.5$|
@@ -169,22 +169,22 @@ Trung bình giảm, SD chỉ tăng nhẹ vì điểm mới chỉ chiếm $1/25$ 
 
 Ba mẫu số khác nhau cho ô $55$:
 
-- $\dfrac{55}{333}\approx 16.5%$: Adelie ở Dream trên toàn bộ chim.
-- $\dfrac{55}{146}\approx 37.7%$: Adelie ở Dream trong số Adelie.
-- $\dfrac{55}{123}\approx 44.7%$: chim ở Dream là Adelie.
+- $\dfrac{55}{333}\approx 16.5\%$: Adelie ở Dream trên toàn bộ chim.
+- $\dfrac{55}{146}\approx 37.7\%$: Adelie ở Dream trong số Adelie.
+- $\dfrac{55}{123}\approx 44.7\%$: chim ở Dream là Adelie.
 
 Với `body_mass_g`: trung vị $=4050$ g, $IQR=1225$ g, lệch phải, nên dùng trung vị + IQR để mô tả điển hình. Phản biện "loài quyết định hòn đảo" là khẳng định nhân quả, bảng chỉ cho thấy mối liên hệ.
 
 **Bảng lỗi thiết bị (A: $100$, B: $200$):** lỗi nghiêm trọng A $=10$, B $=20$.
 
-- Tỉ lệ lỗi nghiêm trọng đều là $\dfrac{10}{100}=\dfrac{20}{200}=10%$.
+- Tỉ lệ lỗi nghiêm trọng đều là $\dfrac{10}{100}=\dfrac{20}{200}=10\%$.
 - Kết luận "B nguy hiểm gấp đôi vì $20>10$" là sai vì dùng số đếm thô.
 
 **Nhập cư (IMS2e), $n=910$:**
 
-- Conservative: $\dfrac{372}{910}\approx 40.9%$.
+- Conservative: $\dfrac{372}{910}\approx 40.9\%$.
 - Chọn Apply for citizenship trong toàn mẫu: $\dfrac{278}{910}\approx 30.5%$.
-- Tỉ lệ này trong từng nhóm: conservative $\dfrac{57}{372}\approx 15.3%$, liberal $\dfrac{101}{175}\approx 57.7%$, moderate $\dfrac{120}{363}\approx 33.1%$.
+- Tỉ lệ này trong từng nhóm: conservative $\dfrac{57}{372}\approx 15.3%$, liberal $\dfrac{101}{175}\approx 57.7\%$, moderate $\dfrac{120}{363}\approx 33.1\%$.
 - Các tỉ lệ có điều kiện khác nhau rõ nên có liên hệ mô tả, không kết luận nhân quả.
 
 **Chọn tóm tắt theo hình dạng:**
