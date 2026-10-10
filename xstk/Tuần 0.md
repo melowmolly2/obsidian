@@ -16,15 +16,15 @@ Tuần 0 gần như không có lý thuyết hình thức. Các khái niệm chí
 4. Kết luận mạnh đến đâu là hợp lý?
 5. Cần thêm dữ liệu hoặc thiết kế nào để thuyết phục hơn?
 
-## 2. Ví dụ duy nhất có tính toán: bộ lọc thư rác "đúng 95%"
+## 2. Ví dụ duy nhất có tính toán: bộ lọc thư rác "đúng 95\%"
 
 Trong 10.000 thư có 9.500 thư bình thường và 500 thư rác. Một hệ thống **luôn đoán "không phải thư rác"** vẫn đạt độ chính xác:
 
-$$\frac{9500}{10000} = 95%$$
+$$\frac{9500}{10000} = 95\%$$
 
 Nhưng nó phát hiện được:
 
-$$\frac{0}{500} = 0%$$
+$$\frac{0}{500} = 0\%$$
 
 số thư rác. Vậy độ chính xác đứng riêng lẻ chưa đủ. Cần biết hệ thống sai ở đâu, với đối tượng nào và hậu quả của từng loại sai lầm. Phần này sẽ học chính thức ở Tuần 14–15.
 
@@ -33,10 +33,10 @@ số thư rác. Vậy độ chính xác đứng riêng lẻ chưa đủ. Cần b
 |Câu hỏi|Tuần|
 |---|---|
 |18 sinh viên hàng đầu có đại diện cho cả lớp?|9–11|
-|"30% khả năng mưa" nghĩa là gì?|5–7|
+|"30\% khả năng mưa" nghĩa là gì?|5–7|
 |Tuyến 16 phút có tốt hơn tuyến khác?|12–13|
 |Bỏ kẹo khỏi quầy thanh toán có làm khách mua ít đi?|12–13|
-|Bộ lọc "đúng 95%" có hữu ích?|14–15|
+|Bộ lọc "đúng 95\%" có hữu ích?|14–15|
 
 Ngoài ra còn ví dụ "sinh viên dùng AI có điểm cao hơn". Ví dụ này giả định, dùng để hỏi về yếu tố gây nhiễu (năng lực ban đầu, cách dùng AI, môn học) và về quan hệ nhân quả.
 
@@ -45,7 +45,7 @@ Ngoài ra còn ví dụ "sinh viên dùng AI có điểm cao hơn". Ví dụ nà
 - **Mã:** UET.MAT1052, 3 tín chỉ, tiên quyết là Giải tích 1.
 - **Thời lượng:** 15 tuần học, thi cuối kỳ ở Tuần 16. Mỗi tuần có 2 tiết lý thuyết và 1 tiết bài tập.
 - **Học liệu chính:** bản dịch Stat 20 (Hoàng Thị Điệp, Nghiêm Nguyễn Việt Dũng, Lê Thị Hường), Stat 20 của UC Berkeley, và _Statistics_ của Freedman, Pisani, Purves (ấn bản 4).
-- **Đánh giá:** 40% giữa kỳ, bài tập và kiểm tra thường xuyên (Tuần 8); 60% thi cuối kỳ (Tuần 16). Điểm đánh giá cả phương pháp, lập luận và diễn giải, không chỉ đáp số.
+- **Đánh giá:** 40\% giữa kỳ, bài tập và kiểm tra thường xuyên (Tuần 8); 60\% thi cuối kỳ (Tuần 16). Điểm đánh giá cả phương pháp, lập luận và diễn giải, không chỉ đáp số.
 
 **Chuẩn đầu ra:**
 
