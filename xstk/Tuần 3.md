@@ -66,38 +66,38 @@ Chuỗi xử lý: dữ liệu → lọc → sắp xếp → nhóm → tóm tắt
     - Đếm theo `vore` rồi lọc `n > 18` hỏi: "chế độ ăn nào có hơn $18$ loài trong toàn bộ dữ liệu?".
 - **Lọc hay nhóm:** hỏi về một nhóm cụ thể thì lọc rồi tóm tắt; hỏi cùng một phép tóm tắt cho mọi mức thì nhóm rồi tóm tắt.
 - **`groupby(...).agg(...)`:** `dropna=False` giữ nhóm bị thiếu.
-- **Trung bình của biến logic là một tỉ lệ**, vì `True`/`False` tương ứng $1$/$0$. Luôn kèm $n$ để không đánh đồng $100%$ từ $5$ quan sát với $100%$ từ hàng chục quan sát. Ví dụ `msleep` chia theo `vore`: insecti có $p=1.000$ nhưng chỉ $n=5$.
+- **Trung bình của biến logic là một tỉ lệ**, vì `True`/`False` tương ứng $1$/$0$. Luôn kèm $n$ để không đánh đồng $100\%$ từ $5$ quan sát với $100\%$ từ hàng chục quan sát. Ví dụ `msleep` chia theo `vore`: insecti có $p=1.000$ nhưng chỉ $n=5$.
 - Kiểm tra chéo "biểu đồ → dự đoán → tóm tắt số → diễn giải". Ví dụ Gentoo có độ sâu mỏ trung bình nhỏ nhất ($14.98$ so với $18.35$ của Adelie và $18.42$ của Chinstrap), khớp với cụm điểm nằm thấp trên trục y.
 
 ## 5. Nghịch lý Simpson
 
 Ví dụ hai thuật toán (thành công / tổng):
 
-|Độ khó|A|B|Cao hơn|
-|---|---|---|---|
-|Dễ|$\dfrac{81}{90}=90%$|$\dfrac{19}{20}=95%$|B|
-|Khó|$\dfrac{1}{10}=10%$|$\dfrac{16}{80}=20%$|B|
-|**Gộp**|$\dfrac{82}{100}=82%$|$\dfrac{35}{100}=35%$|**A**|
+|Độ khó|A| B                     |Cao hơn|
+| ------ | --------------------- | --------------------- | ------- |
+|Dễ|$\dfrac{81}{90}=90\%$| $\dfrac{19}{20}=95\%$ |B|
+|Khó|$\dfrac{1}{10}=10\%$|$\dfrac{16}{80}=20\%$|B|
+|**Gộp**|$\dfrac{82}{100}=82\%$|$\dfrac{35}{100}=35\%$|**A**|
 
 **Cơ chế:** tỉ lệ gộp là trung bình có trọng số của các tỉ lệ trong nhóm.
 
 $$A: 0.90(0.90)+0.10(0.10)=0.82, \qquad B: 0.20(0.95)+0.80(0.20)=0.35$$
 
-A xử lý $90%$ tác vụ dễ, B xử lý $80%$ tác vụ khó. Cơ cấu nhóm khác nhau có thể lấn át so sánh trong từng nhóm. Không có thông tin về cơ chế phân công tác vụ thì không kết luận nhân quả.
+A xử lý $90\%$ tác vụ dễ, B xử lý $80\%$ tác vụ khó. Cơ cấu nhóm khác nhau có thể lấn át so sánh trong từng nhóm. Không có thông tin về cơ chế phân công tác vụ thì không kết luận nhân quả.
 
-**Cách tự dựng nghịch lý:** chọn một nhóm tỉ lệ cao, một nhóm tỉ lệ thấp; trong mỗi nhóm đặt B nhỉnh hơn A; cho A nhận phần lớn quan sát từ nhóm dễ, B nhận phần lớn từ nhóm khó. Ví dụ: Dễ A $\dfrac{36}{40}$, B $\dfrac{19}{20}$; Khó A $\dfrac{1}{10}$, B $\dfrac{12}{50}$. Gộp được $A=\dfrac{37}{50}=74%$ và $B=\dfrac{31}{70}\approx 44.3%$.
+**Cách tự dựng nghịch lý:** chọn một nhóm tỉ lệ cao, một nhóm tỉ lệ thấp; trong mỗi nhóm đặt B nhỉnh hơn A; cho A nhận phần lớn quan sát từ nhóm dễ, B nhận phần lớn từ nhóm khó. Ví dụ: Dễ A $\dfrac{36}{40}$, B $\dfrac{19}{20}$; Khó A $\dfrac{1}{10}$, B $\dfrac{12}{50}$. Gộp được $A=\dfrac{37}{50}=74\%$ và $B=\dfrac{31}{70}\approx 44.3\%$.
 
 **Nhóm ẩn trong biểu đồ phân tán:** nhìn gộp, tải cao đi cùng thông lượng cao, nhưng trong từng loại máy chủ, tải tăng lại đi cùng thông lượng giảm. Cần hỏi mối liên hệ đang xét ở mức biên hay trong từng nhóm, và tô màu hoặc tách ô theo biến thứ ba.
 
 ## 6. Tóm tắt gộp che mất cấu trúc
 
-Penguins: $\dfrac{172}{342}\approx 50.3%$ cá thể trên $4000$ g. Điều kiện hóa theo loài:
+Penguins: $\dfrac{172}{342}\approx 50.3\%$ cá thể trên $4000$ g. Điều kiện hóa theo loài:
 
 |Loài|Trên 4000 g|Số có dữ liệu|Tỉ lệ|
 |---|---|---|---|
-|Adelie|$35$|$151$|$23.2%$|
-|Chinstrap|$15$|$68$|$22.1%$|
-|Gentoo|$122$|$123$|$99.2%$|
+|Adelie|$35$|$151$|$23.2\%$|
+|Chinstrap|$15$|$68$|$22.1\%$|
+|Gentoo|$122$|$123$|$99.2\%$|
 
 Kết luận "loài ít liên quan" không được hỗ trợ. Điều kiện hóa không "sửa số liệu", nó đổi câu hỏi từ toàn bộ dữ liệu sang từng nhóm.
 
@@ -105,7 +105,7 @@ Ví dụ khác: Chinstrap và Gentoo trong khoảng $40\text{–}50$ mm có cùn
 
 ## 7. Đồ họa trung thực
 
-Độ trễ tăng từ $100$ ms lên $104$ ms (tức $+4%$). Biểu đồ cột mã hóa giá trị bằng chiều dài cột, nên cắt trục tung ở $98$ ms làm $4$ ms chiếm phần lớn chiều cao hiển thị. Cách trung thực hơn: trục bắt đầu từ $0$ nếu dùng cột, hoặc dùng điểm/đường kèm nhãn trực tiếp "$+4\ \text{ms}=+4%$". Đúng số chưa đủ để đúng ấn tượng.
+Độ trễ tăng từ $100$ ms lên $104$ ms (tức $+4\%$). Biểu đồ cột mã hóa giá trị bằng chiều dài cột, nên cắt trục tung ở $98$ ms làm $4$ ms chiếm phần lớn chiều cao hiển thị. Cách trung thực hơn: trục bắt đầu từ $0$ nếu dùng cột, hoặc dùng điểm/đường kèm nhãn trực tiếp "$+4\ \text{ms}=+4\%$". Đúng số chưa đủ để đúng ấn tượng.
 
 ## 8. Ghi nhớ cuối
 

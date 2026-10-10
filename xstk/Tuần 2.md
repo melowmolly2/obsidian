@@ -94,8 +94,8 @@ $s$ có cùng đơn vị với dữ liệu, còn $s^2$ có đơn vị bình phư
 
 $$IQR = Q_3 - Q_1$$
 
-- $Q_1$, trung vị, $Q_3$ lần lượt là phân vị $25%$, $50%$, $75%$.
-- IQR là độ rộng của $50%$ quan sát ở giữa.
+- $Q_1$, trung vị, $Q_3$ lần lượt là phân vị $25\%$, $50\%$, $75\%$.
+- IQR là độ rộng của $50\%$ quan sát ở giữa.
 - Tóm tắt năm số: $\min, Q_1, \text{trung vị}, Q_3, \max$.
 - Các cặp thường đi cùng nhau: trung bình ↔ SD, trung vị ↔ IQR.
 
@@ -183,8 +183,8 @@ Với `body_mass_g`: trung vị $=4050$ g, $IQR=1225$ g, lệch phải, nên dù
 **Nhập cư (IMS2e), $n=910$:**
 
 - Conservative: $\dfrac{372}{910}\approx 40.9\%$.
-- Chọn Apply for citizenship trong toàn mẫu: $\dfrac{278}{910}\approx 30.5%$.
-- Tỉ lệ này trong từng nhóm: conservative $\dfrac{57}{372}\approx 15.3%$, liberal $\dfrac{101}{175}\approx 57.7\%$, moderate $\dfrac{120}{363}\approx 33.1\%$.
+- Chọn Apply for citizenship trong toàn mẫu: $\dfrac{278}{910}\approx 30.5\%$.
+- Tỉ lệ này trong từng nhóm: conservative $\dfrac{57}{372}\approx 15.3\%$, liberal $\dfrac{101}{175}\approx 57.7\%$, moderate $\dfrac{120}{363}\approx 33.1\%$.
 - Các tỉ lệ có điều kiện khác nhau rõ nên có liên hệ mô tả, không kết luận nhân quả.
 
 **Chọn tóm tắt theo hình dạng:**
