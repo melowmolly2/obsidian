@@ -119,7 +119,7 @@ $$\mu=\int_{-\infty}^{\infty}xf_X(x),dx, \qquad \text{Var}(X)=\int(x-\mu)^2f_X(x
 - **Đều:** chờ xe buýt $X\sim U(0,10)$: $P(2<X<5)=\dfrac{3}{10}=0.3$, $E(X)=5$.
 - **Chuẩn:** hình chuông, đối xứng quanh $\mu$. Chuẩn hóa $Z=\dfrac{X-\mu}{\sigma}\sim\mathcal N(0,1)$ và $P(X\le x)=\Phi!\left(\dfrac{x-\mu}{\sigma}\right)$.
     - Ví dụ điểm $86$ (trung bình $70$, SD $8$): $z=\dfrac{86-70}{8}=2$.
-    - **Quy tắc 68–95–99.7:** $P(\mu-k\sigma<X<\mu+k\sigma)\approx0.68,\ 0.95,\ 0.997$ với $k=1,2,3$. Ví dụ chai $\mathcal N(500,2^2)$: $[498,502]$ chứa khoảng $68%$, $[496,504]$ chứa khoảng $95%$, $P(X>504)\approx2.5%$.
+    - **Quy tắc 68–95–99.7:** $P(\mu-k\sigma<X<\mu+k\sigma)\approx0.68,\ 0.95,\ 0.997$ với $k=1,2,3$. Ví dụ chai $\mathcal N(500,2^2)$: $[498,502]$ chứa khoảng $68\%$, $[496,504]$ chứa khoảng $95\%$, $P(X>504)\approx2.5\%$.
     - **Phân vị:** $q_p=\mu+\sigma,\Phi^{-1}(p)$. Ví dụ chai: $P(X\le503)=0.9332$, $P(498<X<502)=0.6827$, $q_{0.95}=503.29$ ml.
     - SciPy: `norm.cdf(x, loc=μ, scale=σ)` (`scale` là SD, không phải phương sai), `norm.sf`, `norm.ppf`.
 - **Mũ:** lệch phải, mô hình thời gian chờ. Ví dụ chờ trung bình $2$ phút thì $\lambda=0.5$ và $P(X>3)=e^{-1.5}\approx0.2231$.
