@@ -5,4 +5,5 @@
 - Thông tin: là tất cả những gì con người có thể cảm nhận được một cách trực tiếp qua các giác quan của mình hoặc gián tiếp thông quan các phương tiện kỹ thuật
 - Tri thức: 
 	- Các dữ liệu được sắp xếp theo một thứ tự hoặc được tập hợp theo một quan hệ nào dó sẽ chứa dựng các thông tin
-	- Và những quan
+	- Và những quan hệ đó nếu được chỉ ra theo một các rõ ràng thì đó là các tri thức
+	- Về mức độ trừu tượng tri thức là khả năng trừu tượn nhất trong ba khái niệm trên
