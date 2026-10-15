@@ -1,4 +1,4 @@
-Mình đã đọc hết 94 slide của Tuần 07. Tuần này học kỳ vọng, phương sai, i.i.d. và tổng/trung bình, Chebyshev, luật số lớn, biến ngẫu nhiên liên tục, các phân phối liên tục và Định lý giới hạn trung tâm. Đây cũng là tuần cuối trước kiểm tra giữa kỳ (Tuần 8).
+
 
 ## 1. Kỳ vọng
 
