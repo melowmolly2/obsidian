@@ -65,13 +65,13 @@ Khi đó:
 
 ## 5. Các phân phối rời rạc thông dụng
 
-|Phân phối|Ký hiệu / tham số|PMF|Khi nào dùng|
-|---|---|---|---|
-|Đều rời rạc|$m$|$P(X=k)=\dfrac1m,\ k=1,\dots,m$|$m$ giá trị cùng xác suất|
-|Bernoulli|$p$|$P(X=1)=p,\ P(X=0)=1-p$|một phép thử, hai kết quả|
-|Nhị thức|$\text{Binomial}(n,p)$|$\dbinom nk p^k(1-p)^{n-k}$|$n$ phép thử độc lập, $p$ không đổi|
-|Siêu bội|$\text{Hypergeometric}(N,K,n)$|$\dfrac{\binom Kk\binom{N-K}{n-k}}{\binom Nn}$|rút $n$ **không hoàn lại** từ tổng thể hữu hạn|
-|Poisson|$\text{Poisson}(\lambda)$|$e^{-\lambda}\dfrac{\lambda^k}{k!},\ k=0,1,2,\dots$|đếm sự kiện trong khoảng cố định|
+| Phân phối   | Ký hiệu / tham số              | PMF                                                 | Khi nào dùng                                   |
+| ----------- | ------------------------------ | --------------------------------------------------- | ---------------------------------------------- |
+| Đều rời rạc | $m$                            | $P(X=k)=\dfrac1m,\ k=1,\dots,m$                     | $m$ giá trị cùng xác suất                      |
+| Bernoulli   | $p$                            | $P(X=1)=p,\ P(X=0)=1-p$                             | một phép thử, hai kết quả                      |
+| Nhị thức    | $\text{Binomial}(n,p)$         | $\dbinom nk p^k(1-p)^{n-k}$                         | $n$ phép thử độc lập, $p$ không đổi            |
+| Siêu bội    | $\text{Hypergeometric}(N,K,n)$ | $\dfrac{\binom Kk\binom{N-K}{n-k}}{\binom Nn}$      | rút $n$ **không hoàn lại** từ tổng thể hữu hạn |
+| Poisson     | $\text{Poisson}(\lambda)$      | $e^{-\lambda}\dfrac{\lambda^k}{k!},\ k=0,1,2,\dots$ | đếm sự kiện trong khoảng cố định               |
 
 **Bốn điều kiện của mô hình nhị thức:**
 
