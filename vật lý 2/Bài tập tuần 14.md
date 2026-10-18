@@ -1,4 +1,4 @@
-# Bài tập tiêu biểu tuần 14 (lời giải chi tiết)
+ # Bài tập tiêu biểu tuần 14 (lời giải chi tiết)
 
 Mình dùng $hc = 1240\ \text{eV·nm}$, $c = 3{,}00\times10^{8}\ \text{m/s}$.
 
