@@ -49,3 +49,29 @@ over a maximum of 50 hops:
 Trace complete.
 ```
 ![](../Assets/Pasted%20image%2020261018213457.png)
+![](../Assets/Pasted%20image%2020261018213526.png)
+![](../Assets/Pasted%20image%2020261018213701.png)**Answers: 1 → C, 2 → A, 3 → B**
+
+**1. Average 2.1 Mbps, 15 Mbps when transmitting: C (neither works well)**
+
+The total average demand already exceeds the channel capacity:
+
+$$5 \times 2.1 = 10.5 \text{ Mbps} > 10 \text{ Mbps}$$
+
+Circuit switching can't give each user their average rate. Packet switching has queues that grow without bound, causing long delays and loss.
+
+**2. Average 2 Mbps, 2 Mbps when transmitting: A (circuit switching)**
+
+The traffic is constant and fits the channel exactly:
+
+$$5 \times 2 = 10 \text{ Mbps} = 10 \text{ Mbps}$$
+
+Each user gets a dedicated $10/5 = 2$ Mbps circuit, which is fully used. Packet switching would add queueing delay and variability with no benefit, since there is no burstiness to exploit.
+
+**3. Average 0.21 Mbps, 15 Mbps when transmitting: B (packet switching)**
+
+The traffic is very bursty, and the total average demand is small:
+
+$$5 \times 0.21 = 1.05 \text{ Mbps} \ll 10 \text{ Mbps}$$
+
+A circuit would give each user only $2$ Mbps, far below their $15$ Mbps burst rate, and that capacity would sit idle most of the time. With packet switching, a user who is transmitting can use the whole channel, and it is unlikely that several users burst at once.
