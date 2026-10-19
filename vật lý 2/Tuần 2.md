@@ -9,10 +9,10 @@ Bài tập này gồm **Chương 3 (Điện thế)** và **Chương 4 (Điện d
 - Công của lực điện bằng độ giảm thế năng:  
     $$W_{a\to b}=U_a-U_b=-\Delta U=\int_a^b q\vec E\cdot d\vec l$$
 - Thế năng của hai điện tích điểm:  
-    $$U=\frac{1}{4\pi\varepsilon_0}\frac{q,q_0}{r}$$
+    $$U=\frac{1}{4\pi\varepsilon_0}\frac{q_1q_2}{r}$$
 - Bảo toàn cơ năng (khi chỉ có lực điện): $K_a+U_a=K_b+U_b$. Dùng cho Bài 1, 2, 3, 8.
 - Với điện tích $q$ (có dấu) di chuyển từ $a$ đến $b$:  
-    $$W_{a\to b}=q,(V_a-V_b)=qV_{ab}$$
+    $$W_{a\to b}=q(V_a-V_b)=qV_{ab}$$
 
 ### 2. Điện thế
 
