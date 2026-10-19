@@ -1,5 +1,5 @@
 ## 📚 Chương 2: Tầng Ứng Dụng — Lý thuyết cần nhớ
-
+dhdj3hlj3dhkkvvzzjvzvbvvvvvvvvvvvvvvvcvvvvvvv
 ---
 
 ## 1. Nguyên tắc cơ bản của ứng dụng mạng
