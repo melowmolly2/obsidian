@@ -75,26 +75,4 @@ The traffic is very bursty, and the total average demand is small:
 $$5 \times 0.21 = 1.05 \text{ Mbps} \ll 10 \text{ Mbps}$$
 
 A circuit would give each user only $2$ Mbps, far below their $15$ Mbps burst rate, and that capacity would sit idle most of the time. With packet switching, a user who is transmitting can use the whole channel, and it is unlikely that several users burst at once.
-![](../Assets/Pasted%20image%2020261018214003.png)![](../Assets/Pasted%20image%2020261018214028.png)![](../Assets/Pasted%20image%2020261019102429.png)![](../Assets/Pasted%20image%2020261019102812.png)![](../Assets/Pasted%20image%2020261019103638.png)![](../Assets/Pasted%20image%2020261019103733.png)![](../Assets/Pasted%20image%2020261019104229.png)![](../Assets/Pasted%20image%2020261019104501.png)![](../Assets/Pasted%20image%2020261019104634.png)![](../Assets/Pasted%20image%2020261019104803.png)![](../Assets/Pasted%20image%2020261019104928.png)![](../Assets/Pasted%20image%2020261019105112.png)![](../Assets/Pasted%20image%2020261019105224.png)![](../Assets/Pasted%20image%2020261019105439.png)![](../Assets/Pasted%20image%2020261019105528.png)![](../Assets/Pasted%20image%2020261019105604.png)![](../Assets/Pasted%20image%2020261019105909.png)![](../Assets/Pasted%20image%2020261019110438.png)
-Đây là đáp án nối các mốc lịch sử Internet:
-
-|Sự kiện|Đáp án|
-|---|---|
-|Nghiên cứu ban đầu về chuyển mạch gói (Baran, Davies, Kleinrock)|**B**: Early 1960's|
-|Nút ARPANet đầu tiên hoạt động|**C**: Late 1960's|
-|Internetting: DARPA nối ba mạng với nhau|**H**: 1970's|
-|IP được chuẩn hóa trong RFC 791|**A**: Early 1980's|
-|Thêm kiểm soát tắc nghẽn vào TCP|**F**: Late 1980's|
-|WWW ra đời|**G**: 1990's|
-|Software-defined networking bắt đầu|**E**: 2000-2010|
-|Số thiết bị không dây kết nối Internet vượt số thiết bị có dây|**D**: 2010 - 2020|
-
-Một số mốc để bạn dễ nhớ:
-
-- ARPANet có nút đầu tiên năm 1969.
-- RFC 791 ra đời năm 1981.
-- Cơ chế kiểm soát tắc nghẽn của TCP được thêm vào khoảng năm 1988.
-- Thiết bị không dây vượt thiết bị có dây vào khoảng năm 2011.
-
-Các dropdown trong ảnh hiển thị chữ cái bị méo nên mình không đọc được lựa chọn hiện tại của bạn. Bạn có thể đối chiếu với bảng trên.
-
+![](../Assets/Pasted%20image%2020261018214003.png)![](../Assets/Pasted%20image%2020261018214028.png)![](../Assets/Pasted%20image%2020261019102429.png)![](../Assets/Pasted%20image%2020261019102812.png)![](../Assets/Pasted%20image%2020261019103638.png)![](../Assets/Pasted%20image%2020261019103733.png)![](../Assets/Pasted%20image%2020261019104229.png)![](../Assets/Pasted%20image%2020261019104501.png)![](../Assets/Pasted%20image%2020261019104634.png)![](../Assets/Pasted%20image%2020261019104803.png)![](../Assets/Pasted%20image%2020261019104928.png)![](../Assets/Pasted%20image%2020261019105112.png)![](../Assets/Pasted%20image%2020261019105224.png)![](../Assets/Pasted%20image%2020261019105439.png)![](../Assets/Pasted%20image%2020261019105528.png)![](../Assets/Pasted%20image%2020261019105604.png)![](../Assets/Pasted%20image%2020261019105909.png)
