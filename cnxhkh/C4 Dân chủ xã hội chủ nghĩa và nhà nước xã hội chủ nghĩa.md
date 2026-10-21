@@ -85,4 +85,6 @@ Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hi
 	- Nhân dân bầu ra Quốc hội. Quốc hội là cơ quan quyền lcuwj nhà nước cao nhất hoạt động theo nhiệm kỳ 5 năm
 	- Quyền lực nhà nước là thống nhất, có sự phân công, phối hợp và kiểm soát giữa các cơ quan nhà nước trong việc thực hiện các quyền lập pháp, hành pháp và tư pháp.
 - HÌnh thức dân chủ trực tiếp
-	- Là hình thức nhân
+	- Là hình thức nhân dân bằng hành động trực tiếp của mình thực hiện quyền làm chủ nhà nước và xã hội.
+	- HÌnh thức đó thể hiện ở các quyền được thông tin về hoạt động của nhà nước, dược bàn bạc về công việc của nhà nước, được bàn bạc về công việc của nhà nucows và cộng đồng dân cư, được bàn đến những quyến định về dân chủ cơ sở, nhân dân kiểm tra giám sát hoạt động của cơ quan nhà nước từ Trung ương cho đến cơ sở
+	- Dân chủ ngày càng được thể hiện trong tất cả các mối quan hệ xã hội, trở thành quy chế, cách thức làm việc của 
