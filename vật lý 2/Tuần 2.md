@@ -38,13 +38,13 @@ $$E_x=-\frac{\partial V}{\partial x},\qquad E_r=-\frac{dV}{dr}$$
 
 ### 5. Các công thức điện thế hay gặp
 
-|Hệ|Điện thế|
-|---|---|
-|Vỏ cầu mỏng bán kính $R$, điện tích $q$|$V=\dfrac{kq}{R}$ khi $r\le R$ (không đổi); $V=\dfrac{kq}{r}$ khi $r\ge R$|
-|Hai vỏ cầu đồng tâm (Bài 7)|Cộng điện thế của từng vỏ (nguyên lý chồng chất)|
-|Vòng dây tích điện, trên trục|$V=\dfrac{kQ}{\sqrt{x^2+a^2}}$ (Bài 8)|
-|Dây thẳng dài / hình trụ dài, mật độ dài $\lambda$|$V_a-V_b=\dfrac{\lambda}{2\pi\varepsilon_0}\ln\dfrac{r_b}{r_a}$|
-|Mặt phẳng vô hạn, mật độ mặt $\sigma$|$E=\dfrac{\sigma}{2\varepsilon_0}$, $V$ biến thiên tuyến tính theo khoảng cách|
+| Hệ                                                 | Điện thế                                                                       |
+| -------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Vỏ cầu mỏng bán kính $R$, điện tích $q$            | $V=\dfrac{kq}{R}$ khi $r\le R$ (không đổi); $V=\dfrac{kq}{r}$ khi $r\ge R$     |
+| Hai vỏ cầu đồng tâm (Bài 7)                        | Cộng điện thế của từng vỏ (nguyên lý chồng chất)                               |
+| Vòng dây tích điện, trên trục                      | $V=\dfrac{kQ}{\sqrt{x^2+a^2}}$ (Bài 8)                                         |
+| Dây thẳng dài / hình trụ dài, mật độ dài $\lambda$ | $V_a-V_b=\dfrac{\lambda}{2\pi\varepsilon_0}\ln\dfrac{r_b}{r_a}$                |
+| Mặt phẳng vô hạn, mật độ mặt $\sigma$              | $E=\dfrac{\sigma}{2\varepsilon_0}$, $V$ biến thiên tuyến tính theo khoảng cách |
 
 Lưu ý khi làm bài:
 
