@@ -39,3 +39,11 @@ Sự phát triển của nền dân chủ
 	- Lấy hệ tư tưởng Mác - Lenin làm chủ đạo đối với mọi hình thái ý thức xã hội khác trong xã hội mới. Đồng thời kế thừa, phát huy những tinh hoa văn hóa truyền thống dân tộc; tiếp thu những giá trị tư tưởng - văn hóa, văn minh, tiến bộ xã hội...
 	- Nhân dân được làm chủ những giá trị văn hóa tinh thần; được nâng cao tình độ văn hóa, có điều kiện để phát triển cá nhân.
 	- Có sự kết hợp hài hòa về lợi ích giữa cá nhân, tập thể và lợi ích của toàn xã hội, ra sức động viên, thu hút mọi tiềm năng sáng tạo, tính tích cực xã hội của nhân dân trong sự nghiệp xây dựng xã hội mới. 
+# Nhà nước xã hội chủ nghĩa
+## Sự ra đời, bản chất, chức năng của nhà nucows xã hội chủ nghĩa ra đời của nhà nucows xã hội chủ nghĩa
+- Xuất phát từ nguyện vọng của nhân dân lao động muốn thoát khỏi sự áp bức, bất công và chuyên chế ước mơ xây dựng một xã hội dân chủ, công bằng và những giá trị của con người được tôn trọng, bảo vẹ và có điều kiện để phát triển
+
+
+
+a. Sự ra đời của nhà nước xã hội chủ nghĩa
+Nhà n
