@@ -79,4 +79,10 @@ Hai là: Nhà nước xã hội chủ nghĩa trở thành công cụ quan trọn
 - Chế độ dân chủ nhân dân ở nước ta được xác lập từ sau Cách mạng tháng 8 năm 1945, sau đó cụm từ "dân chủ xã hội chủ nghĩa" được nhân thức
 
 ### b. Bản chất của nền dân chủ xã hội chủ nghĩa ở Việt Nam
-Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam
+Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hiện thông qua 2 hình thức:
+- Hình thức dân chủ gián tiếp
+	- Là hình thức dân chủ đại diên, được thực hiện do nhân dân "ủy quyền", giao quyền lực của mình cho tổ chức mà nhân dân trực tiếp bầu ra
+	- Nhân dân bầu ra Quốc hội. Quốc hội là cơ quan quyền lcuwj nhà nước cao nhất hoạt động theo nhiệm kỳ 5 năm
+	- Quyền lực nhà nước là thống nhất, có sự phân công, phối hợp và kiểm soát giữa các cơ quan nhà nước trong việc thực hiện các quyền lập pháp, hành pháp và tư pháp.
+- HÌnh thức dân chủ trực tiếp
+	- Là hình thức nhân
