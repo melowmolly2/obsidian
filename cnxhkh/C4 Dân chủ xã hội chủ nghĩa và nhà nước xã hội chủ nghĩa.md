@@ -96,4 +96,6 @@ Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hi
 
 ### b. Đặc didemr của nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam
 - Xây dựng nhà nucows do nhân dân lao động làm chủ, đó là Nhà nước của dân, do dân, vì dân
-- Nhà nước được tổ chức và hoạt động dựa trên cơ sở của Hiến pháp và pháp luật. Trong tất cả các hoạt đổng của xã hội, pháp luật được đặt ở vị t
+- Nhà nước được tổ chức và hoạt động dựa trên cơ sở của Hiến pháp và pháp luật. Trong tất cả các hoạt đổng của xã hội, pháp luật được đặt ở vị trí tối thượng để điều chỉnh các quan hệ xã hội.;
+- Quyền lực nhà nucows là thống nhất, có sự phân công rõ ràng, có cơ chế phối hợp nhịp nhàng và kiểm soát giữa các cơ quan, lập pháp, hành pháp và tư pháp. 
+- Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam tôn trọng quyền con người, coi con người là chủ thể, là trung tâm của sự ph
