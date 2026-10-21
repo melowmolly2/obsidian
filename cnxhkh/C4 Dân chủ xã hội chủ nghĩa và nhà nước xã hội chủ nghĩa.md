@@ -101,3 +101,7 @@ Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hi
 - Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam tôn trọng quyền con người, coi con người là chủ thể, là trung tâm của sự phát triển. Quyền dân chủ của nhân dân được thực hành một cách rộng rãi; "nhân dân có quyền bầu và bãi miễn những đại biểu không xứng đáng"; dồng thời tăng cường thực hiện sự nghiêm minh của pháp luật
 - Tổ chức và hoạt động của oboj máy nhà nước theo nguyên tắc tập trung dân chủ, có sự phân công, phân cấp, phối hợp và kiểm soát lẫn nhau, nhưng bản đảm quyền lực là thống nhất và sự chỉ đạo thống nhất của trung ương
 
+## 3. Phát hy dân chủ xã hội chủ nghĩa, xây dựng Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam hiên nay
+### a. Phát huy dân chủ xã hội chủ nghãi ở Việt Nam hiện nay
+- Xây dựng, hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa tạo ra cơ sở kinh tế vững chắc cho xây dugnjw dân chủ xã hội chủ nghĩa
+- 
