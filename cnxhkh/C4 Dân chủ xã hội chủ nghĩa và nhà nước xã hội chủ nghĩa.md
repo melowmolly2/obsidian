@@ -69,3 +69,4 @@ Căn cứ vào tính chất của quyền lực nhà nước: chức năng giai 
 - Do giai cấp công nhan và nhân dân lao động tổ chức ra để trấn áp giai cấp bóc lột đã bị lật đổ và những phần tử chống đối để bảo vệ thành quả cách mạng, giữ vững an ninh chính trị, tạo điều kiện thuận lợi cho sự phát triển kinh tế - xã hội
 ### Chức năng tổ chức và xây dựng
 - Là cải tạo xã hội cũ, xây dựng thành công xã hội mới. Đòi hỏi nhàn uocwsp hải là một tổ chức có đủ năng lực để quản lý và xây dựng xã hội xã hội chủ nghãi, trong đó việc tổ chức quản lý kinh tế là quan trọng, khó khăn và phức tạp nhất. 
+Hai là: Nhà nuco
