@@ -111,4 +111,5 @@ Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hi
 ### b. Tiếp tục xây dugnwj và hoàn thiện nhà nước pháp quyền xã hội chủ nghĩa
 - Xây dựng nhà nucows pháp quyền xã hội chủ nghĩa dưới sự lãnh đạo của đảng
 - Cải cách thể chế và phương thức hoạt động của Nhà nước
-- Xây dugnwj đội ngũ cán bộ, công chức trong sạch, có n
+- Xây dugnwj đội ngũ cán bộ, công chức trong sạch, có năng lực
+- Đấu tranh phòng, chống tham nhũng, lãng phí, thực hành tiết kiệm
