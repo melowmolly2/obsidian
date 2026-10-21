@@ -76,4 +76,4 @@ Hai là: Nhà nước xã hội chủ nghĩa trở thành công cụ quan trọn
 # III. Dân chủ xã hội chủ nghĩa và nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam
 ## 1. Dân chủ xã hội chủ nghĩa ở Việt Nam
 ### a. Sự ra đời, phát triển của nền dân chủ xã hội chủ nghĩa ở Việt Nam
-- Chế độ dân chủ nhân 
+- Chế độ dân chủ nhân dân ở nước ta được xác lập từ sau Cách mạng tháng 8 năm 1945, sau đó cụm từ "dân chủ xã hội chủ nghĩa" được nhân thức
