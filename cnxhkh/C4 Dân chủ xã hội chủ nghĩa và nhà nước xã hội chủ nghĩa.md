@@ -90,4 +90,6 @@ Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hi
 	- Dân chủ ngày càng được thể hiện trong tất cả các mối quan hệ xã hội, trở thành quy chế, cách thức làm việc của mọi tổ chức trong xã hội
 ## 2. Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam
 ### a. Quan niệm nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam
-- Theo quan niệm chung, nhà nước pháp quyền là mô hình nhà nước thượng tôn pháp luật, luôn hướng tới phúc lợi, tự do, bình đẳng và tạo điều kiện cho cá nhân phát huy năng lực. Trong hoạt động, các cơ quan nhà nước được phân quyền rõ ràng và được toàn xã hội chấp nhận trên nguyên tắc bình đẳng giữa các giai cấp,
+- Theo quan niệm chung, nhà nước pháp quyền là mô hình nhà nước thượng tôn pháp luật, luôn hướng tới phúc lợi, tự do, bình đẳng và tạo điều kiện cho cá nhân phát huy năng lực. Trong hoạt động, các cơ quan nhà nước được phân quyền rõ ràng và được toàn xã hội chấp nhận trên nguyên tắc bình đẳng giữa các giai cấp, tầng lớp.
+- Trong giai đoạn hiện nay, nhà nuocws pháp quyền yêu cầu mọi công dân phải được giáo dực, hiểu biết và tuân thủ pháp luật nghiêm chỉnh. Đồng thời, trong oboj máy quản lý, hoạt động của các cơ quan nhà nước phải có sự kiểm soát lần nhau và tất cả đều đặt mục tiêu phục vu nhân dân lên hàng đầu. 
+- Đại hội XII
