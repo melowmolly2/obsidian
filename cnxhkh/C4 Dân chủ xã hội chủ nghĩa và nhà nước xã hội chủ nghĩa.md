@@ -104,4 +104,8 @@ Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hi
 ## 3. Phát hy dân chủ xã hội chủ nghĩa, xây dựng Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam hiên nay
 ### a. Phát huy dân chủ xã hội chủ nghãi ở Việt Nam hiện nay
 - Xây dựng, hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa tạo ra cơ sở kinh tế vững chắc cho xây dugnjw dân chủ xã hội chủ nghĩa
-- 
+- Xây dụng Đảng Cộng sản Việt Nam trong sạch, vững mạnh với tư cách điều kiện tiên quyết để xây dugnwj nền dân chủ xã hội chủ nghĩa Việt Nam.
+- Xây dugnjw Nhà nucows pháp quyền xã hội chủ nghãi vững mạnh với tư cách điều kiện để thực thi dân chủ xã hội chủ nghĩa
+- naagn coa vai trò của các tổ hcucws chính trị - xã hội ttorng xâu dụng nền dân chủ 
+- đfdf
+### b. Tiếp tục xây dugnwj và hoàn thiện nhà nu+
