@@ -87,4 +87,7 @@ Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hi
 - HÌnh thức dân chủ trực tiếp
 	- Là hình thức nhân dân bằng hành động trực tiếp của mình thực hiện quyền làm chủ nhà nước và xã hội.
 	- HÌnh thức đó thể hiện ở các quyền được thông tin về hoạt động của nhà nước, dược bàn bạc về công việc của nhà nước, được bàn bạc về công việc của nhà nucows và cộng đồng dân cư, được bàn đến những quyến định về dân chủ cơ sở, nhân dân kiểm tra giám sát hoạt động của cơ quan nhà nước từ Trung ương cho đến cơ sở
-	- Dân chủ ngày càng được thể hiện trong tất cả các mối quan hệ xã hội, trở thành quy chế, cách thức làm việc của 
+	- Dân chủ ngày càng được thể hiện trong tất cả các mối quan hệ xã hội, trở thành quy chế, cách thức làm việc của mọi tổ chức trong xã hội
+## 2. Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam
+### a. Quan niệm nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam
+- Theo quan niệm chung, nhà nước pháp quyền là mô hình nhà nước thượng tôn pháp luật, luôn hướng tới phúc lợi, tự do, bình đẳng và tạo điều kiện cho cá nhân phát huy năng lực. Trong hoạt động, các cơ quan nhà nước được phân quyền rõ ràng và được toàn xã hội chấp nhận trên nguyên tắc bình đẳng giữa các giai cấp,
