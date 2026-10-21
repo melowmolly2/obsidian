@@ -65,3 +65,7 @@ c. Chức năng của nhà nước xã hội chủ nghĩa
 Căn cứ và phạm vi tác động của quyền lực nhà nước: chức năng đối nội và đối ngoại
 Căn cứ vào lĩnh vực tác động của quyền lực nhà nước: chức năng chính trị, kinh tế, văn hóa, xã hội...
 Căn cứ vào tính chất của quyền lực nhà nước: chức năng giai cấp (trấn áp) và chức năng xã hội (tổ chức và xây dựng)
+### Chức năng trấn áp:
+- Do giai cấp công nhan và nhân dân lao động tổ chức ra để trấn áp giai cấp bóc lột đã bị lật đổ và những phần tử chống đối để bảo vệ thành quả cách mạng, giữ vững an ninh chính trị, tạo điều kiện thuận lợi cho sự phát triển kinh tế - xã hội
+### Chức năng tổ chức và xây dựng
+- Là cải tạo xã hội cũ, xây dựng thành công
