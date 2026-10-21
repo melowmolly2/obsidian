@@ -108,4 +108,7 @@ Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hi
 - Xây dugnjw Nhà nucows pháp quyền xã hội chủ nghãi vững mạnh với tư cách điều kiện để thực thi dân chủ xã hội chủ nghĩa
 - naagn coa vai trò của các tổ hcucws chính trị - xã hội ttorng xâu dụng nền dân chủ 
 - đfdf
-### b. Tiếp tục xây dugnwj và hoàn thiện nhà nu+
+### b. Tiếp tục xây dugnwj và hoàn thiện nhà nước pháp quyền xã hội chủ nghĩa
+- Xây dựng nhà nucows pháp quyền xã hội chủ nghĩa dưới sự lãnh đạo của đảng
+- Cải cách thể chế và phương thức hoạt động của Nhà nước
+- Xây dugnwj đội ngũ cán bộ, công chức trong sạch, có n
