@@ -49,7 +49,7 @@ $$P=VI=I^2R=\frac{V^2}{R}$$
 
 **Điện trở mắc nối tiếp và song song**
 
-||Nối tiếp|Song song|
+| |Nối tiếp|Song song|
 |---|---|---|
 |Dòng điện|Giống nhau|Chia ra, $I=\sum I_i$|
 |Hiệu điện thế|Chia ra, $V=\sum V_i$|Giống nhau|
