@@ -93,7 +93,7 @@ $$C=KC_0,\qquad \varepsilon=K\varepsilon_0,\qquad E=\frac{E_0}{K}\ \ (\text{cùn
 $$u=\frac12K\varepsilon_0E^2$$  
 Phân biệt hai trường hợp (rất hay ra thi):
 
-||**Ngắt nguồn** ($Q$ không đổi)|**Vẫn nối nguồn** ($V$ không đổi)|
+| |**Ngắt nguồn** ($Q$ không đổi)|**Vẫn nối nguồn** ($V$ không đổi)|
 |---|---|---|
 |Điện dung|$C\to KC_0$|$C\to KC_0$|
 |Điện tích|$Q$ giữ nguyên|$Q\to KQ_0$|
