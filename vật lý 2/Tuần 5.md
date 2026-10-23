@@ -12,7 +12,7 @@ $$\vec F = q,\vec v\times\vec B,\qquad F=|q|,vB\sin\phi$$
 - Với $q>0$, dùng quy tắc bàn tay phải. Với $q<0$, lực ngược chiều.
 - Đơn vị: $1\ \text{T}=1\ \dfrac{\text{N}}{\text{A·m}}$, $1\ \text{G}=10^{-4}\ \text{T}$.
 - Tích có hướng theo thành phần:  
-    $$\vec v\times\vec B=\begin{vmatrix}\hat i&\hat j&\hat k\ v_x&v_y&v_z\ B_x&B_y&B_z\end{vmatrix}$$
+    $$\vec v\times\vec B=\begin{vmatrix}\hat i&\hat j&\hat k\\ v_x&v_y&v_z\\ B_x&B_y&B_z\end{vmatrix}$$
 - **Bài 2b:** thành phần của $\vec B$ song song với $\vec v$ không tạo lực ($\sin 0=0$), nên không thể xác định từ phép đo lực. Ở bài này đó là $B_y$.
 - Luôn có $\vec F\perp\vec B$, tức $\vec B\cdot\vec F=0$ (dùng để kiểm tra Bài 2c, 2d).
 
