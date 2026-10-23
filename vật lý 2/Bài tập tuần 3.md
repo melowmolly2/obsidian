@@ -82,7 +82,7 @@ $$R_{ab}=\frac{(4.00)(6.00)}{10.0}=2.40\ \Omega,\qquad I=\frac{36.0}{2.40+3.00}\
 
 (b) Dòng qua từng điện trở:
 
-||$S$ mở|$S$ đóng|Thay đổi|
+| |$S$ mở|$S$ đóng|Thay đổi|
 |---|---|---|---|
 |$R_1$|$0$|$\dfrac{16.0}{4.00}=4.00\ \text{A}$|tăng|
 |$R_2$|$4.00\ \text{A}$|$\dfrac{16.0}{6.00}=2.67\ \text{A}$|giảm|
