@@ -4,7 +4,7 @@
 
 **1. Từ thông**
 
-$$\Phi_B=\int \vec B\cdot d\vec A=\int B\cos\varphi,dA \qquad (1\ \text{Wb}=1\ \text{T·m}^2)$$
+$$\Phi_B=\int \vec B\cdot d\vec A=\int B\cos\varphi dA \qquad (1\ \text{Wb}=1\ \text{T·m}^2)$$
 
 Với từ trường đều và mặt phẳng: $\Phi_B = BA\cos\varphi$.
 
