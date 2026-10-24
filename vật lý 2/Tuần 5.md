@@ -69,7 +69,7 @@ $$\vec B=\frac{\mu_0}{4\pi}\frac{q,\vec v\times\hat r}{r^2}$$
 
 ### 8.2. Định luật Biot–Savart
 
-$$d\vec B=\frac{\mu_0}{4\pi}\frac{I,d\vec l\times\hat r}{r^2},\qquad dB=\frac{\mu_0}{4\pi}\frac{I,dl,\sin\theta}{r^2}$$
+$$d\vec B=\frac{\mu_0}{4\pi}\frac{Id\vec l\times\hat r}{r^2},\qquad dB=\frac{\mu_0}{4\pi}\frac{Idl\sin\theta}{r^2}$$
 
 - Bài 4: đoạn dây ngắn, nên $B\approx\dfrac{\mu_0}{4\pi}\dfrac{I,\Delta l\sin\theta}{r^2}$, với $\theta=90^\circ$ nếu $\hat r\perp d\vec l$. Cộng vectơ hai đóng góp (chúng cùng hướng hay không thì xét bằng quy tắc bàn tay phải).
 
