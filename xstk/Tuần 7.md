@@ -149,13 +149,13 @@ $$P(S_{10}\le700)=\Phi!\left(\frac{700-650}{5\sqrt{10}}\right)\approx\Phi(3.1623
 
 **Khoảng cách tới trường** ($\text{Exp}$, trung bình $5$ km nên $\lambda=\tfrac15$, $SD=5$):
 
-|Câu|Kết quả|
-|---|---|
-|$P(X>10)$|$e^{-2}\approx0.1353$|
-|$P(S_{100}\le300)$, $S_{100}\approx\mathcal N(500,2500)$|$\Phi(-4)\approx0.00003$|
-|$P(4.9<\bar X_{100}<5.2)$, $SD=0.5$|$\Phi(0.4)-\Phi(-0.2)\approx0.2347$|
-|Chính xác một sinh viên $P(4.9<X<5.2)$|$e^{-4.9/5}-e^{-5.2/5}\approx0.0219$|
-|$P(4.9<\bar X_{36}<5.2)$, $SD=5/6$|$\Phi(0.24)-\Phi(-0.12)\approx0.1426$|
+| Câu                                                      | Kết quả                               |
+| -------------------------------------------------------- | ------------------------------------- |
+| $P(X>10)$                                                | $e^{-2}\approx0.1353$                 |
+| $P(S_{100}\le300)$, $S_{100}\approx\mathcal N(500,2500)$ | $\Phi(-4)\approx0.00003$              |
+| $P(4.9<\bar X_{100}<5.2)$, $SD=0.5$                      | $\Phi(0.4)-\Phi(-0.2)\approx0.2347$   |
+| Chính xác một sinh viên $P(4.9<X<5.2)$                   | $e^{-4.9/5}-e^{-5.2/5}\approx0.0219$  |
+| $P(4.9<\bar X_{36}<5.2)$, $SD=5/6$                       | $\Phi(0.24)-\Phi(-0.12)\approx0.1426$ |
 
 Cùng khoảng nhưng kết quả khác nhau vì $SD(\bar X)$ phụ thuộc cỡ mẫu.
 
