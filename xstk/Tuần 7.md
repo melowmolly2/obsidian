@@ -75,7 +75,7 @@ $$P(|X-\mu|\ge\varepsilon)\le\frac{\sigma^2}{\varepsilon^2}, \qquad P(|\bar X_n-
 
 Đây là cận trên, không cần giả sử phân phối chuẩn.
 
-**Ví dụ nhiệt độ lò** ($\sigma=1$, sai khác $\le0.2$ với xác suất $\ge99%$): $\dfrac{1}{n(0.2)^2}=\dfrac{25}{n}\le0.01\Rightarrow n\ge2500$. Đây là số đủ theo Chebyshev, không nhất thiết là số tối thiểu thực tế.
+**Ví dụ nhiệt độ lò** ($\sigma=1$, sai khác $\le0.2$ với xác suất $\ge99\%$): $\dfrac{1}{n(0.2)^2}=\dfrac{25}{n}\le0.01\Rightarrow n\ge2500$. Đây là số đủ theo Chebyshev, không nhất thiết là số tối thiểu thực tế.
 
 **Luật số lớn yếu:** với i.i.d. có kỳ vọng $\mu$ và $E(|X_1|)<\infty$,
 
@@ -110,11 +110,11 @@ $$\mu=\int_{-\infty}^{\infty}xf_X(x),dx, \qquad \text{Var}(X)=\int(x-\mu)^2f_X(x
 
 ## 6. Các phân phối liên tục
 
-|Phân phối|Mật độ|$E(X)$|$\text{Var}(X)$|
-|---|---|---|---|
-|Đều $U(a,b)$|$\dfrac1{b-a}$ trên $(a,b)$|$\dfrac{a+b}{2}$|$\dfrac{(b-a)^2}{12}$|
-|Chuẩn $\mathcal N(\mu,\sigma^2)$|$\dfrac1{\sigma\sqrt{2\pi}}\exp!\Big[-\dfrac{(x-\mu)^2}{2\sigma^2}\Big]$|$\mu$|$\sigma^2$|
-|Mũ $\text{Exp}(\lambda)$|$\lambda e^{-\lambda x}$, $x\ge0$|$\dfrac1\lambda$|(không nêu trong slide)|
+| Phân phối                        | Mật độ                                                                   | $E(X)$           | $\text{Var}(X)$       |
+| -------------------------------- | ------------------------------------------------------------------------ | ---------------- | --------------------- |
+| Đều $U(a,b)$                     | $\dfrac1{b-a}$ trên $(a,b)$                                              | $\dfrac{a+b}{2}$ | $\dfrac{(b-a)^2}{12}$ |
+| Chuẩn $\mathcal N(\mu,\sigma^2)$ | $\dfrac1{\sigma\sqrt{2\pi}}\exp!\Big[-\dfrac{(x-\mu)^2}{2\sigma^2}\Big]$ | $\mu$            | $\sigma^2$            |
+| Mũ $\text{Exp}(\lambda)$         | $\lambda e^{-\lambda x}$, $x\ge0$                                        | $\dfrac1\lambda$ | $\dfrac 1{\lambda^2}$ |
 
 - **Đều:** chờ xe buýt $X\sim U(0,10)$: $P(2<X<5)=\dfrac{3}{10}=0.3$, $E(X)=5$.
 - **Chuẩn:** hình chuông, đối xứng quanh $\mu$. Chuẩn hóa $Z=\dfrac{X-\mu}{\sigma}\sim\mathcal N(0,1)$ và $P(X\le x)=\Phi!\left(\dfrac{x-\mu}{\sigma}\right)$.
