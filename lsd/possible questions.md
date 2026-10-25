@@ -637,3 +637,88 @@ Trước tiên đọc lại nội dung đề tài 2 trong file tổng hợp đ�
 - Nắm chắc **5 nội dung đổi mới kinh tế** của ĐH VI: (1) bố trí lại cơ cấu sản xuất/đầu tư; (2) kinh tế nhiều thành phần; (3) đổi mới cơ chế quản lý; (4) khoa học kỹ thuật; (5) kinh tế đối ngoại.
 - Nếu bị hỏi về **con số lạm phát 774%**: thừa nhận đây là con số trong bài, có thể nói thêm "một số tài liệu ghi khác nhau nhưng đều cho thấy lạm phát ở mức siêu cao" — không nên khẳng định tuyệt đối.
 - Luôn liên hệ **nguyên nhân → sai lầm → đổi mới → kết quả**: đây là chuỗi logic xuyên suốt đề tài 6.
+Đọc nội dung đề tài 7 từ file gốc.
+
+Cần đọc phần đề tài 7 từ file này — đề tài 7 nằm ở phần sau, đọc tiếp.
+
+Đã có đủ nội dung đề tài 7. Soạn câu hỏi phản biện ngay.
+
+---
+
+# ❓ Câu hỏi phản biện – Đề tài 7
+**Tại sao Đại hội VI (1986) quyết định đổi mới toàn diện? Phân tích nội dung đường lối đổi mới kinh tế tại Đại hội VI**
+
+---
+
+## 🟢 Mức độ 1 – Tái hiện / Nhận biết
+*(Kiểm tra nắm vững kiến thức cơ bản)*
+
+1. **Đại hội VI của Đảng diễn ra vào thời gian nào, tại đâu?**
+   > Gợi ý: Từ ngày 15 đến 18-12-1986, tại Hà Nội.
+
+2. **Ba chương trình kinh tế lớn được xác định tại Đại hội VI là gì?**
+   > Gợi ý: Lương thực – thực phẩm; hàng tiêu dùng; hàng xuất khẩu.
+
+3. **Trước Đại hội VI, Đảng đã có mấy bước đột phá đổi mới cục bộ? Đó là những bước nào?**
+   > Gợi ý: Ba bước — năm 1979 (Hội nghị TW 6 khóa IV), năm 1985 (cải cách giá–lương–tiền), tháng 8-1986 (Hội nghị Bộ Chính trị khóa V).
+
+4. **Đại hội VI xác định nguyên nhân chủ quan dẫn đến khủng hoảng kinh tế–xã hội là gì?**
+   > Gợi ý: Bệnh chủ quan duy ý chí, tư duy nóng vội; duy trì quá lâu cơ chế tập trung, quan liêu, bao cấp; sai lầm trong bố trí cơ cấu kinh tế và cải tạo xã hội chủ nghĩa.
+
+---
+
+## 🟡 Mức độ 2 – Hiểu / Phân tích
+*(Yêu cầu giải thích và lý luận)*
+
+5. **Tại sao Đại hội VI lại xác định ba chương trình kinh tế lớn (lương thực–thực phẩm, hàng tiêu dùng, hàng xuất khẩu) mà không tiếp tục ưu tiên công nghiệp nặng như Đại hội IV?**
+   > Gợi ý: Đây là điều chỉnh thực tiễn — dân đang thiếu ăn, thiếu hàng tiêu dùng; xuất khẩu kém nên thiếu ngoại tệ; công nghiệp nặng đòi hỏi vốn lớn trong khi đất nước không có tích lũy. Ba chương trình này giải quyết vấn đề cấp bách nhất và tạo nền tảng cho phát triển dài hạn.
+
+6. **Cơ chế "tập trung, quan liêu, bao cấp" là gì? Tại sao cơ chế này lại làm triệt tiêu động lực sản xuất?**
+   > Gợi ý: Nhà nước ra lệnh sản xuất cái gì, bao nhiêu; phân phối theo chỉ tiêu; doanh nghiệp không có quyền tự chủ, lao động không gắn thu nhập với kết quả → không ai có động lực làm tốt hơn vì làm nhiều hay ít đều nhận như nhau.
+
+7. **Tại sao đổi mới năm 1985 (cải cách giá–lương–tiền) lại thất bại và gây lạm phát tăng vọt, trong khi đổi mới năm 1986 lại thành công hơn?**
+   > Gợi ý: Năm 1985 chỉ đổi mới một bộ phận (phân phối–lưu thông) mà không đổi mới đồng bộ cơ cấu sản xuất và cơ chế quản lý → cơ thể vẫn ốm nhưng đổi thuốc đột ngột → sốc. Năm 1986 tiếp cận toàn diện hơn — đổi mới cả tư duy, cơ cấu kinh tế, cơ chế quản lý và thành phần kinh tế.
+
+8. **"Đổi mới tư duy, trước hết là tư duy kinh tế" được Đại hội VI nhấn mạnh. Điều đó có nghĩa là Đảng thừa nhận điều gì về giai đoạn trước 1986?**
+   > Gợi ý: Thừa nhận đường lối và nhận thức cũ là sai — đã áp đặt mô hình CNXH thuần túy vào điều kiện thực tế không phù hợp; cần nhìn thực tế thay vì tuân theo giáo điều lý luận. Đây là bước tự phê bình hiếm thấy trong lịch sử Đảng.
+
+9. **Bên cạnh nguyên nhân trong nước, tình hình quốc tế năm 1986 đã tác động như thế nào đến quyết định đổi mới của Đảng?**
+   > Gợi ý: Liên Xô tiến hành Perestroika (cải tổ) và Glasnost (công khai); Trung Quốc cải cách từ 1978; cách mạng khoa học–kỹ thuật phát triển mạnh; xu thế đối thoại thay đối đầu → Việt Nam không thể đứng ngoài xu thế chung; mô hình cũ ngay cả các nước "đàn anh" cũng đang từ bỏ.
+
+---
+
+## 🔴 Mức độ 3 – Đánh giá / Phản biện sâu
+*(Câu hỏi khó, dễ bị giám khảo hỏi nhất)*
+
+10. **Đại hội VI chủ trương "phát triển kinh tế nhiều thành phần". Điều này có mâu thuẫn với mục tiêu xây dựng CNXH không? Đảng đã giải thích mâu thuẫn đó như thế nào?**
+    > Gợi ý: Về lý luận có vẻ mâu thuẫn — CNXH truyền thống đề cao công hữu. Đảng giải quyết bằng lập luận: trong thời kỳ quá độ, lực lượng sản xuất chưa đủ trình độ → bắt buộc phải đa thành phần để khai thác mọi tiềm năng xã hội; đây là phù hợp quy luật quan hệ sản xuất phải phù hợp với lực lượng sản xuất.
+
+11. **Con số lạm phát 774% năm 1986 được đề tài nêu ra — tại sao lạm phát lại leo thang đến mức đó? Và chính sách đổi mới đã xử lý vấn đề lạm phát này bằng cách nào?**
+    > Gợi ý: Lạm phát phi mã do cải cách giá–lương–tiền 1985 thực hiện vội (in tiền bù bao cấp + giá thả nổi đột ngột); đổi mới giải quyết bằng cách tái lập kỷ luật tài chính, cắt bao cấp dần dần, kích thích sản xuất tăng lên để cung đuổi kịp cầu. Đến 1989 lạm phát giảm xuống khoảng 34%.
+
+12. **Đại hội VI khởi xướng đổi mới từ năm 1986, nhưng thực tế phải đến 1989–1990 nền kinh tế mới thực sự ổn định. Tại sao lại có độ trễ như vậy? Điều đó nói lên điều gì về quá trình cải cách kinh tế?**
+    > Gợi ý: Cải cách cần thời gian thay đổi cơ cấu thực tế (bộ máy, thói quen, luật lệ); đường lối đúng chưa đủ — còn cần cơ chế triển khai, tháo gỡ từng nút thắt cụ thể; độ trễ là bình thường trong cải cách hệ thống, không phải thất bại của đường lối.
+
+13. **So sánh đổi mới của Việt Nam năm 1986 với cải cách của Trung Quốc năm 1978 — hai quá trình này có điểm gì tương đồng và khác biệt cơ bản?**
+    > Gợi ý: Tương đồng — đều từ bỏ kinh tế kế hoạch hóa thuần túy, chấp nhận thị trường, ưu tiên nông nghiệp trước. Khác biệt — Trung Quốc đổi mới sớm hơn 8 năm, có điều kiện địa chính trị và quy mô khác; Việt Nam đổi mới trong bối cảnh bị bao vây cấm vận và chịu hậu quả chiến tranh nặng nề hơn.
+
+14. **Nếu Đảng không tiến hành đổi mới năm 1986, theo nhóm, kịch bản nào có khả năng xảy ra với Việt Nam?**
+    > Gợi ý: Khủng hoảng kinh tế–xã hội tiếp tục sâu hơn; lòng dân bất mãn gia tăng; nguy cơ bất ổn chính trị — như những gì đã xảy ra với một số nước XHCN Đông Âu; mất nguồn viện trợ từ Liên Xô (sụp đổ 1991) mà không có nền kinh tế tự chủ → nguy cơ sụp đổ hệ thống.
+
+---
+
+## 📌 Tổng kết bộ câu hỏi đề tài 7
+
+| Mức | Số câu | Trọng tâm |
+|---|---|---|
+| 🟢 Nhận biết | 4 | Thời gian, nội dung cơ bản Đại hội VI |
+| 🟡 Phân tích | 5 | Lý giải nguyên nhân, so sánh các giai đoạn, cơ chế kinh tế |
+| 🔴 Phản biện | 5 | Mâu thuẫn lý luận–thực tiễn, so sánh quốc tế, giả định lịch sử |
+| **Tổng** | **14** | |
+
+---
+
+**Ba câu nhóm cần chuẩn bị kỹ nhất:**
+- **Câu 10** — mâu thuẫn kinh tế nhiều thành phần vs. mục tiêu CNXH: đây là câu giám khảo Lịch sử Đảng **gần như chắc chắn sẽ hỏi**
+- **Câu 11** — con số lạm phát 774%: nếu nhóm đã nêu con số này trong bài, phải giải thích được cơ chế, không chỉ đọc số
+- **Câu 7** — tại sao 1985 thất bại còn 1986 thành công: thường bị hỏi để kiểm tra hiểu sâu, không chỉ thuộc lòng
