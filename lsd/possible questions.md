@@ -400,3 +400,240 @@ Trước tiên đọc lại nội dung đề tài 2 trong file tổng hợp đ�
 - Nắm chắc **logic thời gian**: Giơnevơ 1954 → kỳ vọng tổng tuyển cử → Diệm từ chối 1956 → tố cộng diệt cộng → Luật 10/59 → HN TW 15 → Đồng Khởi 1960 → ĐH III 9/1960 → MTDTGP 12/1960. Đây là chuỗi nhân quả liên tục.
 - Nếu bị hỏi về **Luật 10/59**: nhớ nội dung chính và ý nghĩa (tàn bạo nhưng phản tác dụng, đẩy nhân dân về phía cách mạng).
 
+Đọc lại nội dung đề tài 5 trong file tổng hợp.
+
+Đã đọc đủ nội dung đề tài 5. Tổng hợp câu hỏi phản biện.
+
+---
+
+## Câu hỏi phản biện có thể có – Đề tài 5
+
+**Đề tài**: *Tình hình Việt Nam sau 30/4/1975 và đường lối thống nhất đất nước về mặt Nhà nước. Đại hội IV (1976) và nhiệm vụ xây dựng CNXH.*
+
+---
+
+### 🔴 Câu hỏi khó – cần chuẩn bị kỹ
+
+**1. Tại sao sau 30/4/1975 vẫn cần "thống nhất về mặt Nhà nước" trong khi đất nước đã thống nhất về mặt lãnh thổ? Hai khái niệm này khác nhau thế nào?**
+
+> Gợi ý: Thống nhất lãnh thổ (quân sự) ≠ thống nhất Nhà nước (chính trị – pháp lý).
+> - Sau 30/4/1975: miền Bắc vẫn có Nhà nước VNDCCH, miền Nam có Chính phủ Cách mạng lâm thời CHMNVN – hai bộ máy chính quyền riêng biệt.
+> - Thống nhất Nhà nước là: một Quốc hội, một Hiến pháp, một chính phủ, một bộ máy hành chính thống nhất từ Bắc đến Nam.
+> - Nếu không thống nhất Nhà nước: hai miền có thể bị chia rẽ theo con đường khác nhau, dễ bị các thế lực bên ngoài lợi dụng can thiệp. Đây là yêu cầu khách quan và cấp thiết.
+
+---
+
+**2. Hội nghị Hiệp thương chính trị (11/1975) và Tổng tuyển cử 25/4/1976 khác nhau như thế nào? Tại sao phải có cả hai bước?**
+
+> Gợi ý:
+> - **HN Hiệp thương (11/1975)**: hội nghị chính trị giữa đại biểu hai miền, thống nhất chủ trương tổ chức Tổng tuyển cử trên toàn quốc, không phải cơ quan quyền lực Nhà nước.
+> - **Tổng tuyển cử 25/4/1976**: cuộc bầu cử dân chủ, toàn dân bầu ra Quốc hội thống nhất → Quốc hội này mới có tư cách pháp lý thực sự đại diện ý chí của nhân dân cả nước → bầu Chủ tịch nước, Hội đồng Nhà nước, đặt quốc hiệu, quốc kỳ, quốc ca, thủ đô.
+> - Phải có cả hai: Hiệp thương để thống nhất ý chí chính trị; Tổng tuyển cử để hợp thức hóa về mặt pháp lý và dân chủ.
+
+---
+
+**3. Đại hội IV đề ra đường lối xây dựng CNXH ở miền Nam trong ngắn hạn – điều này có thực tế không khi miền Nam vừa trải qua chiến tranh, kinh tế khác hẳn miền Bắc?**
+
+> Gợi ý: Đây chính là hạn chế lớn mà sau này Đảng tự kiểm điểm. Đại hội IV có tư duy nóng vội, chủ quan khi muốn nhanh chóng áp dụng mô hình kinh tế tập trung, bao cấp từ miền Bắc vào miền Nam. Miền Nam có nền kinh tế hàng hóa phát triển hơn, cơ cấu sở hữu đa dạng → cải tạo ồ ạt gây phản ứng tiêu cực, người sản xuất mất động lực, hàng hóa khan hiếm. Chính thực tiễn thất bại này buộc Đảng phải tìm tòi đổi mới từ 1979 và tiến tới Đại hội VI (1986).
+
+---
+
+**4. Tại sao Đảng nhận định đây là "thời kỳ quá độ lên CNXH bỏ qua chế độ tư bản chủ nghĩa"? Thực tế Việt Nam có "bỏ qua" được không?**
+
+> Gợi ý: "Bỏ qua" không có nghĩa là không trải qua bất kỳ yếu tố nào của kinh tế hàng hóa hay sản xuất công nghiệp – mà là bỏ qua "chế độ thống trị của giai cấp tư sản", tức không xây dựng nhà nước tư sản. Thực tế Việt Nam vẫn phải phát triển kinh tế hàng hóa, kinh tế thị trường (được thừa nhận dần từ Đại hội VI). Đây là vận dụng sáng tạo, không phải "bỏ qua" hoàn toàn các quy luật kinh tế.
+
+---
+
+**5. HN TW 24 (9/1975) có nội dung gì? Tại sao đây là bước chuẩn bị quan trọng cho Đại hội IV?**
+
+> Gợi ý: HN TW 24 (họp tháng 9/1975, khóa III) xác định nhiệm vụ hoàn thành thống nhất đất nước về mặt Nhà nước là nhiệm vụ cấp bách, vạch ra chủ trương tổ chức Tổng tuyển cử trong cả nước. Đây là căn cứ chính trị để tổ chức Hội nghị Hiệp thương (11/1975) và Tổng tuyển cử (4/1976). Không có HN TW 24 thì không có lộ trình thống nhất Nhà nước được hoạch định rõ ràng.
+
+---
+
+### 🟡 Câu hỏi trung bình – thường gặp
+
+**6. Quốc hiệu "Cộng hòa Xã hội Chủ nghĩa Việt Nam" được đặt khi nào? Trước đó tên nước là gì?**
+
+> Gợi ý: Kỳ họp thứ nhất Quốc hội thống nhất (tháng 7/1976) đổi tên nước thành **Cộng hòa Xã hội Chủ nghĩa Việt Nam**. Trước đó miền Bắc là **Việt Nam Dân chủ Cộng hòa** (từ 1945), miền Nam là **Cộng hòa Miền Nam Việt Nam** (chính phủ lâm thời từ 1969/1975).
+
+---
+
+**7. Việt Nam gia nhập Liên Hợp Quốc năm nào? Điều đó có ý nghĩa gì?**
+
+> Gợi ý: **20/9/1977** – Việt Nam trở thành thành viên thứ 149 của LHQ. Ý nghĩa: khẳng định vị thế quốc tế của nước CHXHCN Việt Nam thống nhất, mở ra cơ hội hội nhập và tranh thủ sự ủng hộ quốc tế, đặc biệt quan trọng trong bối cảnh Mỹ vẫn chưa bình thường hóa quan hệ và duy trì cấm vận.
+
+---
+
+**8. Nhiệm vụ "xây dựng CNXH và bảo vệ Tổ quốc" tại Đại hội IV được hiểu như thế nào trong bối cảnh sau 1975?**
+
+> Gợi ý: Sau 1975, Việt Nam vẫn đối mặt các thách thức an ninh: phía Tây Nam – Khmer Đỏ (Campuchia) gây hấn biên giới, phía Bắc – quan hệ Việt – Trung xấu đi. Vì vậy "bảo vệ Tổ quốc" không chỉ là khẩu hiệu mà là nhiệm vụ thực sự cấp thiết song song với xây dựng kinh tế. Đây cũng là lý do Việt Nam phải duy trì lực lượng quân sự lớn → gánh nặng ngân sách đè lên nền kinh tế vốn đã khó khăn.
+
+---
+
+**9. Sự khác nhau giữa Đại hội IV (1976) và Đại hội V (1982) trong nhận thức về xây dựng CNXH là gì?**
+
+> Gợi ý:
+> - **ĐH IV (1976)**: lạc quan, kỳ vọng xây dựng CNXH bằng đẩy mạnh công nghiệp hóa nhanh, cải tạo XHCN triệt để, coi công nghiệp nặng là trung tâm.
+> - **ĐH V (1982)**: thực tế hơn, thừa nhận đang ở "chặng đường đầu tiên của thời kỳ quá độ", lấy nông nghiệp làm mặt trận hàng đầu, sản xuất hàng tiêu dùng và xuất khẩu được chú trọng. Đây là điều chỉnh nhận thức quan trọng dù chưa triệt để.
+
+---
+
+**10. Ba bước đổi mới cục bộ trước Đại hội VI (1979, 1985, 1986) có gì chung và khác nhau?**
+
+> Gợi ý:
+> - **Điểm chung**: đều xuất phát từ thực tiễn bức bách, đều nhằm tháo gỡ một phần cơ chế bao cấp, đều thừa nhận vai trò của lợi ích kinh tế.
+> - **Khác nhau**:
+>   - 1979 (HN TW 6 khóa IV): "sản xuất bung ra", khoán sản phẩm nông nghiệp (Chỉ thị 100), mở rộng quyền tự chủ xí nghiệp.
+>   - 1985 (HN TW 8 khóa V): cải cách giá – lương – tiền, xóa bao cấp qua giá → thực hiện sai gây siêu lạm phát.
+>   - 1986 (HN Bộ Chính trị 8/1986): điều chỉnh cơ cấu kinh tế, thừa nhận kinh tế nhiều thành phần → tiền đề trực tiếp cho ĐH VI.
+
+---
+
+### 🟢 Câu hỏi dễ – không được bỏ sót
+
+**11. Tổng tuyển cử thống nhất diễn ra ngày nào?**
+> 25/4/1976, bầu ra 492 đại biểu Quốc hội của nước Việt Nam thống nhất.
+
+**12. Đại hội IV họp ở đâu, khi nào?**
+> Tháng 12/1976, tại Hà Nội (14–20/12/1976).
+
+**13. Tên gọi chính thức của Nhà nước sau kỳ họp Quốc hội thống nhất (7/1976)?**
+> Cộng hòa Xã hội Chủ nghĩa Việt Nam. Thủ đô: Hà Nội. Quốc kỳ: cờ đỏ sao vàng. Quốc ca: Tiến quân ca.
+
+**14. Ba chương trình kinh tế lớn mà Đại hội VI (1986) xác định là gì?**
+> Lương thực – thực phẩm; hàng tiêu dùng; hàng xuất khẩu.
+
+---
+
+### 💡 Lời khuyên khi thuyết trình & phản biện
+
+- **Câu hỏi bẫy** hay gặp nhất: *"30/4/1975 đã thống nhất rồi sao còn cần thống nhất Nhà nước?"* — đây là câu phân biệt rõ người hiểu bản chất với người chỉ nhớ sự kiện.
+- Nắm chắc **chuỗi sự kiện thống nhất**: HN TW 24 (9/1975) → HN Hiệp thương (11/1975) → Tổng tuyển cử (25/4/1976) → Kỳ họp QH thống nhất (7/1976, đặt quốc hiệu) → ĐH IV (12/1976).
+- Nếu bị hỏi về **hạn chế của Đại hội IV**: thẳng thắn thừa nhận có tư duy nóng vội, duy ý chí – đây là điều chính Đảng đã tự kiểm điểm tại ĐH VI, không phải "nói xấu" mà là tư duy lịch sử khách quan.
+
+Đọc lại nội dung đề tài 6 trong file tổng hợp.
+
+Đã đọc đủ nội dung đề tài 6 (Đại hội VI). Tổng hợp câu hỏi phản biện.
+
+---
+
+## Câu hỏi phản biện có thể có – Đề tài 6
+
+**Đề tài**: *Tại sao Đại hội VI (1986) quyết định đổi mới toàn diện? Phân tích nội dung đường lối đổi mới kinh tế của Đại hội VI.*
+
+---
+
+### 🔴 Câu hỏi khó – cần chuẩn bị kỹ
+
+**1. "Đổi mới" tại Đại hội VI có phải là từ bỏ chủ nghĩa xã hội không? Giới hạn của đổi mới là gì?**
+
+> Gợi ý: Không. Đại hội VI khẳng định đổi mới không phải thay đổi mục tiêu CNXH mà là đổi mới **cách thức, bước đi, cơ chế** để đạt mục tiêu đó hiệu quả hơn. Giới hạn bất biến: (1) giữ vững vai trò lãnh đạo của Đảng; (2) kinh tế quốc doanh và tập thể vẫn là nền tảng; (3) định hướng XHCN không thay đổi. Đây là "đổi mới trong khuôn khổ", không phải "đổi mới hệ thống".
+
+---
+
+**2. Tại sao cải cách giá – lương – tiền năm 1985 lại thất bại và gây siêu lạm phát? Bài học rút ra là gì?**
+
+> Gợi ý: Năm 1985 (HN TW 8 khóa V) chủ trương đúng (xóa bao cấp, giá thị trường) nhưng thực hiện sai:
+> - Tăng lương danh nghĩa đột ngột mà chưa tăng được sản xuất → cầu vượt cung.
+> - Đổi tiền không kiểm soát được lượng tiền lưu thông → in tiền bù đắp thâm hụt.
+> - Chưa chuẩn bị đủ hàng hóa, cơ sở vật chất để đỡ cú sốc giá.
+> Lạm phát tăng từ ~300% (1985) lên ~774% (1986). **Bài học**: đổi mới phải đồng bộ, có trình tự, không thể làm từng mảng rời rạc; phải chuẩn bị đủ điều kiện trước khi thực hiện.
+
+---
+
+**3. "Kinh tế nhiều thành phần" tại Đại hội VI khác gì so với kinh tế tư nhân bình thường? Đây có phải là chấp nhận chủ nghĩa tư bản không?**
+
+> Gợi ý: Không phải chấp nhận CNTB. "Kinh tế nhiều thành phần" là nhận thức thực tế: trong thời kỳ quá độ, ngoài kinh tế nhà nước và tập thể còn tồn tại kinh tế cá thể, tiểu chủ, tư bản tư nhân, tư bản nhà nước – đây là hiện thực khách quan không thể xóa bỏ ngay. Vì vậy phải "sử dụng đúng đắn" thay vì triệt tiêu. Kinh tế quốc doanh vẫn giữ vai trò chủ đạo. Đây là vận dụng quan điểm Lênin về chính sách kinh tế mới (NEP) vào điều kiện Việt Nam.
+
+---
+
+**4. Bốn bài học của Đại hội VI – bài học nào quan trọng nhất và tại sao?**
+
+> Gợi ý: Cả bốn bài học đều quan trọng, nhưng bài học **"lấy dân làm gốc"** thường được đánh giá là căn bản nhất vì:
+> - Mọi sai lầm trước đó đều bắt nguồn từ xa rời thực tế, xa rời nguyện vọng của nhân dân.
+> - Mọi đường lối đúng đắn đều phải xuất phát từ và phục vụ lợi ích nhân dân.
+> - Đây là nguyên tắc bao trùm, chi phối cả ba bài học còn lại.
+> Tuy nhiên nếu nhìn từ góc độ thực tiễn kinh tế, bài học **"tôn trọng quy luật khách quan"** là cốt lõi nhất vì nó trực tiếp giải thích tại sao cơ chế bao cấp thất bại.
+
+---
+
+**5. Tại sao đến 1986 Đảng mới tiến hành đổi mới toàn diện, trong khi dấu hiệu khủng hoảng đã xuất hiện từ cuối những năm 1970?**
+
+> Gợi ý: Đây là câu hỏi về **tính trễ của nhận thức**. Những đổi mới cục bộ (1979, 1981, 1985) cho thấy Đảng nhận ra vấn đề từng phần nhưng chưa dám đổi mới toàn diện vì:
+> - Lo ngại "chệch hướng" CNXH, sợ bị quy là "xét lại".
+> - Áp lực từ mô hình Liên Xô vẫn còn ảnh hưởng.
+> - Chưa đủ cơ sở lý luận để giải thích con đường mới.
+> Chỉ khi khủng hoảng đạt đỉnh (lạm phát 774%, đời sống nhân dân cực kỳ khó khăn) và một số lãnh đạo có tư duy đổi mới (Trường Chinh, Nguyễn Văn Linh...) chiếm ưu thế → ĐH VI mới có quyết định đột phá.
+
+---
+
+### 🟡 Câu hỏi trung bình – thường gặp
+
+**6. Ba chương trình kinh tế lớn là gì? Tại sao chọn ba lĩnh vực này mà không phải công nghiệp nặng?**
+
+> Gợi ý: Lương thực – thực phẩm; hàng tiêu dùng; hàng xuất khẩu. Chọn ba lĩnh vực này vì:
+> - **Cấp bách**: Dân đang thiếu ăn, thiếu hàng tiêu dùng → phải giải quyết ngay.
+> - **Thực tế**: Việt Nam có lợi thế nông nghiệp, lao động dồi dào → phù hợp phát triển nông nghiệp và hàng tiêu dùng.
+> - **Tạo nguồn lực**: Xuất khẩu mang về ngoại tệ để nhập máy móc → mới có thể công nghiệp hóa sau này.
+> Công nghiệp nặng tốn vốn lớn, thời gian dài, trong khi Việt Nam không có đủ nguồn lực → sai lầm của ĐH IV, V đã chứng minh điều đó.
+
+---
+
+**7. "Nhìn thẳng vào sự thật, đánh giá đúng sự thật" có ý nghĩa gì trong bối cảnh 1986?**
+
+> Gợi ý: Đây là thái độ dũng cảm về chính trị – lần đầu tiên Đảng công khai thừa nhận những sai lầm nghiêm trọng của mình trong lãnh đạo kinh tế. Trước đó, xu hướng là che giấu khó khăn, báo cáo thành tích. Tại ĐH VI, Đảng thẳng thắn chỉ ra "bệnh chủ quan duy ý chí", "tư tưởng tiểu tư sản", sai lầm cả về chiến lược lẫn tổ chức thực hiện. Đây là điều kiện tiên quyết để sửa sai – không nhìn thẳng thì không biết sửa cái gì.
+
+---
+
+**8. Cơ chế tập trung quan liêu bao cấp là gì? Tại sao nó kìm hãm sản xuất?**
+
+> Gợi ý:
+> - **Tập trung**: Nhà nước quyết định mọi thứ từ trên xuống, cơ sở không có quyền tự chủ.
+> - **Quan liêu**: Bộ máy hành chính cồng kềnh, xa rời thực tế, quyết định theo giấy tờ chứ không theo thị trường.
+> - **Bao cấp**: Nhà nước bao cấp cả đầu vào (nguyên liệu, vốn theo giá thấp) lẫn đầu ra (thu mua giá thấp, phân phối theo tem phiếu) → không ai có động lực sản xuất nhiều hơn vì dù làm ít hay nhiều cũng hưởng như nhau → "làm không hăng, ăn không ngại".
+
+---
+
+**9. Khoán 100 (1981) và Khoán 10 (1988) khác nhau như thế nào? Liên quan gì đến đường lối ĐH VI?**
+
+> Gợi ý:
+> - **Khoán 100 (Chỉ thị 100, 1981)**: Giao khoán sản phẩm cuối cùng đến nhóm và người lao động trong HTX, nhưng ruộng đất, trâu bò, công cụ vẫn là của tập thể. Bước tiến nhưng còn nửa vời.
+> - **Khoán 10 (NQ 10, 1988)**: Giao quyền sử dụng ruộng đất lâu dài cho hộ nông dân (15 năm), hộ nông dân trở thành đơn vị kinh tế tự chủ. Đây mới là đột phá thực sự.
+> ĐH VI (1986) chủ trương kinh tế nhiều thành phần, tôn trọng lợi ích kinh tế cá nhân → tạo nền tảng lý luận cho Khoán 10 năm 1988.
+
+---
+
+**10. Việt Nam học gì từ cải cách của Trung Quốc và Liên Xô trước ĐH VI?**
+
+> Gợi ý:
+> - **Trung Quốc**: Cải cách từ 1978 (Đặng Tiểu Bình) với bốn hiện đại hóa, khoán ruộng đất cho nông dân → kết quả tích cực → Việt Nam học kinh nghiệm cụ thể về phát triển kinh tế nhiều thành phần, mở cửa.
+> - **Liên Xô**: Glasnost và Perestroika của Gorbachev (1985) → thể hiện ngay cả Liên Xô cũng thừa nhận cần cải tổ → giảm áp lực "phải theo mô hình Xô viết" đối với Việt Nam.
+> Tuy nhiên Việt Nam không sao chép hoàn toàn mà chọn lọc phù hợp với hoàn cảnh riêng.
+
+---
+
+### 🟢 Câu hỏi dễ – không được bỏ sót
+
+**11. Đại hội VI họp ở đâu, khi nào?**
+> 15–18/12/1986, tại Hà Nội.
+
+**12. Tổng Bí thư được bầu tại Đại hội VI là ai?**
+> Nguyễn Văn Linh.
+
+**13. Khẩu hiệu nổi tiếng của Đại hội VI là gì?**
+> "Nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật."
+
+**14. Năm 1986, lạm phát ở mức bao nhiêu?**
+> Hơn 774% (theo số liệu bài – cần lưu ý đây là con số cần kiểm tra lại, xem mục ⚠️ trong rà soát file).
+
+**15. Ba nguyên nhân chủ quan dẫn đến khủng hoảng mà ĐH VI chỉ ra là gì?**
+> (1) Bệnh chủ quan duy ý chí; (2) sai lầm về bố trí cơ cấu kinh tế và cải tạo XHCN; (3) duy trì quá lâu cơ chế tập trung quan liêu bao cấp.
+
+---
+
+### 💡 Lời khuyên khi thuyết trình & phản biện
+
+- **Câu hỏi nguy hiểm nhất**: *"Đổi mới có phải là từ bỏ CNXH không?"* — phải trả lời dứt khoát: **không**, và giải thích rõ giới hạn của đổi mới.
+- Nắm chắc **5 nội dung đổi mới kinh tế** của ĐH VI: (1) bố trí lại cơ cấu sản xuất/đầu tư; (2) kinh tế nhiều thành phần; (3) đổi mới cơ chế quản lý; (4) khoa học kỹ thuật; (5) kinh tế đối ngoại.
+- Nếu bị hỏi về **con số lạm phát 774%**: thừa nhận đây là con số trong bài, có thể nói thêm "một số tài liệu ghi khác nhau nhưng đều cho thấy lạm phát ở mức siêu cao" — không nên khẳng định tuyệt đối.
+- Luôn liên hệ **nguyên nhân → sai lầm → đổi mới → kết quả**: đây là chuỗi logic xuyên suốt đề tài 6.
