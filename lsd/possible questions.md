@@ -722,3 +722,251 @@ Cần đọc phần đề tài 7 từ file này — đề tài 7 nằm ở phầ
 - **Câu 10** — mâu thuẫn kinh tế nhiều thành phần vs. mục tiêu CNXH: đây là câu giám khảo Lịch sử Đảng **gần như chắc chắn sẽ hỏi**
 - **Câu 11** — con số lạm phát 774%: nếu nhóm đã nêu con số này trong bài, phải giải thích được cơ chế, không chỉ đọc số
 - **Câu 7** — tại sao 1985 thất bại còn 1986 thành công: thường bị hỏi để kiểm tra hiểu sâu, không chỉ thuộc lòng
+Đọc nội dung đề tài 8 từ file gốc.
+
+File này chứa đề tài 1–5, không có đề tài 8. Đọc đúng file chứa đề tài 8.
+
+
+Đã có đủ nội dung đề tài 8. Soạn câu hỏi ngay.
+
+---
+
+# ❓ Câu hỏi phản biện – Đề tài 8
+**Quan điểm Công nghiệp hóa – Hiện đại hóa tại Đại hội VIII (1996) và vai trò của sinh viên**
+
+---
+
+## 🟢 Mức độ 1 – Tái hiện / Nhận biết
+*(Kiểm tra nắm vững kiến thức cơ bản)*
+
+1. **Đại hội VIII của Đảng diễn ra vào thời gian nào? Đây là Đại hội đầu tiên sau bao nhiêu năm đổi mới?**
+   > Gợi ý: Từ ngày 28-6 đến 1-7-1996; sau đúng 10 năm thực hiện đường lối đổi mới (kể từ Đại hội VI năm 1986).
+
+2. **Đại hội VIII đưa ra định nghĩa như thế nào về "Công nghiệp hóa, hiện đại hóa"?**
+   > Gợi ý: "Là quá trình chuyển đổi căn bản, toàn diện các hoạt động sản xuất, kinh doanh, dịch vụ và quản lý kinh tế – xã hội từ sử dụng lao động thủ công là chính sang sử dụng một cách phổ biến sức lao động cùng với công nghệ, phương tiện và phương pháp tiên tiến, hiện đại..."
+
+3. **Đại hội VIII xác định bao nhiêu quan điểm cơ bản về công nghiệp hóa, hiện đại hóa? Hãy nêu tên từng quan điểm.**
+   > Gợi ý: 6 quan điểm — (1) độc lập tự chủ + mở rộng quan hệ quốc tế; (2) sự nghiệp toàn dân; (3) phát huy nguồn lực con người; (4) KH–CN là động lực; (5) hiệu quả kinh tế–xã hội là tiêu chuẩn; (6) kết hợp kinh tế với quốc phòng–an ninh.
+
+4. **Mục tiêu tổng quát của công nghiệp hóa, hiện đại hóa mà Đại hội VIII đặt ra đến năm 2020 là gì?**
+   > Gợi ý: "Phấn đấu đến năm 2020 đưa nước ta cơ bản trở thành một nước công nghiệp."
+
+---
+
+## 🟡 Mức độ 2 – Hiểu / Phân tích
+*(Yêu cầu giải thích và lý luận)*
+
+5. **Tại sao Đại hội VIII mới chính thức khởi động "đẩy mạnh công nghiệp hóa, hiện đại hóa" mà không phải Đại hội VI (1986) hay Đại hội VII (1991)?**
+   > Gợi ý: Đại hội VI–VII tập trung thoát khỏi khủng hoảng và tạo tiền đề; phải sau 10 năm đổi mới mới có nền tảng kinh tế, ổn định xã hội và điều kiện vật chất để chuyển sang giai đoạn CNH–HĐH. Đại hội VIII nhận định "nhiệm vụ chuẩn bị tiền đề đã cơ bản hoàn thành".
+
+6. **Quan điểm "phát huy nguồn lực con người là yếu tố cơ bản" có nội dung gì mới so với các đại hội trước? Tại sao Đại hội VIII không đặt vốn hay tài nguyên là yếu tố số một?**
+   > Gợi ý: Các đại hội trước ưu tiên vốn và vật chất; Đại hội VIII nhận ra vốn–máy móc chỉ hiệu quả qua con người; kinh tế hiện đại ngày càng dựa vào tri thức, không chỉ lao động thủ công hay khoáng sản → tư duy "đầu tư cho con người là đầu tư cho phát triển".
+
+7. **Hội nghị Trung ương 2 khóa VIII (1997) xác định "Giáo dục–đào tạo và khoa học–công nghệ là quốc sách hàng đầu." Điều này có mối liên hệ trực tiếp như thế nào với quan điểm công nghiệp hóa của Đại hội VIII?**
+   > Gợi ý: Đây là sự cụ thể hóa quan điểm 3 và 4 của Đại hội VIII — nếu con người là yếu tố cơ bản và KH–CN là động lực thì giáo dục (tạo ra con người giỏi) và KH–CN (phát triển công nghệ) phải là ưu tiên hàng đầu của chính sách nhà nước.
+
+8. **Tại sao quan điểm "kết hợp kinh tế với quốc phòng–an ninh" lại được đưa vào định hướng công nghiệp hóa? Đây có phải là đặc thù riêng của Việt Nam không?**
+   > Gợi ý: Đặc thù của Việt Nam — đất nước vừa trải qua chiến tranh, vẫn chịu ảnh hưởng của bao vây cô lập, có tranh chấp biển đảo; phát triển kinh tế mà mất an ninh thì không bền vững; ngược lại nếu chỉ lo quốc phòng mà không có kinh tế mạnh thì không có nguồn lực bảo vệ đất nước.
+
+9. **Từ góc độ của sinh viên ngành Công nghệ (ĐHQGHN), nhóm có thể liên hệ cụ thể quan điểm "KH–CN là động lực của CNH–HĐH" với thực tiễn chuyên ngành mình đang học như thế nào?**
+   > Gợi ý: AI, bán dẫn, phần mềm, IoT, điện toán đám mây... đều là những lĩnh vực Việt Nam đang đầu tư để "đi tắt đón đầu"; sinh viên CNTT là lực lượng trực tiếp tạo ra và ứng dụng KH–CN — đây là đóng góp cụ thể và trực tiếp nhất cho CNH–HĐH.
+
+---
+
+## 🔴 Mức độ 3 – Đánh giá / Phản biện sâu
+*(Câu hỏi khó, dễ bị giám khảo hỏi nhất)*
+
+10. **Đại hội VIII đặt mục tiêu "đến năm 2020 cơ bản trở thành nước công nghiệp." Đến năm 2020, Việt Nam có đạt được mục tiêu đó không? Nếu không, nguyên nhân chủ yếu là gì?**
+    > Gợi ý: Không đạt — Đại hội XIII (2021) phải điều chỉnh thành mục tiêu trở thành "nước công nghiệp hiện đại" vào 2030–2045. Nguyên nhân: năng suất lao động thấp, KH–CN chưa là động lực thực sự, thể chế chưa hoàn thiện, phụ thuộc FDI gia công, chưa làm chủ công nghệ lõi, bẫy thu nhập trung bình.
+
+11. **Quan điểm 1 của Đại hội VIII đề cao "dựa vào nguồn lực trong nước là chính" nhưng thực tế Việt Nam thu hút FDI rất lớn và phụ thuộc nhiều vào xuất khẩu của khối FDI. Theo nhóm, thực tiễn này có mâu thuẫn với quan điểm trên không?**
+    > Gợi ý: Có sự khác biệt lý luận–thực tiễn — FDI chiếm ~70% kim ngạch xuất khẩu, trong khi doanh nghiệp trong nước còn hạn chế về công nghệ và thị trường. Đây không hẳn là sai lầm chủ trương mà là hạn chế trong triển khai: chưa gắn FDI với chuyển giao công nghệ và phát triển doanh nghiệp nội địa đủ mạnh.
+
+12. **Quan điểm 5 của Đại hội VIII đặt "hiệu quả kinh tế–xã hội là tiêu chuẩn" lựa chọn đầu tư. Nhưng thực tế Việt Nam có nhiều dự án đầu tư công kém hiệu quả, thậm chí thua lỗ nghiêm trọng (12 dự án yếu kém ngành công thương). Nguyên để làm gì có điều này?**
+    > Gợi ý: Chủ trương đúng nhưng cơ chế giám sát và trách nhiệm giải trình còn yếu; tư duy "vốn nhà nước" thiếu động lực tiết kiệm như vốn tư nhân; tham nhũng trong phê duyệt dự án; thiếu năng lực thẩm định kỹ thuật–kinh tế của bộ máy quản lý.
+
+13. **Với sự phát triển của AI, tự động hóa và cách mạng công nghiệp 4.0 hiện nay, các quan điểm CNH–HĐH của Đại hội VIII (1996) có còn phù hợp không, hay cần bổ sung thêm những gì?**
+    > Gợi ý: Các quan điểm cốt lõi vẫn còn nguyên giá trị (con người, KH–CN, hiệu quả, hội nhập); nhưng cần bổ sung thêm: kinh tế số, đổi mới sáng tạo, an ninh mạng, bảo vệ dữ liệu, kinh tế xanh và phát triển bền vững — những vấn đề năm 1996 chưa xuất hiện. Nghị quyết 57-NQ/TW (2024) là bằng chứng cho sự bổ sung đó.
+
+14. **Nếu Việt Nam muốn thoát bẫy thu nhập trung bình và trở thành nước phát triển vào 2045, vai trò cụ thể của thế hệ sinh viên hiện nay (sinh ra khoảng 2005–2007) là gì? Thế hệ đó sẽ ở vị trí nào trong xã hội vào năm 2045?**
+    > Gợi ý: Năm 2045 thế hệ hiện tại khoảng 38–42 tuổi — đang ở độ tuổi sung sức nhất, nắm giữ các vị trí lãnh đạo doanh nghiệp, khoa học, chính phủ; đây chính là thế hệ quyết định Việt Nam có đạt mục tiêu 2045 hay không → câu hỏi này kết nối lý luận với trách nhiệm cá nhân cụ thể.
+
+---
+
+## 📌 Tổng kết bộ câu hỏi đề tài 8
+
+| Mức | Số câu | Trọng tâm |
+|---|---|---|
+| 🟢 Nhận biết | 4 | Thời gian, định nghĩa, 6 quan điểm, mục tiêu 2020 |
+| 🟡 Phân tích | 5 | Lý giải quan điểm, liên hệ thực tiễn, kết nối chuyên ngành |
+| 🔴 Phản biện | 5 | Mục tiêu 2020 thất bại, mâu thuẫn FDI, đầu tư kém hiệu quả, thách thức 4.0 |
+| **Tổng** | **14** | |
+
+---
+
+**Ba câu nhóm cần chuẩn bị kỹ nhất:**
+- **Câu 10** — mục tiêu "nước công nghiệp 2020" không đạt: giám khảo **gần như chắc chắn hỏi** vì đây là điểm dễ bắt bẻ nhất
+- **Câu 11** — mâu thuẫn "nội lực là chính" vs. thực tế phụ thuộc FDI: cần trả lời thẳng thắn, không né tránh
+- **Câu 14** — vai trò thế hệ sinh viên năm 2045: câu này vừa mang tính lý luận vừa kết nối cá nhân, rất hay được giám khảo dùng để kết thúc phần phản biện
+
+Đọc nội dung đề tài 9 để soạn câu hỏi phản biện chính xác.
+
+Dưới đây là bộ **câu hỏi phản biện cho Đề tài 9** — so sánh Cương lĩnh 1991 và 2011:
+
+---
+
+# ❓ Câu hỏi phản biện – Đề tài 9
+**So sánh Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên CNXH năm 1991 và năm 2011**
+
+---
+
+## 🟢 Mức độ 1 – Tái hiện / Nhận biết
+*(Dành cho người thuyết trình, kiểm tra nắm vững kiến thức cơ bản)*
+
+1. **Cương lĩnh 1991 được thông qua tại Đại hội mấy của Đảng, vào thời gian nào?**
+   > Gợi ý đáp án: Đại hội VII, tháng 6-1991.
+
+2. **Cương lĩnh 1991 xác định bao nhiêu đặc trưng của xã hội XHCN, còn Cương lĩnh 2011 xác định bao nhiêu?**
+   > Gợi ý: 6 đặc trưng (1991) → 8 đặc trưng (2011).
+
+3. **Hai đặc trưng được bổ sung mới trong Cương lĩnh 2011 so với Cương lĩnh 1991 là gì?**
+   > Gợi ý: Mục tiêu "dân giàu, nước mạnh, dân chủ, công bằng, văn minh" và "Nhà nước pháp quyền XHCN".
+
+4. **Cương lĩnh 2011 xác định bao nhiêu phương hướng cơ bản xây dựng CNXH, so với bao nhiêu phương hướng trong Cương lĩnh 1991?**
+   > Gợi ý: 7 phương hướng (1991) → 8 phương hướng (2011).
+
+---
+
+## 🟡 Mức độ 2 – Hiểu / Phân tích
+*(Thách thức tư duy, yêu cầu giải thích và lý luận)*
+
+5. **Tại sao Cương lĩnh 2011 chuyển từ "nhân dân lao động làm chủ" sang "nhân dân làm chủ"? Sự thay đổi này có ý nghĩa gì về mặt chính trị – xã hội?**
+   > Gợi ý: Mở rộng chủ thể quyền làm chủ, không chỉ giai cấp công nhân – nông dân mà bao gồm toàn bộ nhân dân; phù hợp với nền kinh tế nhiều thành phần.
+
+6. **Cương lĩnh 2011 thay đổi từ "chế độ công hữu về tư liệu sản xuất chủ yếu" sang "quan hệ sản xuất tiến bộ, phù hợp" — đây là thay đổi ngôn từ hay thay đổi bản chất tư duy? Nhóm lý giải thế nào?**
+   > Gợi ý: Thay đổi bản chất — thừa nhận nền kinh tế đa sở hữu, không đặt công hữu là điều kiện tiên quyết, mà chú trọng tính "phù hợp với lực lượng sản xuất".
+
+7. **Bối cảnh quốc tế năm 1991 (Liên Xô – Đông Âu sụp đổ) đã ảnh hưởng như thế nào đến nội dung Cương lĩnh 1991? Nếu bối cảnh đó không xảy ra, Cương lĩnh 1991 có thể khác nhau ở điểm nào?**
+   > Gợi ý: Cương lĩnh 1991 nhấn mạnh khẳng định kiên định CNXH, xác định mô hình để lấy lại niềm tin sau sự kiện Đông Âu; nếu không có sụp đổ Liên Xô, có thể đã mềm hơn về mô hình kinh tế.
+
+8. **Cương lĩnh 2011 lần đầu tiên xác định "phát triển nền kinh tế thị trường định hướng XHCN" là một phương hướng cơ bản độc lập. Điều này có mâu thuẫn với tư tưởng CNXH truyền thống không? Đảng đã giải quyết mâu thuẫn đó theo hướng nào?**
+   > Gợi ý: Đây là sáng tạo lý luận của Đảng — kinh tế thị trường là công cụ, định hướng XHCN là mục tiêu; nhà nước điều tiết để đảm bảo công bằng xã hội.
+
+9. **Vì sao bảo vệ môi trường chỉ được đề cập rõ ràng trong Cương lĩnh 2011 mà không có trong Cương lĩnh 1991? Điều này phản ánh gì về tầm nhìn của Đảng?**
+   > Gợi ý: Năm 1991, vấn đề môi trường chưa cấp bách như hiện nay; sau 25 năm đổi mới, ô nhiễm, biến đổi khí hậu trở thành thách thức thực tiễn → Đảng điều chỉnh theo thực tiễn.
+
+---
+
+## 🔴 Mức độ 3 – Đánh giá / Phản biện sâu
+*(Câu hỏi khó, phù hợp khi giám khảo muốn "bắt bẻ")*
+
+10. **Cương lĩnh 2011 khẳng định "bổ sung, phát triển" chứ không thay thế Cương lĩnh 1991. Vậy có điểm nào trong Cương lĩnh 2011 thực chất là sửa đổi căn bản (thay đổi bản chất) chứ không đơn thuần là bổ sung không? Nhóm có thể chỉ ra không?**
+   > Gợi ý: Điểm về "quan hệ sản xuất tiến bộ, phù hợp" thay thế "chế độ công hữu chủ yếu" — đây là thay đổi bản chất trong quan niệm về kinh tế; Đảng phủ nhận nhẹ nhàng nhưng thực chất là từ bỏ quan điểm về sở hữu thuần túy.
+
+11. **Mục tiêu "dân giàu, nước mạnh, dân chủ, công bằng, văn minh" trong Cương lĩnh 2011 — theo nhóm, sau hơn 10 năm thực hiện (đến nay), tiêu chí nào Việt Nam đạt được tốt nhất và tiêu chí nào còn khoảng cách lớn nhất so với mục tiêu?**
+   > Gợi ý: "Nước mạnh" (kinh tế, quốc phòng) — tiến bộ rõ; "Dân chủ", "công bằng" — vẫn còn khoảng cách, nhất là phân hóa giàu nghèo, quyền tham gia của người dân.
+
+12. **Cương lĩnh 2011 xác định Đảng "hoạt động trong khuôn khổ Hiến pháp và pháp luật" và "chịu sự giám sát của nhân dân" — cơ chế cụ thể nào đảm bảo điều này được thực thi trên thực tế?**
+   > Gợi ý: Cơ chế còn gián tiếp (qua Quốc hội, MTTQ, báo chí); thiếu cơ chế giám sát độc lập; đây là khoảng cách giữa văn bản và thực tiễn — nhóm cần thừa nhận và phân tích thẳng thắn.
+
+13. **Nếu phải đánh giá, nhóm cho rằng Cương lĩnh 1991 hay Cương lĩnh 2011 có giá trị thực tiễn lớn hơn đối với Việt Nam? Tại sao?**
+   > Gợi ý: Không có đáp án tuyệt đối — 1991 có giá trị lịch sử vì ra đời trong thời điểm khủng hoảng và tạo nền tảng; 2011 có giá trị thực tiễn hơn vì được xây dựng dựa trên 25 năm kinh nghiệm và phù hợp với bối cảnh hiện đại.
+
+14. **Cương lĩnh 2011 đặt mục tiêu "đến giữa thế kỷ XXI xây dựng được nước Việt Nam XHCN dân giàu, nước mạnh, dân chủ, công bằng, văn minh". Theo nhóm, thách thức lớn nhất để Việt Nam đạt mục tiêu đó là gì?**
+   > Gợi ý: Bẫy thu nhập trung bình, khoảng cách khoa học – công nghệ với các nước phát triển, tham nhũng và chất lượng thể chế, tác động của biến đổi khí hậu.
+
+---
+
+## 📌 Tổng kết bộ câu hỏi đề tài 9
+
+| Mức | Số câu | Trọng tâm |
+|---|---|---|
+| 🟢 Nhận biết | 4 | Kiến thức cơ bản về hai Cương lĩnh |
+| 🟡 Phân tích | 5 | Lý giải sự thay đổi, bối cảnh, ý nghĩa |
+| 🔴 Phản biện | 5 | Đánh giá phê phán, liên hệ thực tiễn |
+| **Tổng** | **14** | |
+
+Nhóm nên chuẩn bị kỹ nhất **câu 6, 10, 12** — đây là những câu có khả năng bị giám khảo hỏi nhất vì chạm vào điểm nhạy cảm về tư tưởng và khoảng cách giữa văn bản Cương lĩnh và thực tiễn.
+
+Đọc lại nội dung đề tài 10 từ file đã có sẵn (đã đọc ở lượt trước, dùng luôn).
+
+---
+
+# ❓ Câu hỏi phản biện – Đề tài 10
+**Phân tích thành tựu 35 năm đổi mới và mục tiêu cụ thể tại Đại hội XIII (2021)**
+
+---
+
+## 🟢 Mức độ 1 – Tái hiện / Nhận biết
+*(Kiểm tra nắm vững kiến thức cơ bản)*
+
+1. **Đại hội XIII của Đảng diễn ra vào thời gian nào? Đây là Đại hội thứ mấy kể từ khi bắt đầu đổi mới (1986)?**
+   > Gợi ý: Đầu năm 2021; là Đại hội thứ 8 kể từ Đại hội VI (1986).
+
+2. **Đại hội XIII đề ra ba mốc phát triển lớn cho đất nước. Nhóm hãy nêu mục tiêu cụ thể cho từng mốc năm 2025, 2030 và 2045?**
+   > Gợi ý: 2025 – nước đang phát triển, vượt thu nhập trung bình thấp; 2030 – thu nhập trung bình cao, công nghiệp hiện đại; 2045 – nước phát triển, thu nhập cao.
+
+3. **GDP bình quân đầu người của Việt Nam năm 2020 là bao nhiêu? Mục tiêu năm 2025 và 2030 là bao nhiêu?**
+   > Gợi ý: 2020 ~2.779 USD; 2025 ~4.700–5.000 USD; 2030 ~7.500 USD.
+
+4. **Đại hội XIII xác định ba đột phá chiến lược là gì?**
+   > Gợi ý: (1) Hoàn thiện thể chế; (2) Phát triển nguồn nhân lực chất lượng cao; (3) Xây dựng hệ thống kết cấu hạ tầng đồng bộ, hiện đại.
+
+---
+
+## 🟡 Mức độ 2 – Hiểu / Phân tích
+*(Yêu cầu giải thích và lý luận)*
+
+5. **Đại hội XIII nhận định "Đất nước ta chưa bao giờ có được cơ đồ, tiềm lực, vị thế và uy tín quốc tế như ngày nay." Nhóm có thể đưa ra ba dẫn chứng cụ thể để minh chứng cho nhận định này không?**
+   > Gợi ý: Quy mô GDP tăng từ ~6 tỉ USD (1986) lên ~271 tỉ USD (2020); tham gia CPTPP, EVFTA; tỷ lệ nghèo giảm từ ~58% (1993) xuống dưới 3% (2020).
+
+6. **Tại sao Đại hội XIII lại chọn năm 2025, 2030 và 2045 làm các mốc mục tiêu, thay vì các mốc khác? Ý nghĩa lịch sử của từng năm là gì?**
+   > Gợi ý: 2025 – kết thúc nhiệm kỳ XIII; 2030 – 100 năm thành lập Đảng (3/2/1930); 2045 – 100 năm thành lập nước CHXHCNVN (2/9/1945).
+
+7. **Đại hội XIII thẳng thắn chỉ ra hạn chế: "tăng trưởng kinh tế chưa tương xứng với tiềm năng". Theo nhóm, nguyên nhân chủ yếu của hạn chế này là gì?**
+   > Gợi ý: Thể chế chưa hoàn thiện; năng suất lao động thấp; khoa học – công nghệ chưa là động lực then chốt; tham nhũng làm giảm hiệu quả đầu tư công.
+
+8. **Tại sao "hoàn thiện thể chế" lại được xếp là đột phá chiến lược số một, đứng trước cả nguồn nhân lực và hạ tầng?**
+   > Gợi ý: Thể chế tốt tạo môi trường để hai đột phá kia phát huy tác dụng; thể chế yếu kém làm triệt tiêu đầu tư vào nhân lực và hạ tầng; đây là "nút thắt" căn bản nhất của Việt Nam.
+
+9. **Đại hội XIII đặt mục tiêu kinh tế số đạt 20% GDP vào năm 2025. Tính đến thời điểm đó, Việt Nam đã đạt được bao nhiêu và còn những thách thức nào cần vượt qua?**
+   > Gợi ý: Nhóm có thể liên hệ thực tiễn — thiếu hạ tầng số đồng bộ ở nông thôn, thiếu nhân lực công nghệ, khung pháp lý cho kinh tế số còn chậm hoàn thiện.
+
+---
+
+## 🔴 Mức độ 3 – Đánh giá / Phản biện sâu
+*(Câu hỏi khó, dễ bị giám khảo hỏi nhất)*
+
+10. **Đại hội XIII vừa đánh giá thành tựu "to lớn, có ý nghĩa lịch sử", vừa thừa nhận nhiều hạn chế nghiêm trọng. Theo nhóm, hai điều này có mâu thuẫn nhau không, hay đây là cách đánh giá biện chứng? Vì sao?**
+    > Gợi ý: Không mâu thuẫn — thành tựu và hạn chế tồn tại song song trong cùng một giai đoạn phát triển; cách đánh giá "hai mặt" thể hiện tinh thần nhìn thẳng vào sự thật của Đảng; quan trọng là nhìn xu hướng vận động chứ không chỉ trạng thái tại một thời điểm.
+
+11. **Việt Nam đặt mục tiêu trở thành nước phát triển, thu nhập cao vào năm 2045. Để thoát bẫy thu nhập trung bình — điều mà nhiều nước châu Á không làm được — Việt Nam cần điều kiện tiên quyết nào mà hiện nay còn thiếu?**
+    > Gợi ý: Năng suất lao động cao dựa trên công nghệ và đổi mới sáng tạo (không chỉ lao động giá rẻ); thể chế minh bạch, chống tham nhũng hiệu quả; hệ thống giáo dục tạo ra nhân lực chất lượng cao thực sự; khả năng làm chủ công nghệ lõi.
+
+12. **35 năm đổi mới, tăng trưởng GDP trung bình ~6–7%/năm — đây là thành tích ấn tượng. Nhưng có ý kiến cho rằng tăng trưởng này chủ yếu dựa vào lao động giá rẻ và khai thác tài nguyên, không bền vững. Nhóm đánh giá nhận xét này đúng hay sai ở mức độ nào?**
+    > Gợi ý: Có phần đúng — giai đoạn 1986–2010 chủ yếu dựa vào nông nghiệp, khai khoáng và FDI gia công; tuy nhiên từ 2015 trở đi đã có chuyển dịch sang chế biến, chế tạo và bắt đầu có kinh tế số. Thách thức là chuyển dịch này chưa đủ nhanh.
+
+13. **Đại hội XIII ghi nhận tỷ lệ hộ nghèo giảm xuống dưới 3% — đây là thành tựu đáng tự hào. Tuy nhiên, bất bình đẳng thu nhập (hệ số Gini) của Việt Nam có xu hướng như thế nào trong 35 năm đổi mới? Điều này có mâu thuẫn với mục tiêu "công bằng xã hội" không?**
+    > Gợi ý: Hệ số Gini của Việt Nam dao động quanh 0,35–0,43, cho thấy bất bình đẳng tăng cùng với tốc độ tăng trưởng; giảm nghèo và tăng bất bình đẳng có thể xảy ra đồng thời — đây là thách thức của mọi nền kinh tế đang phát triển nhanh.
+
+14. **Theo nhóm, trong 6 nhiệm vụ trọng tâm của Đại hội XIII, nhiệm vụ nào khó thực hiện nhất và tại sao?**
+    > Gợi ý: "Đổi mới mô hình tăng trưởng" — vì đòi hỏi thay đổi cấu trúc kinh tế sâu rộng, cần thời gian dài và sự đồng thuận của nhiều nhóm lợi ích; hoặc "xây dựng, chỉnh đốn Đảng" — vì liên quan đến thay đổi từ bên trong hệ thống.
+
+---
+
+## 📌 Tổng kết bộ câu hỏi đề tài 10
+
+| Mức | Số câu | Trọng tâm |
+|---|---|---|
+| 🟢 Nhận biết | 4 | Số liệu, mốc thời gian, nội dung cơ bản Đại hội XIII |
+| 🟡 Phân tích | 5 | Lý giải thành tựu, hạn chế, lựa chọn chiến lược |
+| 🔴 Phản biện | 5 | Đánh giá phê phán, tính bền vững, bẫy thu nhập trung bình |
+| **Tổng** | **14** | |
+
+---
+
+**Ba câu nhóm cần chuẩn bị kỹ nhất:**
+- **Câu 11** — bẫy thu nhập trung bình: giám khảo Lịch sử Đảng rất hay hỏi câu này
+- **Câu 12** — chất lượng tăng trưởng: dễ bị "bắt" nếu chỉ trình bày con số mà không phân tích cơ cấu
+- **Câu 13** — nghịch lý giảm nghèo vs. bất bình đẳng: thường bị bỏ qua nhưng rất hay bị giám khảo nêu ra
+
