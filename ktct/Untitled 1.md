@@ -1,163 +1,119 @@
-# Lý thuyết cần nhớ – Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường
+# Tóm tắt lý thuyết Chương 5
 
-## Sơ đồ tổng quát
+**Kinh tế thị trường định hướng XHCN và các quan hệ lợi ích kinh tế ở Việt Nam**
 
-$$\text{Cạnh tranh tự do} \;\to; \text{Độc quyền (ĐQ)} ;\to; \text{Độc quyền nhà nước (ĐQNN)}$$
+## 5.1. Kinh tế thị trường định hướng XHCN ở Việt Nam
 
-Lênin: _"Cạnh tranh tự do đẻ ra tập trung sản xuất, và sự tập trung này khi phát triển tới một mức độ nhất định lại dẫn tới độc quyền"_ (Toàn tập, t.27, tr.402).
+### Khái niệm
 
-Slide 4 ghi mục 4.1.1 (các mức độ cạnh tranh) là "đọc giáo trình", nên bạn cần xem thêm phần này trong giáo trình.
+Là nền kinh tế **vận hành theo các quy luật của thị trường**, đồng thời **có sự điều tiết của Nhà nước do Đảng Cộng sản Việt Nam lãnh đạo**, hướng tới mục tiêu **dân giàu, nước mạnh, dân chủ, công bằng, văn minh**.
 
----
+### Tính tất yếu khách quan (3 lý do)
 
-## I. Độc quyền trong nền KTTT
+1. **Phù hợp xu hướng phát triển khách quan**: kinh tế hàng hóa tất yếu chuyển thành kinh tế thị trường. KTTT TBCN dù phát triển cao vẫn không khắc phục được mâu thuẫn vốn có, nên nhân loại cần tiến tới KTTT định hướng XHCN.
+2. **Do tính hai mặt của KTTT**:
+    - Ưu thế: phân bổ nguồn lực linh hoạt, hiệu quả nhất.
+    - Khuyết tật: khủng hoảng, phân hóa giàu nghèo, ô nhiễm môi trường, nên cần Nhà nước can thiệp.
+3. **Phù hợp nguyện vọng của nhân dân**: KTTT phá vỡ tính tự cấp tự túc, khuyến khích đổi mới công nghệ, nâng cao năng suất lao động, thúc đẩy lực lượng sản xuất và hội nhập quốc tế.
 
-### 1. Khái niệm
+### 5 đặc trưng
 
-- **Tổ chức độc quyền** là liên minh giữa các nhà tư bản lớn. Họ nắm phần lớn việc sản xuất và tiêu thụ một loại hàng hóa để thu **lợi nhuận độc quyền** cao.
-- **Lợi nhuận độc quyền** là lợi nhuận cao hơn lợi nhuận bình quân, nhờ sự thống trị của tổ chức độc quyền: $p_{ĐQ} > \bar{p}$.
-- **Giá cả độc quyền** là giá do tổ chức độc quyền áp đặt khi mua và bán hàng hóa.
-- Con đường hình thành: tích tụ, tập trung sản xuất → cạnh tranh gay gắt → thỏa hiệp → tổ chức độc quyền.
+|#|Đặc trưng|Nội dung chính|
+|---|---|---|
+|1|**Mục tiêu phát triển**|Phát triển LLSX, xây dựng cơ sở vật chất kỹ thuật của CNXH, thực hiện "dân giàu, nước mạnh, dân chủ, công bằng, văn minh". Đây là điểm khác biệt với KTTT TBCN.|
+|2|**Sở hữu và thành phần kinh tế**|Nhiều hình thức sở hữu (nhà nước, tư nhân, tập thể, hỗn hợp) và nhiều thành phần kinh tế (nhà nước, tập thể, tư nhân, có vốn đầu tư nước ngoài). Các thành phần bình đẳng, hợp tác, cạnh tranh theo pháp luật. **Kinh tế nhà nước giữ vai trò chủ đạo**, cùng kinh tế tập thể là nền tảng của nền kinh tế quốc dân. **Kinh tế tư nhân là động lực quan trọng**.|
+|3|**Quan hệ quản lý**|Chủ thể quản lý là Nhà nước pháp quyền XHCN của dân, do dân, vì dân. Đảng lãnh đạo qua cương lĩnh, đường lối, chủ trương lớn. Nhà nước quản lý qua pháp luật, chiến lược, kế hoạch, quy hoạch, chính sách, và phải phù hợp nguyên tắc thị trường.|
+|4|**Quan hệ phân phối**|Nhiều hình thức phân phối: theo lao động, theo hiệu quả kinh tế, theo vốn và tài sản, và qua quỹ phúc lợi xã hội. Hình thức chủ yếu là phân phối theo kết quả lao động, theo hiệu quả kinh tế và qua phúc lợi, an sinh xã hội. Đồng thời phải bảo đảm công bằng về cơ hội tiếp cận nguồn lực.|
+|5|**Tăng trưởng gắn với công bằng xã hội**|Thực hiện công bằng xã hội ngay trong từng chính sách, chiến lược, giai đoạn phát triển. Ở KTTT TBCN, công bằng xã hội chỉ được giải quyết khi mâu thuẫn gay gắt đe dọa chế độ. Ở Việt Nam, công bằng xã hội vừa là phương tiện vừa là mục tiêu.|
 
-### 2. Nguyên nhân ra đời (cuối thế kỷ XIX – đầu thế kỷ XX)
+**Vai trò chủ đạo của kinh tế nhà nước:** nắm các ngành then chốt, chi phối nền kinh tế, bảo đảm quốc phòng an ninh, phục vụ lợi ích công cộng, hỗ trợ các lĩnh vực mà thành phần khác không làm.
 
-1. **LLSX phát triển do tiến bộ KHKT.** Quá trình này đẩy nhanh tích tụ và tập trung sản xuất, hình thành xí nghiệp quy mô lớn và các ngành mới có quy mô lớn (ô tô, máy bay, đóng tàu).
-2. **Cạnh tranh khốc liệt.** Nhà tư bản buộc phải tăng quy mô tích lũy và cải tiến kỹ thuật. Doanh nghiệp vừa và nhỏ phá sản, từ đó thúc đẩy tích tụ và tập trung tư bản.
-3. **Khủng hoảng kinh tế và sự phát triển của hệ thống tín dụng TBCN.** Điển hình là khủng hoảng năm 1873. Tín dụng trở thành đòn bẩy thúc đẩy tập trung sản xuất.
+## 5.2. Hoàn thiện thể chế KTTT định hướng XHCN
 
-### 3. Tác động của độc quyền
+### Khái niệm
 
-|Tích cực|Tiêu cực|
-|---|---|
-|Có khả năng lớn nghiên cứu và triển khai KHKT, thúc đẩy tiến bộ KHKT|Làm cạnh tranh không hoàn hảo|
-|Tăng năng suất lao động, nâng cao năng lực cạnh tranh của chính tổ chức độc quyền|Gây thiệt hại cho người tiêu dùng và xã hội|
-|Tạo sức mạnh kinh tế, thúc đẩy sản xuất lớn, hiện đại|Kìm hãm tiến bộ kỹ thuật|
-||Kìm hãm phát triển kinh tế – xã hội|
-||Chi phối quan hệ kinh tế – xã hội, làm tăng phân hóa giàu nghèo|
+- **Thể chế**: quy tắc, luật pháp, bộ máy quản lý và cơ chế vận hành điều chỉnh hoạt động của con người trong một chế độ xã hội.
+- **Thể chế kinh tế**: hệ thống quy tắc, luật pháp, bộ máy và cơ chế điều chỉnh hành vi của các chủ thể kinh tế, hành vi sản xuất kinh doanh và các quan hệ kinh tế.
+- **Thể chế KTTT định hướng XHCN**: hệ thống đường lối, chủ trương, chiến lược, luật pháp, chính sách xác lập cơ chế vận hành, điều chỉnh mục tiêu, phương thức hoạt động và quan hệ lợi ích của các chủ thể. Mục đích là hình thành đồng bộ các yếu tố và loại thị trường, thúc đẩy dân giàu, nước mạnh.
 
----
+**Lý do phải hoàn thiện:** hệ thống thể chế còn **chưa đồng bộ**.
 
-## II. Năm đặc điểm kinh tế của độc quyền (Lênin)
+### 4 nội dung hoàn thiện
 
-### Đặc điểm 1: Quy mô tích tụ và tập trung tư bản lớn
+1. **Thể chế về sở hữu và phát triển các thành phần kinh tế**
+    - Thể chế hóa đầy đủ quyền tài sản (sở hữu, sử dụng, định đoạt, hưởng lợi).
+    - Hoàn thiện pháp luật về đất đai, tài nguyên, đầu tư vốn nhà nước.
+    - Hoàn thiện thể chế sở hữu trí tuệ, hợp đồng, giải quyết tranh chấp dân sự.
+    - Hoàn thiện thể chế phát triển các thành phần kinh tế và loại hình doanh nghiệp.
+2. **Thể chế phát triển đồng bộ các yếu tố thị trường và các loại thị trường**
+    - Yếu tố thị trường: hàng hóa, cung, cầu, giá cả, cạnh tranh…
+    - Các loại thị trường: hàng tiêu dùng và dịch vụ, vốn, công nghệ, sức lao động, quyền sử dụng đất…
+3. **Thể chế bảo đảm tăng trưởng gắn với tiến bộ, công bằng xã hội và hội nhập quốc tế**
+    - Kết hợp phát triển kinh tế với phát triển xã hội, mọi người cùng tham gia và hưởng thành quả.
+    - Về hội nhập: rà soát thể chế để thực hiện cam kết quốc tế, đa phương hóa và đa dạng hóa, không lệ thuộc vào một số ít thị trường, nâng cao năng lực cạnh tranh, phản ứng nhanh với biến động bất lợi, bảo vệ lợi ích quốc gia.
+4. **Thể chế và năng lực của hệ thống chính trị**
+    - Nâng cao năng lực lãnh đạo của Đảng.
+    - Xây dựng, hoàn thiện thể chế kinh tế của Nhà nước.
+    - Phát huy vai trò làm chủ của nhân dân.
 
-Các hình thức liên minh độc quyền:
+## 5.3. Quan hệ lợi ích và bảo đảm hài hòa lợi ích
 
-|Hình thức|Đặc điểm|
-|---|---|
-|**Cartel**|Thỏa thuận về giá cả, quy mô, sản lượng, thị trường tiêu thụ|
-|**Syndicate**|Liên kết trong **lưu thông**|
-|**Trust**|Liên kết cả **sản xuất và lưu thông**|
-|**Consortium**|Các xí nghiệp tư bản lớn ở các ngành khác nhau, có liên quan về kinh tế và kỹ thuật|
-|**Concern**|Độc quyền **đa ngành**, phân bố ở nhiều nước|
-|**Conglomerate**|Kết hợp vài chục hãng vừa và nhỏ **không liên quan** về sản xuất|
+### Các khái niệm
 
-### Đặc điểm 2: Tư bản tài chính và đầu sỏ tài chính chi phối
+- **Lợi ích**: sự thỏa mãn nhu cầu của con người, được nhận thức và đặt trong quan hệ xã hội ứng với trình độ phát triển nhất định của sản xuất.
+- **Lợi ích kinh tế**: lợi ích vật chất thu được khi thực hiện hoạt động kinh tế. Biểu hiện là **lợi nhuận, thu nhập**.
+- **Vai trò**: là động lực trực tiếp của hoạt động kinh tế và là cơ sở để thực hiện các lợi ích khác.
+- **Quan hệ lợi ích kinh tế**: sự tương tác giữa các chủ thể kinh tế nhằm xác lập lợi ích kinh tế, gắn với trình độ LLSX và kiến trúc thượng tầng tương ứng.
+    - **Thống nhất**: lợi ích của chủ thể này được thực hiện thì lợi ích của chủ thể khác cũng được thực hiện (trực tiếp hoặc gián tiếp).
+    - **Mâu thuẫn**: người này được lợi thì người kia mất đi.
 
-- Tư bản tài chính hình thành từ sự hợp nhất của tổ chức độc quyền **ngân hàng** và tổ chức độc quyền **công nghiệp**.
-- **Đầu sỏ tài chính (tài phiệt)** là một nhóm nhỏ nhà tư bản kếch xù chi phối đời sống kinh tế và chính trị của toàn xã hội.
-- Tài phiệt thống trị thông qua **chế độ tham dự**:
-    - Một tập đoàn mua cổ phiếu khống chế **công ty mẹ**.
-    - Công ty mẹ khống chế **công ty con**, rồi công ty con khống chế **công ty cháu**.
-- Hoạt động của tài phiệt gồm: lập công ty mới, phát hành trái phiếu, đầu cơ đất đai.
+### 4 nhân tố ảnh hưởng đến quan hệ lợi ích kinh tế
 
-### Đặc điểm 3: Xuất khẩu tư bản trở thành phổ biến
+1. Trình độ phát triển của lực lượng sản xuất
+2. Địa vị của mỗi chủ thể trong hệ thống QHSX xã hội
+3. Chính sách phân phối thu nhập của Nhà nước
+4. Mức độ hội nhập kinh tế quốc tế
 
-- Thời cạnh tranh tự do chủ yếu là xuất khẩu hàng hóa (XKHH), nhằm thực hiện giá trị.
-- Thời độc quyền là xuất khẩu tư bản (XKTB), nhằm chiếm đoạt giá trị thặng dư $m$ và các nguồn lợi khác của nước nhập khẩu tư bản.
-- Phân loại XKTB:
-    - Theo **hình thức**: _trực tiếp_ (xây dựng hoặc mua lại xí nghiệp) và _gián tiếp_ (cho vay, mua cổ phiếu).
-    - Theo **chủ thể**: _tư nhân_ và _nhà nước_.
-- Câu hỏi thảo luận trong slide: vai trò của XKTB đối với các nước.
+### Các quan hệ lợi ích cơ bản
 
-### Đặc điểm 4: Phân chia thế giới về kinh tế giữa các tập đoàn tư bản độc quyền
+**Xét theo quan hệ mua bán sức lao động:**
 
-- Phân chia thị trường thông qua xuất khẩu tư bản, ký hiệp ước, sáp nhập và thôn tính.
-- Hình thành các liên minh và khối khu vực. Ví dụ: OPEC, EU, khối Đông Nam Á.
+- **Người lao động và người sử dụng lao động**: quan hệ cơ bản, phổ biến, vừa thống nhất vừa mâu thuẫn. Lợi ích của người lao động là tiền lương, tiền thưởng. Lợi ích của người sử dụng lao động là lợi nhuận. Giải quyết theo quy định pháp luật.
+- **Giữa những người sử dụng lao động**: vừa là đối tác vừa là đối thủ, vừa liên kết vừa cạnh tranh. Mâu thuẫn và thống nhất tập trung ở **lợi nhuận bình quân**.
+- **Giữa những người lao động**: cạnh tranh trên thị trường sức lao động làm tiền công giảm. Để hạn chế, họ lập tổ chức riêng là **Công đoàn**. Giải quyết cũng dựa vào pháp luật.
 
-### Đặc điểm 5: Phân chia thế giới về địa lý giữa các cường quốc tư bản
+**Xét theo phạm vi:** lợi ích cá nhân, lợi ích tập thể (nhóm), lợi ích xã hội.
 
-- Nguyên nhân: sự phát triển **không đều** về kinh tế, chính trị và quân sự dẫn tới xung đột để chia lại lãnh thổ, rồi tới chiến tranh thế giới (1914–1918, 1939–1945).
-- Câu hỏi trong slide: _Tại sao còn CNTB thì còn nguy cơ chiến tranh thế giới?_ Gợi ý trả lời: vì còn tranh giành thị trường và thuộc địa, và phát triển không đều khiến phải chia lại thế giới.
+- Lợi ích cá nhân và lợi ích xã hội vừa thống nhất vừa mâu thuẫn. Lợi ích xã hội định hướng cho lợi ích cá nhân.
+- **Lợi ích nhóm** có thể phù hợp hoặc làm tổn hại lợi ích quốc gia. Lợi ích nhóm của người có quyền lực nhà nước dễ bị lạm dụng phục vụ lợi ích cá nhân, gây ảnh hưởng tiêu cực.
 
----
+### Hai phương thức thực hiện lợi ích kinh tế
 
-## III. Biểu hiện mới của độc quyền
+1. **Theo nguyên tắc thị trường**: giá cả, cạnh tranh, cung cầu…
+2. **Theo chính sách của Nhà nước và vai trò của các tổ chức xã hội**: thuế, đầu tư, an sinh xã hội, tổ chức từ thiện…
 
-1. **Tích tụ và tập trung tư bản:**
-    - Xuất hiện các công ty độc quyền **xuyên quốc gia**, như Concern và Conglomerate (ví dụ Mitsubishi).
-    - Các công ty vừa và nhỏ vẫn có vai trò quan trọng trong nền kinh tế.
-2. **Tư bản tài chính:**
-    - Liên kết đa ngành (công – nông – thương – tín – dịch vụ, công nghiệp – quân sự).
-    - Chế độ tham dự thay đổi: cổ phiếu mệnh giá nhỏ, khối lượng cổ phiếu tăng.
-    - Được bổ sung bằng **chế độ ủy nhiệm**.
-3. **Xuất khẩu tư bản:**
-    - Trước đây từ nước phát triển sang nước kém phát triển. Nay còn diễn ra **giữa các nước phát triển với nhau**.
-    - Chủ thể thay đổi, nổi bật là các công ty xuyên quốc gia (ví dụ Apple).
-    - Hình thức đan xen, đa dạng.
-    - Bỏ sự áp đặt kiểu thực dân, đề cao nguyên tắc **cùng có lợi**.
-4. **Phân chia thế giới về kinh tế:**
-    - Vai trò của các công ty xuyên quốc gia tăng.
-    - Xu hướng quốc tế hóa, tài chính hóa, khu vực hóa tăng.
-    - Hình thành **CNTB độc quyền nhà nước quốc tế**.
+### Nhà nước là nhân tố bảo đảm hài hòa lợi ích (4 vai trò)
 
----
+1. **Bảo vệ lợi ích hợp pháp, tạo môi trường thuận lợi**
+    - Giữ ổn định chính trị.
+    - Xây dựng môi trường pháp luật thông thoáng, bảo vệ lợi ích chủ thể trong và ngoài nước và lợi ích quốc gia.
+    - Đầu tư kết cấu hạ tầng, ổn định kinh tế vĩ mô, tạo môi trường văn hóa phù hợp.
+2. **Điều hòa lợi ích giữa cá nhân, doanh nghiệp và xã hội**
+    - Đa dạng hóa chính sách phân phối thu nhập.
+    - Chấp nhận chênh lệch thu nhập nhưng ngăn chênh lệch quá mức gây xung đột.
+    - Nguyên tắc phân phối dựa vào quan hệ sở hữu và trình độ phát triển của LLSX, khoa học công nghệ.
+3. **Kiểm soát, ngăn ngừa các lợi ích ảnh hưởng tiêu cực đến xã hội**
+    - Thực hiện công bằng theo mức thu nhập và theo mức đóng góp.
+    - Khuyến khích làm giàu hợp pháp, kết hợp xóa đói giảm nghèo, tạo cơ hội bình đẳng, khắc phục tư tưởng bao cấp, ỷ lại.
+    - Tuyên truyền để tránh những đòi hỏi không hợp lý.
+    - Chống làm giàu bất hợp pháp: tham nhũng, lừa đảo, hàng giả, hàng nhái.
+4. **Giải quyết mâu thuẫn trong quan hệ lợi ích**
+    - Giải quyết kịp thời, có sự tham gia của các bên liên quan, theo nguyên tắc nhân nhượng, hòa giải, đặt lợi ích quốc gia lên hàng đầu.
+    - Ngăn ngừa là chính. Khi mâu thuẫn thành xung đột thì cần sự tham gia của các tổ chức xã hội, đặc biệt là Nhà nước.
 
-## IV. Độc quyền nhà nước (ĐQNN)
+## Gợi ý ôn tập
 
-### 1. Nguyên nhân hình thành (Lênin cho là xu hướng tất yếu)
+- **Nhớ nhanh:** 5 đặc trưng (mục tiêu, sở hữu, quản lý, phân phối, công bằng xã hội), 4 nội dung hoàn thiện thể chế, 4 nhân tố ảnh hưởng, 4 vai trò của Nhà nước.
+- **Câu hay ra thi:** chứng minh tính tất yếu của KTTT định hướng XHCN, phân tích vai trò chủ đạo của kinh tế nhà nước, vai trò của Nhà nước trong hài hòa lợi ích.
 
-- LLSX, phân công lao động và KHKT phát triển đòi hỏi quan hệ sản xuất mới phù hợp.
-- Mâu thuẫn giai cấp (tư sản – vô sản) cần được xoa dịu.
-- Xu hướng quốc tế hóa, và mâu thuẫn giữa các tổ chức độc quyền quốc tế.
-- Kết quả là sự can thiệp của nhà nước tư sản.
-
-### 2. Bản chất
-
-- ĐQNN là sự kết hợp giữa **tổ chức độc quyền tư nhân** và **nhà nước tư sản**: $\text{CNTB ĐQNN} = \text{TCĐQ tư nhân} + \text{Nhà nước tư sản}$.
-- Nó vừa phục vụ lợi ích của các tổ chức độc quyền, vừa giải quyết mâu thuẫn của CNTB.
-
-### 3. Ba đặc điểm kinh tế của ĐQNN
-
-1. **Kết hợp về nhân sự:**
-    - Tổ chức độc quyền tham gia bộ máy nhà nước thông qua hội chủ xí nghiệp và đại biểu.
-    - Nhà nước cử quan chức vào ban quản trị các tổ chức độc quyền.
-    - Ví dụ trong slide: Mỹ, Anh, Pháp, Đức.
-2. **Hình thành sở hữu nhà nước:** gồm động sản, bất động sản, doanh nghiệp nhà nước trong các ngành và kết cấu hạ tầng kinh tế – xã hội.
-3. **Điều tiết kinh tế của nhà nước tư sản:** là hệ thống thiết chế và thể chế gồm bộ máy quản lý gắn với hệ thống chính sách và công cụ, có khả năng điều tiết toàn bộ nền kinh tế quốc dân.
-
-### 4. Biểu hiện mới của ĐQNN
-
-- **Nhân sự:** đa nguyên trong phân chia quyền lực, kết hợp qua đảng phái tư sản, bộ máy nhà nước tư sản và hội chủ xí nghiệp.
-- **Sở hữu nhà nước:** nhà nước hỗ trợ doanh nghiệp tư nhân. Khi doanh nghiệp phá sản hoặc hàng hóa khó tiêu thụ, nhà nước bỏ tiền mua hoặc chi tiêu (quốc phòng, bộ máy nhà nước, can thiệp vào thị trường).
-- **Công cụ điều tiết:**
-    - Về chính trị, chính phủ nghị viện tư sản hiện đại được tổ chức như công ty cổ phần tư bản chủ nghĩa.
-    - Can thiệp kinh tế khi cần thiết, đặc biệt qua chính sách xã hội.
-    - Phối hợp chính sách kinh tế giữa các nước, thể hiện qua chương trình nghị sự của các tổ chức kinh tế.
-
----
-
-## V. Vai trò tích cực và hạn chế của CNTB
-
-### Vai trò tích cực
-
-1. **Phát triển LLSX:** từ thủ công lên cơ khí, rồi tự động hóa, tin học hóa và công nghệ hiện đại.
-2. **Chuyển sản xuất nhỏ thành sản xuất lớn hiện đại:** đoạn tuyệt với kinh tế tự nhiên, tự cấp tự túc, chuyển sang kinh tế hàng hóa TBCN.
-3. **Thực hiện xã hội hóa sản xuất:** phân công lao động xã hội, chuyên môn hóa, hợp tác sâu, liên kết thành một quá trình sản xuất xã hội.
-
-### Hạn chế
-
-1. Mục đích sản xuất vẫn tập trung chủ yếu vào lợi ích của **thiểu số giai cấp tư sản**.
-2. Chiến tranh thế giới để tranh giành thị trường và thuộc địa gây hậu quả nặng nề: hàng triệu người vô tội bị giết hại, sức sản xuất bị phá hủy, kinh tế thế giới bị kéo lùi hàng chục năm.
-3. Tạo hố ngăn cách giàu nghèo giữa các nước. Chênh lệch mức sống giữa nước giàu nhất và nghèo nhất là khoảng $2{,}5$ lần ở thế kỷ XVIII, nay là khoảng $250$ lần, tức gấp khoảng $100$ lần so với trước.
-
----
-
-## Những chỗ dễ nhầm
-
-- **Syndicate và Trust:** Syndicate chỉ liên kết trong lưu thông, còn Trust liên kết cả sản xuất và lưu thông.
-- **Concern và Conglomerate:** Concern là đa ngành, trong khi Conglomerate gồm các hãng không liên quan về sản xuất. Slide 18 và slide 22 mô tả Conglomerate hơi khác nhau (hãng vừa và nhỏ hay ngân hàng vừa và nhỏ). Bạn nên đối chiếu lại với giáo trình.
-- **XKHH và XKTB:** XKHH nhằm thực hiện giá trị, còn XKTB nhằm chiếm đoạt giá trị thặng dư.
-- **Tham dự và ủy nhiệm:** chế độ tham dự là mua cổ phiếu khống chế theo tầng mẹ – con – cháu. Chế độ ủy nhiệm là biểu hiện mới bổ sung cho chế độ tham dự.
-
-Nếu bạn muốn, mình có thể làm bộ câu hỏi trắc nghiệm hoặc flashcard ôn tập từ nội dung này.
+Bạn muốn mình làm tiếp phần nào không, ví dụ bộ câu hỏi trắc nghiệm, flashcard hoặc sơ đồ tư duy cho chương này?
