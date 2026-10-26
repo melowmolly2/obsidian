@@ -538,3 +538,281 @@ Chỉ thị có **ba ý nghĩa lịch sử lớn**:
 > - Bốn nhiệm vụ của Chỉ thị "Kháng chiến – Kiến quốc" là gì? *(Câu 4)*
 > - Ba loại "giặc" sau CMTT là gì? *(Câu 6)*
 > - Tại sao kháng chiến và kiến quốc phải tiến hành đồng thời? *(Câu 8)*
+
+Đọc nội dung đề tài 3 từ file gốc.
+
+Đã có đầy đủ nội dung đề tài 3. Soạn ngay.
+
+---
+
+# 📚 Câu hỏi ôn tập có giải chi tiết – Đề tài 3
+**Toàn quốc kháng chiến 19/12/1946 và đường lối kháng chiến chống thực dân Pháp 1946–1947**
+
+---
+
+## 🟢 PHẦN 1 – CÂU HỎI NHẬN BIẾT
+
+---
+
+**Câu 1. Toàn quốc kháng chiến bùng nổ vào ngày tháng năm nào? Ai đã ra Lời kêu gọi toàn quốc kháng chiến?**
+
+**✅ Trả lời:**
+- Ngày: **19-12-1946**
+- Người ra Lời kêu gọi: **Chủ tịch Hồ Chí Minh**
+- Trước đó, ngày **18-12-1946**, Ban Thường vụ Trung ương Đảng họp mở rộng tại **Vạn Phúc, Hà Đông** và ra quyết định phát động kháng chiến toàn quốc
+- Tối 19-12-1946: quân và dân ta **đồng loạt nổ súng** trên phạm vi cả nước
+
+---
+
+**Câu 2. Ba văn kiện quan trọng thể hiện đường lối kháng chiến của Đảng giai đoạn 1946–1947 là gì?**
+
+**✅ Trả lời:**
+
+| Văn kiện | Ngày ban hành | Tác giả |
+|---|---|---|
+| Chỉ thị **"Toàn dân kháng chiến"** | 12-12-1946 | Ban Thường vụ TW Đảng |
+| **Lời kêu gọi toàn quốc kháng chiến** | 19-12-1946 | Chủ tịch Hồ Chí Minh |
+| Tác phẩm **"Kháng chiến nhất định thắng lợi"** | 1947 | Tổng Bí thư Trường Chinh |
+
+> 💡 Ba văn kiện này bổ sung cho nhau, cùng hình thành và hoàn chỉnh đường lối kháng chiến toàn dân, toàn diện, lâu dài, dựa vào sức mình là chính.
+
+---
+
+**Câu 3. Phương châm kháng chiến chống thực dân Pháp được Đảng xác định gồm mấy nội dung? Là những nội dung nào?**
+
+**✅ Trả lời:**
+Phương châm gồm **4 nội dung**:
+1. **Toàn dân** — huy động sức mạnh của toàn thể nhân dân, không phân biệt tầng lớp, giới tính, dân tộc, tôn giáo
+2. **Toàn diện** — kháng chiến trên tất cả các mặt trận: quân sự, chính trị, kinh tế, văn hóa–tư tưởng, ngoại giao
+3. **Lâu dài** — không đặt mục tiêu thắng nhanh; kéo dài để chuyển hóa từ thế yếu sang thế mạnh
+4. **Dựa vào sức mình là chính** — nguồn lực quyết định từ chính nhân dân và đất nước; tranh thủ ủng hộ quốc tế khi có điều kiện
+
+> 💡 **Ghi nhớ nhanh:** *"Toàn dân – Toàn diện – Lâu dài – Tự lực"*
+
+---
+
+**Câu 4. Trước khi phát động toàn quốc kháng chiến, Việt Nam đã ký những văn bản ngoại giao nào với Pháp nhằm duy trì hòa bình?**
+
+**✅ Trả lời:**
+
+| Văn bản | Ngày ký | Nội dung cốt lõi |
+|---|---|---|
+| **Hiệp định Sơ bộ** | 6-3-1946 | Pháp công nhận VN là quốc gia tự do trong Liên hiệp Pháp; VN đồng ý cho 15.000 quân Pháp vào miền Bắc thay thế quân Tưởng |
+| **Tạm ước** | 14-9-1946 | Việt Nam tiếp tục nhân nhượng Pháp một số quyền lợi kinh tế, văn hóa để duy trì đàm phán |
+
+> Cả hai đều là những **nhân nhượng có nguyên tắc** — giữ vững độc lập chính trị, linh hoạt về chi tiết để tranh thủ thời gian củng cố lực lượng.
+
+---
+
+**Câu 5. Những hành động khiêu khích của Pháp dẫn đến bùng nổ toàn quốc kháng chiến là gì?**
+
+**✅ Trả lời:**
+- Cuối tháng 11-1946: quân Pháp **đánh chiếm Hải Phòng, Lạng Sơn**; mở rộng hoạt động quân sự nhiều khu vực
+- 16–17-12-1946: quân Pháp **chiếm một số cơ quan Việt Nam** tại Hà Nội, gây **thảm sát dân thường**
+- 18-12-1946: Pháp liên tiếp **ra tối hậu thư** — yêu cầu Việt Nam giải giáp lực lượng tự vệ và trao quyền kiểm soát an ninh Hà Nội cho Pháp
+- Chấp nhận tối hậu thư = chấp nhận để Pháp tái lập ách thống trị → **kháng chiến là tất yếu**
+
+---
+
+**Câu 6. Câu nói nổi tiếng của Hồ Chí Minh trong Lời kêu gọi toàn quốc kháng chiến là gì?**
+
+**✅ Trả lời:**
+
+> *"Chúng ta muốn hòa bình, chúng ta phải nhân nhượng. Nhưng chúng ta càng nhân nhượng, thực dân Pháp càng lấn tới."*
+
+Câu nói này:
+- Khẳng định **thiện chí hòa bình** của Việt Nam — không phải Việt Nam gây chiến
+- Vạch rõ **bản chất xâm lược** của thực dân Pháp — nhân nhượng không dẫn đến hòa bình mà bị lợi dụng
+- Thể hiện quyết tâm: **phải kháng chiến** vì không còn con đường nào khác để bảo vệ độc lập
+
+---
+
+## 🟡 PHẦN 2 – CÂU HỎI HIỂU / PHÂN TÍCH
+
+---
+
+**Câu 7. Tại sao Đảng chủ trương "kháng chiến toàn dân" thay vì chỉ dựa vào lực lượng quân đội?**
+
+**✅ Trả lời:**
+
+**Lý do khách quan — tương quan lực lượng chênh lệch:**
+- Quân đội Việt Nam còn non trẻ, vũ khí thô sơ, kinh nghiệm chiến đấu hạn chế
+- Pháp có quân đội nhà nghề, được trang bị hiện đại, có kinh nghiệm chiến tranh dày dạn
+
+**Giải pháp: biến điểm yếu thành sức mạnh:**
+- Huy động **toàn bộ nhân dân** → tạo thế trận chiến tranh nhân dân rộng khắp
+- Quân địch đông nhưng phải phân tán trên địa bàn rộng → bị tiêu hao dần
+- "Lấy ít địch nhiều, lấy yếu chống mạnh" — đây là kinh nghiệm truyền thống của dân tộc Việt Nam
+
+**Lực lượng vũ trang giữ vai trò nòng cốt** nhưng nhân dân là nền tảng — không có sự ủng hộ của nhân dân, quân đội không thể đứng vững.
+
+---
+
+**Câu 8. "Kháng chiến toàn diện" nghĩa là gì? Vì sao không thể chỉ đánh Pháp bằng quân sự?**
+
+**✅ Trả lời:**
+
+**Toàn diện** = kháng chiến trên **5 mặt trận đồng thời**:
+
+| Mặt trận | Vai trò |
+|---|---|
+| **Quân sự** | Trực tiếp tiêu diệt sinh lực địch, giữ đất |
+| **Chính trị** | Củng cố khối đoàn kết toàn dân, tăng cường chính quyền |
+| **Kinh tế** | Nuôi quân, phá kinh tế địch, đảm bảo hậu cần |
+| **Văn hóa – tư tưởng** | Giữ vững tinh thần nhân dân, chống tâm lý đầu hàng |
+| **Ngoại giao** | Tranh thủ sự đồng tình, ủng hộ quốc tế; cô lập Pháp |
+
+**Tại sao không thể chỉ đánh quân sự:**
+- Chiến tranh hiện đại là cuộc đọ sức tổng lực — bên nào giữ được hậu phương, tinh thần và kinh tế lâu dài hơn, bên đó thắng
+- Nếu chỉ đánh quân sự: kinh tế sụp đổ → không nuôi được quân; tinh thần sa sút → mất ý chí chiến đấu; bị cô lập ngoại giao → không có đồng minh
+
+---
+
+**Câu 9. Tại sao phải kháng chiến "lâu dài"? Đảng đã tính toán yếu tố thời gian như thế nào trong đường lối kháng chiến?**
+
+**✅ Trả lời:**
+
+**Lý do phải lâu dài — xuất phát từ thực tế:**
+- Năm 1946–1947, Pháp vượt trội hoàn toàn về vũ khí, tài chính, quân số được đào tạo chuyên nghiệp
+- Việt Nam không thể "thắng nhanh" trong điều kiện đó → nếu cố đánh nhanh sẽ bị tiêu diệt
+
+**Logic của kháng chiến lâu dài:**
+- Kéo dài thời gian → Pháp ngày càng **tiêu hao sinh lực, tài chính, tinh thần**
+- Việt Nam ngày càng **tích lũy kinh nghiệm, xây dựng lực lượng, củng cố hậu phương**
+- Từng bước chuyển hóa từ **thế yếu sang thế mạnh**
+- Thời gian là vũ khí của kẻ yếu chống kẻ mạnh
+
+**Kết quả thực tiễn xác nhận:** Chiến thắng Việt Bắc Thu–Đông 1947; Điện Biên Phủ 1954 — đúng 8 năm sau khi toàn quốc kháng chiến.
+
+---
+
+**Câu 10. Tại sao Đảng và Chính phủ chọn hòa hoãn với Pháp (Hiệp định Sơ bộ 6/3/1946) nhưng sau đó lại phát động kháng chiến (19/12/1946)? Hai quyết định này có mâu thuẫn nhau không?**
+
+**✅ Trả lời:**
+
+**Không mâu thuẫn — đây là hai giai đoạn của cùng một chiến lược:**
+
+**Giai đoạn 1 (3–12/1946) — Hòa hoãn có nguyên tắc:**
+- Mục tiêu: **tranh thủ thời gian** củng cố chính quyền, chuẩn bị lực lượng
+- Đuổi quân Tưởng về nước (quân Tưởng rút hết tháng 9-1946 sau Hiệp định Sơ bộ)
+- Giữ được **hòa bình tạm thời** để tránh chiến tranh khi chưa sẵn sàng
+
+**Giai đoạn 2 (12/1946) — Kháng chiến khi không còn lựa chọn:**
+- Pháp không tuân thủ Hiệp định, liên tục gây hấn, cuối cùng ra tối hậu thư
+- **Tiếp tục nhượng bộ = mất độc lập** → không còn lựa chọn nào khác
+
+**Nguyên tắc xuyên suốt:** Luôn giữ vững **độc lập về chính trị** — nhân nhượng về chiến thuật nhưng không bao giờ chấp nhận mất chủ quyền.
+
+---
+
+## 🔴 PHẦN 3 – CÂU HỎI ĐÁNH GIÁ / PHẢN BIỆN SÂU
+
+---
+
+**Câu 11. "Dựa vào sức mình là chính" — trong bối cảnh hiện nay khi Việt Nam hội nhập sâu rộng quốc tế, nguyên tắc này còn phù hợp không?**
+
+**✅ Trả lời:**
+
+**Vẫn còn nguyên giá trị cốt lõi**, nhưng cần hiểu đúng tinh thần:
+
+**Năm 1946–1947:** "Dựa vào sức mình" có nghĩa là:
+- Không trông chờ viện trợ bên ngoài khi chưa có
+- Tự lực tự cường về vật chất, tinh thần, tổ chức
+
+**Hiện nay:** Tinh thần vẫn đúng nhưng bối cảnh khác:
+- Hội nhập quốc tế là cần thiết và không mâu thuẫn với tự lực
+- "Dựa vào sức mình" hiện nay = **không để phụ thuộc vào bất kỳ nước nào**, giữ độc lập chiến lược
+- Đại hội XIII vẫn nhấn mạnh: kết hợp **nội lực là quyết định, ngoại lực là quan trọng**
+- Nghịch lý: Việt Nam thu hút FDI lớn nhưng chưa làm chủ công nghệ lõi — đây là điểm cần cải thiện
+
+---
+
+**Câu 12. Đường lối kháng chiến "toàn dân, toàn diện, lâu dài, dựa vào sức mình" — đường lối này có điểm gì sáng tạo so với lý luận chiến tranh truyền thống?**
+
+**✅ Trả lời:**
+
+**Điểm sáng tạo:**
+
+| Chiến tranh truyền thống | Đường lối kháng chiến Việt Nam |
+|---|---|
+| Chiến tranh giữa hai quân đội | **Chiến tranh toàn dân** — mọi tầng lớp đều tham chiến |
+| Quyết định bằng trận đánh lớn | **Chiến tranh lâu dài** — tiêu hao, không cầu quyết chiến sớm |
+| Chủ yếu đấu tranh quân sự | **Toàn diện** — 5 mặt trận đồng thời |
+| Thắng = tiêu diệt quân địch | Thắng = làm thay đổi **ý chí** và **khả năng** tiếp tục chiến tranh của địch |
+
+**Giá trị lý luận:**
+- Đây là sự vận dụng sáng tạo lý luận Mác–Lênin về chiến tranh nhân dân vào điều kiện cụ thể Việt Nam
+- Về sau trở thành **kinh nghiệm quý báu** được nhiều nước học tập (Cuba, Algeria, Angola…)
+- Được thực tiễn kiểm chứng qua hai cuộc kháng chiến chống Pháp (1954) và chống Mỹ (1975)
+
+---
+
+**Câu 13. Nhìn lại lịch sử, nếu Đảng không phát động toàn quốc kháng chiến ngày 19-12-1946 mà tiếp tục đàm phán với Pháp, điều gì có thể đã xảy ra?**
+
+**✅ Trả lời:**
+
+**Phân tích theo hai kịch bản:**
+
+**Kịch bản 1 — Tiếp tục đàm phán:**
+- Pháp đã liên tục vi phạm Hiệp định Sơ bộ và Tạm ước → đàm phán chỉ là chiến thuật câu giờ của Pháp
+- Pháp sẽ từng bước kiểm soát an ninh Hà Nội, rồi miền Bắc → tái lập ách thống trị
+- Chính quyền cách mạng mất dần thực quyền, cuối cùng bị giải thể hoặc trở thành bù nhìn
+
+**Kịch bản 2 — Kháng chiến muộn hơn (đã xảy ra):**
+- Pháp chiếm thế chủ động quân sự, Việt Nam mất thế trận đã chuẩn bị
+- Mất thời điểm "vừa chuẩn bị xong" — lực lượng đang ở trạng thái sẵn sàng nhất
+
+**Kết luận:** Quyết định ngày 19-12-1946 là **đúng thời điểm** — vừa đủ thời gian chuẩn bị (từ 9/1945), vừa trước khi Pháp kịp củng cố thêm lực lượng. Chờ thêm = bất lợi hơn, không phải có lợi hơn.
+
+---
+
+**Câu 14. Ý nghĩa lịch sử của đường lối kháng chiến 1946–1947 đối với cuộc kháng chiến chống Mỹ sau này?**
+
+**✅ Trả lời:**
+
+Đường lối 1946–1947 để lại **di sản lý luận và thực tiễn** cho cuộc kháng chiến chống Mỹ:
+
+**Kế thừa nguyên vẹn:**
+- **Toàn dân:** Chiến tranh nhân dân tiếp tục là tư tưởng chủ đạo — cả miền Bắc và miền Nam cùng đánh
+- **Toàn diện:** Kết hợp đấu tranh quân sự + chính trị + ngoại giao (Mặt trận ngoại giao phát huy mạnh ở Paris 1968–1973)
+- **Lâu dài:** Kháng chiến chống Mỹ kéo dài 20 năm (1955–1975) — kiên trì hơn cả chống Pháp
+
+**Phát triển thêm:**
+- Bổ sung tư tưởng **"đánh và đàm"** — vừa đánh vừa đàm phán (Hội nghị Paris)
+- Mở rộng ngoại giao hơn — tranh thủ cả Liên Xô lẫn Trung Quốc, đồng thời tranh thủ phong trào phản chiến ở Mỹ
+
+**Kết luận:** Đường lối 1946–1947 là **nền tảng lý luận** của tư tưởng quân sự Việt Nam trong thế kỷ XX, được kiểm chứng và phát triển qua hai cuộc kháng chiến vĩ đại.
+
+---
+
+## 📋 BẢNG TỔNG HỢP – CÁC MỐC CẦN NHỚ ĐỀ TÀI 3
+
+| Thời gian | Sự kiện |
+|---|---|
+| **6-3-1946** | Ký Hiệp định Sơ bộ Việt–Pháp |
+| **14-9-1946** | Ký Tạm ước Việt–Pháp |
+| **Cuối 11/1946** | Pháp đánh chiếm Hải Phòng, Lạng Sơn |
+| **16–17-12-1946** | Pháp chiếm cơ quan Việt Nam, thảm sát dân thường tại Hà Nội |
+| **18-12-1946** | Pháp ra tối hậu thư; Ban Thường vụ TW họp tại Vạn Phúc → quyết định kháng chiến |
+| **12-12-1946** | Chỉ thị "Toàn dân kháng chiến" |
+| **19-12-1946** | Hồ Chí Minh ra Lời kêu gọi; **Toàn quốc kháng chiến bùng nổ** |
+| **1947** | Trường Chinh xuất bản "Kháng chiến nhất định thắng lợi" |
+| **Thu–Đông 1947** | Chiến thắng Việt Bắc — bước đầu xác nhận đúng đắn của đường lối |
+| **7-5-1954** | Chiến thắng Điện Biên Phủ — kết thúc kháng chiến chống Pháp |
+
+---
+
+## 📌 Tổng kết bộ câu hỏi ôn tập đề tài 3
+
+| Mức | Số câu | Nội dung |
+|---|---|---|
+| 🟢 Nhận biết | 6 | Ngày tháng, ba văn kiện, bốn phương châm, hai hiệp định, hành động Pháp, câu nói HCM |
+| 🟡 Phân tích | 4 | Lý giải toàn dân, toàn diện, lâu dài; quan hệ hòa hoãn–kháng chiến |
+| 🔴 Phản biện | 4 | Đánh giá tính sáng tạo, liên hệ hiện đại, kịch bản lịch sử, ý nghĩa kế thừa |
+| **Tổng** | **14** | |
+
+> **Ba câu gần như chắc chắn xuất hiện trong bài thi:**
+> - Bốn phương châm kháng chiến là gì? *(Câu 3)*
+> - Tại sao phải phát động toàn quốc kháng chiến ngày 19-12-1946? *(Câu 5 + Câu 10)*
+> - Tại sao phải kháng chiến lâu dài? *(Câu 9)*
+
