@@ -1,0 +1,1 @@
+![](../Assets/BG%20TEXT%20-ALL%20(1).docx)
