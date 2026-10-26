@@ -816,3 +816,301 @@ Câu nói này:
 > - Tại sao phải phát động toàn quốc kháng chiến ngày 19-12-1946? *(Câu 5 + Câu 10)*
 > - Tại sao phải kháng chiến lâu dài? *(Câu 9)*
 
+Đọc nội dung đề tài 4 từ file gốc trước.
+
+
+Đã đọc đầy đủ nội dung đề tài 4. Giờ tôi soạn câu hỏi ôn tập có giải chi tiết.
+
+---
+
+# 📚 CÂU HỎI ÔN TẬP CÓ GIẢI CHI TIẾT – ĐỀ TÀI 4
+
+**Chủ đề:** Tình hình Việt Nam sau tháng 7/1954 và đường lối cách mạng tại Đại hội Đảng lần thứ III (9/1960)
+**Môn:** Lịch sử Đảng Cộng sản Việt Nam | Nhóm 4 – HIS1001 19 | ĐH Công nghệ – ĐHQGHN
+
+---
+
+## 🗓️ BẢNG MỐC THỜI GIAN QUAN TRỌNG
+
+| Thời gian | Sự kiện |
+|---|---|
+| 7/1954 | Hiệp định Giơnevơ ký kết – đất nước tạm thời chia hai miền |
+| 1954–1957 | Miền Bắc khôi phục kinh tế, hàn gắn vết thương chiến tranh |
+| 1958–1960 | Miền Bắc cải tạo xã hội chủ nghĩa; miền Nam bị khủng bố "tố cộng, diệt cộng" gay gắt |
+| Đầu 1959 | Hội nghị Trung ương lần thứ 15: cho phép dùng bạo lực cách mạng ở miền Nam |
+| Đầu 1960 | Phong trào Đồng khởi bùng nổ ở miền Nam |
+| 20/12/1960 | Mặt trận Dân tộc Giải phóng miền Nam Việt Nam thành lập |
+| 9/1960 | Đại hội đại biểu toàn quốc lần thứ III của Đảng tại Hà Nội |
+
+---
+
+## PHẦN I – NHẬN BIẾT 🟢
+
+### Câu 1. Hiệp định Giơnevơ (7/1954) quy định điều gì về việc phân chia Việt Nam?
+
+**Đáp án chi tiết:**
+
+Hiệp định Giơnevơ năm 1954 quy định:
+- **Giới tuyến quân sự tạm thời** được xác định tại vĩ tuyến 17 (dọc theo sông Bến Hải), chia Việt Nam thành hai vùng tập kết quân sự.
+- **Miền Bắc** (từ vĩ tuyến 17 trở ra) thuộc quyền quản lý của Chính phủ Việt Nam Dân chủ Cộng hòa.
+- **Miền Nam** (từ vĩ tuyến 17 trở vào) do quân đội liên hiệp Pháp tạm thời đóng giữ trong khi chờ chuyển giao.
+- Hiệp định khẳng định đây là sự **phân chia tạm thời**, không phải phân chia lãnh thổ vĩnh viễn.
+- Quy định tổ chức **tổng tuyển cử tự do** vào tháng 7/1956 để thống nhất đất nước dưới một chính quyền chung.
+
+> **Lưu ý quan trọng:** Mỹ và chính quyền Ngô Đình Diệm từ chối hiệp thương tổng tuyển cử, từng bước biến vĩ tuyến 17 thành ranh giới chia cắt lâu dài.
+
+---
+
+### Câu 2. Kể tên các nhiệm vụ của miền Bắc trong giai đoạn 1954–1960.
+
+**Đáp án chi tiết:**
+
+Miền Bắc trải qua hai giai đoạn:
+
+**Giai đoạn 1: Khôi phục kinh tế (1954–1957)**
+- Hàn gắn vết thương chiến tranh, khôi phục sản xuất nông nghiệp và công nghiệp.
+- Tiếp tục thực hiện **cải cách ruộng đất**, xóa bỏ chế độ chiếm hữu ruộng đất phong kiến.
+- Củng cố chính quyền, ổn định đời sống nhân dân.
+
+**Giai đoạn 2: Cải tạo xã hội chủ nghĩa (1958–1960)**
+- Cải tạo quan hệ sản xuất theo định hướng xã hội chủ nghĩa (hợp tác hóa nông nghiệp, cải tạo tư sản, tiểu thương).
+- Từng bước xây dựng cơ sở kinh tế mới.
+- Trở thành **hậu phương ngày càng vững chắc** cho cách mạng cả nước.
+
+---
+
+### Câu 3. Hội nghị Trung ương lần thứ 15 (đầu năm 1959) quyết định điều gì đối với cách mạng miền Nam?
+
+**Đáp án chi tiết:**
+
+Hội nghị Trung ương lần thứ 15 (đầu năm 1959) là văn kiện chuyển hướng quan trọng đối với cách mạng miền Nam:
+
+- Xác định: cách mạng miền Nam **phải sử dụng bạo lực cách mạng**, không thể chỉ dựa vào đấu tranh chính trị đơn thuần như giai đoạn trước.
+- Chủ trương **kết hợp đấu tranh chính trị với đấu tranh vũ trang**.
+- Tạo cơ sở chính trị – đường lối để **phong trào Đồng khởi** bùng nổ từ đầu năm 1960.
+- Đưa cách mạng miền Nam từ thế **giữ gìn lực lượng** sang thế **tiến công**.
+
+> **Bối cảnh:** Từ 1958–1959, chính quyền Ngô Đình Diệm đẩy mạnh "tố cộng, diệt cộng" cực kỳ quyết liệt, phong trào cách mạng bị tổn thất nặng nề, đòi hỏi phải đổi sang phương pháp đấu tranh mới.
+
+---
+
+### Câu 4. Đại hội III diễn ra khi nào, ở đâu và xác định mấy chiến lược cách mạng?
+
+**Đáp án chi tiết:**
+
+- **Thời gian:** Tháng 9/1960.
+- **Địa điểm:** Hà Nội.
+- **Tên gọi đầy đủ:** Đại hội đại biểu toàn quốc lần thứ III của Đảng Lao động Việt Nam.
+- **Số chiến lược:** Đại hội xác định cách mạng Việt Nam phải đồng thời tiến hành **hai chiến lược cách mạng** khác nhau ở hai miền:
+  - Ở miền Bắc: **Cách mạng xã hội chủ nghĩa**.
+  - Ở miền Nam: **Cách mạng dân tộc dân chủ nhân dân**.
+- **Mục tiêu chung trước mắt:** Giải phóng miền Nam, hòa bình và thống nhất đất nước.
+
+---
+
+### Câu 5. Đại hội III xác định vai trò của miền Bắc và miền Nam như thế nào?
+
+**Đáp án chi tiết:**
+
+Đại hội III phân định rõ vai trò của hai miền:
+
+| Miền | Vai trò |
+|---|---|
+| **Miền Bắc** | Giữ vai trò **quyết định nhất** đối với sự phát triển của toàn bộ cách mạng Việt Nam và sự nghiệp thống nhất đất nước |
+| **Miền Nam** | Giữ vai trò **quyết định trực tiếp** đối với sự nghiệp giải phóng miền Nam và thống nhất đất nước |
+
+**Giải thích sự phân định:**
+- Miền Bắc: xây dựng tiềm lực kinh tế, chính trị, quốc phòng → làm căn cứ địa và hậu phương chi viện cho miền Nam.
+- Miền Nam: trực tiếp đấu tranh chống Mỹ – ngụy → thắng lợi của miền Nam là điều kiện trực tiếp để chấm dứt chia cắt.
+- Hai miền có quan hệ **hậu phương – tiền tuyến**, gắn bó chặt chẽ, không tách rời nhau.
+
+---
+
+## PHẦN II – PHÂN TÍCH 🟡
+
+### Câu 6. Tại sao sau 7/1954, Việt Nam rơi vào tình trạng chia cắt thay vì thống nhất như Hiệp định Giơnevơ quy định?
+
+**Đáp án chi tiết:**
+
+Hiệp định Giơnevơ quy định tổng tuyển cử thống nhất vào 7/1956, nhưng tình trạng chia cắt kéo dài do nhiều nguyên nhân:
+
+**1. Sự can thiệp của Mỹ:**
+- Mỹ không ký Hiệp định Giơnevơ nên không bị ràng buộc về pháp lý.
+- Mỹ thực hiện chiến lược "thay chân Pháp" ở miền Nam, biến miền Nam thành căn cứ chống cộng ở Đông Nam Á.
+
+**2. Chính quyền Ngô Đình Diệm từ chối tổng tuyển cử:**
+- Được Mỹ hậu thuẫn, Ngô Đình Diệm từ chối hiệp thương, không công nhận kết quả tiềm năng của tổng tuyển cử (biết chắc sẽ thua Hồ Chí Minh trong một cuộc bầu cử toàn quốc).
+- Thực hiện chính sách "tố cộng, diệt cộng", đàn áp những người kháng chiến cũ, xây dựng bộ máy cai trị riêng ở miền Nam.
+
+**3. Miền Bắc còn yếu và cần thời gian phục hồi:**
+- Sau 9 năm kháng chiến, miền Bắc cần ưu tiên khôi phục kinh tế, không thể tạo sức ép đủ mạnh ngay lập tức.
+
+**Kết luận:** Sự chia cắt là hậu quả của chính sách can thiệp của Mỹ và thái độ ngoan cố của chính quyền Sài Gòn, biến vĩ tuyến 17 từ ranh giới tạm thời thành đường chia cắt lâu dài.
+
+---
+
+### Câu 7. Tại sao đường lối "hai chiến lược cách mạng" tại Đại hội III lại phù hợp với thực tiễn Việt Nam giai đoạn 1960?
+
+**Đáp án chi tiết:**
+
+**Thực tiễn đặt ra:**
+- Đất nước tạm thời bị chia hai, hai miền có điều kiện chính trị – xã hội hoàn toàn khác nhau.
+- Miền Bắc đã được giải phóng, đang xây dựng chủ nghĩa xã hội.
+- Miền Nam vẫn dưới ách thống trị của Mỹ–ngụy, nhân dân chưa được giải phóng.
+
+**Tại sao phù hợp:**
+
+① **Không thể áp một chiến lược chung:** Áp ngay cách mạng xã hội chủ nghĩa cho miền Nam khi chưa giải phóng là không thực tế; ngược lại nếu chỉ giữ cách mạng dân tộc dân chủ thì miền Bắc bỏ lỡ cơ hội xây dựng hậu phương vững mạnh.
+
+② **Phát huy sức mạnh từng miền theo điều kiện thực tế:** Mỗi miền đảm nhận nhiệm vụ phù hợp với điều kiện của mình → tối ưu hóa sức mạnh tổng hợp.
+
+③ **Kết hợp chặt chẽ hậu phương – tiền tuyến:** Miền Bắc càng lớn mạnh thì càng có thể chi viện cho miền Nam; thắng lợi ở miền Nam càng bảo vệ miền Bắc.
+
+④ **Linh hoạt về phương pháp:** Cho phép miền Nam sử dụng bạo lực cách mạng, còn miền Bắc tập trung xây dựng kinh tế – quốc phòng.
+
+**Kết luận:** Đường lối hai chiến lược phản ánh đúng thực tế "một đất nước – hai thể chế" và thể hiện sự sáng tạo của Đảng trong vận dụng lý luận Mác-Lênin vào điều kiện cụ thể của Việt Nam.
+
+---
+
+### Câu 8. Phân tích ý nghĩa của phong trào Đồng khởi (1960) và mối liên hệ với đường lối Hội nghị Trung ương 15.
+
+**Đáp án chi tiết:**
+
+**Bối cảnh:**
+- Giai đoạn 1954–1959, cách mạng miền Nam chủ yếu đấu tranh chính trị, giữ gìn lực lượng.
+- Từ 1958–1959, chính quyền Diệm gia tăng "tố cộng, diệt cộng" làm cách mạng tổn thất nặng, lực lượng bị thu hẹp.
+- Hội nghị TW 15 (1959) mở đường cho đấu tranh vũ trang kết hợp chính trị.
+
+**Phong trào Đồng khởi (đầu 1960):**
+- Nổ ra mạnh mẽ, lan rộng từ Bến Tre ra toàn miền Nam.
+- Lực lượng vũ trang và chính trị phối hợp, phá vỡ hệ thống kìm kẹp của địch ở nông thôn.
+- Lật đổ chính quyền cơ sở của địch ở nhiều nơi, giải phóng nhiều vùng.
+
+**Ý nghĩa:**
+- **Chuyển thế:** Đưa cách mạng miền Nam từ thế giữ gìn lực lượng sang thế tiến công, chủ động.
+- **Tổ chức:** Dẫn đến việc thành lập **Mặt trận Dân tộc Giải phóng miền Nam Việt Nam** (20/12/1960) – tổ chức đoàn kết các lực lượng yêu nước chống Mỹ–Diệm.
+- **Thực tiễn:** Chứng minh tính đúng đắn của đường lối Hội nghị TW 15 – sử dụng bạo lực cách mạng kết hợp đấu tranh chính trị là con đường phù hợp với thực tiễn miền Nam.
+
+---
+
+### Câu 9. So sánh nhiệm vụ cách mạng của miền Bắc và miền Nam theo đường lối Đại hội III.
+
+**Đáp án chi tiết:**
+
+| Tiêu chí | Miền Bắc | Miền Nam |
+|---|---|---|
+| **Tên chiến lược** | Cách mạng xã hội chủ nghĩa | Cách mạng dân tộc dân chủ nhân dân |
+| **Nhiệm vụ trung tâm** | Công nghiệp hóa xã hội chủ nghĩa | Giải phóng miền Nam, chống Mỹ–ngụy |
+| **Kẻ thù chủ yếu** | Ách thống trị cũ, đói nghèo, lạc hậu | Đế quốc Mỹ và chính quyền Sài Gòn |
+| **Phương pháp đấu tranh** | Xây dựng kinh tế, cải tạo XHCN | Kết hợp đấu tranh chính trị + vũ trang |
+| **Vai trò** | Quyết định nhất (hậu phương) | Quyết định trực tiếp (tiền tuyến) |
+| **Quan hệ với cả nước** | Xây dựng hậu phương, chi viện miền Nam | Trực tiếp đánh địch, tạo điều kiện thống nhất |
+
+**Điểm chung của hai miền:**
+- Cùng mục tiêu: hòa bình, thống nhất đất nước.
+- Gắn bó mật thiết theo quan hệ hậu phương – tiền tuyến.
+- Do Đảng Lao động Việt Nam lãnh đạo thống nhất.
+
+---
+
+## PHẦN III – PHẢN BIỆN & MỞ RỘNG 🔴
+
+### Câu 10. Có ý kiến cho rằng Hội nghị TW 15 (1959) chậm trễ trong việc cho phép đấu tranh vũ trang ở miền Nam. Bạn nhận xét như thế nào?
+
+**Đáp án chi tiết:**
+
+**Phân tích quan điểm "chậm trễ":**
+- Từ 1954–1959, phong trào cách mạng miền Nam chủ yếu đấu tranh chính trị và hứng chịu tổn thất nặng nề từ chiến dịch "tố cộng, diệt cộng" của Diệm.
+- Nhiều cơ sở cách mạng bị phá vỡ, cán bộ bị giết, bắt; áp lực địa phương đòi "vũ trang tự vệ" rất lớn từ năm 1956–1958.
+- Theo nghĩa đó, có thể cho là Đảng đã chờ đợi khá lâu mới ra quyết sách.
+
+**Phân tích quan điểm bảo vệ đường lối:**
+- Giai đoạn 1954–1958, Đảng ưu tiên bảo lưu khả năng hòa bình thống nhất thông qua tổng tuyển cử theo Hiệp định Giơnevơ. Chưa tiến hành đấu tranh vũ trang để tránh tạo cớ cho Mỹ can thiệp mạnh hơn.
+- Miền Bắc trong giai đoạn 1954–1957 còn đang khôi phục kinh tế, chưa đủ sức chi viện cho cuộc chiến vũ trang lớn.
+- Hội nghị TW 15 ra đời đúng thời điểm: khi khả năng hòa bình đã hết (Diệm từ chối tổng tuyển cử), khi sức dân ở miền Nam đã chín muồi (Đồng khởi bùng nổ ngay sau đó), và khi miền Bắc đã bước đầu ổn định.
+
+**Kết luận cân bằng:**
+Nếu cho phép vũ trang sớm hơn, cách mạng có thể giảm tổn thất nhưng nguy cơ Mỹ can thiệp trực tiếp từ rất sớm cũng cao hơn. Đường lối của Đảng thể hiện sự thận trọng có tính toán, không phải chậm trễ máy móc.
+
+---
+
+### Câu 11. Đại hội III xác định "công nghiệp hóa xã hội chủ nghĩa là nhiệm vụ trung tâm" của miền Bắc. Điều này có ý nghĩa gì trong bối cảnh đất nước bị chia cắt và miền Nam đang cần chi viện?
+
+**Đáp án chi tiết:**
+
+**Tại sao công nghiệp hóa là nhiệm vụ trung tâm:**
+- Sau khôi phục kinh tế (1954–1957), miền Bắc cần phát triển lên một bước cao hơn để tạo nền tảng vật chất bền vững cho cách mạng.
+- Một nền kinh tế nông nghiệp lạc hậu không thể duy trì được cuộc kháng chiến lâu dài ở miền Nam.
+- Công nghiệp hóa tạo ra năng lực sản xuất vũ khí, lương thực, hàng hóa phục vụ chiến tranh.
+
+**Ý nghĩa trong bối cảnh chi viện miền Nam:**
+- Miền Bắc càng phát triển mạnh về kinh tế và quốc phòng → chi viện nhân lực, vật lực, vũ khí cho miền Nam càng lớn.
+- Công nghiệp hóa tạo ra nền tảng vật chất để tuyển quân, trang bị, huấn luyện và đưa quân vào Nam qua đường Hồ Chí Minh sau này.
+- Nội lực miền Bắc mạnh → Mỹ khó bứng gốc miền Bắc bằng bom đạn (chiến tranh phá hoại).
+
+**Mâu thuẫn nội tại:**
+Nguồn lực có hạn, phải cân bằng giữa phát triển kinh tế và chi viện chiến trường. Thực tế sau 1965, chiến tranh phá hoại của Mỹ buộc miền Bắc phải chuyển sang kinh tế thời chiến, công nghiệp hóa bị gián đoạn.
+
+---
+
+### Câu 12. So sánh đường lối của Hội nghị TW 8 (1941) và Đại hội III (1960): điểm kế thừa và điểm khác biệt?
+
+**Đáp án chi tiết:**
+
+| Tiêu chí | Hội nghị TW 8 (1941) | Đại hội III (1960) |
+|---|---|---|
+| **Bối cảnh** | Đất nước dưới ách Pháp–Nhật, chưa có chính quyền | Đất nước bị chia cắt, miền Bắc đã giải phóng |
+| **Nhiệm vụ hàng đầu** | Giải phóng dân tộc, đánh đuổi Pháp–Nhật | Giải phóng miền Nam, thống nhất đất nước |
+| **Phương pháp** | Chuẩn bị khởi nghĩa vũ trang toàn quốc | Hai chiến lược: XHCN ở Bắc, DTDCND ở Nam |
+| **Lực lượng tập hợp** | Mặt trận Việt Minh – toàn dân đoàn kết | MTDTGPMN + toàn miền Bắc |
+| **Kẻ thù** | Phát xít Nhật + thực dân Pháp | Đế quốc Mỹ + chính quyền Sài Gòn |
+
+**Điểm kế thừa:**
+- Đều đặt giải phóng dân tộc, bảo vệ độc lập lên hàng đầu.
+- Đều nhấn mạnh đoàn kết toàn dân, xây dựng mặt trận rộng rãi.
+- Đều kết hợp chính trị với vũ trang.
+
+**Điểm khác biệt:**
+- 1941: một chiến lược thống nhất cho toàn quốc. 1960: hai chiến lược song song theo điều kiện từng miền.
+- 1960 phức tạp hơn vì phải điều phối hậu phương–tiền tuyến trên phạm vi hai miền với hai thể chế.
+
+---
+
+### Câu 13. Nếu không có Đại hội III (9/1960), cách mạng Việt Nam sẽ đối mặt với những nguy cơ nào?
+
+**Đáp án chi tiết:**
+
+Đây là câu hỏi phản biện mở, gợi ý các chiều lập luận:
+
+**Nguy cơ 1: Mất phương hướng chiến lược**
+- Thiếu đường lối thống nhất, các địa phương và lực lượng cách mạng miền Nam hành động tự phát, thiếu phối hợp → dễ bị địch bẻ gãy từng phần.
+
+**Nguy cơ 2: Mâu thuẫn giữa hai miền**
+- Không có văn kiện phân định vai trò hậu phương–tiền tuyến → tranh chấp tài nguyên, nhân lực, không tối ưu được sức mạnh tổng hợp.
+
+**Nguy cơ 3: Miền Nam bị cô lập**
+- Không có quyết định chính thức về bạo lực cách mạng → phong trào Đồng khởi và MTGPMN thiếu hợp pháp về đường lối, dễ bị chia rẽ nội bộ.
+
+**Nguy cơ 4: Mỹ can thiệp không bị kiềm chế**
+- Không có chiến lược phòng thủ miền Bắc rõ ràng → Mỹ có thể leo thang nhanh hơn mà không gặp phản ứng được tổ chức.
+
+**Kết luận:** Đại hội III (1960) có vai trò đặt nền tảng chiến lược không thể thiếu cho toàn bộ cuộc kháng chiến chống Mỹ 1960–1975.
+
+---
+
+### Câu 14. Tại sao Đại hội III lại thiếu đề cập đến Mặt trận Dân tộc Giải phóng miền Nam (thành lập 20/12/1960)? Điều này có mâu thuẫn với đường lối không?
+
+**Đáp án chi tiết:**
+
+**Thực tế:**
+- Đại hội III diễn ra tháng 9/1960; MTDTGPMN thành lập ngày 20/12/1960 – sau Đại hội khoảng 3 tháng.
+- Đại hội III đã chủ trương tập hợp rộng rãi các lực lượng yêu nước ở miền Nam và ủng hộ bạo lực cách mạng kết hợp chính trị (kế thừa từ NQ TW 15/1959).
+
+**Giải thích logic:**
+- MTDTGPMN là **sản phẩm thực tiễn** triển khai đường lối Đại hội III và NQ TW 15, không phải mâu thuẫn.
+- Đại hội III tạo ra **khung đường lối**; MTDTGPMN là **tổ chức thực hiện** đường lối đó ở miền Nam.
+- Đây là quy trình bình thường: Đảng đề ra đường lối → thực tiễn triển khai thành tổ chức cụ thể.
+
+**Ý nghĩa của MTDTGPMN:**
+- Đoàn kết nhiều thành phần dân tộc, tôn giáo, chính trị khác nhau ở miền Nam dưới ngọn cờ chống Mỹ–Diệm.
+- Tạo hình thức tổ chức hợp pháp để cách mạng miền Nam hoạt động công khai và tranh
