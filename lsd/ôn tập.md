@@ -264,3 +264,277 @@ Nguyễn Ái Quốc đóng vai trò **trung tâm và quyết định** trên nhi
 > - Hội nghị TW VIII có nội dung gì? *(Câu 3)*
 > - Thời cơ Tổng khởi nghĩa hình thành như thế nào? *(Câu 9)*
 
+Đọc nội dung đề tài 2 từ file — đã có trong lần đọc trước (từ dòng ~92 trở đi của file đề tài 1+2).
+
+File này chỉ có đề tài 1+2 đến hết. Đọc lại từ đầu phần đề tài 2 — nội dung đề tài 2 đã được đọc đầy đủ trong lần trước (từ dòng ~93). Dữ liệu đã có trong context. Soạn luôn.
+
+---
+
+# 📚 Câu hỏi ôn tập có giải chi tiết – Đề tài 2
+**Tình hình Việt Nam sau 8/1945 và Chỉ thị "Kháng chiến – Kiến quốc" ngày 25/11/1945**
+
+---
+
+## 🟢 PHẦN 1 – CÂU HỎI NHẬN BIẾT
+
+---
+
+**Câu 1. Chỉ thị "Kháng chiến – Kiến quốc" được ban hành ngày tháng năm nào? Do cơ quan nào ban hành?**
+
+**✅ Trả lời:**
+- Ngày: **25-11-1945**
+- Cơ quan ban hành: **Ban Chấp hành Trung ương Đảng Cộng sản Đông Dương**
+- Đây là văn kiện có ý nghĩa định hướng quan trọng, xác định đường lối và nhiệm vụ của cách mạng Việt Nam ngay sau khi giành được chính quyền
+
+---
+
+**Câu 2. Sau Cách mạng Tháng Tám 1945, Việt Nam phải đối phó với những lực lượng nước ngoài nào? Mỗi lực lượng đó có mặt với danh nghĩa gì?**
+
+**✅ Trả lời:**
+
+| Lực lượng | Số lượng | Danh nghĩa / Mục đích thực sự |
+|---|---|---|
+| **Quân Tưởng Giới Thạch** | Hơn 20 vạn | Danh nghĩa giải giáp Nhật ở miền Bắc; thực tế kéo theo Việt Quốc, Việt Cách chống phá chính quyền |
+| **Quân Nhật** | Khoảng 6 vạn | Chưa được giải giáp, vẫn còn hiện diện trên lãnh thổ |
+| **Quân Anh** | — | Vào miền Nam giải giáp Nhật; thực tế tạo điều kiện cho Pháp quay trở lại |
+| **Thực dân Pháp** | — | Mượn tay quân Anh, đêm 22 rạng sáng 23-9-1945 đánh chiếm Sài Gòn – Chợ Lớn, mở đầu xâm lược lần hai |
+
+---
+
+**Câu 3. Chỉ thị "Kháng chiến – Kiến quốc" xác định kẻ thù chính của cách mạng lúc này là ai? Tại sao?**
+
+**✅ Trả lời:**
+- Kẻ thù chính: **Thực dân Pháp**
+- Lý do:
+  - Pháp đang trực tiếp tiến hành chiến tranh xâm lược ở Nam Bộ từ 23-9-1945
+  - Trong khi quân Tưởng, quân Anh, quân Nhật chưa tấn công trực tiếp vào chính quyền cách mạng
+  - Xác định đúng kẻ thù chính để **tập trung lực lượng**, tránh rơi vào thế chống nhiều kẻ thù cùng lúc
+  - Với các lực lượng còn lại: áp dụng **sách lược linh hoạt** — hòa hoãn, phân hóa, tránh xung đột không cần thiết
+
+---
+
+**Câu 4. Bốn nhiệm vụ chủ yếu trước mắt được Chỉ thị "Kháng chiến – Kiến quốc" xác định là gì?**
+
+**✅ Trả lời:**
+1. **Củng cố chính quyền** — hoàn thiện bộ máy nhà nước cách mạng còn non trẻ
+2. **Chống thực dân Pháp xâm lược** — bảo vệ nền độc lập vừa giành được
+3. **Bài trừ nội phản** — chống lại các lực lượng Việt Quốc, Việt Cách và tay sai phá hoại bên trong
+4. **Cải thiện đời sống nhân dân** — giải quyết đói, dốt và các vấn đề xã hội cấp bách
+
+> 💡 **Ghi nhớ bằng cụm từ ngắn:** *"Củng cố – Chống – Bài – Cải"*
+
+---
+
+**Câu 5. Chính sách đối ngoại mà Chỉ thị "Kháng chiến – Kiến quốc" đề ra với từng lực lượng là gì?**
+
+**✅ Trả lời:**
+
+| Đối tượng | Sách lược |
+|---|---|
+| **Quân Tưởng (miền Bắc)** | "Hoa – Việt thân thiện" — hòa hoãn, nhân nhượng một số quyền lợi kinh tế để tránh xung đột |
+| **Thực dân Pháp** | "Độc lập về chính trị, nhân nhượng về kinh tế" — giữ vững chủ quyền, có thể linh hoạt về kinh tế |
+| **Mục tiêu chung** | Làm cho Việt Nam **"ít kẻ thù và nhiều bạn đồng minh hơn hết"** |
+
+---
+
+**Câu 6. Sau Cách mạng Tháng Tám, Việt Nam phải đồng thời chống "ba loại giặc" nào? Mỗi loại giặc tương ứng với hiểm họa gì?**
+
+**✅ Trả lời:**
+
+| "Giặc" | Hiểm họa cụ thể |
+|---|---|
+| **Giặc đói** | Nạn đói cuối 1944–đầu 1945 làm ~2 triệu người chết; kinh tế kiệt quệ, ngân khố trống rỗng, ruộng đất bỏ hoang |
+| **Giặc dốt** | Khoảng 95% dân số mù chữ; không thể xây dựng nhà nước và phát triển đất nước nếu dân trí thấp |
+| **Giặc ngoại xâm** | Nhiều lực lượng nước ngoài hiện diện; Pháp đã nổ súng ở miền Nam; nguy cơ mất độc lập vừa giành được |
+
+---
+
+## 🟡 PHẦN 2 – CÂU HỎI HIỂU / PHÂN TÍCH
+
+---
+
+**Câu 7. Tình thế "ngàn cân treo sợi tóc" sau Cách mạng Tháng Tám được hiểu như thế nào? Đảng đã xử lý tình thế đó ra sao?**
+
+**✅ Trả lời:**
+
+**Tình thế "ngàn cân treo sợi tóc"** là cách diễn đạt về mức độ nguy hiểm cực kỳ nghiêm trọng mà chính quyền cách mạng non trẻ phải đối mặt cùng lúc:
+- Trong nước: đói, dốt, tài chính cạn kiệt, bộ máy nhà nước chưa hoàn thiện
+- Ngoài nước: 4 lực lượng ngoại quốc cùng hiện diện, Pháp đã nổ súng ở miền Nam
+
+**Cách Đảng xử lý:**
+
+| Lĩnh vực | Biện pháp cụ thể |
+|---|---|
+| **Chính trị** | Tổ chức Tổng tuyển cử 6-1-1946; xây dựng Hiến pháp 1946; thành lập Chính phủ chính thức |
+| **Kinh tế–xã hội** | Phong trào tăng gia sản xuất, "hũ gạo cứu đói"; phong trào tiết kiệm; lập Quỹ độc lập |
+| **Văn hóa–giáo dục** | Phong trào Bình dân học vụ — xóa mù chữ cho người dân |
+| **Quân sự** | Duy trì kháng chiến ở Nam Bộ; củng cố lực lượng vũ trang cả nước |
+| **Đối ngoại** | Hòa hoãn với Tưởng ở miền Bắc, tập trung chống Pháp ở miền Nam |
+
+---
+
+**Câu 8. Tại sao "kháng chiến" và "kiến quốc" phải được tiến hành đồng thời, không thể tách rời?**
+
+**✅ Trả lời:**
+
+Đây là mối quan hệ **biện chứng — hai chiều tác động qua lại**:
+
+**Kháng chiến cần kiến quốc:**
+- Muốn chống ngoại xâm thành công phải có chính quyền mạnh, kinh tế đủ nuôi quân, nhân dân ủng hộ
+- Nếu đời sống nhân dân không được cải thiện → mất lòng dân → mất chỗ dựa cho kháng chiến
+
+**Kiến quốc cần kháng chiến:**
+- Muốn xây dựng đất nước phải có độc lập — không thể xây dựng khi đất nước bị chiếm đóng
+- Mất độc lập thì mọi thành quả xây dựng đều bị tước đoạt
+
+**Kết luận:** Chỉ thị thể hiện tư duy **kết hợp chặt chẽ bảo vệ và xây dựng** — đây là một trong những điểm tiến bộ và thực tiễn nhất của văn kiện này.
+
+---
+
+**Câu 9. Phân tích ý nghĩa của việc tổ chức Tổng tuyển cử ngày 6-1-1946 trong bối cảnh sau Cách mạng Tháng Tám.**
+
+**✅ Trả lời:**
+
+Tổng tuyển cử 6-1-1946 có ý nghĩa trên **ba phương diện**:
+
+**① Chính trị – pháp lý:**
+- Bầu ra Quốc hội đầu tiên — cơ quan quyền lực nhà nước cao nhất
+- Tạo cơ sở pháp lý để thành lập Chính phủ chính thức và ban hành Hiến pháp 1946
+- Củng cố **tính chính danh** của Nhà nước VNDCCH trước trong và ngoài nước
+
+**② Đối nội:**
+- Thể hiện quyền làm chủ của nhân dân — lần đầu tiên người dân Việt Nam được bầu cử phổ thông, bình đẳng, trực tiếp, bỏ phiếu kín
+- Tăng cường khối đại đoàn kết toàn dân tộc
+
+**③ Đối ngoại:**
+- Chứng minh với thế giới rằng Việt Nam có một nhà nước hợp pháp, được nhân dân ủy thác
+- Bác bỏ luận điệu của Pháp rằng Việt Minh chỉ là "một nhóm thiểu số" không đại diện cho nhân dân
+
+---
+
+**Câu 10. So sánh tình hình thuận lợi và khó khăn của Việt Nam sau Cách mạng Tháng Tám 1945.**
+
+**✅ Trả lời:**
+
+**Thuận lợi:**
+
+| Quốc tế | Trong nước |
+|---|---|
+| Liên Xô lớn mạnh, ảnh hưởng tăng | Nhà nước VNDCCH ra đời, chính quyền cách mạng thành lập từ TW đến địa phương |
+| Nhiều nước Đông Âu đi theo CNXH | Đảng có uy tín lớn trong nhân dân |
+| Phong trào giải phóng dân tộc châu Á–châu Phi phát triển | Nhân dân vừa qua khởi nghĩa, tinh thần chính trị cao, sẵn sàng bảo vệ thành quả |
+
+**Khó khăn:**
+
+| Đối ngoại | Đối nội |
+|---|---|
+| Chưa được nước nào công nhận | Kinh tế kiệt quệ, ngân khố trống rỗng |
+| 4 lực lượng ngoại quốc trên lãnh thổ | ~2 triệu người chết đói, hậu quả chưa khắc phục |
+| Pháp đã nổ súng ở Nam Bộ (23-9-1945) | ~95% dân số mù chữ |
+| Quân Tưởng + Việt Quốc, Việt Cách chống phá | Bộ máy nhà nước non trẻ, kinh nghiệm quản lý ít |
+
+---
+
+## 🔴 PHẦN 3 – CÂU HỎI ĐÁNH GIÁ / PHẢN BIỆN SÂU
+
+---
+
+**Câu 11. Chỉ thị "Kháng chiến – Kiến quốc" xác định tính chất cách mạng Đông Dương "vẫn là cách mạng dân tộc giải phóng". Tại sao lại như vậy khi Nhà nước VNDCCH đã ra đời?**
+
+**✅ Trả lời:**
+
+Đây là nhận định **đúng đắn và thực tiễn**, không mâu thuẫn:
+
+**Lý do:**
+- Việc thành lập Nhà nước VNDCCH ngày 2-9-1945 mới chỉ là **tuyên bố độc lập về mặt pháp lý**
+- Trên thực tế: Pháp đã nổ súng ở Nam Bộ (23-9-1945), nhiều lực lượng ngoại quốc vẫn hiện diện, Nhà nước chưa được quốc tế công nhận
+- **Nền độc lập thực sự chưa được bảo đảm** — tuyên bố độc lập ≠ độc lập trong thực tế
+- Vì vậy, nhiệm vụ **bảo vệ độc lập dân tộc** vẫn phải tiếp tục là nhiệm vụ hàng đầu
+
+**Ý nghĩa của nhận định này:**
+- Tránh chủ quan, tự mãn sau thắng lợi của Cách mạng Tháng Tám
+- Xác định đúng tình hình để có đường lối phù hợp: tiếp tục đặt kháng chiến lên hàng đầu
+
+---
+
+**Câu 12. Chiến lược "hòa hoãn với Tưởng (miền Bắc) để tập trung chống Pháp (miền Nam)" có phải là sự thỏa hiệp yếu đuối không? Hãy đánh giá.**
+
+**✅ Trả lời:**
+
+**Không phải thỏa hiệp yếu đuối** — đây là **sách lược khôn khéo, linh hoạt** của Đảng.
+
+**Phân tích:**
+
+| Nếu đánh cả Tưởng lẫn Pháp cùng lúc | Chiến lược hòa hoãn với Tưởng |
+|---|---|
+| Chính quyền non trẻ không đủ sức | Tập trung toàn lực chống kẻ thù nguy hiểm nhất (Pháp) |
+| Nguy cơ bị tiêu diệt trước khi củng cố được lực lượng | Tranh thủ thời gian củng cố chính quyền, xây dựng lực lượng |
+| Mất cả hai mặt trận | Phân hóa kẻ thù, cô lập Pháp |
+
+**Nguyên tắc cốt lõi:** Đảng luôn giữ vững **độc lập về chính trị** — không nhân nhượng về chủ quyền, chỉ linh hoạt về kinh tế và chiến thuật
+
+**Kết quả thực tế:** Nhờ sách lược này, đến tháng 3-1946 khi ký Hiệp định Sơ bộ với Pháp (mời Pháp thay Tưởng ở miền Bắc), Quân Tưởng phải rút đi mà không gây xung đột — Đảng đã loại được một mối nguy hiểm lớn
+
+---
+
+**Câu 13. Ý nghĩa lịch sử của Chỉ thị "Kháng chiến – Kiến quốc" ngày 25-11-1945 là gì?**
+
+**✅ Trả lời:**
+
+Chỉ thị có **ba ý nghĩa lịch sử lớn**:
+
+**① Định hướng đúng đắn trong giai đoạn cực kỳ nguy hiểm:**
+- Trong bối cảnh "ngàn cân treo sợi tóc", Chỉ thị giúp Đảng và toàn hệ thống chính trị biết phải làm gì, ưu tiên cái gì
+- Tránh tình trạng bị động, lúng túng trước nhiều mối đe dọa cùng lúc
+
+**② Thể hiện tư duy chiến lược toàn diện:**
+- Kết hợp kháng chiến với kiến quốc — không tách rời quân sự với kinh tế, chính trị, văn hóa–xã hội
+- Kết hợp đối nội với đối ngoại — sách lược linh hoạt với từng lực lượng
+
+**③ Là nền tảng cho cuộc kháng chiến chống Pháp sau này:**
+- Những chủ trương về xây dựng chính quyền, tổng tuyển cử, Hiến pháp 1946 được triển khai thành công
+- Tạo cơ sở vật chất, tinh thần và tổ chức để toàn quốc kháng chiến từ 19-12-1946
+
+---
+
+**Câu 14. So sánh: Chỉ thị "Kháng chiến – Kiến quốc" (11/1945) với Chỉ thị "Nhật, Pháp bắn nhau và hành động của chúng ta" (3/1945) — hai văn kiện này có điểm gì giống và khác nhau?**
+
+**✅ Trả lời:**
+
+| | Chỉ thị 3/1945 | Chỉ thị 11/1945 |
+|---|---|---|
+| **Bối cảnh** | Nhật vừa đảo chính Pháp, khoảng trống quyền lực xuất hiện | Sau CMTT, chính quyền non trẻ đứng trước nhiều nguy cơ |
+| **Nhiệm vụ trọng tâm** | Phát động kháng Nhật cứu nước, chuẩn bị Tổng khởi nghĩa | Củng cố chính quyền, chống Pháp, cải thiện đời sống dân |
+| **Kẻ thù xác định** | Phát xít Nhật | Thực dân Pháp |
+| **Tính chất** | Văn kiện **tấn công** — chủ động chớp thời cơ giành quyền | Văn kiện **phòng thủ và xây dựng** — giữ vững thành quả |
+| **Điểm chung** | Đều xác định đúng kẻ thù chính; đều thể hiện tư duy linh hoạt, thực tiễn; đều là văn kiện định hướng chiến lược quan trọng | |
+
+---
+
+## 📋 BẢNG TỔNG HỢP – CÁC MỐC CẦN NHỚ ĐỀ TÀI 2
+
+| Thời gian | Sự kiện |
+|---|---|
+| **2-9-1945** | Tuyên ngôn Độc lập — Nhà nước VNDCCH ra đời |
+| **23-9-1945** | Pháp đánh chiếm Sài Gòn–Chợ Lớn, mở đầu xâm lược lần hai |
+| **Cuối 8/1945** | Hơn 20 vạn quân Tưởng vào miền Bắc |
+| **25-11-1945** | Chỉ thị **"Kháng chiến – Kiến quốc"** |
+| **6-1-1946** | Tổng tuyển cử bầu Quốc hội đầu tiên |
+| **1946** | Ban hành Hiến pháp đầu tiên của nước VNDCCH |
+| **19-12-1946** | Toàn quốc kháng chiến |
+
+---
+
+## 📌 Tổng kết bộ câu hỏi ôn tập đề tài 2
+
+| Mức | Số câu | Nội dung |
+|---|---|---|
+| 🟢 Nhận biết | 6 | Ngày tháng, kẻ thù chính, 4 nhiệm vụ, 3 loại giặc, sách lược đối ngoại |
+| 🟡 Phân tích | 4 | Tình thế ngàn cân, ý nghĩa tổng tuyển cử, quan hệ kháng chiến–kiến quốc |
+| 🔴 Phản biện | 4 | Đánh giá tính chất CM, chiến lược hòa hoãn, so sánh hai chỉ thị |
+| **Tổng** | **14** | |
+
+> **Ba câu gần như chắc chắn xuất hiện trong bài thi:**
+> - Bốn nhiệm vụ của Chỉ thị "Kháng chiến – Kiến quốc" là gì? *(Câu 4)*
+> - Ba loại "giặc" sau CMTT là gì? *(Câu 6)*
+> - Tại sao kháng chiến và kiến quốc phải tiến hành đồng thời? *(Câu 8)*
