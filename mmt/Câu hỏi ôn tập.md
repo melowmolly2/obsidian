@@ -137,4 +137,27 @@ The other options are wrong:
 - **Single mega-server:** This is a single point of failure, the path to distant clients is long, and the server's outgoing link would be a bottleneck for hundreds of thousands of users.
 - **Pushing videos to clients with machine learning:** Prediction-based prefetching can supplement a CDN but is not its core approach.
 - **Clients sending content to each other:** This is peer-to-peer distribution, which is a different architecture from a CDN.
+![](../Assets/Pasted%20image%2020261027144420.png)
+**Matches:**
+
+1. A unit of video, each of which may be encoded at multiple rates and stored in different files: **C. Chunk**
+2. A file containing the location and encoding rate of files corresponding to video segments: **B. Manifest**
+3. An approach that lets a client adapt the encoding rate of retrieved video to network congestion: **E. DASH**
+4. A CDN approach that stores content in access networks, close to clients: **A. Enter deep**
+
+"Enter deep" is the CDN strategy of pushing server clusters deep into many access networks, close to end users, to reduce delay and avoid bottlenecks. The alternative is "bring home", where a smaller number of larger clusters sit near major network hubs.
+
+"Video frame" and "Over The Top (OTT)" are not used here. A video frame is a single image in a video, and OTT means delivering video over the public internet, independent of the user's ISP.
+
+![](../Assets/Pasted%20image%2020261027144513.png)
+**The first option is correct.**
+
+In DASH, the server stores each chunk encoded at several rates (quality levels). The client requests the chunks one by one, choosing for each chunk the encoding rate that fits the bandwidth available at that moment. If the network slows down, it asks for a lower-rate chunk, and if it speeds up, it asks for a higher-rate one.
+
+The other options are wrong:
+
+- **Second option:** The client does not receive multiple versions of every chunk and then pick one. It requests a single version of each chunk, and the choice is based on bandwidth, not screen size.
+- **Third option:** DASH has nothing to do with skipping commercials.
+- **Fourth option:** Chunks being downloaded shortly before playout is true of streaming in general, but the main reason for chunking in DASH is to allow the rate to adapt as conditions change. Seeking in a video is a side benefit.
+- **Fifth option:** Chunks are not downloaded smallest-first. They are fetched in playback order, at a rate chosen to match the bandwidth.
 
