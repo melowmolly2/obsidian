@@ -114,3 +114,27 @@ The t=5 and t=30 requests are the tricky ones. At t=5 the .edu TLD cache from th
 - **HTTP local web caching (checked):** A local web cache (proxy server) is shared by many users on the same network. If another user recently requested an object, its copy is already stored, so your request can be served from the cache without going to the origin server.
 - **HTTP browser caching (unchecked):** A browser cache lives on your own machine and only holds items that you requested. Other users' requests never populate it, so it doesn't help you in that way.
 - **Local DNS server caching (checked):** The local DNS server serves many hosts. If another host recently resolved a name, or one of the TLD or authoritative server lookups along the way, those cached results speed up your own resolution too. The t=1 and t=5 requests in the earlier problem showed the same effect, where cached TLD information made later requests faster.
+![](../Assets/Pasted%20image%2020261027144150.png)
+**The first option is correct: a manifest file lets a client know where it can retrieve different video segments, encoded at different rates.**
+
+In DASH (Dynamic Adaptive Streaming over HTTP), the video is split into short chunks, and each chunk is encoded at several bitrates. The server provides a manifest file listing the URLs of these chunks for each encoding rate. The client downloads the manifest first, then requests chunks one at a time, choosing the rate that fits its current network conditions.
+
+The other options are wrong:
+
+- **Telling the server which video the client wants:** The client already does this by requesting the manifest's URL.
+- **Logging the video and server:** Logging is not the manifest's purpose.
+- **Reserving bandwidth along a path:** Streaming over HTTP involves no bandwidth reservation. Adaptive bitrate selection is the client's way of coping with the bandwidth it actually gets.
+![](../Assets/Pasted%20image%2020261027144222.png)**The third option, which is already selected, is correct: store and serve multiple copies of videos at multiple geographically distributed sites.**
+
+A CDN (content distribution network) places servers at many locations, either in large data centers near major network hubs or inside access ISPs close to users. Each client is directed to a nearby server holding a copy of the content. This gives three benefits:
+
+- **Lower delay:** The path from server to client is shorter.
+- **Load spreading:** No single server or link has to carry all the traffic.
+- **Fewer bottlenecks:** Traffic doesn't all cross the same long-haul links.
+
+The other options are wrong:
+
+- **Single mega-server:** This is a single point of failure, the path to distant clients is long, and the server's outgoing link would be a bottleneck for hundreds of thousands of users.
+- **Pushing videos to clients with machine learning:** Prediction-based prefetching can supplement a CDN but is not its core approach.
+- **Clients sending content to each other:** This is peer-to-peer distribution, which is a different architecture from a CDN.
+
