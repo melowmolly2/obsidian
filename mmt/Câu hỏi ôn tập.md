@@ -99,3 +99,18 @@ The t=5 and t=30 requests are the tricky ones. At t=5 the .edu TLD cache from th
 3. **True.** The local server's cached record can be out of date. If the authoritative server changes a record before the cached copy's time-to-live expires, the local server may still hand out the old record until its cache entry expires.
 4. **False.** Local DNS servers can cache other record types too, such as MX, NS, and CNAME records, not only hostname-to-IP mappings.
 ![](../Assets/Pasted%20image%2020261027143921.png)
+
+**Only the second statement is correct.**
+
+5. **False.** Providing a list of TLD servers is the job of the root servers, not an authoritative server.
+6. **True.** An authoritative name server holds the actual DNS records for the names in its own domain, so it gives the definitive answer for those names.
+7. **False.** This describes the local DNS server. A cache is not authoritative, because its entries can be stale, and an authoritative server is not necessarily local to the querying host.
+8. **False.** Pointing the resolver to the server that can give the definitive answer is the job of the TLD servers, which return the address of the authoritative server. By the time a query reaches the authoritative server, it answers directly.
+
+![](../Assets/Pasted%20image%2020261027144048.png)
+
+**The two checked answers are correct: HTTP local web caching and local DNS server caching.**
+
+- **HTTP local web caching (checked):** A local web cache (proxy server) is shared by many users on the same network. If another user recently requested an object, its copy is already stored, so your request can be served from the cache without going to the origin server.
+- **HTTP browser caching (unchecked):** A browser cache lives on your own machine and only holds items that you requested. Other users' requests never populate it, so it doesn't help you in that way.
+- **Local DNS server caching (checked):** The local DNS server serves many hosts. If another host recently resolved a name, or one of the TLD or authoritative server lookups along the way, those cached results speed up your own resolution too. The t=1 and t=5 requests in the earlier problem showed the same effect, where cached TLD information made later requests faster.
