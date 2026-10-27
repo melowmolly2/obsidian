@@ -98,3 +98,4 @@ The t=5 and t=30 requests are the tricky ones. At t=5 the .edu TLD cache from th
 2. **False.** The local host always contacts its local DNS server first. The local server is the one that queries the DNS hierarchy on the host's behalf, so the host never contacts it only as a fallback.
 3. **True.** The local server's cached record can be out of date. If the authoritative server changes a record before the cached copy's time-to-live expires, the local server may still hand out the old record until its cache entry expires.
 4. **False.** Local DNS servers can cache other record types too, such as MX, NS, and CNAME records, not only hostname-to-IP mappings.
+![](../Assets/Pasted%20image%2020261027143921.png)
