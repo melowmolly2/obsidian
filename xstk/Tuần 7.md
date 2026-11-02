@@ -161,7 +161,7 @@ Cùng khoảng nhưng kết quả khác nhau vì $SD(\bar X)$ phụ thuộc cỡ
 
 **Thời gian xử lý** (trung bình $12$, SD $6$, $n=64$): $\bar X\approx\mathcal N(12,,6^2/64)$, $SD=0.75$, $P(\bar X>13.5)\approx P(Z>2)\approx0.0228$.
 
-**Linh kiện thay thế** (tuổi thọ trung bình $100$, SD $30$, cần hoạt động $\ge2000$ giờ với xác suất $\ge95\%$): $S_n\approx\mathcal N(100n,900n)$ và cần
+**Linh kiện thay thế** (tuổi thọ trung bình $100$, SD $30$, cần hoạt động $\ge2000$ giờ với xác suất $\ge95\%$)2: $S_n\approx\mathcal N(100n,900n)$ và cần
 
 $$\frac{100n-2000}{30\sqrt n}\ge1.64485$$
 
