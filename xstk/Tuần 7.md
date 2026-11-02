@@ -110,11 +110,11 @@ $$\mu=\int_{-\infty}^{\infty}xf_X(x),dx, \qquad \text{Var}(X)=\int(x-\mu)^2f_X(x
 
 ## 6. Các phân phối liên tục
 
-| Phân phối                        | Mật độ                                                                   | $E(X)$           | $\text{Var}(X)$       |
-| -------------------------------- | ------------------------------------------------------------------------ | ---------------- | --------------------- |
-| Đều $U(a,b)$                     | $\dfrac1{b-a}$ trên $(a,b)$                                              | $\dfrac{a+b}{2}$ | $\dfrac{(b-a)^2}{12}$ |
-| Chuẩn $\mathcal N(\mu,\sigma^2)$ | $\dfrac1{\sigma\sqrt{2\pi}}\exp!\Big[-\dfrac{(x-\mu)^2}{2\sigma^2}\Big]$ | $\mu$            | $\sigma^2$            |
-| Mũ $\text{Exp}(\lambda)$         | $\lambda e^{-\lambda x}$, $x\ge0$                                        | $\dfrac1\lambda$ | $\dfrac 1{\lambda^2}$ |
+| Phân phối                        | Mật độ                                                                    | $E(X)$           | $\text{Var}(X)$       |
+| -------------------------------- | ------------------------------------------------------------------------- | ---------------- | --------------------- |
+| Đều $U(a,b)$                     | $\dfrac1{b-a}$ trên $(a,b)$                                               | $\dfrac{a+b}{2}$ | $\dfrac{(b-a)^2}{12}$ |
+| Chuẩn $\mathcal N(\mu,\sigma^2)$ | $\dfrac1{\sigma\sqrt{2\pi}}\exp\!\Big[-\dfrac{(x-\mu)^2}{2\sigma^2}\Big]$ | $\mu$            | $\sigma^2$            |
+| Mũ $\text{Exp}(\lambda)$         | $\lambda e^{-\lambda x}$, $x\ge0$                                         | $\dfrac1\lambda$ | $\dfrac 1{\lambda^2}$ |
 
 - **Đều:** chờ xe buýt $X\sim U(0,10)$: $P(2<X<5)=\dfrac{3}{10}=0.3$, $E(X)=5$.
 - **Chuẩn:** hình chuông, đối xứng quanh $\mu$. Chuẩn hóa $Z=\dfrac{X-\mu}{\sigma}\sim\mathcal N(0,1)$ và $P(X\le x)=\Phi!\left(\dfrac{x-\mu}{\sigma}\right)$.
@@ -161,7 +161,7 @@ Cùng khoảng nhưng kết quả khác nhau vì $SD(\bar X)$ phụ thuộc cỡ
 
 **Thời gian xử lý** (trung bình $12$, SD $6$, $n=64$): $\bar X\approx\mathcal N(12,,6^2/64)$, $SD=0.75$, $P(\bar X>13.5)\approx P(Z>2)\approx0.0228$.
 
-**Linh kiện thay thế** (tuổi thọ trung bình $100$, SD $30$, cần hoạt động $\ge2000$ giờ với xác suất $\ge95%$): $S_n\approx\mathcal N(100n,900n)$ và cần
+**Linh kiện thay thế** (tuổi thọ trung bình $100$, SD $30$, cần hoạt động $\ge2000$ giờ với xác suất $\ge95\%$): $S_n\approx\mathcal N(100n,900n)$ và cần
 
 $$\frac{100n-2000}{30\sqrt n}\ge1.64485$$
 
