@@ -104,7 +104,7 @@ Sáu dạng chuẩn cơ bản (bảng ở slide 169 là hình ảnh, các dạng
 | --------------------- | ------------------------------------------------------- | -------------------------------------------------- | 
 | Ellipsoid             | $\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}+\dfrac{z^2}{c^2}=1$  | Mọi vết là ellipse                                 |                                
 | Hyperboloid một tầng  | $\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}-\dfrac{z^2}{c^2}=1$  | Ngang: ellipse; dọc: hyperbol                      |                                 
-| Hyperboloid hai tầng  | $-\dfrac{x^2}{a^2}-\dfrac{y^2}{b^2}+\dfrac{z^2}{c^2}=1$ | Ngang ($\abs(z) >c$): ellipse; dọc: hyperbol |
+| Hyperboloid hai tầng  | $-\dfrac{x^2}{a^2}-\dfrac{y^2}{b^2}+\dfrac{z^2}{c^2}=1$ | Ngang ($\lvert z \rvert >c$): ellipse; dọc: hyperbol |
 | Elliptic paraboloid   | $\dfrac{z}{c}=\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}$        | Ngang: ellipse; dọc: parabol                       |                                 
 | Hyperbolic paraboloid | $\dfrac{z}{c}=\dfrac{x^2}{a^2}-\dfrac{y^2}{b^2}$        | Ngang: hyperbol; dọc: parabol (mặt yên ngựa)       |                                 
 | Mặt nón elliptic      | $\dfrac{z^2}{c^2}=\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}$    | Ngang: ellipse; dọc: cặp đường thẳng hoặc hyperbol |
