@@ -100,14 +100,14 @@ $$D=\frac{|ax_1+by_1+cz_1+d|}{\sqrt{a^2+b^2+c^2}}$$
 
 Sáu dạng chuẩn cơ bản (bảng ở slide 169 là hình ảnh, các dạng dưới đây là dạng chuẩn thường dùng):
 
-| Mặt                   | Phương trình chuẩn                                      | Đặc điểm các vết                                   |     |                              |
-| --------------------- | ------------------------------------------------------- | -------------------------------------------------- | --- | ---------------------------- |
-| Ellipsoid             | $\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}+\dfrac{z^2}{c^2}=1$  | Mọi vết là ellipse                                 |     |                              |
-| Hyperboloid một tầng  | $\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}-\dfrac{z^2}{c^2}=1$  | Ngang: ellipse; dọc: hyperbol                      |     |                              |
-| Hyperboloid hai tầng  | $-\dfrac{x^2}{a^2}-\dfrac{y^2}{b^2}+\dfrac{z^2}{c^2}=1$ | Ngang ($                                           | z   | >c$): ellipse; dọc: hyperbol |
-| Elliptic paraboloid   | $\dfrac{z}{c}=\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}$        | Ngang: ellipse; dọc: parabol                       |     |                              |
-| Hyperbolic paraboloid | $\dfrac{z}{c}=\dfrac{x^2}{a^2}-\dfrac{y^2}{b^2}$        | Ngang: hyperbol; dọc: parabol (mặt yên ngựa)       |     |                              |
-| Mặt nón elliptic      | $\dfrac{z^2}{c^2}=\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}$    | Ngang: ellipse; dọc: cặp đường thẳng hoặc hyperbol |     |                              |
+| Mặt                   | Phương trình chuẩn                                      | Đặc điểm các vết                                   | 
+| --------------------- | ------------------------------------------------------- | -------------------------------------------------- | 
+| Ellipsoid             | $\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}+\dfrac{z^2}{c^2}=1$  | Mọi vết là ellipse                                 |                                
+| Hyperboloid một tầng  | $\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}-\dfrac{z^2}{c^2}=1$  | Ngang: ellipse; dọc: hyperbol                      |                                 
+| Hyperboloid hai tầng  | $-\dfrac{x^2}{a^2}-\dfrac{y^2}{b^2}+\dfrac{z^2}{c^2}=1$ | Ngang ($\abs(z) >c$): ellipse; dọc: hyperbol |
+| Elliptic paraboloid   | $\dfrac{z}{c}=\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}$        | Ngang: ellipse; dọc: parabol                       |                                 
+| Hyperbolic paraboloid | $\dfrac{z}{c}=\dfrac{x^2}{a^2}-\dfrac{y^2}{b^2}$        | Ngang: hyperbol; dọc: parabol (mặt yên ngựa)       |                                 
+| Mặt nón elliptic      | $\dfrac{z^2}{c^2}=\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}$    | Ngang: ellipse; dọc: cặp đường thẳng hoặc hyperbol |
 
 Cách nhận dạng: chia hai vế để đưa về dạng chuẩn, hoàn thành bình phương để tìm tâm hoặc đỉnh (Ví dụ 7, 8). Số dấu âm trong phương trình có $=1$ cho biết loại hyperboloid.
 
