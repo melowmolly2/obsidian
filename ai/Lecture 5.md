@@ -6,4 +6,4 @@
 - Tri thức: 
 	- Các dữ liệu được sắp xếp theo một thứ tự hoặc được tập hợp theo một quan hệ nào dó sẽ chứa dựng các thông tin
 	- Và những quan hệ đó nếu được chỉ ra theo một các rõ ràng thì đó là các tri thức
-	- Về mức độ trừu tượng tri thức là khả năng trừu tượn nhất trong ba khái niệm trên
+	- Về mức độ trừu tượng tri thức là khả năng trừu tượng nhất trong ba khái niệm trên
