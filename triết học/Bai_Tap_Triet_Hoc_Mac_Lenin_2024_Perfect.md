@@ -49,13 +49,9 @@ b, Khái niệm triết học
 
 ~ Quan niệm phương Đông và phương Tây về triết học:
 
-+ Triết học ở phương Đông và phương Tây gần như ra đời cùng một thời gian khoảng từ thế
++ Triết học ở phương Đông và phương Tây gần như ra đời cùng một thời gian khoảng từ thế kỷ VIII đến thế kỷ VI trước Công nguyên.
 
-kỷ VIII đến thế kỷ VI trước Công nguyên.
-
-+ Ở phương Tây: Triết học (Philosophy) có nguồn gốc từ tiếng Hy Lạp, có nghĩa là yêu thích
-
-(Phiios) sự thông thái (Sophia).
++ Ở phương Tây: Triết học (Philosophy) có nguồn gốc từ tiếng Hy Lạp, có nghĩa là yêu thích (Phiios) sự thông thái (Sophia).
 
 + Ở phương Đông cổ đại:
 
