@@ -42,21 +42,17 @@ Triết học ra đời khi xã hội đã phân chia giai cấp, có sự phân
 
 b, Khái niệm triết học
 
-~ Quan niệm phương Đông và phương Tây về triết học:
+Quan niệm phương Đông và phương Tây về triết học:
 
-+ Triết học ở phương Đông và phương Tây gần như ra đời cùng một thời gian khoảng từ thế
++ Triết học ở phương Đông và phương Tây gần như ra đời cùng một thời gian khoảng từ thế kỷ VIII đến thế kỷ VI trước Công nguyên.
 
-kỷ VIII đến thế kỷ VI trước Công nguyên.
-
-+ Ở phương Tây: Triết học (Philosophy) có nguồn gốc từ tiếng Hy Lạp, có nghĩa là yêu thích
-
-(Philos) sự thông thái (Sophia).
++ Ở phương Tây: Triết học (Philosophy) có nguồn gốc từ tiếng Hy Lạp, có nghĩa là yêu thích (Philos) sự thông thái (Sophia).
 
 + Ở phương Đông cổ đại:
 
-- Ở Trung Quốc, người ta dùng từ “triết” để chỉ hệ thống tư duy, là sự truy tìm bản chất của đối tượng, triết học chính là trí tuệ.
+	- Ở Trung Quốc, người ta dùng từ “triết” để chỉ hệ thống tư duy, là sự truy tìm bản chất của đối tượng, triết học chính là trí tuệ.
 
-- Ở Ấn Độ, người ta dùng thuật ngữ Darsana cũng là chỉ hệ thống tư duy triết học, là sự hiểu biết sâu sắc của con người. Darsana nghĩa là chiêm ngưỡng, là tri thức dựa trên lý trí, là con đường suy ngẫm để dẫn dắt con người tới lẽ phải.
+	- Ở Ấn Độ, người ta dùng thuật ngữ Darsana cũng là chỉ hệ thống tư duy triết học, là sự hiểu biết sâu sắc của con người. Darsana nghĩa là chiêm ngưỡng, là tri thức dựa trên lý trí, là con đường suy ngẫm để dẫn dắt con người tới lẽ phải.
 
 Như vậy, cho dù ở phương Đông hay phương Tây, ngay từ đầu triết học đã là hoạt động tinh thần biểu hiện khả năng nhận thức bản chất, quy luật và lý giải thế giới của con người. Nó tồn tại với tư cách một hình thái ý thức xã hội, thể hiện và kết tinh năng lực tư duy của một thời đại.
 
