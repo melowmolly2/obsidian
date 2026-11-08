@@ -101,8 +101,22 @@ $$\text{Hình thái KT–XH} = \text{LLSX} + \text{QHSX (CSHT)} + \text{KTTF}$$
 
 ---
 
-## 8. Điều kiện phát triển bỏ qua giai đoạn TBCN (VN)
+## 6. Điều kiện phát triển bỏ qua giai đoạn TBCN (VN)
 
 - Bỏ qua **sự thống trị** của các quan hệ sản xuất và kiến trúc thượng tầng TBCN
 - **Không** bỏ qua toàn bộ — vẫn kế thừa thành tựu KHKT, quản lý, văn hóa của CNTB
 - Khó khăn: xuất phát từ nền sản xuất nhỏ, LLSX thấp, QHSX lạc hậu
+
+---
+
+## 7. Tóm tắt nhanh Chương II A
+
+| Nội dung | Key point |
+|---|---|
+| Phương thức sản xuất | LLSX + QHSX |
+| Yếu tố quan trọng nhất LLSX | Người lao động |
+| Yếu tố động nhất LLSX | Công cụ lao động |
+| Mặt quan trọng nhất QHSX | Quan hệ sở hữu TLSX |
+| CSHT là | Toàn bộ QHSX (≠ cơ sở vật chất) |
+| 5 hình thái KT–XH | Nguyên thủy → Nô lệ → Phong kiến → TBCN → CSCN |
+| Tiêu chuẩn phân biệt thời đại | Phương thức sản xuất |

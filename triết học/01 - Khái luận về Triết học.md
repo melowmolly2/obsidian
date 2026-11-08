@@ -13,6 +13,7 @@ date: 2026-11-08
 
 ## 1. Triết học là gì?
 
+- **Nghĩa gốc:** Tiếng Hy Lạp *philosophia* = **yêu mến sự thông thái** (philos = yêu + sophia = thông thái)
 - **Nguồn gốc:** Từ thực tiễn; 2 nguồn gốc:
   - *Nhận thức:* Tư duy đạt trình độ khái quát cao
   - *Xã hội:* Phân công lao động → tầng lớp lao động trí óc ra đời
@@ -73,3 +74,23 @@ TRIẾT HỌC
 - Tiền đề để xác lập phương thức tư duy hợp lý và nhân sinh quan tích cực
 - Tiêu chí đánh giá sự trưởng thành của cá nhân & cộng đồng xã hội
 - Tất cả vấn đề triết học đặt ra đều thuộc về thế giới quan trước tiên
+
+---
+
+## 5. Triết học kinh viện (Scholasticism)
+
+- Thuộc hệ thống **triết học Tây Âu trung cổ**
+- Đặc điểm: xem thường kinh nghiệm, xa rời cuộc sống, chỉ chú trọng giải thích kinh thánh
+- Phục vụ thần học Thiên Chúa giáo
+
+---
+
+## 6. Phân kỳ lịch sử triết học
+
+| Thời kỳ | Đặc điểm nổi bật |
+|---|---|
+| Cổ đại (TK VII TCN – TK V) | Biện chứng tự phát, duy vật chất phác |
+| Trung cổ (TK V – XV) | Triết học kinh viện phục vụ thần học |
+| Cận đại (TK XV – XVIII) | Duy vật siêu hình, cơ học (Newton) |
+| Cổ điển Đức (cuối TK XVIII – TK XIX) | Hegel (biện chứng duy tâm), Feuerbach (duy vật) |
+| Mác–Lênin (TK XIX → nay) | Duy vật biện chứng ✓ |

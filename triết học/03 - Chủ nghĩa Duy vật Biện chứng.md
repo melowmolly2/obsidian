@@ -42,12 +42,15 @@ $$\text{Vật chất} = \text{thực tại khách quan} \xrightarrow{\text{đem 
 
 ---
 
-## 2. Ý thức
+## 3. Ý thức
 
 ### Nguồn gốc
 
 - **Tự nhiên:** Thuộc tính phản ánh của vật chất; phát triển cao nhất ở não người
 - **Xã hội:** Lao động + ngôn ngữ là điều kiện trực tiếp hình thành ý thức
+
+> [!info] Nguồn gốc trực tiếp & quan trọng nhất
+> **Lao động và ngôn ngữ** — không phải đơn thuần là bộ não
 
 ### Bản chất
 
@@ -67,7 +70,7 @@ $$\text{Vật chất} = \text{thực tại khách quan} \xrightarrow{\text{đem 
 
 ---
 
-## 3. Quan hệ Vật chất – Ý thức
+## 4. Quan hệ Vật chất – Ý thức
 
 | Chiều | Nội dung |
 |---|---|
