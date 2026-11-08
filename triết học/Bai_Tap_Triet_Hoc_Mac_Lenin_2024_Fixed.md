@@ -56,23 +56,19 @@ Quan niệm phương Đông và phương Tây về triết học:
 
 Như vậy, cho dù ở phương Đông hay phương Tây, ngay từ đầu triết học đã là hoạt động tinh thần biểu hiện khả năng nhận thức bản chất, quy luật và lý giải thế giới của con người. Nó tồn tại với tư cách một hình thái ý thức xã hội, thể hiện và kết tinh năng lực tư duy của một thời đại.
 
-- Khái niệm: Triết học là hệ thống các quan điểm lý luận chung nhất về thế giới và vị trí của
+- Khái niệm: Triết học là hệ thống các quan điểm lý luận chung nhất về thế giới và vị trí của con người trong thế giới đó, là khoa học về những quy luật vận động, phát triển chung nhất của tự nhiên, xã hội và tư duy.
 
-con người trong thế giới đó, là khoa học về những quy luật vận động, phát triển chung nhất của tự nhiên, xã hội và tư duy.
+c. Đối tượng của triết học trong lịch sử 
 
-c. Đối tượng của triết học trong lịch sử Đối tượng của triết học là các quan hệ phổ biến và các quy luật chung nhất của toàn bộ tự nhiên, xã hội và tư duy; trong đó trung tâm nhất là mối quan hệ giữa tư duy và tồn tại, hay nói cách khác là giữa nội dung ý thức của con người với thế giới sự vật hiện tượng bên ngoài. Những vấn đề trung tâm này biểu hiện khác nhau ở những nền văn hóa và giai đoạn phát triển khác nhau của lịch sử nhân loại.
+Đối tượng của triết học là các quan hệ phổ biến và các quy luật chung nhất của toàn bộ tự nhiên, xã hội và tư duy; trong đó trung tâm nhất là mối quan hệ giữa tư duy và tồn tại, hay nói cách khác là giữa nội dung ý thức của con người với thế giới sự vật hiện tượng bên ngoài. Những vấn đề trung tâm này biểu hiện khác nhau ở những nền văn hóa và giai đoạn phát triển khác nhau của lịch sử nhân loại.
 
 - Thời cổ đại: Triết học nghiên cứu mọi lĩnh vực của thế giới, song về đại thể thì triết học phương
 
 Đông dành nhiều sự quan tâm hơn cho những vấn đề về con người và xã hội, còn triết học phương Tây quan tâm nhiều hơn đến những vấn đề về giới tự nhiên.
 
-- Thời trung cổ: Triết học Tây Âu trở thành bộ môn của thần học, cụ thể là Thần học Thiên
+- Thời trung cổ: Triết học Tây Âu trở thành bộ môn của thần học, cụ thể là Thần học Thiên Chúa giáo (bộ môn lý luận về Thiên Chúa và mối quan hệ giữa con người với Thiên Chúa mà một hình thức đặc thù nhất của nó là đức tín tôn giáo). Triết học lúc này có nhiệm vụ lý giải và chứng minh cho sự đúng đắn của Kinh Thánh.
 
-Chúa giáo (bộ môn lý luận về Thiên Chúa và mối quan hệ giữa con người với Thiên Chúa mà một hình thức đặc thù nhất của nó là đức tín tôn giáo). Triết học lúc này có nhiệm vụ lý giải và chứng minh cho sự đúng đắn của Kinh Thánh.
-
-- Thời Phục hưng đến thế kỷ XVIII: Triết học Tây Âu từng bước thoát khỏi ách thống trị của
-
-thần học, đề cao chủ nghĩa nhân đạo và gắn với những thành tựu của khoa học tự nhiên, quan tâm và ảnh hưởng một cách sâu sắc đến những quá trình lịch sử-xã hội.
+- Thời Phục hưng đến thế kỷ XVIII: Triết học Tây Âu từng bước thoát khỏi ách thống trị của thần học, đề cao chủ nghĩa nhân đạo và gắn với những thành tựu của khoa học tự nhiên, quan tâm và ảnh hưởng một cách sâu sắc đến những quá trình lịch sử-xã hội.
 
 - Từ thế kỷ XIX đến nay: Triết học được nhìn nhận như một lĩnh vực học thuật nghiên cứu
 
