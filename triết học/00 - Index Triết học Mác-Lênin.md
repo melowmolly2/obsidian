@@ -53,6 +53,7 @@ TRIẾT HỌC MÁC – LÊNIN
 | 4 | [[04 - Phép Biện chứng Duy vật]] | 2 nguyên lý, 3 quy luật, 6 cặp phạm trù |
 | 5 | [[05 - Lý luận Nhận thức]] | Con đường nhận thức, tiêu chuẩn thực tiễn |
 | 6 | [[06 - Chức năng Triết học Mác-Lênin]] | Thế giới quan & phương pháp luận |
+| 7 | [[07 - Trắc nghiệm và Đáp án chi tiết]] | ~115 câu trắc nghiệm 3 chương + đáp án + giải thích + bẫy hay gặp |
 
 ---
 
