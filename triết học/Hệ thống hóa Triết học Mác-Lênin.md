@@ -126,10 +126,10 @@ Thuộc tính cơ bản nhất: **tồn tại khách quan** (độc lập với 
 
 ### 3. Quan hệ Vật chất – Ý thức
 
-| | |
-|---|---|
-| **Vật chất quyết định ý thức** | Ý thức phản ánh vật chất |
-| **Ý thức tác động ngược lại** | Thông qua hoạt động thực tiễn (không phải trực tiếp) |
+|                                |                                                      |
+| ------------------------------ | ---------------------------------------------------- |
+| **Vật chất quyết định ý thức** | Ý thức phản ánh vật chất                             |
+| **Ý thức tác động ngược lại**  | Thông qua hoạt động thực tiễn (không phải trực tiếp) |
 
 > [!tip] Nguyên tắc thực tiễn
 > Xuất phát từ thực tế khách quan, tôn trọng quy luật khách quan; đồng thời phát huy tính năng động, sáng tạo của ý thức.
