@@ -22,6 +22,11 @@ aliases:
 
 **Câu 1.** Theo triết học Hy Lạp cổ đại, "triết học" là gì?
 
+
+- a. Sản xuất ra văn hóa, con người và đời sống tinh thần.
+- b. Sản xuất ra của cải vật chất, đời sống tinh thần và nghệ thuật.
+- c. Sản xuất vật chất, sản xuất tinh thần, sản xuất ra bản thân con người.
+
 > [!success]- Đáp án
 > **a. Yêu mến sự thông thái**
 >
@@ -30,6 +35,11 @@ aliases:
 ---
 
 **Câu 2.** Nguồn gốc ra đời của triết học là:
+
+
+- b. Con người hành động.
+- c. Con người tư duy.
+- d. Con người hiện thự
 
 > [!success]- Đáp án
 > **d. Nguồn gốc nhận thức và xã hội**
@@ -40,6 +50,12 @@ aliases:
 
 **Câu 3.** Thuyết nào thừa nhận hai bản nguyên vật chất và tinh thần song song tồn tại?
 
+
+- a. Chủ nghĩa duy tâm khách quan.
+- b. Chủ nghĩa duy tâm chủ quan.
+- c. Chủ nghĩa duy vật biện chứng.
+- d. Chủ nghĩa duy vật siêu hình.
+
 > [!success]- Đáp án
 > **b. Học thuyết nhị nguyên**
 >
@@ -48,6 +64,10 @@ aliases:
 ---
 
 **Câu 4.** Triết học kinh viện thuộc hệ thống nào?
+
+
+- a. Hoạt động tinh thần.
+- b. Sản xuất tinh thần.
 
 > [!success]- Đáp án
 > **c. Triết học Tây Âu trung cổ**
@@ -58,6 +78,12 @@ aliases:
 
 **Câu 5.** Triết học phương Tây ra đời ở thời kỳ nào?
 
+
+- a. Thể chế chính trị.
+- b. Hình thức nhà nướ
+- c. Phương thức sản xuất.
+- d. Hình thức tôn giáo.
+
 > [!success]- Đáp án
 > **b. Chiếm hữu nô lệ**
 >
@@ -66,6 +92,12 @@ aliases:
 ---
 
 **Câu 6.** Triết học ra đời trong điều kiện nào?
+
+
+- c. Cách thức con người tiến hành mọi hoạt động sản xuất qua các giai đoạn lịch sử.
+- b. Cách thức con người sản xuất ra của cải vật chất cho xã hội.
+- c. Cách thức con người thực hiện các quan hệ xã hội ở những giai đoạn lịch sử nhất ĐỊNH của
+- d. Cách thức con người thực hiện trong quá trình sản xuất vật chất ở những giai đoạn lịch sử
 
 > [!success]- Đáp án
 > **c. Tư duy đạt trình độ khái quát cao và xuất hiện tầng lớp lao động trí óc**
@@ -76,6 +108,11 @@ aliases:
 
 **Câu 7.** Những nhà triết học nào xem thường kinh nghiệm, xa rời cuộc sống?
 
+
+- a. Công cụ lao động.
+- c. Người lao động.
+- d. Tư liệu sản xuất.
+
 > [!success]- Đáp án
 > **c. Chủ nghĩa kinh viện**
 >
@@ -84,6 +121,11 @@ aliases:
 ---
 
 **Câu 8.** Hạt nhân hợp lý trong triết học Hê-ghen là gì?
+
+
+- a. Người lao động và tư liệu sản xuất.
+- b. Người lao động và công cụ lao động.
+- c. Người lao động và tư liệu lao động.
 
 > [!success]- Đáp án
 > **c. Phép biện chứng như lý luận về sự phát triển**
@@ -94,6 +136,12 @@ aliases:
 
 **Câu 9.** Vấn đề cơ bản của triết học là:
 
+
+- a. Tư liệu lao động và đối tượng lao động.
+- b. Công cụ lao động và tư liệu lao động.
+- c. Phương tiện lao động và công cụ lao động.
+- d. Công cụ lao động và đối tượng lao động.
+
 > [!success]- Đáp án
 > **d. Vấn đề quan hệ giữa tư duy và tồn tại**
 >
@@ -102,6 +150,11 @@ aliases:
 ---
 
 **Câu 10.** Mặt thứ nhất vấn đề cơ bản của triết học là:
+
+
+- a. Phương tiện lao động.
+- b. Công cụ lao động.
+- c. Đối tượng lao động.
 
 > [!success]- Đáp án
 > **b. Giữa vật chất và ý thức, cái nào có trước, cái nào quyết định?**
@@ -112,6 +165,12 @@ aliases:
 
 **Câu 11.** Triết học duy tâm chủ quan tiêu biểu là:
 
+
+- a. Lực lượng sản xuất.
+- b. Quan hệ sản xuất.
+- c. Phương thức sản xuất.
+- d. Sản xuất vật chất.
+
 > [!success]- Đáp án
 > **Berkeley (Béc-cơ-li)**
 >
@@ -120,6 +179,12 @@ aliases:
 ---
 
 **Câu 12.** Chủ nghĩa nào cho rằng không thể biết được thế giới?
+
+
+- a. Mối quan hệ giữa con người với đối tượng lao động.
+- b. Mối quan hệ giữa con người với công cụ lao động.
+- c. Mối quan hệ giữa con người với tư liệu sản xuất.
+- d. Mối quan hệ giữa người với người trong quá trình sản xuất.
 
 > [!success]- Đáp án
 > **Thuyết bất khả tri (agnosticism)**
@@ -130,6 +195,12 @@ aliases:
 
 **Câu 13.** Phép biện chứng duy vật khác phép biện chứng duy tâm ở điểm nào?
 
+
+- a. Quan hệ tổ chức sản xuất
+- b. Quan hệ quản lý sản xuất.
+- c. Quan hệ phân phối.
+- d. Quan hệ sở hữu về tư liệu sản xuất.
+
 > [!success]- Đáp án
 > **Đặt trên nền tảng thế giới quan duy vật**
 >
@@ -138,6 +209,11 @@ aliases:
 ---
 
 **Câu 14.** Biện chứng khác siêu hình ở điểm cơ bản nào?
+
+
+- a. Quan hệ giữa con người với tự nhiên và quan hệ giữa con người với sản phẩm của quá
+- b. Quan hệ giữa con người với tự nhiên và quan hệ giữa con người với từ liệu sản xuất.
+- d. Quan hệ giữa người với người trong sản xuất vật chất và quan hệ giai cấp trong xã hội.
 
 > [!success]- Đáp án
 > **Nguồn gốc vận động nằm trong mâu thuẫn nội tại**
@@ -148,6 +224,10 @@ aliases:
 
 **Câu 15.** Ba phát kiến KH tự nhiên tạo điều kiện cho triết học Mác ra đời:
 
+
+- a. Sự phong phú của đối tượng lao động.
+- b. Thể chế chính trị.
+
 > [!success]- Đáp án
 > **Học thuyết tế bào + Bảo toàn năng lượng + Tiến hóa (Darwin)**
 >
@@ -156,6 +236,12 @@ aliases:
 ---
 
 **Câu 16.** Ba nguồn lý luận trực tiếp của chủ nghĩa Mác là:
+
+
+- a. Cơ sở hạ tằng/kiến trúc thượng tầng.
+- b. Cơ sở hạ tằng/quan hệ sản xuất.
+- c. Lực lượng sản xuất/quan hệ sản xuất.
+- d. Lực lượng sản xuắt/kiến trúc thượng tầng.
 
 > [!success]- Đáp án
 > **Triết học Đức + KTCT Anh + CNXH không tưởng Pháp**
@@ -166,6 +252,11 @@ aliases:
 
 **Câu 17.** Tác phẩm đánh dấu sự ra đời của chủ nghĩa Mác:
 
+
+- a. Lực lượng sản xuất phụ thuộc vào quan hệ sản xuất.
+- b. Quan hệ sản xuất phụ thuộc vào trình độ phát triển của lực lượng sản xuất.
+- d. Quan hệ sản xuất và lực lượng sản xuất đều hoàn toàn phụ thuộc vào quyền lực nhà nướ
+
 > [!success]- Đáp án
 > **b. Tuyên ngôn của Đảng Cộng sản (1848)**
 >
@@ -174,6 +265,12 @@ aliases:
 ---
 
 **Câu 18.** Đâu KHÔNG phải nguồn gốc lý luận trực tiếp của CN Mác-Lênin?
+
+
+- a. Lực lượng sản xuất.
+- b. Quan hệ sản xuất,
+- c. Phương thức sận xuất.
+- d. Sản xuất vật chất.
 
 > [!success]- Đáp án
 > **c. Triết học Khai sáng Pháp**
@@ -184,6 +281,11 @@ aliases:
 
 **Câu 19.** Chức năng của triết học Mác-Lênin là:
 
+
+- a. Công cụ lao động
+- b. Tư liệu sản xuất
+- d. Tài nguyên khoáng sản.
+
 > [!success]- Đáp án
 > **d. Chức năng thế giới quan và phương pháp luận**
 >
@@ -192,6 +294,11 @@ aliases:
 ---
 
 **Câu 20.** Chức năng phương pháp luận của triết học Mác-Lênin hiểu là:
+
+
+- a. Hoàn toàn b quy ĐỊNH bởi những người lãnh đạo các cơ sở sản xuất.
+- b. Hoàn toàn b quy ĐỊNH bởi chế độ chính trị xã hội.
+- d. Tổn tại khách quan và không phụ thuộc vào ý thức của con người.
 
 > [!success]- Đáp án
 > **b. Cung cấp những nguyên tắc chung nhất để định hướng hoạt động nhận thức và thực tiễn**
@@ -202,6 +309,12 @@ aliases:
 
 **Câu 21.** Thế giới quan triết học có đặc điểm gì?
 
+
+- a. Sự phản ánh tích cực, năng động, sáng tạo thế giới khách quan vào trong đầu óc con người.
+- b. Tiếp nhận và xử lý các kích thích từ môi trường bên ngoài vào bên trong bộ não.
+- c. Hình ảnh của thế giới khách quan và suy nghĩ chủ quan.
+- d. Quá trình vật chất vận động bên trong bộ não.
+
 > [!success]- Đáp án
 > **Quy định và chi phối mọi thế giới quan khác**
 >
@@ -210,6 +323,13 @@ aliases:
 ---
 
 **Câu 22.** Triết học Mác-Lênin là sự thống nhất của:
+
+
+- a. Công cụ lao động.
+- d. Đối tượng lao động.
+- a. Đặc điểm tự nhiên của Việt Nam quy ĐỊNH.
+- b. Thành phần giai cấp trong xã hội Việt Nam quy ĐỊNH.
+- d. Nhận thức chính trị của Việt Nam quy ĐỊNH.
 
 > [!success]- Đáp án
 > **Chủ nghĩa duy vật biện chứng + Chủ nghĩa duy vật lịch sử**
@@ -220,6 +340,11 @@ aliases:
 
 **Câu 23.** Giai đoạn Lênin, tác phẩm triết học quan trọng nhất là:
 
+
+- a. Ý thức quyết ĐỊNH vật chất, vật chất có tính độc lập tương đối và tác động trở lại ý thứ
+- b. Ý thức quyết ĐỊNH vật chất, vật chất hoàn toàn độc lập và tác động trở lại ý thứ
+- d. Vật chất quyết ĐỊNH ý thức, ý thức hoàn toàn độc lập và tác động trở lại vật chất.
+
 > [!success]- Đáp án
 > **Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán (1909)**
 >
@@ -229,6 +354,12 @@ aliases:
 
 **Câu 24.** Thực chất cuộc cách mạng triết học của Mác-Ăngghen là:
 
+
+- a. Chủ động thiết lập quan bệ sản xuất trước, sau đó phát triển lực lượng sản xuất phù hợp.
+- b. Chủ động xây dựng lực lượng sản xuất trước, sau đó phát triển quan hệ sản xuất phù hợp.
+- c. Kết hợp đồng thời phát triển lực lượng sản xuất với xác lập quan hệ sản xuất phù hợp.
+- d. Tôn trọng quy luật khách quan và tuyệt đối không can thiệp vào sự phát triển của lực
+
 > [!success]- Đáp án
 > **Thống nhất thế giới quan duy vật với phép biện chứng**
 >
@@ -237,6 +368,10 @@ aliases:
 ---
 
 **Câu 25.** Vai trò của thế giới quan trong cuộc sống:
+
+
+- a. Toàn bộ đất đai, máy móc, phương tiện để sản xuất của cải vật chất trong xã hội.
+- b. Toàn bộ những quan hệ sản xuất hợp thành cơ-sở kinh tế của một xã hội nhất ĐỊNH.
 
 > [!success]- Đáp án
 > **Tiền đề xác lập phương thức tư duy + tiêu chí đánh giá sự trưởng thành**
@@ -249,6 +384,11 @@ aliases:
 
 **Câu 1.** Đặc điểm chung của quan niệm duy vật cổ đại về vật chất:
 
+
+- a. Sản xuất ra văn hóa, con người và đời sống tinh thần.
+- b. Sản xuất ra của cải vật chất, đời sống tinh thần và nghệ thuật.
+- c. Sản xuất vật chất, sản xuất tinh thần, sản xuất ra bản thân con người.
+
 > [!success]- Đáp án
 > **c. Tìm nguồn gốc thế giới ở những dạng vật chất cụ thể**
 >
@@ -257,6 +397,11 @@ aliases:
 ---
 
 **Câu 2.** Đâu KHÔNG phải đặc điểm của quan niệm duy vật cận đại?
+
+
+- b. Con người hành động.
+- c. Con người tư duy.
+- d. Con người hiện thự
 
 > [!success]- Đáp án
 > **b. Chịu sự tác động mạnh mẽ của phương pháp tư duy biện chứng**
@@ -267,6 +412,12 @@ aliases:
 
 **Câu 3.** "Vật chất là phức hợp của những cảm giác" là quan điểm của:
 
+
+- a. Chủ nghĩa duy tâm khách quan.
+- b. Chủ nghĩa duy tâm chủ quan.
+- c. Chủ nghĩa duy vật biện chứng.
+- d. Chủ nghĩa duy vật siêu hình.
+
 > [!success]- Đáp án
 > **b. Chủ nghĩa duy tâm chủ quan**
 >
@@ -275,6 +426,10 @@ aliases:
 ---
 
 **Câu 4.** Đâu KHÔNG phải tính chất của vật chất?
+
+
+- a. Hoạt động tinh thần.
+- b. Sản xuất tinh thần.
 
 > [!success]- Đáp án
 > **d. Không liên quan gì đến ý thức**
@@ -285,6 +440,12 @@ aliases:
 
 **Câu 5.** "Vận động là phương thức tồn tại" nghĩa là:
 
+
+- a. Thể chế chính trị.
+- b. Hình thức nhà nướ
+- c. Phương thức sản xuất.
+- d. Hình thức tôn giáo.
+
 > [!success]- Đáp án
 > **d. Vật chất tồn tại bằng cách vận động, thông qua vận động để biểu hiện sự tồn tại**
 >
@@ -293,6 +454,12 @@ aliases:
 ---
 
 **Câu 6.** Định nghĩa vật chất của Lênin được viết trong tác phẩm nào?
+
+
+- c. Cách thức con người tiến hành mọi hoạt động sản xuất qua các giai đoạn lịch sử.
+- b. Cách thức con người sản xuất ra của cải vật chất cho xã hội.
+- c. Cách thức con người thực hiện các quan hệ xã hội ở những giai đoạn lịch sử nhất ĐỊNH của
+- d. Cách thức con người thực hiện trong quá trình sản xuất vật chất ở những giai đoạn lịch sử
 
 > [!success]- Đáp án
 > **a. Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán**
@@ -303,6 +470,11 @@ aliases:
 
 **Câu 7.** Phương pháp Lênin dùng để định nghĩa vật chất:
 
+
+- a. Công cụ lao động.
+- c. Người lao động.
+- d. Tư liệu sản xuất.
+
 > [!success]- Đáp án
 > **c. Đặt phạm trù vật chất đối lập với phạm trù ý thức trên phương diện nhận thức luận cơ bản**
 >
@@ -311,6 +483,11 @@ aliases:
 ---
 
 **Câu 8.** Ý nghĩa định nghĩa vật chất của Lênin với khoa học:
+
+
+- a. Người lao động và tư liệu sản xuất.
+- b. Người lao động và công cụ lao động.
+- c. Người lao động và tư liệu lao động.
 
 > [!success]- Đáp án
 > **c. Định hướng: vật chất là vô cùng, vô tận, không sinh ra và không mất đi**
@@ -321,6 +498,12 @@ aliases:
 
 **Câu 9.** Nhận định đúng về Lênin giải quyết vấn đề cơ bản của triết học:
 
+
+- a. Tư liệu lao động và đối tượng lao động.
+- b. Công cụ lao động và tư liệu lao động.
+- c. Phương tiện lao động và công cụ lao động.
+- d. Công cụ lao động và đối tượng lao động.
+
 > [!success]- Đáp án
 > **d. Trên lập trường duy vật biện chứng và khả tri luận**
 >
@@ -329,6 +512,11 @@ aliases:
 ---
 
 **Câu 10.** Nguồn gốc của vận động nằm ở đâu?
+
+
+- a. Phương tiện lao động.
+- b. Công cụ lao động.
+- c. Đối tượng lao động.
 
 > [!success]- Đáp án
 > **d. Trong nội tại của sự vật, hiện tượng**
@@ -339,6 +527,12 @@ aliases:
 
 **Câu 11.** Hình thức vận động nào cao nhất?
 
+
+- a. Lực lượng sản xuất.
+- b. Quan hệ sản xuất.
+- c. Phương thức sản xuất.
+- d. Sản xuất vật chất.
+
 > [!success]- Đáp án
 > **e. Vận động xã hội**
 >
@@ -347,6 +541,12 @@ aliases:
 ---
 
 **Câu 12.** Không gian và thời gian là:
+
+
+- a. Mối quan hệ giữa con người với đối tượng lao động.
+- b. Mối quan hệ giữa con người với công cụ lao động.
+- c. Mối quan hệ giữa con người với tư liệu sản xuất.
+- d. Mối quan hệ giữa người với người trong quá trình sản xuất.
 
 > [!success]- Đáp án
 > **Hình thức tồn tại của vật chất**
@@ -357,6 +557,12 @@ aliases:
 
 **Câu 13.** Nguồn gốc tự nhiên của ý thức là:
 
+
+- a. Quan hệ tổ chức sản xuất
+- b. Quan hệ quản lý sản xuất.
+- c. Quan hệ phân phối.
+- d. Quan hệ sở hữu về tư liệu sản xuất.
+
 > [!success]- Đáp án
 > **Bộ óc người + thuộc tính phản ánh của vật chất**
 >
@@ -365,6 +571,11 @@ aliases:
 ---
 
 **Câu 14.** Nguồn gốc xã hội của ý thức là:
+
+
+- a. Quan hệ giữa con người với tự nhiên và quan hệ giữa con người với sản phẩm của quá
+- b. Quan hệ giữa con người với tự nhiên và quan hệ giữa con người với từ liệu sản xuất.
+- d. Quan hệ giữa người với người trong sản xuất vật chất và quan hệ giai cấp trong xã hội.
 
 > [!success]- Đáp án
 > **Lao động và ngôn ngữ**
@@ -375,6 +586,10 @@ aliases:
 
 **Câu 15.** Bản chất của ý thức là:
 
+
+- a. Sự phong phú của đối tượng lao động.
+- b. Thể chế chính trị.
+
 > [!success]- Đáp án
 > **Hình ảnh chủ quan của thế giới khách quan**
 >
@@ -383,6 +598,12 @@ aliases:
 ---
 
 **Câu 16.** Yếu tố nào quan trọng nhất trong kết cấu của ý thức?
+
+
+- a. Cơ sở hạ tằng/kiến trúc thượng tầng.
+- b. Cơ sở hạ tằng/quan hệ sản xuất.
+- c. Lực lượng sản xuất/quan hệ sản xuất.
+- d. Lực lượng sản xuắt/kiến trúc thượng tầng.
 
 > [!success]- Đáp án
 > **Tri thức**
@@ -393,6 +614,11 @@ aliases:
 
 **Câu 17.** Vật chất quyết định ý thức, ý nghĩa là:
 
+
+- a. Lực lượng sản xuất phụ thuộc vào quan hệ sản xuất.
+- b. Quan hệ sản xuất phụ thuộc vào trình độ phát triển của lực lượng sản xuất.
+- d. Quan hệ sản xuất và lực lượng sản xuất đều hoàn toàn phụ thuộc vào quyền lực nhà nướ
+
 > [!success]- Đáp án
 > **Vật chất có trước, ý thức có sau; vật chất sinh ra và quyết định nội dung ý thức**
 >
@@ -401,6 +627,12 @@ aliases:
 ---
 
 **Câu 18.** Ý thức tác động lại vật chất thông qua:
+
+
+- a. Lực lượng sản xuất.
+- b. Quan hệ sản xuất,
+- c. Phương thức sận xuất.
+- d. Sản xuất vật chất.
 
 > [!success]- Đáp án
 > **Hoạt động thực tiễn của con người**
@@ -411,6 +643,11 @@ aliases:
 
 **Câu 19.** Hai nguyên lý của phép biện chứng duy vật là:
 
+
+- a. Công cụ lao động
+- b. Tư liệu sản xuất
+- d. Tài nguyên khoáng sản.
+
 > [!success]- Đáp án
 > **Liên hệ phổ biến + Phát triển**
 >
@@ -419,6 +656,11 @@ aliases:
 ---
 
 **Câu 20.** Nguồn gốc của sự vận động và phát triển:
+
+
+- a. Hoàn toàn b quy ĐỊNH bởi những người lãnh đạo các cơ sở sản xuất.
+- b. Hoàn toàn b quy ĐỊNH bởi chế độ chính trị xã hội.
+- d. Tổn tại khách quan và không phụ thuộc vào ý thức của con người.
 
 > [!success]- Đáp án
 > **a. Quy luật mâu thuẫn (thống nhất và đấu tranh của các mặt đối lập)**
@@ -429,6 +671,12 @@ aliases:
 
 **Câu 21.** Cách thức của sự vận động và phát triển:
 
+
+- a. Sự phản ánh tích cực, năng động, sáng tạo thế giới khách quan vào trong đầu óc con người.
+- b. Tiếp nhận và xử lý các kích thích từ môi trường bên ngoài vào bên trong bộ não.
+- c. Hình ảnh của thế giới khách quan và suy nghĩ chủ quan.
+- d. Quá trình vật chất vận động bên trong bộ não.
+
 > [!success]- Đáp án
 > **Quy luật lượng–chất**
 >
@@ -437,6 +685,13 @@ aliases:
 ---
 
 **Câu 22.** Xu hướng của sự vận động và phát triển:
+
+
+- a. Công cụ lao động.
+- d. Đối tượng lao động.
+- a. Đặc điểm tự nhiên của Việt Nam quy ĐỊNH.
+- b. Thành phần giai cấp trong xã hội Việt Nam quy ĐỊNH.
+- d. Nhận thức chính trị của Việt Nam quy ĐỊNH.
 
 > [!success]- Đáp án
 > **Quy luật phủ định của phủ định**
@@ -447,6 +702,11 @@ aliases:
 
 **Câu 23.** "Độ" trong quy luật lượng–chất là:
 
+
+- a. Ý thức quyết ĐỊNH vật chất, vật chất có tính độc lập tương đối và tác động trở lại ý thứ
+- b. Ý thức quyết ĐỊNH vật chất, vật chất hoàn toàn độc lập và tác động trở lại ý thứ
+- d. Vật chất quyết ĐỊNH ý thức, ý thức hoàn toàn độc lập và tác động trở lại vật chất.
+
 > [!success]- Đáp án
 > **d. Khoảng giới hạn trong đó sự thay đổi về lượng chưa làm thay đổi căn bản về chất**
 >
@@ -455,6 +715,12 @@ aliases:
 ---
 
 **Câu 24.** Phán đoán SAI về quan hệ chất–lượng:
+
+
+- a. Chủ động thiết lập quan bệ sản xuất trước, sau đó phát triển lực lượng sản xuất phù hợp.
+- b. Chủ động xây dựng lực lượng sản xuất trước, sau đó phát triển quan hệ sản xuất phù hợp.
+- c. Kết hợp đồng thời phát triển lực lượng sản xuất với xác lập quan hệ sản xuất phù hợp.
+- d. Tôn trọng quy luật khách quan và tuyệt đối không can thiệp vào sự phát triển của lực
 
 > [!success]- Đáp án
 > **d. Sự thay đổi về lượng và chất độc lập nhau, không liên quan**
@@ -465,6 +731,10 @@ aliases:
 
 **Câu 25.** "Điểm nút" là gì?
 
+
+- a. Toàn bộ đất đai, máy móc, phương tiện để sản xuất của cải vật chất trong xã hội.
+- b. Toàn bộ những quan hệ sản xuất hợp thành cơ-sở kinh tế của một xã hội nhất ĐỊNH.
+
 > [!success]- Đáp án
 > **Ngưỡng lượng khi đạt tới sẽ làm cho chất thay đổi (bước nhảy)**
 >
@@ -473,6 +743,12 @@ aliases:
 ---
 
 **Câu 26.** Sinh viên đăng ký nhiều môn để mau tốt nghiệp mà không cần chất lượng vi phạm quy luật nào?
+
+
+- a. Các chính đảng
+- b. Nhà nước,
+- c. Các đoàn thể chính trị - xã hội
+- d. Giáo hội.
 
 > [!success]- Đáp án
 > **a. Quy luật lượng–chất**
@@ -483,6 +759,10 @@ aliases:
 
 **Câu 27.** Vai trò quy luật thống nhất và đấu tranh của các mặt đối lập:
 
+
+- a. Kiến trúc thượng tầng.
+- b. Trình độ nhận thức của con người ngày càng cao.
+
 > [!success]- Đáp án
 > **a. Nguồn gốc của sự vận động và phát triển**
 >
@@ -491,6 +771,11 @@ aliases:
 ---
 
 **Câu 28.** Mặt đối lập là:
+
+
+- b. Kiến trúc thượng tầng luôn có tác động tích cực đối với cơ sở hạ tầng.
+- c. Kiến trúc thượng tầng thường xuyên có vai trò tác động trở lại cơ sở hạ tầng của xã hội.
+- d. Kiến trúc thượng tầng quyết ĐỊNH cơ sở hạ tầng.
 
 > [!success]- Đáp án
 > **Những mặt có khuynh hướng phát triển trái chiều nhau trong cùng một sự vật**
@@ -501,6 +786,12 @@ aliases:
 
 **Câu 29.** Cách giải quyết mâu thuẫn đúng đắn nhất theo phép biện chứng:
 
+
+- a. Quan hệ giữa đời sống vật chất và đời sống tinh thần.
+- b. Quan hệ
+- c. Quan hệ giữa tồn tại xã hội và ý thức xã hội.
+- d. Quan hệ giữa kinh tế và chính trị.
+
 > [!success]- Đáp án
 > **Đấu tranh giải quyết mâu thuẫn, đưa sự vật lên hình thức mới cao hơn**
 >
@@ -509,6 +800,11 @@ aliases:
 ---
 
 **Câu 30.** Phủ định biện chứng khác phủ định siêu hình ở chỗ:
+
+
+- a. Lực lượng sản xuất,
+- b. Quan hệ sản xuất.
+- c. Cơ sở hạ tầng.
 
 > [!success]- Đáp án
 > **Có tính kế thừa — loại bỏ cái lỗi thời, giữ lại cái hợp lý**
@@ -519,6 +815,11 @@ aliases:
 
 **Câu 31.** Quy luật phủ định của phủ định, sự phát triển có hình thức:
 
+
+- a. Mọi yếu tố của kiến trúc thượng tầng sẽ thay đổi theo ngay.
+- b. Nhà nước, tôn giáo, đạo đức thay đổi theo ngay.
+- d. Không phải mọi yếu tổ của kiến trúc thượng tầng sẽ thay đổi theo ngay.
+
 > [!success]- Đáp án
 > **Xoáy ốc đi lên (không phải vòng tròn)**
 >
@@ -527,6 +828,14 @@ aliases:
 ---
 
 **Câu 32.** Kế thừa hoàn toàn cái cũ để tạo ra cái mới:
+
+
+- a. Cơ sở hạ tầng quyết ĐỊNH sự hình thành của kiến trúc thượng tầng.
+- b. Cơ sở hạ tầng thay đổi thì kiến trúc thượng tầng thay đổi theo.
+- c. Mọi sự thay đổi của kiến trúc thượng tằng đều đo sự thay đổi của cơ sở hạ tầng gây r
+- d. Kiến trúc thượng tầng có thể lạc hậu so với cơ sở hạ tầng.
+- b. Khi cơ sở hạ tầng thay đổi, ngay lập tức mọi bộ phận của kiến trúc thượng tầng thay đổi.
+- d. Kiến trúc thượng tầng có khả năng kìm hãm sự phát triển của cơ sở hạ tầng
 
 > [!success]- Đáp án
 > **SAI**
@@ -537,6 +846,11 @@ aliases:
 
 **Câu 33.** Áp dụng dập khuôn cách học của người này cho người khác vi phạm phạm trù:
 
+
+- a. Cái chung là cái cái bao trùm toàn bộ cái riêng.
+- b. Chỉ có cái chung tồn tại thực còn cái riêng không tồn tại.
+- c. Chỉ có cái riêng tồn tại thực còn cái chung chỉ là tên gọi trống rỗng.
+
 > [!success]- Đáp án
 > **c. Cái chung và cái riêng**
 >
@@ -545,6 +859,11 @@ aliases:
 ---
 
 **Câu 34.** Quy luật lượng–chất cho thấy rõ:
+
+
+- a. Hệ thống điện-đường-trường-trạm hiện đại, rộng khắp cả nước,
+- b. Nền kinh tế th trường.
+- d. Nền sản xuất được công nghiệp hóa, hiện đại hóa ở trình độ tiên tiến.
 
 > [!success]- Đáp án
 > **b. Cách thức của sự vận động và phát triển**
@@ -555,6 +874,15 @@ aliases:
 
 **Câu 35.** Phạm trù "chất" trong quy luật lượng–chất là:
 
+
+- a. Lực lượng sản xuất, quan hệ sản xuất
+- b. Lực lượng sản xuất, quan hệ sản xuất và kiến trúc thượng tầng
+- c. Cơ sở hạ tầng và kiến trúc thượng tầng
+- d. Tồn tại xã hội và ý thức xã hội
+- a. Lch sử tất yếu theo quy luật V.I. Lênin.
+- b. Lch sử đi lên/ Ph. Ăngghen.
+- d. Lch sử của các đân tộc/ Hồ Chí Minh.
+
 > [!success]- Đáp án
 > **d. Sự thống nhất hữu cơ của những thuộc tính làm cho sự vật là nó chứ không phải cái khác**
 >
@@ -564,6 +892,12 @@ aliases:
 
 **Câu 36.** Phạm trù "lượng" là:
 
+
+- a. Những nguyên nhân cơ bản, bên trong.
+- b. Những nguyên nhân bên ngoài.
+- c. Những nguyên nhân không cơ bản.
+- d. Những nguyên nhân thứ yếu.
+
 > [!success]- Đáp án
 > **d. Phạm trù triết học, chỉ tính quy định khách quan về mặt số lượng các yếu tố cấu thành, quy mô, tốc độ, nhịp điệu vận động**
 >
@@ -572,6 +906,12 @@ aliases:
 ---
 
 **Câu 37.** "Độ" là (chọn đúng):
+
+
+- a. Lực lượng sản xuất, quan hệ sản xuất, kiến trúc thượng tầng.
+- b. TỒn tại xã hội, ý thức xã hội, cơ sở hạ tầng.
+- c. Cơ sở hạ tầng, kiến trúc thượng tầng, tồn tại xã hội.
+- d. Lực lượng sản xuất, quan hệ sản xuất, tồn tại xã hội.
 
 > [!success]- Đáp án
 > **d. Thể hiện sự thống nhất giữa lượng và chất, chỉ khoảng giới hạn lượng thay đổi chưa làm thay đổi căn bản chất**
@@ -591,6 +931,18 @@ aliases:
 
 **Câu 39.** Trường phái nào cho rằng nhận thức chỉ phản ánh trạng thái chủ quan của con người?
 
+
+- a. Sự tăng lên không ngừng của năng suất lao động.
+- b. Áp bức, bất công và mâu thuẫn giai cấp.
+- d. Mâu thuẫn giữa lực lượng sản xuất với quan hệ sản xuất.
+- b. Cộng sản nguyên thủy - Phong. kiến — Tư bản chủ nghĩa - XHCN — Cộng sản chủ nghĩ
+- c. Cộng sản nguyên thủy - Chiếm hữu nô lệ— Phong kiến — Tư bản chủ nghĩa — Cộng sản chủ nghĩ
+- d. Chiếm hữu nô lệ - Phong kiến - Tư bản chủ nghĩa XHCN — Cộng sản chủ nghĩ
+- a. Lực lượng sản xuất lạc hậu.
+- b. Quan hệ sản xuất lạc hậu.
+- c. Năng suất lao động thấp.
+- d. Từ một nền sản xuất nhỏ bỏ qua chế độ tư bản chủ nghĩ
+
 > [!success]- Đáp án
 > **a. Chủ nghĩa duy tâm chủ quan**
 >
@@ -599,6 +951,12 @@ aliases:
 ---
 
 **Câu 40.** "Nhận thức là tự nhận thức của Tinh thần thế giới":
+
+
+- a. Nội dung
+- b. Hìnhthức
+- c. Bảnchất
+- d. Hiện tượng.
 
 > [!success]- Đáp án
 > **b. Chủ nghĩa duy tâm khách quan (Hegel)**
@@ -609,6 +967,10 @@ aliases:
 
 **Câu 41.** "Từ trực quan sinh động đến tư duy trừu tượng…" là của ai và trong tác phẩm nào?
 
+
+- a. Không ngừng thu thập và tổng kết các hiện tượng.
+- d. Căn cứ vào cái bản chất để cải tạo hiện thự
+
 > [!success]- Đáp án
 > **đ. V.I. Lênin — Bút ký triết học**
 >
@@ -617,6 +979,16 @@ aliases:
 ---
 
 **Câu 42.** Nhận thức cảm tính là giai đoạn:
+
+
+- a. Bỏ qua toàn bộ hệ thống kinh tế tư bản chủ nghĩ
+- b. Bỏ qua sự thống trị của kiến trúc thượng tầng TBCN.
+- c. Bỏ qua lực lượng sản xuất, quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩ
+- a. .
+- a. Xã hội cộng sản nguyên thủy.
+- b. Xã hội phong, kiến.
+- c. Xã hội chiếm hữu nô lệ.
+- d. Xã hội tư bản.
 
 > [!success]- Đáp án
 > **c. Sự tác động trực tiếp của sự vật lên giác quan**
@@ -627,6 +999,10 @@ aliases:
 
 **Câu 43.** "Cảm giác là hình ảnh chủ quan về thế giới khách quan" thuộc lập trường:
 
+
+- a. Nguyên nhân và kết quả. _
+- b. Bản chất và hiện tượng.
+
 > [!success]- Đáp án
 > **d. Chủ nghĩa duy vật biện chứng**
 >
@@ -635,6 +1011,11 @@ aliases:
 ---
 
 **Câu 44.** Nhận thức lý tính được thực hiện dưới hình thức:
+
+
+- a. Giai cấp đông đảo nhất trong xã hội.
+- b. Giai cấp đóng vai trò là lực lượng sản xuất chủ yếu của xã hội.
+- d. Tầng lớp có trình độ hiểu biết về khoa học cao nhất trong xã hội.
 
 > [!success]- Đáp án
 > **c. Khái niệm, phán đoán, suy luận**
@@ -645,6 +1026,11 @@ aliases:
 
 **Câu 45.** Định nghĩa "thực tiễn" đúng:
 
+
+- a. Giai cấp cơ bản của xã hội là các giai cấp được sinh ra từ chính phương thức sản xuất đang
+- b. Trong mỗi xã hội có giai cấp, ngoài giai cấp cơ bản còn tồn tại các giai cấp không cơ bản
+- d. Trí thức là một giai cấp cơ bản trong xã hội.
+
 > [!success]- Đáp án
 > **a. Hoạt động vật chất có mục đích mang tính lịch sử-xã hội của con người nhằm cải tạo tự nhiên và xã hội**
 >
@@ -653,6 +1039,11 @@ aliases:
 ---
 
 **Câu 46.** Đâu KHÔNG phải hoạt động thực tiễn?
+
+
+- a. Sự phân công lao động xã hội phát triển, tách lao động trí óc khỏi lao động chân tay.
+- b. Năng suất lao động cao có sản phẩm dư thừa tương đối.
+- d. Công cụ sản xuất bằng kim loại thay thế công cụ bằng đá,
 
 > [!success]- Đáp án
 > **b. Viết nhật ký cá nhân không chia sẻ với ai**
@@ -663,6 +1054,11 @@ aliases:
 
 **Câu 47.** Hình thức thực tiễn cơ bản, đầu tiên là:
 
+
+- a. Giai cấp tư sản đông đảo nhất trong xã hội.
+- b. Giai cấp tư sản là lực lượng trực tiếp sản xuất ra của cải của xã hội.
+- c. Giai cấp tư sản là giai cấp sở hữu tư liệu sản xuất chủ yếu trong xã hội.
+
 > [!success]- Đáp án
 > **c. Hoạt động sản xuất vật chất**
 >
@@ -671,6 +1067,11 @@ aliases:
 ---
 
 **Câu 48.** Hoạt động nào thể hiện tính tự giác cao nhằm cải tạo xã hội?
+
+
+- a. Do một lý thuyết khoa học về giai cấp thúc đây quần chúng nhân dân nổi dậy.
+- b. Do sự lôi kéo của một thủ lĩnh có uy tín trong nhân dân phát động và lãnh đạo.
+- d. Do mâu thuẫn giữa trình độ phát triển của lực lượng sản xuắt xã hội với quan hệ sản xuất
 
 > [!success]- Đáp án
 > **d. Hoạt động chính trị-xã hội**
@@ -681,6 +1082,11 @@ aliases:
 
 **Câu 49.** Vai trò của thực tiễn với nhận thức:
 
+
+- a. Trong thời kỳ quá độ đi lên chủ nghĩa xã hội ở Việt Nam vẫn tồn tại giai cấp và đấu tranh
+- b. Trong thời kỳ quá độ đi lên chủ nghĩa xã hội ở Việt Nam do không còn đối kháng giai cấp
+- d. Đầu tranh trên lĩnh vực kinh tế là một biểu hiện của cuộc đấu tranh giai cấp trong thời kỳ
+
 > [!success]- Đáp án
 > **c. Là cơ sở, động lực, mục đích và là tiêu chuẩn của chân lý**
 >
@@ -690,6 +1096,12 @@ aliases:
 
 **Câu 50.** Tiêu chuẩn của chân lý theo triết học Mác-Lênin:
 
+
+- a. Giai cấp tồn tại trong mọi xã hội.
+- b. Giai cấp là một phạm trù lịch sử.
+- c. Giai cấp là những tập đoàn người mà tập đoàn này có thể chiếm đoạt lao động của tập đoàn khá
+- d. Sự ra đời của giai cấp không phụ thuộc vào ý muốn chủ quan của con người.
+
 > [!success]- Đáp án
 > **Thực tiễn**
 >
@@ -698,6 +1110,12 @@ aliases:
 ---
 
 **Câu 51.** Thực tiễn là tiêu chuẩn của chân lý như thế nào?
+
+
+- a. Bắt cứ giai cấp nào cũng có thẻ làm cho hệ tư tưởng của nó trở thành hệ tư tưởng thống
+- b. Chỉ có đội ngũ trí thức mới có thể làm cho hệ tư tưởng của nó trở thành hệ tư tưởng.
+- c. Chỉ có giai cấp nắm quyền sở hữu tư liệu sản xuất chủ yếu mới có thể làm cho hệ tư
+- d. Chỉ có giai cấp ưu tú trong xã hội mới có thể làm cho hệ tư tưởng của nó trở thành tư
 
 > [!success]- Đáp án
 > **c. Vừa tuyệt đối vừa tương đối**
@@ -710,6 +1128,11 @@ aliases:
 
 **Câu 1.** Xã hội có các loại hình sản xuất cơ bản là:
 
+
+- a. Sản xuất ra văn hóa, con người và đời sống tinh thần.
+- b. Sản xuất ra của cải vật chất, đời sống tinh thần và nghệ thuật.
+- c. Sản xuất vật chất, sản xuất tinh thần, sản xuất ra bản thân con người.
+
 > [!success]- Đáp án
 > **c. Sản xuất vật chất, tinh thần, và sản xuất ra bản thân con người**
 >
@@ -718,6 +1141,11 @@ aliases:
 ---
 
 **Câu 2.** Tiền đề xuất phát của quan điểm duy vật lịch sử là:
+
+
+- b. Con người hành động.
+- c. Con người tư duy.
+- d. Con người hiện thự
 
 > [!success]- Đáp án
 > **d. Con người hiện thực**
@@ -728,6 +1156,12 @@ aliases:
 
 **Câu 3.** "Loài vật may mắn chỉ hái lượm, còn con người lại…(1)…" — (2) là của ai?
 
+
+- a. Chủ nghĩa duy tâm khách quan.
+- b. Chủ nghĩa duy tâm chủ quan.
+- c. Chủ nghĩa duy vật biện chứng.
+- d. Chủ nghĩa duy vật siêu hình.
+
 > [!success]- Đáp án
 > **b. 1) Sản xuất, 2) Ph. Ăngghen**
 >
@@ -736,6 +1170,10 @@ aliases:
 ---
 
 **Câu 4.** "…là cơ sở của sự tồn tại và phát triển xã hội, xét đến cùng quyết định toàn bộ đời sống xã hội":
+
+
+- a. Hoạt động tinh thần.
+- b. Sản xuất tinh thần.
 
 > [!success]- Đáp án
 > **đ. Sản xuất vật chất**
@@ -746,6 +1184,12 @@ aliases:
 
 **Câu 5.** Tiêu chuẩn quan trọng nhất phân biệt các thời đại kinh tế:
 
+
+- a. Thể chế chính trị.
+- b. Hình thức nhà nướ
+- c. Phương thức sản xuất.
+- d. Hình thức tôn giáo.
+
 > [!success]- Đáp án
 > **c. Phương thức sản xuất**
 >
@@ -754,6 +1198,12 @@ aliases:
 ---
 
 **Câu 6.** Phương thức sản xuất là:
+
+
+- c. Cách thức con người tiến hành mọi hoạt động sản xuất qua các giai đoạn lịch sử.
+- b. Cách thức con người sản xuất ra của cải vật chất cho xã hội.
+- c. Cách thức con người thực hiện các quan hệ xã hội ở những giai đoạn lịch sử nhất ĐỊNH của
+- d. Cách thức con người thực hiện trong quá trình sản xuất vật chất ở những giai đoạn lịch sử
 
 > [!success]- Đáp án
 > **Cách thức con người sản xuất ra của cải vật chất trong từng giai đoạn lịch sử**
@@ -764,6 +1214,11 @@ aliases:
 
 **Câu 7.** Lực lượng sản xuất biểu hiện quan hệ của con người với:
 
+
+- a. Công cụ lao động.
+- c. Người lao động.
+- d. Tư liệu sản xuất.
+
 > [!success]- Đáp án
 > **Tự nhiên**
 >
@@ -772,6 +1227,11 @@ aliases:
 ---
 
 **Câu 8.** Yếu tố nào quan trọng nhất của lực lượng sản xuất?
+
+
+- a. Người lao động và tư liệu sản xuất.
+- b. Người lao động và công cụ lao động.
+- c. Người lao động và tư liệu lao động.
 
 > [!success]- Đáp án
 > **Người lao động (với kinh nghiệm, kỹ năng, tri thức)**
@@ -782,6 +1242,12 @@ aliases:
 
 **Câu 9.** Quan hệ sản xuất bao gồm:
 
+
+- a. Tư liệu lao động và đối tượng lao động.
+- b. Công cụ lao động và tư liệu lao động.
+- c. Phương tiện lao động và công cụ lao động.
+- d. Công cụ lao động và đối tượng lao động.
+
 > [!success]- Đáp án
 > **Quan hệ sở hữu TLSX + Quan hệ tổ chức quản lý + Quan hệ phân phối sản phẩm**
 >
@@ -790,6 +1256,11 @@ aliases:
 ---
 
 **Câu 10.** Quy luật cơ bản của sự vận động xã hội:
+
+
+- a. Phương tiện lao động.
+- b. Công cụ lao động.
+- c. Đối tượng lao động.
 
 > [!success]- Đáp án
 > **LLSX quyết định QHSX; QHSX tác động lại LLSX**
@@ -800,6 +1271,12 @@ aliases:
 
 **Câu 11.** Cơ sở hạ tầng là:
 
+
+- a. Lực lượng sản xuất.
+- b. Quan hệ sản xuất.
+- c. Phương thức sản xuất.
+- d. Sản xuất vật chất.
+
 > [!success]- Đáp án
 > **Toàn bộ quan hệ sản xuất hợp thành cơ cấu kinh tế của xã hội**
 >
@@ -808,6 +1285,12 @@ aliases:
 ---
 
 **Câu 12.** Kiến trúc thượng tầng bao gồm:
+
+
+- a. Mối quan hệ giữa con người với đối tượng lao động.
+- b. Mối quan hệ giữa con người với công cụ lao động.
+- c. Mối quan hệ giữa con người với tư liệu sản xuất.
+- d. Mối quan hệ giữa người với người trong quá trình sản xuất.
 
 > [!success]- Đáp án
 > **Toàn bộ quan điểm chính trị, pháp luật, đạo đức, triết học, tôn giáo… và các thiết chế tương ứng**
@@ -818,6 +1301,10 @@ aliases:
 
 **Câu 43.** Xã hội đầu tiên xuất hiện giai cấp là:
 
+
+- a. Nguyên nhân và kết quả. _
+- b. Bản chất và hiện tượng.
+
 > [!success]- Đáp án
 > **c. Xã hội chiếm hữu nô lệ**
 >
@@ -826,6 +1313,11 @@ aliases:
 ---
 
 **Câu 44.** Giai cấp thống trị là giai cấp nào?
+
+
+- a. Giai cấp đông đảo nhất trong xã hội.
+- b. Giai cấp đóng vai trò là lực lượng sản xuất chủ yếu của xã hội.
+- d. Tầng lớp có trình độ hiểu biết về khoa học cao nhất trong xã hội.
 
 > [!success]- Đáp án
 > **c. Giai cấp nắm quyền sở hữu tư liệu sản xuất chủ yếu**
@@ -836,6 +1328,11 @@ aliases:
 
 **Câu 45.** Nhận định SAI:
 
+
+- a. Giai cấp cơ bản của xã hội là các giai cấp được sinh ra từ chính phương thức sản xuất đang
+- b. Trong mỗi xã hội có giai cấp, ngoài giai cấp cơ bản còn tồn tại các giai cấp không cơ bản
+- d. Trí thức là một giai cấp cơ bản trong xã hội.
+
 > [!success]- Đáp án
 > **d. Trí thức là một giai cấp cơ bản**
 >
@@ -844,6 +1341,11 @@ aliases:
 ---
 
 **Câu 46.** Nguyên nhân trực tiếp quyết định sự ra đời giai cấp:
+
+
+- a. Sự phân công lao động xã hội phát triển, tách lao động trí óc khỏi lao động chân tay.
+- b. Năng suất lao động cao có sản phẩm dư thừa tương đối.
+- d. Công cụ sản xuất bằng kim loại thay thế công cụ bằng đá,
 
 > [!success]- Đáp án
 > **c. Sự xuất hiện chế độ sở hữu tư nhân về tư liệu sản xuất**
@@ -854,6 +1356,11 @@ aliases:
 
 **Câu 47.** Giai cấp tư sản thống trị vì:
 
+
+- a. Giai cấp tư sản đông đảo nhất trong xã hội.
+- b. Giai cấp tư sản là lực lượng trực tiếp sản xuất ra của cải của xã hội.
+- c. Giai cấp tư sản là giai cấp sở hữu tư liệu sản xuất chủ yếu trong xã hội.
+
 > [!success]- Đáp án
 > **c. Nắm quyền sở hữu tư liệu sản xuất chủ yếu**
 >
@@ -862,6 +1369,11 @@ aliases:
 ---
 
 **Câu 48.** Nguyên nhân khách quan của đấu tranh giai cấp:
+
+
+- a. Do một lý thuyết khoa học về giai cấp thúc đây quần chúng nhân dân nổi dậy.
+- b. Do sự lôi kéo của một thủ lĩnh có uy tín trong nhân dân phát động và lãnh đạo.
+- d. Do mâu thuẫn giữa trình độ phát triển của lực lượng sản xuắt xã hội với quan hệ sản xuất
 
 > [!success]- Đáp án
 > **d. Mâu thuẫn giữa LLSX phát triển với QHSX lỗi thời**
@@ -872,6 +1384,11 @@ aliases:
 
 **Câu 49.** Nhận định SAI về đấu tranh giai cấp:
 
+
+- a. Trong thời kỳ quá độ đi lên chủ nghĩa xã hội ở Việt Nam vẫn tồn tại giai cấp và đấu tranh
+- b. Trong thời kỳ quá độ đi lên chủ nghĩa xã hội ở Việt Nam do không còn đối kháng giai cấp
+- d. Đầu tranh trên lĩnh vực kinh tế là một biểu hiện của cuộc đấu tranh giai cấp trong thời kỳ
+
 > [!success]- Đáp án
 > **b. Thời kỳ quá độ ở VN không còn đấu tranh giai cấp**
 >
@@ -880,6 +1397,12 @@ aliases:
 ---
 
 **Câu 50.** Nhận định SAI về giai cấp:
+
+
+- a. Giai cấp tồn tại trong mọi xã hội.
+- b. Giai cấp là một phạm trù lịch sử.
+- c. Giai cấp là những tập đoàn người mà tập đoàn này có thể chiếm đoạt lao động của tập đoàn khá
+- d. Sự ra đời của giai cấp không phụ thuộc vào ý muốn chủ quan của con người.
 
 > [!success]- Đáp án
 > **a. Giai cấp tồn tại trong mọi xã hội**
@@ -890,6 +1413,12 @@ aliases:
 
 **Câu 51.** Ai có thể làm hệ tư tưởng của mình thống trị toàn xã hội?
 
+
+- a. Bắt cứ giai cấp nào cũng có thẻ làm cho hệ tư tưởng của nó trở thành hệ tư tưởng thống
+- b. Chỉ có đội ngũ trí thức mới có thể làm cho hệ tư tưởng của nó trở thành hệ tư tưởng.
+- c. Chỉ có giai cấp nắm quyền sở hữu tư liệu sản xuất chủ yếu mới có thể làm cho hệ tư
+- d. Chỉ có giai cấp ưu tú trong xã hội mới có thể làm cho hệ tư tưởng của nó trở thành tư
+
 > [!success]- Đáp án
 > **c. Chỉ giai cấp nắm quyền sở hữu TLSX chủ yếu**
 >
@@ -898,6 +1427,10 @@ aliases:
 ---
 
 **Câu 52.** Sự ra đời của nhà nước là do:
+
+
+- a. Nguyện vọng của giai cấp thống trị.
+- b. Nguyện vọng của mỗi quốc gia, dân tộ
 
 > [!success]- Đáp án
 > **c. Tất yếu, khách quan, do nguyên nhân kinh tế**
@@ -908,6 +1441,11 @@ aliases:
 
 **Câu 53.** Bản chất nhà nước theo quan điểm marxít:
 
+
+- a. Công cụ quyền lực quản lý xã hội vì mục đích chung.
+- b. Công cụ quyền lực thực hiện chuyên chính giai cấp của giai cấp thống trị.
+- d. Công cụ quyền lực của giai cấp thống trị.
+
 > [!success]- Đáp án
 > **b. Công cụ quyền lực thực hiện chuyên chính giai cấp của giai cấp thống trị**
 >
@@ -916,6 +1454,12 @@ aliases:
 ---
 
 **Câu 54.** Nguyên nhân trực tiếp nhà nước xuất hiện:
+
+
+- a. Sự thỏa thuận của mọi tầng lớp trong xã hội.
+- b. Những mâu thuẫn giai cấp không thể điều hòa đượ
+- c. Tham vọng quyền lực của các chính trị gi
+- d. Lý tưởng cao đẹp của những người ưu tú trong xã hội.
 
 > [!success]- Đáp án
 > **b. Mâu thuẫn giai cấp không thể điều hòa được**
@@ -926,6 +1470,11 @@ aliases:
 
 **Câu 55.** Nguyên nhân sâu xa nhà nước xuất hiện:
 
+
+- a. Sự thỏa thuận của mọi tầng lớp trong xã hội.
+- b. Sự ra đời của chế độ tư hữu.
+- d. Đấu tranh giai cấp.
+
 > [!success]- Đáp án
 > **b. Sự ra đời của chế độ tư hữu**
 >
@@ -934,6 +1483,10 @@ aliases:
 ---
 
 **Câu 56.** Nhận định SAI:
+
+
+- a. Giai cấp b tr chu ảnh hưởng tư tưởng của giai cấp thống trị.
+- b. Giai cấp thống trị không chu ảnh hưởng tư tưởng của giai cấp b tr.
 
 > [!success]- Đáp án
 > **c. Giai cấp bị trị có thể có hệ tư tưởng riêng của mình**
@@ -944,6 +1497,12 @@ aliases:
 
 **Câu 57.** Nhà nước "xuất hiện và tồn tại…":
 
+
+- a. Thủ tiêu các mặt đối lập.
+- b. Kiềm chế các mặt đối lập không cho chúng bộc phát.
+- c. Chuyển hóa các mặt đối lập.
+- d. Giữ mặt đối lập này và gạt bỏ mặt đối lập khá
+
 > [!success]- Đáp án
 > **b. Trong một giai đoạn lịch sử nhất định**
 >
@@ -952,6 +1511,12 @@ aliases:
 ---
 
 **Câu 58.** Chức năng giai cấp của nhà nước:
+
+
+- a. Củng cố mở rộng cơ sở chính trị xã hội cho sự thống trị của giai cấp cầm quyền.
+- b. Tổ chức kiến tạo kết cấu giai cấp của xã hội.
+- c. Thực hiện chuyên chính, trần áp các giai cấp đối lập.
+- d. Thúc đẩy sự hình thành và phát triển của các giai cấp mới.
 
 > [!success]- Đáp án
 > **c. Thực hiện chuyên chính, trấn áp các giai cấp đối lập**
@@ -962,6 +1527,12 @@ aliases:
 
 **Câu 59.** Căn cứ phân loại kiểu nhà nước:
 
+
+- a. Chức năng của nhà nướ
+- b. Bản chất giai cấp của nhà nướ
+- c. Nguồn gốc của nhà nướ
+- d. Cách thức tổ chức quyền lực nhà nướ
+
 > [!success]- Đáp án
 > **b. Bản chất giai cấp của nhà nước**
 >
@@ -970,6 +1541,12 @@ aliases:
 ---
 
 **Câu 60.** Nhà nước trong thời kỳ quá độ lên CNXH là:
+
+
+- a. Nhà nước dân chủ cộng hò
+- b. Nhà nước dân chủ tư sản.
+- c. Cộng hoà đại ngh.
+- d. Nhà nước đân chủ nhân dân.
 
 > [!success]- Đáp án
 > **d. Nhà nước dân chủ nhân dân**
@@ -980,6 +1557,10 @@ aliases:
 
 **Câu 61.** Xu hướng nhà nước trong CNCS:
 
+
+- b. Chuyển hóa thành nhà nước cộng sản.
+- d. Nhà nước tự tiêu vong.
+
 > [!success]- Đáp án
 > **d. Nhà nước tự tiêu vong**
 >
@@ -988,6 +1569,12 @@ aliases:
 ---
 
 **Câu 62.** Lật đổ chế độ cũ, thiết lập chế độ mới tiến bộ hơn gọi là:
+
+
+- a. Đảo chính.
+- b. Cách mạng xã hội.
+- c. Bạoloạn.
+- d. Cách mạng văn hó
 
 > [!success]- Đáp án
 > **b. Cách mạng xã hội**
@@ -998,6 +1585,12 @@ aliases:
 
 **Câu 63.** Cộng đồng người ổn định, lãnh thổ chung, kinh tế-ngôn ngữ-văn hóa chung:
 
+
+- a. Bộ lạ
+- b. Dân tộ
+- c. Quốc gi
+- d. Bộ tộ
+
 > [!success]- Đáp án
 > **b. Dân tộc**
 >
@@ -1006,6 +1599,12 @@ aliases:
 ---
 
 **Câu 64.** Tồn tại xã hội bao gồm:
+
+
+- a. Phương thức sản xuất và điều kiện tự nhiên - hoàn cảnh đa lý.
+- b. Phương thức sản xuất, điều kiện tự nhiên - hoàn cảnh đa lý, và dân cư.
+- c. Phương thức sản xuất, xã hội và đân cư.
+- d. Điều kiện tự nhiên - hoàn cảnh đa lý và dân cư.
 
 > [!success]- Đáp án
 > **b. Phương thức sản xuất, điều kiện tự nhiên-địa lý, và dân cư**
@@ -1016,6 +1615,11 @@ aliases:
 
 **Câu 65.** Ý thức xã hội dùng để chỉ:
 
+
+- a. Phương điện sinh hoạt vật chất của xã hội.
+- b. Phương diện sinh hoạt tinh thần của một giai cấp.
+- d. Những đặc trưng về tâm lý, tính cách của một cộng đồng dân tộ
+
 > [!success]- Đáp án
 > **c. Phương diện sinh hoạt tinh thần của đời sống xã hội, nảy sinh từ và phản ánh tồn tại xã hội**
 >
@@ -1024,6 +1628,11 @@ aliases:
 ---
 
 **Câu 66.** Quan hệ ý thức xã hội – ý thức cá nhân là biểu thị quan hệ:
+
+
+- a. Nội dung và hình thứ
+- b. Cái chung và cái riêng.
+- d. Cái chung và cái đơn nhất.
 
 > [!success]- Đáp án
 > **b. Cái chung và cái riêng**
@@ -1034,6 +1643,10 @@ aliases:
 
 **Câu 67.** Đặc điểm đúng của hệ tư tưởng:
 
+
+- a. Hệ tư tưởng ra đời trực tiếp từ tâm lý xã hội.
+- b. Hệ tư tưởng là hệ thống những quan điểm, hệ thống hoá, khái quát hóa thành lý luận, thành
+
 > [!success]- Đáp án
 > **b. Là hệ thống những quan điểm được hệ thống hóa, khái quát thành lý luận, phản ánh lợi ích của một giai cấp nhất định**
 >
@@ -1042,6 +1655,12 @@ aliases:
 ---
 
 **Câu 68.** Vai trò tồn tại xã hội với ý thức xã hội:
+
+
+- a. Ý thức xã hội hoàn toàn phụ thuộc một cách thụ động vào tồn tại xã hội.
+- b. Tồn tại xã hội quyết ĐỊNH ý thức xã hội.
+- c. Khi tồn tại xã hội thay đổi thì toàn bộ các yếu tố cấu thành ý thức xã hội sẽ biển đổi ngay
+- d. Tồn tại xã hội có vai trò quyết ĐỊNH đối với các hình thái ý thức xã hội một cách đơn giản,
 
 > [!success]- Đáp án
 > **b. Tồn tại xã hội quyết định ý thức xã hội**
@@ -1052,6 +1671,11 @@ aliases:
 
 **Câu 69.** Nhận định đúng:
 
+
+- a. Không phải ý thức quyết ĐỊNH đời sống mà chính đời sống quyết ĐỊNH ý thứ
+- b. Không phải đời sống quyết ĐỊNH ý thức mà chính ý thức quyết ĐỊNH đời sống.
+- d. Đời sống và ý thức tồn tại độc lập với nhau.
+
 > [!success]- Đáp án
 > **a. Không phải ý thức quyết định đời sống mà chính đời sống quyết định ý thức**
 >
@@ -1060,6 +1684,12 @@ aliases:
 ---
 
 **Câu 70.** Tính độc lập tương đối của ý thức xã hội:
+
+
+- a. Những tư tưởng khoa học tiên tiến có thể vượt trước sự phát triển của tồn tại xã hội nên
+- b. Tồn tại xã hội thay đổi nhưng có một số bộ phận của ý thức xã hội chưa thay đổi ngay
+- c. Các bình thái ý thức xã hội trong sự phát triển không thể tác động qua lại lẫn nhau.
+- d. Trong xã hội có giai cấp, tính chất kế thừa của ý thức xã hội không gắn liền với tính giai
 
 > [!success]- Đáp án
 > **b. Tồn tại xã hội thay đổi nhưng có bộ phận ý thức xã hội chưa thay đổi ngay**
@@ -1070,6 +1700,12 @@ aliases:
 
 **Câu 71.** Các hình thái ý thức xã hội cơ bản:
 
+
+- a. Ý thức chính trị, ý thức pháp quyền, ý thức đạo đức, ý thức văn hóa, ý thức tôn giáo, ý
+- b. Ý thức chính trị, ý thức pháp quyền, ý thức đạo đức, ý thức thẩm mỹ, ý thức tôn giáo, ý
+- c. Ý thức chính trị, ý thức pháp quyên, ý thức đạo đức, ý thức dân tộc, ý thức tôn giáo, ý thức
+- d. Ý thức chính trị, ý thức pháp quyền, ý thức văn hóa, ý thức môi trường, ý thức tôn giáo, ý
+
 > [!success]- Đáp án
 > **b. Ý thức chính trị, pháp quyền, đạo đức, thẩm mỹ, tôn giáo, khoa học, triết học**
 >
@@ -1078,6 +1714,11 @@ aliases:
 ---
 
 **Câu 72.** Nhân tố xét đến cùng quyết định thắng lợi của chế độ xã hội mới:
+
+
+- a. Sức mạnh của nhà nước
+- b. Sức mạnh của pháp luật
+- c. Năng suất lao động xã hội.
 
 > [!success]- Đáp án
 > **c. Năng suất lao động xã hội**
@@ -1088,6 +1729,12 @@ aliases:
 
 **Câu 73.** Hình thái ý thức xã hội nào ra đời ngay trong XHCS nguyên thủy?
 
+
+- b. Hoạt động tinh thần.
+- a. Hoạt động vật chất,
+- c. Hoạt động vật chất và tinh thần.
+- d. Hoạt động sản xuất.
+
 > [!success]- Đáp án
 > **b. Ý thức thẩm mỹ**
 >
@@ -1096,6 +1743,11 @@ aliases:
 ---
 
 **Câu 74.** CNDVLS coi giới tự nhiên là:
+
+
+- a. Thực tiễn không phải là toàn bộ hoạt động của con người mà chỉ là những hoạt
+- b. Thực tiễn là những hoạt động mang tính lịch sử - xã hội của con người.
+- c. Thực tiễn là hoạt động có tính mục đích nhằm cải tạo tự nhiên và xã hội phục vụ con người.
 
 > [!success]- Đáp án
 > **e. Thân thể vô cơ của con người**
@@ -1106,6 +1758,11 @@ aliases:
 
 **Câu 75.** Quan điểm đúng về con người:
 
+
+- b. Con người vừa là chủ thể của lịch sử, vừa là sản phẩm của lịch sử.
+- c. Con người sáng tạo ra lịch sử theo mong muốn chủ quan của mình.
+- d. Con người vừa là sản phẩm của lịch sử, vừa là bô phận của lịch sử.
+
 > [!success]- Đáp án
 > **b. Con người vừa là chủ thể của lịch sử, vừa là sản phẩm của lịch sử**
 >
@@ -1114,6 +1771,12 @@ aliases:
 ---
 
 **Câu 76.** "Bản chất con người không phải trừu tượng…Trong tính hiện thực của nó, bản chất con người là…(2)… các quan hệ xã hội":
+
+
+- a. Con người cụ thể.
+- b. Con người trừu tượng.
+- c. Con người hiện thự
+- d. Con người lý tưởng.
 
 > [!success]- Đáp án
 > **d. 1) tính hiện thực, 2) tổng hòa**
@@ -1124,6 +1787,12 @@ aliases:
 
 **Câu 77.** Xuất phát điểm nghiên cứu CNDVLS của Mác-Ăngghen:
 
+
+- a. Thực tiễn là tiêu chuẩn của chân lý hoàn toàn có tính chất tuyệt đối.
+- b. Thực tiễn là tiêu chuẩn của chân lý hoàn toàn có tính chất tương đối.
+- c. Thực tiễn là tiêu chuẩn của chân lý vừa có tính chất tuyệt đối, vừa có tính chất tương đối.
+- d. Thực tiễn không phải là tiêu chuẩn khách quan để kiểm tra chân lý.
+
 > [!success]- Đáp án
 > **c. Con người hiện thực**
 >
@@ -1132,6 +1801,12 @@ aliases:
 ---
 
 **Câu 78.** Cống hiến quan trọng nhất của triết học Mác về bản chất con người:
+
+
+- a. Chỉ ra bản chất con người là chủ thể sáng tạo ra lịch sử
+- b. Chỉ ra hai mặt cơ bản tạo thành bản chất con người là cái sinh học và cái xã hội
+- c. Chỉ ra vai trò của các quan hệ xã hội trong việc hình thành bản chất con người.
+- d. Chỉ ra bản chất con người là kết quả của sự tiến hóa lâu dài của giới tự nhiên.
 
 > [!success]- Đáp án
 > **c. Chỉ ra vai trò của các quan hệ xã hội trong việc hình thành bản chất con người**
@@ -1142,6 +1817,12 @@ aliases:
 
 **Câu 79.** KHÔNG thể hiện đúng quan điểm về tha hóa con người:
 
+
+- a. Tha hoá con người là phạm trù vĩnh viễn.
+- b. Tha hoá con người là hiện tượng mang tính lịch sử.
+- c. Tha hoá con người không chỉ tồn tại trong lĩnh vực đạo đứ
+- d. Tha hoá con người phát triển cao độ trong xã hội tư bản chủ nghĩa,
+
 > [!success]- Đáp án
 > **a. Tha hóa con người là phạm trù vĩnh viễn**
 >
@@ -1150,6 +1831,11 @@ aliases:
 ---
 
 **Câu 80.** Lịch sử được quyết định bởi:
+
+
+- a. Lch sử được quyết ĐỊNH bởi quần chúng nhân dân.
+- b. Lch sử được quyết ĐỊNH bởi mệnh trời.
+- d. Lch sử không do ai quyết ĐỊNH, vì nó điễn ra theo quy luật tự nhiên.
 
 > [!success]- Đáp án
 > **a. Quần chúng nhân dân**
