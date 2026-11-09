@@ -28,7 +28,9 @@ aliases:
 - d. Tình yêu thần thánh
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **a. Yêu mến sự thông thái**
+>
+> Từ "philosophia" (Hy Lạp) = philo (yêu) + sophia (trí tuệ)
 
 ---
 
@@ -54,7 +56,9 @@ aliases:
 - d. Học thuyết hư vô
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Học thuyết nhị nguyên**
+>
+> Nhị nguyên luận thừa nhận cả hai bản nguyên vật chất lẫn tinh thần
 
 ---
 
@@ -66,7 +70,9 @@ aliases:
 - d. Triết học Tây Âu cận đại
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Triết học Tây Âu trung cổ**
+>
+> Kinh viện học (scholasticism) là triết học phục vụ thần học Tây Âu thời trung cổ
 
 ---
 
