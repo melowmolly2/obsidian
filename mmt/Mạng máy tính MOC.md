@@ -43,3 +43,12 @@ Môn: COMPSCI 453
 
 [[Câu hỏi ôn tập]]
 [[Bộ câu hỏi ôn tập 3 chương]]
+
+### Bộ câu hỏi theo chương (có đáp án ẩn)
+
+| Chương | Link |
+|---|---|
+| Index | [[Index]] |
+| Chương 1 | [[C1 – Câu hỏi ôn tập]] |
+| Chương 2 | [[C2 – Câu hỏi ôn tập]] |
+| Chương 3 | [[C3 – Câu hỏi ôn tập]] |
