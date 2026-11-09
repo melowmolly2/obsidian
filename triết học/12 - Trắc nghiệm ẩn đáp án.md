@@ -22,11 +22,10 @@ aliases:
 
 **Câu 1.** Theo triết học Hy Lạp cổ đại, "triết học" là gì?
 
-
-- a. Sản xuất ra văn hóa, con người và đời sống tinh thần
-- b. Sản xuất ra của cải vật chất, đời sống tinh thần và nghệ thuật
-- c. Sản xuất vật chất, sản xuất tinh thần, sản xuất ra bản thân con người
-- đ. Sản xuất vật chất, sản xuất tinh thần, sản xuất văn hóa
+- a. Yêu mến sự thông thái
+- b. Tình yêu cuộc sống
+- c. Yêu quý thiên nhiên
+- d. Tình yêu thần thánh
 
 > [!success]- Đáp án
 > **a. Yêu mến sự thông thái**
@@ -37,11 +36,10 @@ aliases:
 
 **Câu 2.** Nguồn gốc ra đời của triết học là:
 
-
-- b. Con người hành động
-- c. Con người tư duy
-- d. Con người hiện thực
-- đ. 1) Tư duy, 2) V.I. Lênin
+- a. Nguồn gốc tự nhiên và xã hội
+- b. Nguồn gốc kinh tế - xã hội
+- c. Nguồn gốc nhận thức và tự nhiên
+- d. Nguồn gốc nhận thức và xã hội
 
 > [!success]- Đáp án
 > **d. Nguồn gốc nhận thức và xã hội**
@@ -52,11 +50,10 @@ aliases:
 
 **Câu 3.** Thuyết nào thừa nhận hai bản nguyên vật chất và tinh thần song song tồn tại?
 
-
-- a. Chủ nghĩa duy tâm khách quan
-- b. Chủ nghĩa duy tâm chủ quan
-- c. Chủ nghĩa duy vật biện chứng
-- d. Chủ nghĩa duy vật siêu hình
+- a. Học thuyết nhất nguyên
+- b. Học thuyết nhị nguyên
+- c. Học thuyết đa nguyên
+- d. Học thuyết hư vô
 
 > [!success]- Đáp án
 > **b. Học thuyết nhị nguyên**
