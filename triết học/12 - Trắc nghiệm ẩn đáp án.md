@@ -191,7 +191,9 @@ aliases:
 - d. Thừa nhận khả năng nhận thức của con người
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Bộ óc người + thuộc tính phản ánh của vật chất**
+>
+> Ý thức là chức năng của não người phát triển cao
 
 ---
 
@@ -203,7 +205,9 @@ aliases:
 - d. Thừa nhận khả năng nhận thức của con người
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Lao động và ngôn ngữ**
+>
+> Hai nguồn gốc xã hội trực tiếp và quan trọng nhất
 
 ---
 
@@ -215,7 +219,9 @@ aliases:
 - d. Chủ nghĩa duy vật chất phác, chủ nghĩa duy vật siêu hình, chủ nghĩa duy vật biện chứng
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Hình ảnh chủ quan của thế giới khách quan**
+>
+> Nội dung: khách quan; hình thức: chủ quan
 
 ---
 
@@ -227,7 +233,9 @@ aliases:
 - d. Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật siêu hình
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Tri thức**
+>
+> Tri thức là nội dung cốt lõi; tình cảm + ý chí bổ trợ
 
 ---
 
@@ -237,7 +245,9 @@ aliases:
 - b. Con người không thể nhận thức được về bản chất thật sự của sự vật, hiện tượng
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Vật chất có trước, ý thức có sau; vật chất sinh ra và quyết định nội dung ý thức**
+>
+> Nguyên lý duy vật biện chứng
 
 ---
 
@@ -249,7 +259,9 @@ aliases:
 - d. Phương pháp biện chứng là phương pháp nhận thức khoa học
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Hoạt động thực tiễn của con người**
+>
+> Ý thức không tác động trực tiếp, mà qua hành động
 
 ---
 
@@ -260,7 +272,9 @@ aliases:
 - c. Chủ nghĩa tư bản đã phát triển và giai cấp vô sản xuất hiện trên vũ đài lịch sử
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Liên hệ phổ biến + Phát triển**
+>
+> Nền tảng của toàn bộ phép biện chứng
 
 ---
 
@@ -271,7 +285,9 @@ aliases:
 - d. Chủ nghĩa duy vật thế kỷ XVII - XVIII
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **a. Quy luật mâu thuẫn (thống nhất và đấu tranh của các mặt đối lập)**
+>
+> Quy luật 1 chỉ ra nguồn gốc
 
 ---
 
@@ -283,7 +299,9 @@ aliases:
 - c. Các phong trào này thiếu lý luận khoa học soi đường
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Quy luật lượng–chất**
+>
+> Tích lũy lượng → nhảy vọt về chất
 
 ---
 
@@ -295,7 +313,9 @@ aliases:
 - d. Học thuyết tiến hoá
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Quy luật phủ định của phủ định**
+>
+> Phát triển theo đường xoáy ốc đi lên
 
 ---
 
@@ -307,7 +327,9 @@ aliases:
 - d. Chứng minh cho múi liên hệ gắn bó giữa triết học và khoa học tự nhiên
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Khoảng giới hạn trong đó sự thay đổi về lượng chưa làm thay đổi căn bản về chất**
+>
+> Trong "độ": lượng thay đổi, chất chưa đổi
 
 ---
 
@@ -319,7 +341,9 @@ aliases:
 - d. Bản thảo kinh tế - triết học
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Sự thay đổi về lượng và chất độc lập nhau, không liên quan**
+>
+> Sai vì lượng và chất liên hệ biện chứng với nhau
 
 ---
 
@@ -329,7 +353,9 @@ aliases:
 - b. Thống nhất giữa triết hoc của Hegel và triết học của Phoiơbắc
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Ngưỡng lượng khi đạt tới sẽ làm cho chất thay đổi (bước nhảy)**
+>
+> Điểm nút = ranh giới của "độ"
 
 ---
 
@@ -341,7 +367,9 @@ aliases:
 - d. Chủ nghĩa duy vật siêu hình
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **a. Quy luật lượng–chất**
+>
+> Tích lũy lượng (số môn) mà không đảm bảo chất
 
 ---
 
@@ -351,7 +379,9 @@ aliases:
 - b. Giá tr phê phán đối với chủ nghĩa tư bản; thức tính tinh thần nhân văn, đấu tranh giải
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **a. Nguồn gốc của sự vận động và phát triển**
+>
+> Đây là quy luật cơ bản nhất ("hạt nhân của phép biện chứng")
 
 ---
 
@@ -361,7 +391,9 @@ aliases:
 - b. Chủ nghĩa xã hội không tưởng Pháp
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Những mặt có khuynh hướng phát triển trái chiều nhau trong cùng một sự vật**
+>
+> Không phải mọi sự khác nhau đều là mặt đối lập
 
 ---
 
@@ -373,7 +405,9 @@ aliases:
 - d. Chức năng thế giới quan và phương pháp luận
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đấu tranh giải quyết mâu thuẫn, đưa sự vật lên hình thức mới cao hơn**
+>
+> Không phải xóa bỏ các mặt đối lập (SAI)
 
 ---
 
@@ -382,7 +416,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Có tính kế thừa — loại bỏ cái lỗi thời, giữ lại cái hợp lý**
+>
+> Không phải xóa bỏ hoàn toàn
 
 ---
 
@@ -391,7 +427,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Xoáy ốc đi lên (không phải vòng tròn)**
+>
+> Quay lại điểm xuất phát nhưng ở trình độ cao hơn
 
 ---
 
@@ -400,7 +438,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **SAI**
+>
+> Phủ định biện chứng chỉ kế thừa có chọn lọc
 
 ---
 
@@ -409,7 +449,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Cái chung và cái riêng**
+>
+> Cái chung phải được áp dụng qua cái riêng cụ thể
 
 ---
 
@@ -418,7 +460,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Cách thức của sự vận động và phát triển**
+>
+> Câu hỏi "như thế nào?"
 
 ---
 
@@ -427,7 +471,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Sự thống nhất hữu cơ của những thuộc tính làm cho sự vật là nó chứ không phải cái khác**
+>
+> Định nghĩa chuẩn
 
 ---
 
@@ -436,7 +482,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Phạm trù triết học, chỉ tính quy định khách quan về mặt số lượng các yếu tố cấu thành, quy mô, tốc độ, nhịp điệu vận động**
+>
+> Không phải phạm trù số học hay KH cụ thể
 
 ---
 
@@ -449,7 +497,9 @@ aliases:
 - d. Đồng nhất vật chất với ý thức
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Sản xuất vật chất, tinh thần, và sản xuất ra bản thân con người**
+>
+> Ba phương diện không tách rời
 
 ---
 
@@ -461,7 +511,9 @@ aliases:
 - d. Đồng nhất vật chất với nguyên tử
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Con người hiện thực**
+>
+> Mác xuất phát từ con người hiện thực đang hoạt động, không phải trừu tượng
 
 ---
 
@@ -473,7 +525,9 @@ aliases:
 - d. Chủ nghĩa duy vật siêu hình
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. 1) Sản xuất, 2) Ph. Ăngghen**
+>
+> Câu của Ăngghen về sự khác biệt người–vật
 
 ---
 
@@ -485,7 +539,9 @@ aliases:
 - d. Không liên quan gì đến ý thức
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **đ. Sản xuất vật chất**
+>
+> Vai trò quyết định của SXVC trong CNDVLS
 
 ---
 
@@ -496,7 +552,9 @@ aliases:
 - d. Vật chất tồn tại bằng cách vận động, thông qua vận động để biểu hiện sự tồn tại
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Phương thức sản xuất**
+>
+> Không phải thể chế chính trị hay tôn giáo
 
 ---
 
@@ -506,7 +564,9 @@ aliases:
 - b. Bút ký triết học
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Cách thức con người sản xuất ra của cải vật chất trong từng giai đoạn lịch sử**
+>
+> = Lực lượng sản xuất + Quan hệ sản xuất
 
 ---
 
@@ -518,7 +578,9 @@ aliases:
 - d. Quy phạm trù vật chất về khái niệm khác có phạm vi bao quát rộng hơn
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Tự nhiên**
+>
+> QHSX biểu hiện quan hệ giữa người với người
 
 ---
 
@@ -530,7 +592,9 @@ aliases:
 - d. Giúp cho các nhà khoa học thấy được vật chất là vô hình, không thể nhìn thấy bằng
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Người lao động (với kinh nghiệm, kỹ năng, tri thức)**
+>
+> Công cụ lao động quan trọng nhưng người lao động là yếu tố động
 
 ---
 
@@ -569,7 +633,9 @@ aliases:
 - đ. Vận động và đứng im chỉ là tương đối, tạm thời
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Toàn bộ quan hệ sản xuất hợp thành cơ cấu kinh tế của xã hội**
+>
+> Không phải cơ sở vật chất kỹ thuật
 
 ---
 
@@ -580,7 +646,9 @@ aliases:
 - c. Con người là sinh vật duy nhất có năng lực sản xuất
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Toàn bộ quan điểm chính trị, pháp luật, đạo đức, triết học, tôn giáo… và các thiết chế tương ứng**
+>
+> Phản ánh và bảo vệ CSHT
 
 ---
 
@@ -591,7 +659,9 @@ aliases:
 - d. Các hình thức vận động cao luôn bao hàm trong nó những hình thức vận động thấp
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Bộ óc người + thuộc tính phản ánh của vật chất**
+>
+> Ý thức là chức năng của não người phát triển cao
 
 ---
 
@@ -602,7 +672,9 @@ aliases:
 - d. Ý thức là cái vốn có trong bộ óc của con người
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Lao động và ngôn ngữ**
+>
+> Hai nguồn gốc xã hội trực tiếp và quan trọng nhất
 
 ---
 
@@ -614,7 +686,9 @@ aliases:
 - d. Năng lực ngôn ngữ phát triển
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Hình ảnh chủ quan của thế giới khách quan**
+>
+> Nội dung: khách quan; hình thức: chủ quan
 
 ---
 
@@ -626,7 +700,9 @@ aliases:
 - d. Ngôn ngữ phát triển với cả tiếng nói và chữ viết
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Tri thức**
+>
+> Tri thức là nội dung cốt lõi; tình cảm + ý chí bổ trợ
 
 ---
 
@@ -638,7 +714,9 @@ aliases:
 - a. Ý thức là thuộc tính của mọi dạng vật chất
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Vật chất có trước, ý thức có sau; vật chất sinh ra và quyết định nội dung ý thức**
+>
+> Nguyên lý duy vật biện chứng
 
 ---
 
@@ -650,7 +728,9 @@ aliases:
 - d. Ý thức không phải thuần tuý là hiện tượng cá nhân mà là hiện tượng xã hội
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Hoạt động thực tiễn của con người**
+>
+> Ý thức không tác động trực tiếp, mà qua hành động
 
 ---
 
@@ -662,7 +742,9 @@ aliases:
 - d. Quá trình vật chất vận động bên trong bộ não
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Liên hệ phổ biến + Phát triển**
+>
+> Nền tảng của toàn bộ phép biện chứng
 
 ---
 
@@ -673,7 +755,9 @@ aliases:
 - d. Ý thức là hình ảnh tinh thần tồn tại trong não người, phản ánh tích cực, sáng tạo
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **a. Quy luật mâu thuẫn (thống nhất và đấu tranh của các mặt đối lập)**
+>
+> Quy luật 1 chỉ ra nguồn gốc
 
 ---
 
@@ -683,7 +767,9 @@ aliases:
 - b. Ý thức quyết ĐỊNH vật chất, vật chất hoàn toàn độc lập và tác động trở lại ý thức
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Quy luật lượng–chất**
+>
+> Tích lũy lượng → nhảy vọt về chất
 
 ---
 
@@ -695,7 +781,9 @@ aliases:
 - d. Ý thức tự nó chỉ làm thay đổi tư tưởng, do đó ý thức hoàn toàn không có vai trò gì
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Quy luật phủ định của phủ định**
+>
+> Phát triển theo đường xoáy ốc đi lên
 
 ---
 
@@ -707,7 +795,9 @@ aliases:
 - d. Nguyên tắc tôn trọng tính khách quan kết hợp với phát huy tính năng động, chủ quan
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Khoảng giới hạn trong đó sự thay đổi về lượng chưa làm thay đổi căn bản về chất**
+>
+> Trong "độ": lượng thay đổi, chất chưa đổi
 
 ---
 
@@ -719,7 +809,9 @@ aliases:
 - d. Sự phản ánh của biện chứng khách quan vào đầu óc con người
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Sự thay đổi về lượng và chất độc lập nhau, không liên quan**
+>
+> Sai vì lượng và chất liên hệ biện chứng với nhau
 
 ---
 
@@ -730,7 +822,9 @@ aliases:
 - c. Mối tiên hệ giữa các sự vật, hiện tượng có tính phổ biến
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Ngưỡng lượng khi đạt tới sẽ làm cho chất thay đổi (bước nhảy)**
+>
+> Điểm nút = ranh giới của "độ"
 
 ---
 
@@ -741,7 +835,9 @@ aliases:
 - d. Chủ nghĩa duy vật biện chứng
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **a. Quy luật lượng–chất**
+>
+> Tích lũy lượng (số môn) mà không đảm bảo chất
 
 ---
 
@@ -753,7 +849,9 @@ aliases:
 - d. Phát triển là sự vận động đi lên, từ đơn giản đến phức tạp, từ kém hoàn thiện đến
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **a. Nguồn gốc của sự vận động và phát triển**
+>
+> Đây là quy luật cơ bản nhất ("hạt nhân của phép biện chứng")
 
 ---
 
@@ -763,7 +861,9 @@ aliases:
 - b. Nguyên tắc phát triển
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Những mặt có khuynh hướng phát triển trái chiều nhau trong cùng một sự vật**
+>
+> Không phải mọi sự khác nhau đều là mặt đối lập
 
 ---
 
@@ -775,7 +875,9 @@ aliases:
 - d. Lối sống đô th
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đấu tranh giải quyết mâu thuẫn, đưa sự vật lên hình thức mới cao hơn**
+>
+> Không phải xóa bỏ các mặt đối lập (SAI)
 
 ---
 
@@ -786,7 +888,9 @@ aliases:
 - c. Chỉ có cái riêng tồn tại thực còn cái chung chỉ là tên gọi trống rỗng
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Có tính kế thừa — loại bỏ cái lỗi thời, giữ lại cái hợp lý**
+>
+> Không phải xóa bỏ hoàn toàn
 
 ---
 
@@ -798,7 +902,9 @@ aliases:
 - d. Vì một nguyên nhân sinh ra nhiều kết quả và các kết quả có vị trí vai trò khác nhau
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Xoáy ốc đi lên (không phải vòng tròn)**
+>
+> Quay lại điểm xuất phát nhưng ở trình độ cao hơn
 
 ---
 
@@ -810,7 +916,9 @@ aliases:
 - d. Vì mối liên hệ nhân — quả tồn tại khách quan
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **SAI**
+>
+> Phủ định biện chứng chỉ kế thừa có chọn lọc
 
 ---
 
@@ -822,7 +930,9 @@ aliases:
 - d. Những nguyên nhân thứ yếu
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Cái chung và cái riêng**
+>
+> Cái chung phải được áp dụng qua cái riêng cụ thể
 
 ---
 
@@ -832,7 +942,9 @@ aliases:
 - b. Ngẫu nhiên mang tính xác suắt, chỉ có tất nhiên có tính quy luật
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Cách thức của sự vận động và phát triển**
+>
+> Câu hỏi "như thế nào?"
 
 ---
 
@@ -842,7 +954,9 @@ aliases:
 - b. Vì hình thức là yếu tố ổn ĐỊNH hơn nội dung
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Sự thống nhất hữu cơ của những thuộc tính làm cho sự vật là nó chứ không phải cái khác**
+>
+> Định nghĩa chuẩn
 
 ---
 
@@ -852,7 +966,9 @@ aliases:
 - d. Hiện tượng
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Phạm trù triết học, chỉ tính quy định khách quan về mặt số lượng các yếu tố cấu thành, quy mô, tốc độ, nhịp điệu vận động**
+>
+> Không phải phạm trù số học hay KH cụ thể
 
 ---
 
@@ -861,7 +977,9 @@ aliases:
 - a. Không ngừng thu thập và tổng kết các hiện tượng
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Thể hiện sự thống nhất giữa lượng và chất, chỉ khoảng giới hạn lượng thay đổi chưa làm thay đổi căn bản chất**
+>
+> Phương án c (SAI): "bất kỳ" thay đổi lượng đều làm đổi chất
 
 ---
 
@@ -873,7 +991,9 @@ aliases:
 - d. Trong hoạt động thực tiễn không cần dựa vào hiện thực, mà chỉ cần dựa theo suy
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Sự phản ánh tích cực, tự giác, sáng tạo thế giới khách quan vào bộ óc người trên cơ sở thực tiễn**
+>
+> Không phải phản ánh thụ động, không phải của mọi sinh vật
 
 ---
 
@@ -883,7 +1003,9 @@ aliases:
 - b. Bản chất và hiện tượng
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **a. Chủ nghĩa duy tâm chủ quan**
+>
+> Berkeley, Mach — cảm giác là thực tại
 
 ---
 
@@ -893,7 +1015,9 @@ aliases:
 - b. Cách thức của sự vận động và phát triển
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Chủ nghĩa duy tâm khách quan (Hegel)**
+>
+> Ý niệm tuyệt đối tự nhận thức qua lịch sử
 
 ---
 
@@ -905,7 +1029,9 @@ aliases:
 - d. Chất là sự thông nhất hữu cơ của những thuộc tính làm cho sự vật là nó chứ không
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **đ. V.I. Lênin — Bút ký triết học**
+>
+> Câu nổi tiếng về con đường biện chứng nhận thức
 
 ---
 
@@ -917,7 +1043,9 @@ aliases:
 - d. Lượng là phạm trù triết học, chỉ tính quy ĐỊNH khách quan vốn có của sự vật về mặt
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Sự tác động trực tiếp của sự vật lên giác quan**
+>
+> Cảm giác → tri giác → biểu tượng
 
 ---
 
@@ -929,7 +1057,9 @@ aliases:
 - đ. Mức độ thường xuyên tham gia phát biểu ý kiến xây đựng bài
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Xã hội chiếm hữu nô lệ**
+>
+> Công xã nguyên thủy chưa có giai cấp
 
 ---
 
@@ -939,7 +1069,9 @@ aliases:
 - b. Độ là phạm trù triết học chỉ sự biến đổi về chất và lượng
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Giai cấp nắm quyền sở hữu tư liệu sản xuất chủ yếu**
+>
+> Không phải đông đảo nhất hay trình độ cao nhất
 
 ---
 
@@ -950,7 +1082,9 @@ aliases:
 - d. Sự thay đổi về lượng và sự thay đổi về chất của sự vật là độc lập với nhau, không
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Trí thức là một giai cấp cơ bản**
+>
+> Trí thức là tầng lớp, không phải giai cấp cơ bản
 
 ---
 
@@ -962,7 +1096,9 @@ aliases:
 - d. Quy luật của lý luận nhận thức
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Sự xuất hiện chế độ sở hữu tư nhân về tư liệu sản xuất**
+>
+> Nguyên nhân sâu xa: LLSX phát triển có SP dư thừa
 
 ---
 
@@ -974,7 +1110,9 @@ aliases:
 - d. Con đường của sự vận động và phát triển
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Nắm quyền sở hữu tư liệu sản xuất chủ yếu**
+>
+> Định nghĩa Lênin về giai cấp
 
 ---
 
@@ -986,7 +1124,9 @@ aliases:
 - d. Mọi sự vật, hiện tượng đều được hình thành bởi sự thống nhất của các mặt đối lập,
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Mâu thuẫn giữa LLSX phát triển với QHSX lỗi thời**
+>
+> Không phải do lý thuyết hay lãnh tụ phát động
 
 ---
 
@@ -998,7 +1138,9 @@ aliases:
 - d. Đấu tranh giữa các mặt đối lập vừa tuyệt đối vừa tương đối
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Thời kỳ quá độ ở VN không còn đấu tranh giai cấp**
+>
+> SAI — vẫn còn đấu tranh giai cấp dưới hình thức mới
 
 ---
 
@@ -1024,7 +1166,9 @@ aliases:
 - d. Mâu thuẫn giữa các mặt đối lập
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Chỉ giai cấp nắm quyền sở hữu TLSX chủ yếu**
+>
+> "Giai cấp nào nắm quyền lực vật chất thì cũng nắm quyền lực tinh thần" — Mác
 
 ---
 
@@ -1036,7 +1180,9 @@ aliases:
 - d. Sự đấu tranh của các mặt đối lập vừa tương đối, vừa tuyệt đối
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Tất yếu, khách quan, do nguyên nhân kinh tế**
+>
+> Chế độ tư hữu + mâu thuẫn giai cấp không thể điều hòa
 
 ---
 
@@ -1048,7 +1194,9 @@ aliases:
 - d. Giữ mặt đối lập này và gạt bỏ mặt đối lập khác
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Công cụ quyền lực thực hiện chuyên chính giai cấp của giai cấp thống trị**
+>
+> Không phải vì mục đích chung
 
 ---
 
@@ -1072,7 +1220,9 @@ aliases:
 - d. Là sự kế thừa cái cũ
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Sự ra đời của chế độ tư hữu**
+>
+> Tư hữu → phân hóa giàu nghèo → giai cấp → nhà nước
 
 ---
 
@@ -1084,7 +1234,9 @@ aliases:
 - d. Đường xoáy ốc đi lên
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Giai cấp bị trị có thể có hệ tư tưởng riêng của mình**
+>
+> ĐỐI VỚI "SAI": theo đề bài "giai cấp bị trị chịu ảnh hưởng tư tưởng của giai cấp thống trị" là ĐÚNG; "không có hệ tư tưởng riêng" mới là vấn đề cần xem xét — đáp án là **b. Giai cấp thống trị không chịu ảnh hưởng tư tưởng giai cấp bị trị** (SAI vì thực tế có ảnh hưởng qua lại)
 
 ---
 
@@ -1096,7 +1248,9 @@ aliases:
 - d. Mở ra một chu kỳ phát triển mới trên cơ sở cao hơn
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Trong một giai đoạn lịch sử nhất định**
+>
+> Không phải mãi mãi — sẽ tiêu vong trong CNCS
 
 ---
 
@@ -1107,7 +1261,9 @@ aliases:
 - đ. Phủ định biện chứng có tính kế thừa siêu hình
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Thực hiện chuyên chính, trấn áp các giai cấp đối lập**
+>
+> Chức năng xã hội: quản lý công việc chung
 
 ---
 
@@ -1119,7 +1275,9 @@ aliases:
 - d. Tính kế thừa
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Bản chất giai cấp của nhà nước**
+>
+> Có 4 kiểu nhà nước tương ứng 4 hình thái KT-XH có giai cấp
 
 ---
 
@@ -1131,7 +1289,9 @@ aliases:
 - d. Phủ định của phủ định có tính chất lặp lại, đưa sự vật quay trở lại trạng thái cũ, kết
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Nhà nước dân chủ nhân dân**
+>
+> Chuyên chính vô sản dưới hình thức dân chủ nhân dân
 
 ---
 
@@ -1143,7 +1303,9 @@ aliases:
 - d. Phủ định của phủ định có tính kế thừa, vì vậy cần kế thừa hoàn toàn cái cũ để tạo
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Nhà nước tự tiêu vong**
+>
+> Khi không còn giai cấp, nhà nước mất đi lý do tồn tại
 
 ---
 
@@ -1153,7 +1315,9 @@ aliases:
 - b. Sự tiến gần của tư duy đến khách thể
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Cách mạng xã hội**
+>
+> Phân biệt với đảo chính (thay người cầm quyền)
 
 ---
 
@@ -1165,7 +1329,9 @@ aliases:
 - d. Chủ nghĩa duy vật siêu hình
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Dân tộc**
+>
+> Định nghĩa dân tộc (nation) theo CNDVLS
 
 ---
 
@@ -1177,7 +1343,9 @@ aliases:
 - d. Chủ nghĩa duy vật siêu hình
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Phương thức sản xuất, điều kiện tự nhiên-địa lý, và dân cư**
+>
+> Ba yếu tố cấu thành tồn tại xã hội
 
 ---
 
@@ -1186,7 +1354,9 @@ aliases:
 - đ. (1) V.L Lênin; (2) Bút ký triết học
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Phương diện sinh hoạt tinh thần của đời sống xã hội, nảy sinh từ và phản ánh tồn tại xã hội**
+>
+> Phân biệt với ý thức cá nhân
 
 ---
 
@@ -1198,7 +1368,9 @@ aliases:
 - d. Nhận thức khoa học
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Cái chung và cái riêng**
+>
+> YTXH là cái chung; ý thức cá nhân là cái riêng
 
 ---
 
@@ -1210,7 +1382,9 @@ aliases:
 - d. Chủ nghĩa duy vật biện chứng
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Là hệ thống những quan điểm được hệ thống hóa, khái quát thành lý luận, phản ánh lợi ích của một giai cấp nhất định**
+>
+> Hệ tư tưởng ≠ tâm lý xã hội (tự phát)
 
 ---
 
@@ -1222,7 +1396,9 @@ aliases:
 - d. Tr giác, biểu tượng, khái niệm
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Tồn tại xã hội quyết định ý thức xã hội**
+>
+> Nhưng không đơn giản, trực tiếp — có độc lập tương đối
 
 ---
 
@@ -1234,7 +1410,9 @@ aliases:
 - d. Hoạt động sản xuất
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **a. Không phải ý thức quyết định đời sống mà chính đời sống quyết định ý thức**
+>
+> Câu của Mác trong "Hệ tư tưởng Đức"
 
 ---
 
@@ -1246,7 +1424,9 @@ aliases:
 - đ. Thực tiễn là toàn bộ những hoạt động vật chất và tinh thần của con người
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Tồn tại xã hội thay đổi nhưng có bộ phận ý thức xã hội chưa thay đổi ngay**
+>
+> Ý thức có tính bảo thủ, lạc hậu hoặc tiên tiến hơn tồn tại XH
 
 ---
 
@@ -1258,7 +1438,9 @@ aliases:
 - d. Hoạt động chính trị - xã hội
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Ý thức chính trị, pháp quyền, đạo đức, thẩm mỹ, tôn giáo, khoa học, triết học**
+>
+> "Thẩm mỹ" không phải "văn hóa" hay "dân tộc"
 
 ---
 
@@ -1270,7 +1452,9 @@ aliases:
 - d. Hoạt động chính trị - xã hội
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Năng suất lao động xã hội**
+>
+> Lênin: CNXH thắng CNTB cuối cùng bằng năng suất lao động
 
 ---
 
@@ -1282,7 +1466,9 @@ aliases:
 - d. Thực tiễn không phải là tiêu chuẩn khách quan để kiểm tra chân lý
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Ý thức thẩm mỹ**
+>
+> Tranh hang động, âm nhạc nguyên thủy — ra đời từ rất sớm
 
 ---
 
@@ -1294,7 +1480,9 @@ aliases:
 - d. Nghiên cứu khoa học thực nghiệm trong phòng thí nghiệm
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **e. Thân thể vô cơ của con người**
+>
+> Mác: giới tự nhiên là "thân thể vô cơ" — con người phụ thuộc tự nhiên
 
 ---
 
@@ -1305,7 +1493,9 @@ aliases:
 - d. Là hoạt động vật chất, hoạt động tinh thần, hoạt động giải trí của con người
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Con người vừa là chủ thể của lịch sử, vừa là sản phẩm của lịch sử**
+>
+> Biện chứng: không thuần túy thụ động hay thuần túy chủ động
 
 ---
 
@@ -1315,7 +1505,9 @@ aliases:
 - b. Là đích đến của nhận thức
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. 1) tính hiện thực, 2) tổng hòa**
+>
+> Luận điểm nổi tiếng nhất của Mác về con người (Luận cương về Feuerbach, luận cương 6)
 
 ---
 
@@ -1324,7 +1516,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Con người hiện thực**
+>
+> Không phải trừu tượng, lý tưởng
 
 ---
 
@@ -1333,7 +1527,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Chỉ ra vai trò của các quan hệ xã hội trong việc hình thành bản chất con người**
+>
+> Bản chất = tổng hòa quan hệ xã hội
 
 ---
 
@@ -1342,7 +1538,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **a. Tha hóa con người là phạm trù vĩnh viễn**
+>
+> SAI — tha hóa mang tính lịch sử, sẽ được khắc phục
 
 ---
 
@@ -1564,7 +1762,9 @@ aliases:
 - b. Sản xuất tinh thần
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. 1) Sản xuất, 2) Ph. Ăngghen**
+>
+> Câu của Ăngghen về sự khác biệt người–vật
 
 ---
 
@@ -1576,7 +1776,9 @@ aliases:
 - d. Hình thức tôn giáo
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **đ. Sản xuất vật chất**
+>
+> Vai trò quyết định của SXVC trong CNDVLS
 
 ---
 
@@ -1601,7 +1803,9 @@ aliases:
 - d. Tư liệu sản xuất
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Cách thức con người sản xuất ra của cải vật chất trong từng giai đoạn lịch sử**
+>
+> = Lực lượng sản xuất + Quan hệ sản xuất
 
 ---
 
@@ -1613,7 +1817,9 @@ aliases:
 - đ. Người lao động và đối tượng lao động
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Tự nhiên**
+>
+> QHSX biểu hiện quan hệ giữa người với người
 
 ---
 
@@ -1625,7 +1831,9 @@ aliases:
 - d. Công cụ lao động và đối tượng lao động
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Người lao động (với kinh nghiệm, kỹ năng, tri thức)**
+>
+> Công cụ lao động quan trọng nhưng người lao động là yếu tố động
 
 ---
 
@@ -1637,7 +1845,9 @@ aliases:
 - đ. Sản phẩm của lao động
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Quan hệ sở hữu TLSX + Quan hệ tổ chức quản lý + Quan hệ phân phối sản phẩm**
+>
+> Ba mặt của QHSX
 
 ---
 
@@ -1649,7 +1859,9 @@ aliases:
 - d. Sản xuất vật chất
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **LLSX quyết định QHSX; QHSX tác động lại LLSX**
+>
+> Quy luật quan hệ sản xuất phù hợp với trình độ LLSX
 
 ---
 
@@ -1661,7 +1873,9 @@ aliases:
 - d. Mối quan hệ giữa người với người trong quá trình sản xuất
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Toàn bộ quan hệ sản xuất hợp thành cơ cấu kinh tế của xã hội**
+>
+> Không phải cơ sở vật chất kỹ thuật
 
 ---
 
@@ -1673,7 +1887,9 @@ aliases:
 - d. Quan hệ sở hữu về tư liệu sản xuất
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Toàn bộ quan điểm chính trị, pháp luật, đạo đức, triết học, tôn giáo… và các thiết chế tương ứng**
+>
+> Phản ánh và bảo vệ CSHT
 
 ---
 
@@ -1683,7 +1899,9 @@ aliases:
 - b. Quan hệ giữa con người với tự nhiên và quan hệ giữa con người với từ liệu sản xuất
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Bộ óc người + thuộc tính phản ánh của vật chất**
+>
+> Ý thức là chức năng của não người phát triển cao
 
 ---
 
@@ -1693,7 +1911,9 @@ aliases:
 - b. Thể chế chính trị
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Lao động và ngôn ngữ**
+>
+> Hai nguồn gốc xã hội trực tiếp và quan trọng nhất
 
 ---
 
@@ -1705,7 +1925,9 @@ aliases:
 - d. Lực lượng sản xuắt/kiến trúc thượng tầng
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Hình ảnh chủ quan của thế giới khách quan**
+>
+> Nội dung: khách quan; hình thức: chủ quan
 
 ---
 
@@ -1715,7 +1937,9 @@ aliases:
 - b. Quan hệ sản xuất phụ thuộc vào trình độ phát triển của lực lượng sản xuất
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Tri thức**
+>
+> Tri thức là nội dung cốt lõi; tình cảm + ý chí bổ trợ
 
 ---
 
@@ -1727,7 +1951,9 @@ aliases:
 - d. Sản xuất vật chất
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Vật chất có trước, ý thức có sau; vật chất sinh ra và quyết định nội dung ý thức**
+>
+> Nguyên lý duy vật biện chứng
 
 ---
 
@@ -1737,7 +1963,9 @@ aliases:
 - b. Tư liệu sản xuất
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Hoạt động thực tiễn của con người**
+>
+> Ý thức không tác động trực tiếp, mà qua hành động
 
 ---
 
@@ -1747,7 +1975,9 @@ aliases:
 - b. Hoàn toàn b quy ĐỊNH bởi chế độ chính trị xã hội
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Liên hệ phổ biến + Phát triển**
+>
+> Nền tảng của toàn bộ phép biện chứng
 
 ---
 
@@ -1756,7 +1986,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **a. Quy luật mâu thuẫn (thống nhất và đấu tranh của các mặt đối lập)**
+>
+> Quy luật 1 chỉ ra nguồn gốc
 
 ---
 
@@ -1765,7 +1997,9 @@ aliases:
 - a. Công cụ lao động
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Quy luật lượng–chất**
+>
+> Tích lũy lượng → nhảy vọt về chất
 
 ---
 
@@ -1777,7 +2011,9 @@ aliases:
 - d. Tôn trọng quy luật khách quan và tuyệt đối không can thiệp vào sự phát triển của lực
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Quy luật phủ định của phủ định**
+>
+> Phát triển theo đường xoáy ốc đi lên
 
 ---
 
@@ -1802,7 +2038,9 @@ aliases:
 - d. Giáo hội
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Sự thay đổi về lượng và chất độc lập nhau, không liên quan**
+>
+> Sai vì lượng và chất liên hệ biện chứng với nhau
 
 ---
 
@@ -1812,7 +2050,9 @@ aliases:
 - b. Trình độ nhận thức của con người ngày càng cao
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Ngưỡng lượng khi đạt tới sẽ làm cho chất thay đổi (bước nhảy)**
+>
+> Điểm nút = ranh giới của "độ"
 
 ---
 
@@ -1823,7 +2063,9 @@ aliases:
 - d. Kiến trúc thượng tầng quyết ĐỊNH cơ sở hạ tầng
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **a. Quy luật lượng–chất**
+>
+> Tích lũy lượng (số môn) mà không đảm bảo chất
 
 ---
 
@@ -1835,7 +2077,9 @@ aliases:
 - d. Quan hệ giữa kinh tế và chính trị
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **a. Nguồn gốc của sự vận động và phát triển**
+>
+> Đây là quy luật cơ bản nhất ("hạt nhân của phép biện chứng")
 
 ---
 
@@ -1847,7 +2091,9 @@ aliases:
 - đ. Nhà nước
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Những mặt có khuynh hướng phát triển trái chiều nhau trong cùng một sự vật**
+>
+> Không phải mọi sự khác nhau đều là mặt đối lập
 
 ---
 
@@ -1857,7 +2103,9 @@ aliases:
 - b. Nhà nước, tôn giáo, đạo đức thay đổi theo ngay
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đấu tranh giải quyết mâu thuẫn, đưa sự vật lên hình thức mới cao hơn**
+>
+> Không phải xóa bỏ các mặt đối lập (SAI)
 
 ---
 
@@ -1869,7 +2117,9 @@ aliases:
 - d. Kiến trúc thượng tầng có thể lạc hậu so với cơ sở hạ tầng
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Có tính kế thừa — loại bỏ cái lỗi thời, giữ lại cái hợp lý**
+>
+> Không phải xóa bỏ hoàn toàn
 
 ---
 
@@ -1880,7 +2130,9 @@ aliases:
 - d. Nền sản xuất được công nghiệp hóa, hiện đại hóa ở trình độ tiên tiến
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Xoáy ốc đi lên (không phải vòng tròn)**
+>
+> Quay lại điểm xuất phát nhưng ở trình độ cao hơn
 
 ---
 
@@ -1892,7 +2144,9 @@ aliases:
 - d. Tồn tại xã hội và ý thức xã hội
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **SAI**
+>
+> Phủ định biện chứng chỉ kế thừa có chọn lọc
 
 ---
 
@@ -1904,7 +2158,9 @@ aliases:
 - d. Lực lượng sản xuất, quan hệ sản xuất, tồn tại xã hội
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Cái chung và cái riêng**
+>
+> Cái chung phải được áp dụng qua cái riêng cụ thể
 
 ---
 
@@ -1913,7 +2169,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Cách thức của sự vận động và phát triển**
+>
+> Câu hỏi "như thế nào?"
 
 ---
 
@@ -1923,7 +2181,9 @@ aliases:
 - b. Áp bức, bất công và mâu thuẫn giai cấp
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Sự thống nhất hữu cơ của những thuộc tính làm cho sự vật là nó chứ không phải cái khác**
+>
+> Định nghĩa chuẩn
 
 ---
 
@@ -1935,7 +2195,9 @@ aliases:
 - a. Xã hội cộng sản nguyên thủy
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Phạm trù triết học, chỉ tính quy định khách quan về mặt số lượng các yếu tố cấu thành, quy mô, tốc độ, nhịp điệu vận động**
+>
+> Không phải phạm trù số học hay KH cụ thể
 
 ---
 
@@ -1945,7 +2207,9 @@ aliases:
 - b. Giai cấp đóng vai trò là lực lượng sản xuất chủ yếu của xã hội
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Thể hiện sự thống nhất giữa lượng và chất, chỉ khoảng giới hạn lượng thay đổi chưa làm thay đổi căn bản chất**
+>
+> Phương án c (SAI): "bất kỳ" thay đổi lượng đều làm đổi chất
 
 ---
 
@@ -1956,7 +2220,9 @@ aliases:
 - d. Trí thức là một giai cấp cơ bản trong xã hội
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Sự phản ánh tích cực, tự giác, sáng tạo thế giới khách quan vào bộ óc người trên cơ sở thực tiễn**
+>
+> Không phải phản ánh thụ động, không phải của mọi sinh vật
 
 ---
 
@@ -1966,7 +2232,9 @@ aliases:
 - b. Năng suất lao động cao có sản phẩm dư thừa tương đối
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **a. Chủ nghĩa duy tâm chủ quan**
+>
+> Berkeley, Mach — cảm giác là thực tại
 
 ---
 
@@ -1977,7 +2245,9 @@ aliases:
 - c. Giai cấp tư sản là giai cấp sở hữu tư liệu sản xuất chủ yếu trong xã hội
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Chủ nghĩa duy tâm khách quan (Hegel)**
+>
+> Ý niệm tuyệt đối tự nhận thức qua lịch sử
 
 ---
 
@@ -1988,7 +2258,9 @@ aliases:
 - d. Do mâu thuẫn giữa trình độ phát triển của lực lượng sản xuắt xã hội với quan hệ sản xuất
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **đ. V.I. Lênin — Bút ký triết học**
+>
+> Câu nổi tiếng về con đường biện chứng nhận thức
 
 ---
 
@@ -1999,7 +2271,9 @@ aliases:
 - d. Đầu tranh trên lĩnh vực kinh tế là một biểu hiện của cuộc đấu tranh giai cấp trong thời kỳ
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Sự tác động trực tiếp của sự vật lên giác quan**
+>
+> Cảm giác → tri giác → biểu tượng
 
 ---
 
@@ -2011,7 +2285,9 @@ aliases:
 - d. Sự ra đời của giai cấp không phụ thuộc vào ý muốn chủ quan của con người
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Xã hội chiếm hữu nô lệ**
+>
+> Công xã nguyên thủy chưa có giai cấp
 
 ---
 
@@ -2023,7 +2299,9 @@ aliases:
 - d. Chỉ có giai cấp ưu tú trong xã hội mới có thể làm cho hệ tư tưởng của nó trở thành tư
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Giai cấp nắm quyền sở hữu tư liệu sản xuất chủ yếu**
+>
+> Không phải đông đảo nhất hay trình độ cao nhất
 
 ---
 
@@ -2033,7 +2311,9 @@ aliases:
 - b. Nguyện vọng của mỗi quốc gia, dân tộc
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Trí thức là một giai cấp cơ bản**
+>
+> Trí thức là tầng lớp, không phải giai cấp cơ bản
 
 ---
 
@@ -2043,7 +2323,9 @@ aliases:
 - b. Công cụ quyền lực thực hiện chuyên chính giai cấp của giai cấp thống trị
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Sự xuất hiện chế độ sở hữu tư nhân về tư liệu sản xuất**
+>
+> Nguyên nhân sâu xa: LLSX phát triển có SP dư thừa
 
 ---
 
@@ -2055,7 +2337,9 @@ aliases:
 - d. Lý tưởng cao đẹp của những người ưu tú trong xã hội
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Nắm quyền sở hữu tư liệu sản xuất chủ yếu**
+>
+> Định nghĩa Lênin về giai cấp
 
 ---
 
@@ -2066,7 +2350,9 @@ aliases:
 - d. Đấu tranh giai cấp
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Mâu thuẫn giữa LLSX phát triển với QHSX lỗi thời**
+>
+> Không phải do lý thuyết hay lãnh tụ phát động
 
 ---
 
@@ -2076,7 +2362,9 @@ aliases:
 - b. Giai cấp thống trị không chu ảnh hưởng tư tưởng của giai cấp b tr
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Thời kỳ quá độ ở VN không còn đấu tranh giai cấp**
+>
+> SAI — vẫn còn đấu tranh giai cấp dưới hình thức mới
 
 ---
 
@@ -2085,7 +2373,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **a. Giai cấp tồn tại trong mọi xã hội**
+>
+> SAI — XHCS nguyên thủy và XHCS tương lai không có giai cấp
 
 ---
 
@@ -2111,7 +2401,9 @@ aliases:
 - d. Cách thức tổ chức quyền lực nhà nước
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Tất yếu, khách quan, do nguyên nhân kinh tế**
+>
+> Chế độ tư hữu + mâu thuẫn giai cấp không thể điều hòa
 
 ---
 
@@ -2123,7 +2415,9 @@ aliases:
 - d. Nhà nước đân chủ nhân dân
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Công cụ quyền lực thực hiện chuyên chính giai cấp của giai cấp thống trị**
+>
+> Không phải vì mục đích chung
 
 ---
 
@@ -2133,7 +2427,9 @@ aliases:
 - b. Chuyển hóa thành nhà nước cộng sản
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Mâu thuẫn giai cấp không thể điều hòa được**
+>
+> Nhà nước sinh ra để duy trì trật tự cho giai cấp thống trị
 
 ---
 
@@ -2144,7 +2440,9 @@ aliases:
 - d. Cách mạng văn hóa
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Sự ra đời của chế độ tư hữu**
+>
+> Tư hữu → phân hóa giàu nghèo → giai cấp → nhà nước
 
 ---
 
@@ -2156,7 +2454,9 @@ aliases:
 - d. Bộ tộc
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Giai cấp bị trị có thể có hệ tư tưởng riêng của mình**
+>
+> ĐỐI VỚI "SAI": theo đề bài "giai cấp bị trị chịu ảnh hưởng tư tưởng của giai cấp thống trị" là ĐÚNG; "không có hệ tư tưởng riêng" mới là vấn đề cần xem xét — đáp án là **b. Giai cấp thống trị không chịu ảnh hưởng tư tưởng giai cấp bị trị** (SAI vì thực tế có ảnh hưởng qua lại)
 
 ---
 
@@ -2168,7 +2468,9 @@ aliases:
 - d. Điều kiện tự nhiên - hoàn cảnh đa lý và dân cư
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Trong một giai đoạn lịch sử nhất định**
+>
+> Không phải mãi mãi — sẽ tiêu vong trong CNCS
 
 ---
 
@@ -2191,7 +2493,9 @@ aliases:
 - b. Cái chung và cái riêng
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Bản chất giai cấp của nhà nước**
+>
+> Có 4 kiểu nhà nước tương ứng 4 hình thái KT-XH có giai cấp
 
 ---
 
@@ -2201,7 +2505,9 @@ aliases:
 - b. Hệ tư tưởng là hệ thống những quan điểm, hệ thống hoá, khái quát hóa thành lý luận, thành
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Nhà nước dân chủ nhân dân**
+>
+> Chuyên chính vô sản dưới hình thức dân chủ nhân dân
 
 ---
 
@@ -2213,7 +2519,9 @@ aliases:
 - d. Tồn tại xã hội có vai trò quyết ĐỊNH đối với các hình thái ý thức xã hội một cách đơn giản,
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. Nhà nước tự tiêu vong**
+>
+> Khi không còn giai cấp, nhà nước mất đi lý do tồn tại
 
 ---
 
@@ -2223,7 +2531,9 @@ aliases:
 - b. Không phải đời sống quyết ĐỊNH ý thức mà chính ý thức quyết ĐỊNH đời sống
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Cách mạng xã hội**
+>
+> Phân biệt với đảo chính (thay người cầm quyền)
 
 ---
 
@@ -2235,7 +2545,9 @@ aliases:
 - d. Trong xã hội có giai cấp, tính chất kế thừa của ý thức xã hội không gắn liền với tính giai
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Dân tộc**
+>
+> Định nghĩa dân tộc (nation) theo CNDVLS
 
 ---
 
@@ -2247,7 +2559,9 @@ aliases:
 - d. Ý thức chính trị, ý thức pháp quyền, ý thức văn hóa, ý thức môi trường, ý thức tôn giáo, ý
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Phương thức sản xuất, điều kiện tự nhiên-địa lý, và dân cư**
+>
+> Ba yếu tố cấu thành tồn tại xã hội
 
 ---
 
@@ -2259,7 +2573,9 @@ aliases:
 - đ. Hiệu quả hoạt động của hệ thống chính trị Câu 73. Trong các hình thái ý thức xã hội dưới đây, hình thái ý thức xã hội nào ra đời ngay trong xã hội cộng sản nguyên thủy:
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Phương diện sinh hoạt tinh thần của đời sống xã hội, nảy sinh từ và phản ánh tồn tại xã hội**
+>
+> Phân biệt với ý thức cá nhân
 
 ---
 
@@ -2268,7 +2584,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Cái chung và cái riêng**
+>
+> YTXH là cái chung; ý thức cá nhân là cái riêng
 
 ---
 
@@ -2280,7 +2598,9 @@ aliases:
 - d. Con người vừa là sản phẩm của lịch sử, vừa là bô phận của lịch sử
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Là hệ thống những quan điểm được hệ thống hóa, khái quát thành lý luận, phản ánh lợi ích của một giai cấp nhất định**
+>
+> Hệ tư tưởng ≠ tâm lý xã hội (tự phát)
 
 ---
 
@@ -2292,7 +2612,9 @@ aliases:
 - d. Con người lý tưởng
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Tồn tại xã hội quyết định ý thức xã hội**
+>
+> Nhưng không đơn giản, trực tiếp — có độc lập tương đối
 
 ---
 
@@ -2318,7 +2640,9 @@ aliases:
 - d. Tha hoá con người phát triển cao độ trong xã hội tư bản chủ nghĩa,
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Tồn tại xã hội thay đổi nhưng có bộ phận ý thức xã hội chưa thay đổi ngay**
+>
+> Ý thức có tính bảo thủ, lạc hậu hoặc tiên tiến hơn tồn tại XH
 
 ---
 
@@ -2328,7 +2652,9 @@ aliases:
 - b. Lch sử được quyết ĐỊNH bởi mệnh trời
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Ý thức chính trị, pháp quyền, đạo đức, thẩm mỹ, tôn giáo, khoa học, triết học**
+>
+> "Thẩm mỹ" không phải "văn hóa" hay "dân tộc"
 
 ---
 
@@ -2337,7 +2663,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Năng suất lao động xã hội**
+>
+> Lênin: CNXH thắng CNTB cuối cùng bằng năng suất lao động
 
 ---
 
@@ -2346,7 +2674,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Ý thức thẩm mỹ**
+>
+> Tranh hang động, âm nhạc nguyên thủy — ra đời từ rất sớm
 
 ---
 
@@ -2355,7 +2685,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **e. Thân thể vô cơ của con người**
+>
+> Mác: giới tự nhiên là "thân thể vô cơ" — con người phụ thuộc tự nhiên
 
 ---
 
@@ -2364,7 +2696,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Con người vừa là chủ thể của lịch sử, vừa là sản phẩm của lịch sử**
+>
+> Biện chứng: không thuần túy thụ động hay thuần túy chủ động
 
 ---
 
@@ -2373,7 +2707,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **d. 1) tính hiện thực, 2) tổng hòa**
+>
+> Luận điểm nổi tiếng nhất của Mác về con người (Luận cương về Feuerbach, luận cương 6)
 
 ---
 
@@ -2382,7 +2718,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Con người hiện thực**
+>
+> Không phải trừu tượng, lý tưởng
 
 ---
 
@@ -2391,7 +2729,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Chỉ ra vai trò của các quan hệ xã hội trong việc hình thành bản chất con người**
+>
+> Bản chất = tổng hòa quan hệ xã hội
 
 ---
 
@@ -2400,7 +2740,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **a. Tha hóa con người là phạm trù vĩnh viễn**
+>
+> SAI — tha hóa mang tính lịch sử, sẽ được khắc phục
 
 ---
 
@@ -2409,7 +2751,9 @@ aliases:
 *(Không tìm thấy lựa chọn)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **a. Quần chúng nhân dân**
+>
+> Quần chúng là chủ thể sáng tạo lịch sử; cá nhân kiệt xuất có vai trò nhưng không quyết định
 
 ---
 
