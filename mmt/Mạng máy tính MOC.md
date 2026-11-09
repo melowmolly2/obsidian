@@ -42,3 +42,4 @@ Môn: COMPSCI 453
 ## Câu hỏi ôn tập
 
 [[Câu hỏi ôn tập]]
+[[Bộ câu hỏi ôn tập 3 chương]]
