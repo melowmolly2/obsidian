@@ -55,6 +55,7 @@ TRIẾT HỌC MÁC – LÊNIN
 | 6 | [[06 - Chức năng Triết học Mác-Lênin]] | Thế giới quan & phương pháp luận |
 | 7 | [[07 - Trắc nghiệm và Đáp án chi tiết]] | ~115 câu trắc nghiệm 3 chương + đáp án + giải thích + bẫy hay gặp |
 | 11 | [[11 - Bộ câu hỏi ôn tập 2]] | Điền khuyết (18 câu) + Đúng/Sai giải thích (22 câu) + Tình huống vận dụng (10 câu) |
+| 12 | [[12 - Trắc nghiệm ẩn đáp án]] | File 07 chuyển sang dạng ẩn đáp án — bấm mới hiện |
 | 8 | [[08 - Hình thái Kinh tế Xã hội]] | SXVC, LLSX, QHSX, CSHT, KTTF, 5 hình thái KT–XH |
 | 9 | [[09 - Giai cấp, Nhà nước, Cách mạng]] | Nguồn gốc giai cấp, bản chất nhà nước, cách mạng XH, dân tộc |
 | 10 | [[10 - Con người và Ý thức Xã hội]] | TTXH–YTXH, bản chất con người, tha hóa, quần chúng nhân dân |
