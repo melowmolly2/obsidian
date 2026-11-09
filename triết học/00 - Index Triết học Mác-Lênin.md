@@ -12,7 +12,7 @@ aliases:
 # Triết học Mác – Lênin · Index
 
 > [!info] Nguồn
-> Tổng hợp từ [[Bai_Tap_Triet_Hoc_Mac_Lenin_2024_Fixed]] — Giáo trình Bộ GD&ĐT 2021.
+> Tổng hợp từ [[Bài Tập Triết Học Mác Lênin 2024]] — Giáo trình Bộ GD&ĐT 2021.
 
 ---
 
@@ -62,5 +62,5 @@ TRIẾT HỌC MÁC – LÊNIN
 ---
 
 > [!note] Xem thêm
-> - [[Bai_Tap_Triet_Hoc_Mac_Lenin_2024_Fixed]] — bài tập + lý thuyết đầy đủ
+> - [[Bài Tập Triết Học Mác Lênin 2024]] — bài tập + lý thuyết đầy đủ
 > - [[ai ethics]] — ứng dụng triết học vào đạo đức AI

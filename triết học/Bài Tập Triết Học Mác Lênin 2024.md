@@ -148,7 +148,7 @@ Có thể phân tích vấn đề cơ bản của triết học theo 2 nội dun
 
 1... Mác và Ph. Ănghen: Toà» đập, Nxb. Chính trị quốc gia, Hà Nội, 1995, t.21, tr.403.
 
-trả lời câu hỏi về nhận thức luận có thể chia các trường phái triết học thành khả trii và bất khả trii.
+trả lời câu hỏi về nhận thức luận có thể chia các trường phái triết học thành khả trii và bất khả tri.
 
 b, Chủ nghĩa duy vật và chủ nghĩa duy tâm
 
@@ -554,13 +554,13 @@ những trường phái nào?
 
 - a. Chủ nghĩa duy vật và chủ nghĩa duy tâm.
 
-- b. Thuyết khả trii và thuyết bất khả trii.
+- b. Thuyết khả trii và thuyết bất khả tri.
 
 - c. Chủ nghĩa duy tâm chủ quan và chủ nghĩa duy tâm khách quan.
 
 - d. Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật siêu hình.
 
-**Câu 20. Bản chất của thuyết bất khả trii là gì?**
+**Câu 20. Bản chất của thuyết bất khả tri là gì?**
 
 - a. Con người không thẻ nhận thức được sự tồn tại, vận động của sự vật, hiện tượng.
 
@@ -2021,7 +2021,7 @@ hình và khả trii luận.
 
 - b. V.1. Lênin đã giải quyết vấn đề cơ bản của triết học trên lập trường duy vật biện
 
-chứng và bất khả trii luận.
+chứng và bất khả tri luận.
 
 - c. V.I. Lênin đã giải quyết vấn đề cơ bản của triết học trên lập trường duy vật siêu
 
@@ -3362,7 +3362,7 @@ thực hiện thắng lợi mục tiêu độc lập dân tộc và chủ nghĩa
 
 thống, có quy mô nhỏ, tổ chức sản xuất thô sơ theo phương thức sản xuất cộng sản nguyên thủy.
 
-~ Bộ lạc là cộng đồng bao gồm những th tộc có quan hệ cùng huyết thống hoặc các th tộc có quan hệ hôn nhân liên kết với nhau. Cơ sở kinh tế của bộ lạc là chế độ công hữu về đất đai và công cụ sản xuất,
+~ Bộ lạc là cộng đồng bao gồm những thị tộc có quan hệ cùng huyết thống hoặc các thị tộc có quan hệ hôn nhân liên kết với nhau. Cơ sở kinh tế của bộ lạc là chế độ công hữu về đất đai và công cụ sản xuất,
 
 ~ Bộ tộc là hình thức cộng đồng người hình thành khi xã hội có sự phân chia thành giai cấp. Các bộ tộc được hình thành từ sự liên kết của nhiều bộ lạc sống trên một lãnh thổ nhất định.
 
@@ -3399,7 +3399,7 @@ thời đại lịch sử, mỗi dân tộc đều do một giai cấp làm đ�
 
 tộc và b chi phối bởi lợi ích giai cấp và dân tộc.
 
-- Sự tồn tại của nhân loại là tiền đề, là điệu kiện tắt yếu thường xuyên của sự tồn tại đân tộc
+- Sự tồn tại của nhân loại là tiền đề, là điệu kiện tắt yếu thường xuyên của sự tồn tại dân tộc
 
 và giai cấp. Đồng thời, sự phát triển về mọi mặt của nhân loại tạo ra những điều kiện thuận lợi cho cuộc đấu tranh giải phóng dân tộc và giai cấp.
 
@@ -3765,7 +3765,7 @@ cụ) là hoạt động lịch sử đầu tiên mang tính sáng tạo, giúp 
 
 + Con người không thể sáng tạo ra lịch sử theo ý muốn chủ quan của mình mà con người
 
-vừa phải tiếp tục các hoạt động sáng tạo trên những điều kiện lịch sử do thế hệ trước để lại, vừa phải tiến hành các hoạt động mới của mình để cải biến những điều kiện cũ. Lch sử sản xuất ra con người như thế nào thì tương ứng, con người cũng sáng tạo ra lịch sử như thế ấy.
+vừa phải tiếp tục các hoạt động sáng tạo trên những điều kiện lịch sử do thế hệ trước để lại, vừa phải tiến hành các hoạt động mới của mình để cải biến những điều kiện cũ. Lịch sử sản xuất ra con người như thế nào thì tương ứng, con người cũng sáng tạo ra lịch sử như thế ấy.
 
 - Bản chất con người là tổng hòa các mối quan hệ xã hội:
 
@@ -4267,13 +4267,13 @@ e. Kiến trúc thượng tầng có tính độc lập tương đối so với 
 
 của các hình thái kinh tế - xã hội là một quá trình...".
 
-- a. Lch sử tất yếu theo quy luật V.I. Lênin.
+- a. Lịch sử tất yếu theo quy luật V.I. Lênin.
 
-- b. Lch sử đi lên/ Ph. Ăngghen.
+- b. Lịch sử đi lên/ Ph. Ăngghen.
 
-. Lch sử - tự nhiên/ C. Mác.
+. Lịch sử - tự nhiên/ C. Mác.
 
-- d. Lch sử của các đân tộc/ Hồ Chí Minh.
+- d. Lịch sử của các dân tộc/ Hồ Chí Minh.
 
 **Câu 37. Theo chủ nghĩa duy vật lịch sử, ba yếu tố cơ bản của hình thái kinh tế - xã hội tác**
 
@@ -4750,13 +4750,13 @@ a. 1) tính vật chất, 2) tổng hòa. b. 1) tính vật chất, 2) tổng h�
 
 **Câu 80.Theo quan điểm của triết học Mác - Lênin:**
 
-- a. Lch sử được quyết định bởi quần chúng nhân dân.
+- a. Lịch sử được quyết định bởi quần chúng nhân dân.
 
-- b. Lch sử được quyết định bởi mệnh trời.
+- b. Lịch sử được quyết định bởi mệnh trời.
 
-- c. Lch sử được quyết định bởi cá nhân hào kiệt.
+- c. Lịch sử được quyết định bởi cá nhân hào kiệt.
 
-- d. Lch sử không do ai quyết định, vì nó điễn ra theo quy luật tự nhiên.
+- d. Lịch sử không do ai quyết định, vì nó diễn ra theo quy luật tự nhiên.
 
 I- XÁC định ĐÚNG/SAI VÀ GIẢI THÍCH NGẮN GỌN
 
@@ -4799,19 +4799,19 @@ hiện mục tiêu chính trị của giai cấp này.
 
 **Câu 12. Sự khác nhau về giai cấp là do có sự khác nhau về nòi giống.**
 
-**Câu 14. Ở các th tộc và bộ lạc thời nguyên thủy chưa có sự phân hóa giai cấp.**
+**Câu 14. Ở các thị tộc và bộ lạc thời nguyên thủy chưa có sự phân hóa giai cấp.**
 
 **Câu 15. Trí thức là một giai cấp quan trọng trong xã hội hiện đại.**
 
-**Câu 16. Suy cho cùng, ý thức xã hội bao giờ cũng chu sự quy định của tồn tại xã hội.**
+**Câu 16. Suy cho cùng, ý thức xã hội bao giờ cũng chịu sự quy định của tồn tại xã hội.**
 
-**Câu 17. Tâm lý xã hội thường là sự phân ánh tự giác đời sống xã hội của một cộng đồng người.**
+**Câu 17. Tâm lý xã hội thường là sự phản ánh tự giác đời sống xã hội của một cộng đồng người.**
 
 **Câu 18. Con người vừa có bản chất tự nhiên, vừa có bản chất xã hội.**
 
-**Câu 19. Con người là sản phẩm thụ động của hoàn cánh.**
+**Câu 19. Con người là sản phẩm thụ động của hoàn cảnh.**
 
-**Câu 20. Lch sử của nhân lơại là lịch sử của các v anh hùng, hào kiệt, các cá nhân kiệt xuất.**
+**Câu 20. Lịch sử của nhân loại là lịch sử của các vị anh hùng, hào kiệt, các cá nhân kiệt xuất.**
 
 
 ### III. TỰ LUẬN
@@ -4822,7 +4822,7 @@ Nam hiện nay?
 
 **Câu 2. Tại sao nói sự phát triển của hình thái kinh tế - xã hội là một quá trình lịch sử**
 
-~ tự nhiên?
+– tự nhiên?
 
 **Câu 3. Tại sao nói mâu thuẫn giai cấp là biểu hiện xã hội của mâu thuẫn giữa lực**
 
@@ -4834,14 +4834,19 @@ lượng sản xuất và quan hệ sản xuất?
 
 con người là tổng hòa các quan hệ xã hội.”
 
-MỤC LỤC
+---
 
-Trang
+## MỤC LỤC
 
-# Chương I: Khái luận về triết học và triết học Mác ~ Lê nin 3
-
-A - Lý thuyết 3 B - Bài tập 12 Chương 2: Chủ nghĩa duy vật biện chứng 19
-
-A - Lý thuyết 19 B - Bài tập 4I Chương 3: Chủ nghĩa duy vật lịch sử 63
-
-A - Lý thuyết 63..B- Bài tập Lời nói đầu 81
+| Phần | Nội dung | Trang trong sách |
+| :--- | :--- | :---: |
+| **Lời nói đầu** | Ban Biên soạn | 2 |
+| **Chương I** | **Khái luận về triết học và triết học Mác - Lênin** | **3** |
+| | A. Lý thuyết | 3 |
+| | B. Bài tập (Trắc nghiệm, Đúng/Sai, Tự luận) | 12 |
+| **Chương II** | **Chủ nghĩa duy vật biện chứng** | **19** |
+| | A. Lý thuyết | 19 |
+| | B. Bài tập (Trắc nghiệm, Đúng/Sai, Tự luận) | 41 |
+| **Chương III** | **Chủ nghĩa duy vật lịch sử** | **63** |
+| | A. Lý thuyết | 63 |
+| | B. Bài tập (Trắc nghiệm, Đúng/Sai, Tự luận) | 81 |
