@@ -1,10 +1,26 @@
+---
+title: Bài Tập Triết Học Mác - Lênin (2024)
+aliases:
+  - Bai_Tap_Triet_Hoc_Mac_Lenin_2024_Fixed
+  - Bài Tập Triết Học Mác Lênin 2024
+tags:
+  - triết-học
+  - mác-lênin
+  - giáo-trình
+  - bài-tập
+source: obsidian/triết học/Bài Tập Triết Học Mác Lênin 2024.pdf
+date: 2024-01-01
+---
+
 # BÀI TẬP TRIẾT HỌC MÁC - LÊNIN (2024)
 
-BÀI TẬP TRIẾT HỌC MÁC - LÊNIN
+> **TRƯỜNG ĐẠI HỌC KHOA HỌC XÃ HỘI VÀ NHÂN VĂN – ĐẠI HỌC QUỐC GIA HÀ NỘI**
+> **KHOA TRIẾT HỌC – BỘ MÔN TRIẾT HỌC MÁC - LÊNIN**
+> *HÀ NỘI – 2024*
 
-HÀ NỘI - 2024
+---
 
-LỜI NÓI ĐẦU
+## LỜI NÓI ĐẦU
 
 Thực hiện chủ trương của Nhà trường về đổi mới phương pháp giảng dạy và phương pháp kiểm tra, đánh giá nhằm nâng cao chất lượng dạy và học, được sự đồng ý của Ban Giám hiệu Trường Đại học Khoa học Xã hội và Nhân văn, Đại học Quốc gia Hà Nội, Bộ môn “Triết học Mác - Lênin biên soạn cuốn sách Bài tập Triết học Mác - Lênin dùng cho sinh viên Đại học Quốc gia Hà Nội.
 
@@ -16,11 +32,9 @@ Mọi góp ý xin gửi về: Bộ môn Triết học Mác - Lênin, Khoa Triế
 
 BAN BIÊN SOẠN
 
-# Chương I
+# Chương I: KHÁI LUẬN VỀ TRIẾT HỌC VÀ TRIẾT HỌC MÁC - LÊNIN
 
-KHÁI LUẬN VỀ TRIẾT HỌC VÀ TRIẾT HỌC MÁC - LÊNIN
-
-## A- LÝ THUYẾT
+## A. LÝ THUYẾT
 
 ## I- TRIẾT HỌC VÀ VẤN ĐỀ CƠ BẢN CỦA TRIẾT HỌC
 
@@ -74,11 +88,11 @@ c. Đối tượng của triết học trong lịch sử
 
 những quy luật chung nhất của tự nhiên, xã hội và tư duy với nhiều trường phái và hướng tiếp cận khác nhau.
 
-### 4. Triết học - hạt nhân lý luận của thế giới quan
+- b. Triết học - hạt nhân lý luận của thế giới quan
 
 - Thế giới quan là gì?
 
-Thế giới quan là khái niệm triết học chỉ hệ thống các tri thức, quan điểm, tình cảm, niềm tin, ý tưởng XÁC ĐỊNH về thế giới và về vị trí của con người (bao gồm cả nhân, xã hội và cả nhân loại) trong thế giới đó. Thế giới quan quy ĐỊNH các nguyên tắc, thái độ, giá trị trong ĐỊNH hướng nhận thức và hoạt động thực tiễn của con người. Thế giới quan ra đời từ cuộc sống; nó là kết quả trực tiếp của quá trình nhận thức; song, suy cho đến cùng nó được hình thành trong quá trình hoạt động thực tiễn và nhận thức của con người và phản ánh hiện thực khách quan.
+Thế giới quan là khái niệm triết học chỉ hệ thống các tri thức, quan điểm, tình cảm, niềm tin, ý tưởng XÁC định về thế giới và về vị trí của con người (bao gồm cả nhân, xã hội và cả nhân loại) trong thế giới đó. Thế giới quan quy định các nguyên tắc, thái độ, giá trị trong định hướng nhận thức và hoạt động thực tiễn của con người. Thế giới quan ra đời từ cuộc sống; nó là kết quả trực tiếp của quá trình nhận thức; song, suy cho đến cùng nó được hình thành trong quá trình hoạt động thực tiễn và nhận thức của con người và phản ánh hiện thực khách quan.
 
 Thế giới quan có cấu trúc phức tạp nhưng có 2 yếu tố cơ bản là tri thức và niềm tin, hay lý trí và tình cảm.
 
@@ -102,7 +116,7 @@ cũng là thành phần quan trọng, đóng vai trò là nhân tố cốt lõi.
 
 tôn giáo, thế giới quan kinh nghiệm, thế giới quan thông thường...
 
-+ Thế giới quan triết học quy ĐỊNH mọi quan niệm khác của con người.
++ Thế giới quan triết học quy định mọi quan niệm khác của con người.
 
 - Vai trò của thế giới quan:
 
@@ -110,7 +124,7 @@ Thế giới quan có vai trò đặc biệt quan trọng trong cuộc sống c�
 
 + Tất cả những vấn đề được triết học đặt ra và tìm lời giải đáp trước hết là những vấn đề thuộc về thế giới quan.
 
-+ Thế giới quan là tiền đề quan trọng để xác lập phương thức tư duy hợp lý và nhân sinh quan tích cực; là tiêu chí quan trọng đánh giá sự trưởng thành của mỗi cá nhân cũng như của từng cộng đồng xã hội nhất ĐỊNH.
++ Thế giới quan là tiền đề quan trọng để xác lập phương thức tư duy hợp lý và nhân sinh quan tích cực; là tiêu chí quan trọng đánh giá sự trưởng thành của mỗi cá nhân cũng như của từng cộng đồng xã hội nhất định.
 
 ### 2. Vấn đề cơ bản của triết học
 
@@ -126,21 +140,21 @@ giữa tư duy và tồn tại
 
 Có thể phân tích vấn đề cơ bản của triết học theo 2 nội dung (2 mặt) như sau:
 
-+ Mặt thứ nhất, hay còn gọi là mặt bản thể luận: giữa vật chất và ý thức cái nào có trước, cái nào có sau, cái nào quyết ĐỊNH cái nào?
++ Mặt thứ nhất, hay còn gọi là mặt bản thể luận: giữa vật chất và ý thức cái nào có trước, cái nào có sau, cái nào quyết định cái nào?
 
 + Mặt thứ hai, hay còn gọi là mặt nhận thức luận: con người có khả năng nhận thức được thế giới hay không?
 
-'Việc trả lời hai câu hỏi trên liên quan mật thiết đến việc XÁC ĐỊNH lập trường của các trường phái triết học và các học thuyết về nhận thức của triết học. Dựa trên cách trả lời câu hỏi về bản thể luận có thể phân chia hai trường phái triết học cơ bản là triết học duy vật và triết học duy tâm. Dựa trên cách
+'Việc trả lời hai câu hỏi trên liên quan mật thiết đến việc XÁC định lập trường của các trường phái triết học và các học thuyết về nhận thức của triết học. Dựa trên cách trả lời câu hỏi về bản thể luận có thể phân chia hai trường phái triết học cơ bản là triết học duy vật và triết học duy tâm. Dựa trên cách
 
 1... Mác và Ph. Ănghen: Toà» đập, Nxb. Chính trị quốc gia, Hà Nội, 1995, t.21, tr.403.
 
-trả lời câu hỏi về nhận thức luận có thể chia các trường phái triết học thành khả trii và bất khả triii.
+trả lời câu hỏi về nhận thức luận có thể chia các trường phái triết học thành khả trii và bất khả trii.
 
 b, Chủ nghĩa duy vật và chủ nghĩa duy tâm
 
 'Về mặt bản thể luận:
 
-- Những người cho rằng vật chất có trước, ý thức có sau, vật chất quyết ĐỊNH ý thức thì được coi là những người theo chủ nghĩa duy vật. Chủ nghĩa duy vật có 3 hình thức cơ bản:
+- Những người cho rằng vật chất có trước, ý thức có sau, vật chất quyết định ý thức thì được coi là những người theo chủ nghĩa duy vật. Chủ nghĩa duy vật có 3 hình thức cơ bản:
 
 + Chủ nghĩa duy vật chất phác thời kỳ cổ đại: đồng nhất vật chất với một hay một số hình thức cụ thể của vật chất.
 
@@ -148,19 +162,19 @@ b, Chủ nghĩa duy vật và chủ nghĩa duy tâm
 
 + Chủ nghĩa duy vật biện chứng: do C. Mác và Ph. Ăngghen phát triển, khái quát triết học về vật chất dựa trên phương pháp biện chứng và các thành tựu của khoa học tự nhiên hiện đại.
 
-- Những người cho rằng ý thức có trước, vật chất có sau, ý thức quyết ĐỊNH vật chất thì được coi là những người theo chủ nghĩa duy tâm. Chủ nghĩa duy tâm có 2 loại:
+- Những người cho rằng ý thức có trước, vật chất có sau, ý thức quyết định vật chất thì được coi là những người theo chủ nghĩa duy tâm. Chủ nghĩa duy tâm có 2 loại:
 
-+ Chủ nghĩa duy tâm khách quan: cho rằng có một thực thể tinh thần không những tồn tại trước, tồn tại bên ngoài, độc lập với con người và với thế giới vật chất mà còn sản sinh ra và quyết ĐỊNH tất cả các quá trình của thế giới vật chất.
++ Chủ nghĩa duy tâm khách quan: cho rằng có một thực thể tinh thần không những tồn tại trước, tồn tại bên ngoài, độc lập với con người và với thế giới vật chất mà còn sản sinh ra và quyết định tất cả các quá trình của thế giới vật chất.
 
 + Chủ nghĩa duy tâm chủ quan: cho rằng cảm giác ý thức là cái có trước và tồn tại sẵn trong con người, trong chủ thể nhận thức, còn các sự vật bên ngoài chỉ là phức hợp của các cảm giác ấy mà thôi.
 
-#### e. Thuyết có thể biết (thuyết khả tri) và thuyết không thể biết (thuyết bất khả trii)
+- c. Thuyết có thể biết (thuyết khả tri) và thuyết không thể biết (thuyết bất khả tri)
 
 Về mặt nhận thức luận:
 
-- Thuyết khả tri: Khẳng ĐỊNH con người về nguyên tắc có thể hiểu được bản chất của sự vật; những cái mà con người biết về nguyên tắc là phù hợp với chính sự vật.
+- Thuyết khả tri: Khẳng định con người về nguyên tắc có thể hiểu được bản chất của sự vật; những cái mà con người biết về nguyên tắc là phù hợp với chính sự vật.
 
-- Thuyết bất khả tri: Con người không thể hiểu được bản chất thật sự của đối tượng; các hiểu biết của con người về tính chất, đặc điểm... của đối tượng dù có tính xác thực trong chừng mực nhất ĐỊNH cũng không đồng nhất với bản chất thực sự của đối tượng,
+- Thuyết bất khả tri: Con người không thể hiểu được bản chất thật sự của đối tượng; các hiểu biết của con người về tính chất, đặc điểm... của đối tượng dù có tính xác thực trong chừng mực nhất định cũng không đồng nhất với bản chất thực sự của đối tượng,
 
 ### 3. Biện chứng và siêu hình
 
@@ -194,9 +208,9 @@ b, Các hình thức của phép biện chứng trong lịch sử
 
 II- TRIẾT HỌC MÁC - LÊNIN VÀ VAI TRÒ CỦA NÓ TRONG ĐỜI SÓNG XÃ HỘI
 
-### 1. Sự ra đời và phát triển triết học Mác - Lênin
+### II. SỰ RA ĐỜI VÀ PHÁT TRIỂN CỦA TRIẾT HỌC MÁC - LÊNIN
 
-### 1.1. Những điều kiện lịch sử của sự ra đời triết học Mác - Lênin
+#### 1. Những điều kiện lịch sử của sự ra đời triết học Mác - Lênin
 
 - a. Những điều kiện lịch sử của sự ra đời triết học Mác
 
@@ -204,7 +218,7 @@ II- TRIẾT HỌC MÁC - LÊNIN VÀ VAI TRÒ CỦA NÓ TRONG ĐỜI SÓNG XÃ H�
 
 - Sự xuất hiện của giải cấp vô sản trên vũ đài lịch sử với tính cách một lực lượng chính trị - xã hội độc lập là nhân tô chính trị - xã hội quan trọng cho sự ra đời triết học Mác. Khi chế độ tư bản chủ nghĩa được xác lập, giai cấp tư sản trở thành giai cấp thống trị xã hội và giai cấp vô sản là giai cấp b tr thì mâu thuẫn giữa vô sản với tư sản vốn mang tính chất đối kháng càng phát triển, trở thành những cuộc đấu tranh giai cấp.
 
-Hàng loạt phong trào đấu tranh của giai cấp vô sản xảy ra nhưng đều lần lượt b thất bại mà nguyên nhân chính là do thiếu lý luận mang tính khoa học và cách mạng để ĐỊNH hướng, soi đường. Chủ nghĩa Mác ra đời là nhằm đáp ứng nhu cầu về lý luận đó của phong trào công nhân. Thực tiễn cách mạng của giai cấp vô sản là cơ sở chủ yếu nhất cho sự ra đời triết học Mác.
+Hàng loạt phong trào đấu tranh của giai cấp vô sản xảy ra nhưng đều lần lượt b thất bại mà nguyên nhân chính là do thiếu lý luận mang tính khoa học và cách mạng để định hướng, soi đường. Chủ nghĩa Mác ra đời là nhằm đáp ứng nhu cầu về lý luận đó của phong trào công nhân. Thực tiễn cách mạng của giai cấp vô sản là cơ sở chủ yếu nhất cho sự ra đời triết học Mác.
 
 - b. Nguồn gốc lý luận và tiền đề khoa học tự nhiên:
 
@@ -219,19 +233,19 @@ Hàng loạt phong trào đấu tranh của giai cấp vô sản xảy ra nhưng
 *Tiên đề khoa học tự nhiên
 
 Sự ra đời của chủ nghĩa Mác - Lênin gắn liền với những phát mỉnh khoa học, tiêu biểu như:
-- Định luật bảo toàn và chuyển hóa năng lượng: chứng minh sự chuyển hóa và bảo toàn năng lượng. Phát minh khoa học này là cơ sở để C. Mác và Ph. Ăngghen xây dựng quan niệm duy vật mới, khẳng ĐỊNH tính thống nhất vật chất của thế giới.
+- Định luật bảo toàn và chuyển hóa năng lượng: chứng minh sự chuyển hóa và bảo toàn năng lượng. Phát minh khoa học này là cơ sở để C. Mác và Ph. Ăngghen xây dựng quan niệm duy vật mới, khẳng định tính thống nhất vật chất của thế giới.
 
 - Thuyết tiến hóa của Đác-uyn: chứng mình tính thống nhất về nguồn gốc của các loài và sự phát sinh, phát triển của chúng từ thấp đến cao.
 
 - Thuyết tế bào: chứng minh tính thống nhất của toàn bộ sự sống.
 
-#### e. Nhân tố chủ quan trong sự ra đời triết học Mác
+- c. Nhân tố chủ quan trong sự ra đời triết học Mác
 
 - Không xuất thân từ tầng lớp cần lao nhưng C. Mác và Ph. Ăngghen đều tích cực tham gia hoạt động dân chủ, đấu tranh cho lợi ích của người lao động.
 
 - C. Mác và Ph. Ăngghen hiểu sâu sắc cuộc sống khốn khổ và những hạn chế của giai cấp công nhân trong nền sản xuất tư bản chủ nghĩa nên đã đứng về phía giai cấp công nhân, xây đựng hệ thống lý luận để cung cấp cho giai cấp công nhân một công cụ sắc bén để nhận thức và cải tạo thế giới, thực hiện lý tưởng giải phóng giai cấp, con người và nhân loại nói chung.
 
-### 1.2. Những thời kỳ chủ yếu trong sự hình thành và phát triển của triết học Mác (giai đoạn
+#### 2. Những thời kỳ chủ yếu trong sự hình thành và phát triển của triết học Mác (giai đoạn 1841 - 1895)
 
 Mác - Ăngghen)
 
@@ -269,7 +283,7 @@ Mác - Ăngghen)
 
 + Sự phát triển của Chủ nghĩa xã hội từ không tưởng đắn khoa học (1880).
 
-### 1.8. Thực chất và ý nghĩa cuộc cách mạng trong triết học do C. Mác và Ph. Ẩngghen thực hiện
+#### 3. Thực chất và ý nghĩa cuộc cách mạng trong triết học do C. Mác và Ph. Ăngghen thực hiện
 
 - C. Mác và Ph. Ăngghen đã khắc phục tính chất trực quan, siêu hình của chủ nghĩa duy vật
 
@@ -281,7 +295,7 @@ cứu lịch sử xã hội, sáng tạo ra chủ nghĩa duy vật lịch sử -
 
 ~ C. Mác và Ph. Ăngghen đã sáng tạo ra một triết học chân chính khoa học và thực tiễn với những đặc tính mới của triết học duy vật biện chứng.
 
-### 1.4. Giai đoạn V.I. Lênìn trong sự phát triển triết học Mác
+#### 4. Giai đoạn V.I. Lênin trong sự phát triển triết học Mác
 
 - a. Bối cảnh lịch sử và nhu cầu bảo vệ, phát triển chủ nghĩa Mác
 
@@ -325,7 +339,7 @@ thiện triết học Mác, gắn liền với việc nghiên cứu các vấn �
 
 công nhân bổ sung, phát triển.
 
-### 2. Đối tượng và chức năng của triết học Mác - Lênin
+### III. ĐỐI TƯỢNG VÀ CHỨC NĂNG CỦA TRIẾT HỌC MÁC - LÊNIN
 
 ### 2.1. Khái niệm triết học Mác - Lênin
 
@@ -339,7 +353,6 @@ Triết học Mác - Lênin là hệ thống quan điểm duy vật biện chứ
 
 - Triết học Mác - Lênin có mối quan hệ gắn bó chặt chẽ với các khoa học cụ thể.
 
-10
 
 ### 2.3. Chức năng của triết học Mác - Lênin
 
@@ -347,7 +360,7 @@ Triết học Mác - Lênin là hệ thống quan điểm duy vật biện chứ
 
 + Giúp con người nhận thức đúng đắn thế giới và bản thân để từ đó nhận thức đúng bản chất
 
-của tự nhiên và xã hội, giúp con người hình thành quan điểm khoa học, XÁC ĐỊNH thái độ và cách thức hoạt động của bản thân.
+của tự nhiên và xã hội, giúp con người hình thành quan điểm khoa học, XÁC định thái độ và cách thức hoạt động của bản thân.
 
 + Thế giới quan duy vật biện chứng nâng cao vai trò tích cực, sáng tạo của con người.
 
@@ -373,9 +386,7 @@ bộ nhận thức khoa học.
 
 được mọi vấn đề. Để đem lại hiệu quả trong nhận thức và hành động, cùng với trí thức triết học, con người cần phải có tri thức khoa học cụ thể và kinh nghiệm hoạt động thực tiễn xã hội.
 
-### 3. Vai trò của triết học Mác - Lênin trong đời sống xã hội và trong sự nghiệp đổi mới ở
-
-Việt Nam hiện nay
+### IV. VAI TRÒ CỦA TRIẾT HỌC MÁC - LÊNIN TRONG ĐỜI SỐNG XÃ HỘI VÀ TRONG SỰ NGHIỆP ĐỔI MỚI Ở VIỆT NAM HIỆN NAY
 
 - Triết học Mác - Lênin là thế giới quan, phương pháp luận khoa học và cách mạng trong
 
@@ -385,11 +396,10 @@ nhận thức và thực tiễn.
 
 để phân tích xu hướng phát triển của xã hội trong điều kiện cuộc cách mạng khoa học và công nghệ hiện đại phát triển mạnh mẽ.
 
-~ Triết học Mác - Lênin là cơ sở lý luận khoa học của công cuộc xây dựng chủ nghĩa xã hội trên thế giới và sự nghiệp đổi mới theo ĐỊNH hướng xã hội chủ nghĩa ở Việt Nam hiện nay.
+~ Triết học Mác - Lênin là cơ sở lý luận khoa học của công cuộc xây dựng chủ nghĩa xã hội trên thế giới và sự nghiệp đổi mới theo định hướng xã hội chủ nghĩa ở Việt Nam hiện nay.
 
-11
 
-## B- BÀI TẬP
+## B. BÀI TẬP
 
 I. TRẮC NGHIỆM
 
@@ -421,7 +431,7 @@ I. TRẮC NGHIỆM
 
 - a. Công xã nguyên thuỷ. b. Chiếm hữu nô lệ.
 
-#### e. Phong kiến. d. Tư bản chủ nghĩa.
+- c. Phong kiến. d. Tư bản chủ nghĩa.
 
 **Câu 6. Triết học ra đời trong điều kiện nào?**
 
@@ -439,11 +449,12 @@ I. TRẮC NGHIỆM
 
 - c. Chủ nghĩa kinh viện. d. Chủ nghĩa duy vật siêu hình.
 
-**Câu 8: C.Mác chỉ ra đâu là đâu là hạt nhân hợp lý trong triết học của Hê-ghen?**
+**Câu 8. C.Mác chỉ ra đâu là đâu là hạt nhân hợp lý trong triết học của Hê-ghen?**
 
 - a. Quan điểm siêu hình. b. Tư tưởng về vận động.
 
-#### e. Phép biện chứng như lý luận về về sự phát triển. — d. Quan điểm duy vật.
+- c. Phép biện chứng như lý luận về sự phát triển.
+- d. Quan điểm duy vật.
 
 **Câu 9. Vấn đề cơ bản của triết học là:**
 
@@ -453,7 +464,6 @@ I. TRẮC NGHIỆM
 
 - c. Vấn đề quan hệ giữa con người với thế giới xung quanh.
 
-12
 
 - d. Vấn đề quan hệ giữa con người với con người trong xã hội.
 
@@ -461,9 +471,9 @@ I. TRẮC NGHIỆM
 
 - a. Con người có khả năng nhận thức thế giới hay không?
 
-- b. Giữa vật chất và ý thức, cái nào có trước, cái nào có sau, cái nào quyết ĐỊNH cái nào?
+- b. Giữa vật chất và ý thức, cái nào có trước, cái nào có sau, cái nào quyết định cái nào?
 
-#### e. Vấn đề quan hệ giữa vật chất và ý thức như thế nào?
+- c. Vấn đề quan hệ giữa vật chất và ý thức như thế nào?
 
 - d. Vấn đề quan hệ giữa tư duy và tồn tại như thế nào?
 
@@ -471,7 +481,7 @@ I. TRẮC NGHIỆM
 
 - a. Con người có khả năng nhận thức thế giới hay không?
 
-- b. Giữa vật chất và ý thức thì cái nào có trước, cái nào có sau, cái nào quyết ĐỊNH cái nào?
+- b. Giữa vật chất và ý thức thì cái nào có trước, cái nào có sau, cái nào quyết định cái nào?
 
 - c. Vật chất có tồn tại vĩnh viễn hay không?
 
@@ -487,19 +497,19 @@ I. TRẮC NGHIỆM
 
 - d. Quan điểm lý luận nhận thức.
 
-**Câu 13. Ý thức có trước, vật chất có sau, ý thức quyết ĐỊNH vật chất, đây là quan điểm của**
+**Câu 13. Ý thức có trước, vật chất có sau, ý thức quyết định vật chất, đây là quan điểm của**
 
 trường phái triết học nào?
 
 - a. Duy vật. b. Duy tâm c. Nhất nguyên. đ. Nh nguyên.
 
-**Câu 14: Ý thức, cảm giác của con người sinh ra và quyết ĐỊNH sự tồn tại của sự vật là quan**
+**Câu 14. Ý thức, cảm giác của con người sinh ra và quyết định sự tồn tại của sự vật là quan**
 
 điểm của trường phái nào?
 
 - a. Duy tâm chủ quan. b.Bấtkhảtri c.Duytâmkháchquan. d.Khảtri,
 
-**Câu 15: Ý thức, ý niệm tuyệt đối sinh ra thế giới, là quan điểm của trường phải triết học nào:**
+**Câu 15. Ý thức, ý niệm tuyệt đối sinh ra thế giới, là quan điểm của trường phải triết học nào:**
 
 - a. Duy tâm chủ quan. b.Bấtkhả trii. _ c. Duy tâm khách quan, d. Khả trí.
 
@@ -511,7 +521,7 @@ của triết học là như thế nào? `
 
 - b. Thừa nhận thế giới vật chất tồn tại khách quan.
 
-. Thừa nhận cảm giác và sự phức hợp các cảm giác của con người quyết ĐỊNH sự tồn tại của các sự vật hiện tượng trong thế
+. Thừa nhận cảm giác và sự phức hợp các cảm giác của con người quyết định sự tồn tại của các sự vật hiện tượng trong thế
 
 - d. Thừa nhận khả năng nhận thức của con người.
 
@@ -521,11 +531,10 @@ của triết học là như thế nào? `
 
 - b. Thấy được tính năng động, sáng tạo của cảm giác, ý thức của con người
 
-13
 
-- c. Thừa nhận cảm giác và phức hợp các cảm giác của con người quyết ĐỊNH sự tồn tại của
+- c. Thừa nhận cảm giác và phức hợp các cảm giác của con người quyết định sự tồn tại của
 
-các sự vật hiện tượng trong thê giới.
+các sự vật hiện tượng trong thế giới.
 
 - d. Thừa nhận khả năng nhận thức của con người.
 
@@ -545,19 +554,19 @@ những trường phái nào?
 
 - a. Chủ nghĩa duy vật và chủ nghĩa duy tâm.
 
-- b. Thuyết khả trii và thuyết bất khả triii.
+- b. Thuyết khả trii và thuyết bất khả trii.
 
 - c. Chủ nghĩa duy tâm chủ quan và chủ nghĩa duy tâm khách quan.
 
 - d. Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật siêu hình.
 
-**Câu 20. Bản chất của thuyết bất khả triii là gì?**
+**Câu 20. Bản chất của thuyết bất khả trii là gì?**
 
 - a. Con người không thẻ nhận thức được sự tồn tại, vận động của sự vật, hiện tượng.
 
 - b. Con người không thể nhận thức được về bản chất thật sự của sự vật, hiện tượng.
 
-#### e. Con người có xu hướng nhận thức sai lầm về thế giới.
+- c. Con người có xu hướng nhận thức sai lầm về thế giới.
 
 - d. Con người cần phải hiểu rõ về những giới hạn của nhận thức.
 
@@ -575,7 +584,7 @@ khuynh hướng chung là phát triển.
 
 - d. Phương pháp biện chứng là phương pháp nhận thức khoa học.
 
-Câu 22. Chủ nghĩa Mác — Lê nin ra đời vào khoảng thời gian nào?
+**Câu 22.** Chủ nghĩa Mác — Lê nin ra đời vào khoảng thời gian nào?
 
 - a. Những năm 40 của thế kỷ XX.
 
@@ -591,7 +600,6 @@ của triết học Mác?
 
 - a. Chủ nghĩa tư bản đã hình thành và phát triển
 
-14
 
 - b. Cuộc cách mạng công nghiệp phát triển mạnh mẽ ở các nước tư bản phát triển
 
@@ -619,7 +627,7 @@ học Mác — Lênin? a, Điều kiện kinh tế - xã hội ở Tây Âu nh�
 
 - d. Dựa trên những thành tựu của khoa học tự nhiên thế kỷ XIX.
 
-__ Câu 26. Sự thất bại của các phong trào công nhân những năm nửa đầu thế kỷ XIX cho thấy điều gì?
+**Câu 26.** Sự thất bại của các phong trào công nhân những năm nửa đầu thế kỷ XIX cho thấy điều gì?
 
 - a. Các phong trào này thiếu tính tổ chức.
 
@@ -653,7 +661,6 @@ của Triết học Mác?
 
 - d. Chứng minh cho múi liên hệ gắn bó giữa triết học và khoa học tự nhiên.
 
-15
 
 **Câu 29. Tác phẩm nào đánh dấu sự ra đời của Chủ nghĩa Mác ~ Lênin?**
 
@@ -673,7 +680,7 @@ hiện là nội dung nào sau đây?
 
 - b. Thống nhất giữa triết hoc của Hegel và triết học của Phoiơbắc
 
-#### e. Phê phán triết học duy tâm của Hegel
+- c. Phê phán triết học duy tâm của Hegel
 
 - d. Khái quát các thành tựu triết học trước đó
 
@@ -695,7 +702,7 @@ hiện là nội dung nào sau đây?
 
 phóng, phát triển con người và xã hội.
 
-#### e. Giá tr dự báo khoa học và gợi mở lý luận cho các mô hình thực tiễn xã hội chủ nghĩa.
+- c. Giá trị dự báo khoa học và gợi mở lý luận cho các mô hình thực tiễn xã hội chủ nghĩa.
 
 - d. Đặt nền móng cho sự ra đời của triết học phương Tây hiện đại.
 
@@ -703,13 +710,12 @@ phóng, phát triển con người và xã hội.
 
 nghĩa Mác — Lênin?
 
-16
 
 - a. Triết học Cổ điển Đức.
 
 - b. Chủ nghĩa xã hội không tưởng Pháp.
 
-#### e. Triết học Khai sáng Pháp.
+- c. Triết học Khai sáng Pháp.
 
 - d. Kinh tế chính trị học cổ điển Anh.
 
@@ -723,17 +729,17 @@ a, Chức năng chú giải văn bản.
 
 - d. Chức năng thế giới quan và phương pháp luận.
 
-### 35. Chức năng phương pháp luận của triết học Mác — Lênin được hiểu là gì?
+**Câu 35.** Chức năng phương pháp luận của triết học Mác — Lênin được hiểu là gì?
 
-[ a. Là phương pháp tối tu, vạn năng để nhận thức thế giới.
+- a. Là phương pháp tối ưu, vạn năng để nhận thức thế giới.
 
-- b. Cung cấp những nguyên tắc chung nhất để ĐỊNH hướng hoạt động nhận thức và thực tiễn.
+- b. Cung cấp những nguyên tắc chung nhất để định hướng hoạt động nhận thức và thực tiễn.
 
-- c. Thay thế các phương pháp nghiên cứu trong các khoa học cụ thẻ.
+- c. Thay thế các phương pháp nghiên cứu trong các khoa học cụ thể.
 
 đ. Là lý luận về phương pháp của các khoa học.
 
-II. XÁC ĐỊNH ĐÚNG/ SAI VÀ GIẢI THÍCH NGẮN GỌN
+II. XÁC định ĐÚNG/ SAI VÀ GIẢI THÍCH NGẮN GỌN
 
 **Câu 1. Triết học Mác — Lênin là sự lồng ghép giữa phép biện chứng của Hê-ghen và quan**
 
@@ -747,37 +753,35 @@ II. XÁC ĐỊNH ĐÚNG/ SAI VÀ GIẢI THÍCH NGẮN GỌN
 
 **Câu 5. Chủ nghĩa Mác — Lênin mang tính nhân văn, nhân đạo. - **
 
-17
 
-Ạ: HI- TỰ LUẬN Câu 1. Trình bày vấn đề cơ bản của triết học theo quan điểm của triết học Mác — Lênin
+### III. TỰ LUẬN
+
+**Câu 1.** Trình bày vấn đề cơ bản của triết học theo quan điểm của triết học Mác — Lênin
 
 **Câu 2. Phân tích đặc điểm các hình thức của phép Biện chứng trong lịch sử.**
 
 **Câu 3. Trình bày những điều kiện lịch sử của sự ra đời của Triết học Mác - Lênin. Thực chất**
 
-và ý nghĩa cuộc cách mạng trong triết học do C. Mác và Ăng-ghen thực hiện?
+và ý nghĩa cuộc cách mạng trong triết học do C. Mác và Ăngghen thực hiện?
 
-18
 
-Chương 2
+# Chương II: CHỦ NGHĨA DUY VẬT BIỆN CHỨNG
 
-CHỦ NGHĨA DUY VẬT BIỆN CHỨNG
+## A. LÝ THUYẾT
 
-## A- LÝ THUYẾT
-
-I. VẬT CHẤT VÀ Ý THỨC
+### I. VẬT CHẤT VÀ Ý THỨC
 
 ### 1. Vật chất và phương thức tồn tại của vật chất
 
 ### 1.1. Quan niệm của chủ nghĩa duy tâm và chủ nghĩa duy vật trước
 
-€ Mác về phạm trù vật chất
+C. Mác về phạm trù vật chất
 
 - Chủ nghĩa duy vật thời cổ đại: ở Hy Lạp - La Mã, Trung Quốc, Ấn Độ đồng nhất vật chất với
 
-những sự vật cụ thẻ, hữu hình (thuyết Ngũ hành cho vật chất là 5 yếu tố: kim, mộc, thủy, hỏa, thô; Leueippus (Lơxíp) và Democritos (Đêmôcrít) cho vật chất là nguyên tử; ThaÌes (Talét) cho vật chất là nước...). Những quan niệm như vậy mang tính trực quan, thô sơ, mộc mạc, tự phát và phỏng đoán.
+những sự vật cụ thể, hữu hình (thuyết Ngũ hành cho vật chất là 5 yếu tố: kim, mộc, thủy, hỏa, thô; Leucippus (Lơxíp) và Democritos (Đêmôcrít) cho vật chất là nguyên tử; ThaÌes (Talét) cho vật chất là nước...). Những quan niệm như vậy mang tính trực quan, thô sơ, mộc mạc, tự phát và phỏng đoán.
 
-+ Ưw điểm: Các nhà triết học duy vật thời cổ đại đã coi vật chất là cơ sở, bản nguyên của
++ Ưu điểm: Các nhà triết học duy vật thời cổ đại đã coi vật chất là cơ sở, bản nguyên của
 
 mọi sự vật, hiện tượng trong thế giới; xuất phát từ chính thế giới vật chất để giải thích thế giới (đối lập với quan niệm duy tâm, tôn giáo về thế giới).
 
@@ -793,13 +797,12 @@ trên cơ sở khoa học phân tích thế giới vật chất. Đó chính là
 
 học duy vật thời kỳ cận đại đã không chỉ ra được thuộc tính chung nhất của mọi dạng tồn tại vật chất, đồng nhất vật chất với một dạng tổn tại cụ thể (nguyên tử) hoặc một thuộc tính cụ thể (khối lượng) của vật chất,
 
-### 1.2. Cuộc cách mạng trong khoa học tự nhiên cuỗi thế ký XIX đầu thế lý XX và sự phá
+### 1.2. Cuộc cách mạng trong khoa học tự nhiên cuối thế ký XIX đầu thế kỷ XX và sự phá
 
 sẵn của các quan niệm duy vật siêu hình về vật chất
 
 Vật lý học hiện đại, nhất là vật lý vi mô đã có những phát hiện mới về cấu trúc của vật chất, làm biến đổi sâu sắc quan niệm về nguyên tử:
 
-19
 
 - Năm 1895: Wilhelm Conrad Rontgen (Rơnghen) tìm ra tia X - một loại sóng điện từ có
 
@@ -815,13 +818,13 @@ Những phát hiện nói trên của vật lý đã bác bỏ quan niệm về 
 
 'V.1. Lênin đã tổng kết những thành tựu của khoa học tự nhiên, đấu tranh chống chủ nghĩa
 
-duy tâm và đưa ra ĐỊNH nghĩa: “Vật chất là một phạm trù triết học dùng để chỉ thực tại khách quan được đem lại cho con người trong cảm giác, được cảm giác của chúng ta chép lại, chụp lại, phản ánh và tồn tại không lệ thuộc vào cảm giác”.
+duy tâm và đưa ra định nghĩa: “Vật chất là một phạm trù triết học dùng để chỉ thực tại khách quan được đem lại cho con người trong cảm giác, được cảm giác của chúng ta chép lại, chụp lại, phản ánh và tồn tại không lệ thuộc vào cảm giác”.
 
-- Phân tích nội dung ĐỊNH nghĩa:
+- Phân tích nội dung định nghĩa:
 
-+ Phương pháp ĐỊNH nghĩa: Vật chất là một phạm trù triết học, một phạm trù rộng nhất, cho nên
++ Phương pháp định nghĩa: Vật chất là một phạm trù triết học, một phạm trù rộng nhất, cho nên
 
-'không thể ĐỊNH nghĩa bằng phương pháp thông thường, V.I. Lênin đã ĐỊNH nghĩa vật chât bằng phương 'pháp đặc biệt: đối lập vật chất với ý thức.
+'không thể định nghĩa bằng phương pháp thông thường, V.I. Lênin đã định nghĩa vật chât bằng phương 'pháp đặc biệt: đối lập vật chất với ý thức.
 
 + Phân biệt vật chất với tư cách là phạm trù triết học với quan niệm về vật chất trong các
 
@@ -840,14 +843,13 @@ giác quan của con người => £huộc tính phản ánh.
 - Ý nghĩa khoa học của định nghĩa:
 + Định nghĩa vật chất của V.I. Lênin đã chống lại quan niệm duy tâm và khắc phục được
 
-những hạn chế trong quan niệm của chủ nghĩa duy vật trước Mác về vật chất.: + Thông qua ĐỊNH nghĩa vật chất, V.I. Lênin đã giải quyết vấn đề cơ bản của triết học trên lập trường duy vật và thuyết khả trii.:
+những hạn chế trong quan niệm của chủ nghĩa duy vật trước Mác về vật chất.: + Thông qua định nghĩa vật chất, V.I. Lênin đã giải quyết vấn đề cơ bản của triết học trên lập trường duy vật và thuyết khả trii.:
 
-### 1. V.L Lênin: Toàn tập, Nxb. Tiến bộ, Mátxcơva, 1980, tập 18, tr.1õ1.
+### 1. V.I. Lênin: Toàn tập, Nxb. Tiến bộ, Mátxcơva, 1980, tập 18, tr.1õ1.
 
-20
 
-„_ + định nghĩa vật chất của V.I. Lênin đã ĐỊNH hướng cho các nhà khoa học tự nhiên trong việc tìm kiếm, khám phá ra những dạng và những cấu trúc vật chất mới...
-+ Định nghĩa vật chất của V.I. Lênin là cơ sở khoa học cho việc XÁC ĐỊNH vật chất trong lĩnh
+„_ + định nghĩa vật chất của V.I. Lênin đã định hướng cho các nhà khoa học tự nhiên trong việc tìm kiếm, khám phá ra những dạng và những cấu trúc vật chất mới...
++ Định nghĩa vật chất của V.I. Lênin là cơ sở khoa học cho việc XÁC định vật chất trong lĩnh
 
 vực xã hội theo quan điểm của triết học Mác - Lênin.
 
@@ -875,7 +877,7 @@ kinh tế - xã hội.
 
 Mỗi hình thức vận động cơ bản trên khác nhau về chất, nhưng giữa chúng lại có mối quan hệ hữu cơ với nhau, trong đó hình thức vận động cao xuất hiện trên cơ sở của hình thức vận động thấp hơn, bao hàm trong nó những hình thức vận động thấp hơn và các hình thức vận động có thể chuyển hóa cho nhau.
 
-Đứng im là một trạng thái đặc biệt của vận động, vận động trong trạng thái cân bằng, trong sự ổn ĐỊNH tương đối, nói lên sự vật còn là nó mà chưa chuyển hóa thành cái khác. Không có đứng im tuyệt đối, sự vật hiện tượng chỉ đứng im trong một mối tương quan hoặc một hình thức vận động nhất ĐỊNH.
+Đứng im là một trạng thái đặc biệt của vận động, vận động trong trạng thái cân bằng, trong sự ổn định tương đối, nói lên sự vật còn là nó mà chưa chuyển hóa thành cái khác. Không có đứng im tuyệt đối, sự vật hiện tượng chỉ đứng im trong một mối tương quan hoặc một hình thức vận động nhất định.
 
 - b. Không gian, thời gian
 
@@ -943,7 +945,6 @@ Sự phát triển của giới tự nhiên mới tạo ra tiền đề vật ch
 
 hơn, mặt khác cũng giúp con người có khả năng sáng tạo ra công cụ lao động và sử dụng công cụ ấy phục vụ mục đích sống của con người.
 
-2
 
 + Việc sử dụng công cụ rong lao động giúp con người ngày càng tìm được nhiều nguồn thức
 
@@ -983,7 +984,7 @@ Như vậy, nguồn gốc trực tiếp và điều kiện đủ cho sự ra đ�
 
 + Ý thức phản ánh thế giới khách quan không rập khuôn, máy móc mà trên cơ sở tiếp thu,
 
-xử lý thông tin có chọn lọc, có ĐỊNH hướng.
+xử lý thông tin có chọn lọc, có định hướng.
 
 + Phản ánh ý thức không dừng lại ở vẻ bề ngoài, mà còn khái quát bản chất, quy luật của sự
 
@@ -1001,7 +1002,6 @@ và chuyển mô hình từ trong tư duy ra hiện thực khách quan thông qu
 
 phối không chỉ của các quy luật tự nhiên mà còn (và chủ yếu là) của các quy luật xã hội.
 
-23
 
 + Ý thức là hình thức phản ánh cao nhất riêng có của con người về hiện thực khách quan trên
 
@@ -1027,21 +1027,21 @@ người thành một lực lượng thân bí, độc lập, sản sinh ra sự
 
 - Chủ nghĩa duy vật siêu hình: Tuyệt đối hóa yếu tô vật chất, chỉ nhấn mạnh một chiều vai
 
-trò của vật chất sinh ra ý thức, quyết ĐỊNH ý thức; phủ nhận tính độc lập tương đối của ý thức.
+trò của vật chất sinh ra ý thức, quyết định ý thức; phủ nhận tính độc lập tương đối của ý thức.
 
 ### 3.2. Quan điểm của chủ nghĩa duy vật biện chứng
 
-- Vật chất quyết ĐỊNH ý thức:
+- Vật chất quyết định ý thức:
 
-Chủ nghĩa duy vật biện chứng khẳng ĐỊNH: Vật chắt có trước, ý thức có sau, vật chất là nguồn gốc của ý thức, quyết ĐỊNH ý thức. Vật chất quyết ĐỊNH ý thức thể hiện ở 4 phương diện sau:
+Chủ nghĩa duy vật biện chứng khẳng định: Vật chắt có trước, ý thức có sau, vật chất là nguồn gốc của ý thức, quyết định ý thức. Vật chất quyết định ý thức thể hiện ở 4 phương diện sau:
 
-+ Vật chất quyết ĐỊNH nguồn gốc của ý thức.
++ Vật chất quyết định nguồn gốc của ý thức.
 
-+ Vật chất quyết ĐỊNH nội dung của ý thức.
++ Vật chất quyết định nội dung của ý thức.
 
-+ Vật chất quyết ĐỊNH bản chất của ý thức.
++ Vật chất quyết định bản chất của ý thức.
 
-+ Vật chất quyết ĐỊNH sự vận động, phát triển của ý thức.
++ Vật chất quyết định sự vận động, phát triển của ý thức.
 
 - Ý thức có tính độc lập tương đối và tác động trở lại vật chất:
 
@@ -1053,7 +1053,7 @@ vận động, phát triển riêng. Ý thức có thể không song hành với
 
 + Vai trò của ý thức thể hiện nó có chỉ đạo hoạt động thực tiễn của con người. Khi phản ánh
 
-đúng hiện thực, nó có thể dự báo, tiên đoán đúng hiện thực trong tương lai, hình thành nên những học thuyết lý luận có tính ĐỊNH hướng.
+đúng hiện thực, nó có thể dự báo, tiên đoán đúng hiện thực trong tương lai, hình thành nên những học thuyết lý luận có tính định hướng.
 
 + Xã hội càng phát triển thì vai trò của ý thức ngày càng to lớn, nhất là trong thời đại thông
 
@@ -1063,9 +1063,8 @@ tin, thời đại kinh tế tri thức, thời đại cách mạng công nghi�
 
 - Cần tôn trọng tính khách quan kết hợp với phát huy tính năng động chủ quan.
 
-+ Tôn trọng tính khách quan: Vật chất quyết ĐỊNH ý thức, do đó mọi suy nghĩ và hành động,
++ Tôn trọng tính khách quan: Vật chất quyết định ý thức, do đó mọi suy nghĩ và hành động,
 
-24
 
 đều phải xuất phát từ hiện thực khách quan, chống chủ quan duy ý chí. Mọi chủ trương, đường lối, kế hoạch... đều phải xuất phát từ điều kiện, tiền đề vật chất hiện có.
 
@@ -1109,7 +1108,6 @@ Phép biện chứng duy vật là thanh tựu triết học của C. Mác và P
 
 ### 1. Ơ. Mác và Ph. Ăngghen: Toàn tập, Nxb Chính trị Quốc gia, Hà Nội, 1994, tập 20, tr.201.
 
-25
 
 và phương pháp luận biện chứng, giữa lý luận nhận thức và lôgíc biện chứng.
 
@@ -1133,7 +1131,7 @@ Nguyên lý là những khởi điểm (điểm xuất phát đầu tiên) hay n
 
 * Khải niệm “mối liên hệ” và “mối liên hệ phổ biển”:
 
-- Mối liên hệ là khái niệm dùng để chỉ sự quy ĐỊNH, sự tác động và chuyền hóa lẫn nhau giữa các
+- Mối liên hệ là khái niệm dùng để chỉ sự quy định, sự tác động và chuyền hóa lẫn nhau giữa các
 
 sự vật, hiện tượng hoặc giữa các mặt, các yếu tố trong cùng một sự vật, hiện tượng trong. thế giới.
 
@@ -1165,11 +1163,10 @@ của sự vật. Chú trọng đến những mối liên hệ phổ biến, t�
 
 + Quan điểm toàn điện đối lập với quan điểm phiến điện, một chiều, chỉ thấy mặt này mà
 
-26
 
 không thấy mặt khác; hoặc chú ý đến nhiều mặt nhưng lại xem xét dàn trải, không thấy mặt bản chất của đối tượng nên dễ rơi vào thuật ngụy biện (đánh tráo các mối liên hệ cơ bản thành không cơ bản hoặc ngược lại) và chủ nghĩa chiết trung (lắp ghép vô nguyên tắc các mồi liên hệ trái ngược nhau vào một mối liên hệ phổ biển).
 
-~ Quan điểm lịch sử - cụ thể: đòi hỏi chúng ta khi xem xét sự vật, hiện tượng phải XÁC ĐỊNH được vị trí, vai trò của từng mối liên hệ trong không gian, thời gian nhât ĐỊNH,
+~ Quan điểm lịch sử - cụ thể: đòi hỏi chúng ta khi xem xét sự vật, hiện tượng phải XÁC định được vị trí, vai trò của từng mối liên hệ trong không gian, thời gian nhât định,
 
 - b. Nguyên lý về sự phát triển
 
@@ -1215,11 +1212,10 @@ những tính chất khác nhau trong mỗi giai đoạn phát triển khác nha
 
 tượng, là kết quả của quá trình nhận thức và kết quả của sự khái quát trong tư duy.
 
-~ Phạm trù là những khái niệm chung nhất, phản ánh những mặt, thuộc tính, mối liên hệ chung, cơ bản nhất của các sự vật, hiện tượng trong một lĩnh vực nhất ĐỊNH.
+~ Phạm trù là những khái niệm chung nhất, phản ánh những mặt, thuộc tính, mối liên hệ chung, cơ bản nhất của các sự vật, hiện tượng trong một lĩnh vực nhất định.
 
 hư vậy, cả “khái niệm” và “phạm trù” đều là trí thức của con người, là kết quả của quá trình
 
-27
 
 nhận thức, quá trình khái quát hóa, trừu tượng hóa trong tư duy,
 
@@ -1228,7 +1224,7 @@ nhận thức, quá trình khái quát hóa, trừu tượng hóa trong tư duy,
 ### 2.2.1. Cái riêng và cái chung
 * Định nghĩa “cái riêng”, “cái chung” và “cái đơn nhất”:
 
-- Phạm trù cái riêng dùng để chỉ một sự vật, hiện tượng, quá trình nhất ĐỊNH.
+- Phạm trù cái riêng dùng để chỉ một sự vật, hiện tượng, quá trình nhất định.
 
 - Phạm trù cái chung dùng để chỉ những mặt, những thuộc tính, những yếu tố, những quan
 
@@ -1254,7 +1250,7 @@ tại tuyệt đối độc lập mà lại không có mối liên hệ với c�
 
 sắc hơn cái riêng. Cái chung sâu sắc hơn cái riêng vì nó phản ánh những thuộc tính chung bản chất lặp đi lặp lại ở nhiều sự vật. Còn cái riêng phong phú hơn cái chung vì nó là cái tổng hợp của cái chung và cái đơn nhất.
 
-- Cái chung và cái đơn nhất có thể chuyển hóa cho nhau trong những điều kiện nhất ĐỊNH.
+- Cái chung và cái đơn nhất có thể chuyển hóa cho nhau trong những điều kiện nhất định.
 
 + Cái chung có thể chuyển hóa thành cái đơn nhất, đó là quá trình tồn tại và tiêu vong dần
 
@@ -1270,12 +1266,11 @@ dần của cái cũ.
 
 ~ Trong hoạt động thực tiễn, cần tạo điều kiện đẻ cái chung và cái đơn nhất có thể chuyển hóa cho nhau (cái chung bắt lợi chuyển thành cái đơn nhất và ngược lại, cái đơn nhất có lợi chuyển hóa thành cái chung).
 
-28
 
 ### 2.2.2. Nguyên nhân và kế quả
 * Định nghĩa “nguyên nhân” và “kết quả”:
 
-~ Phạm trù nguyên nhân dùng để chỉ sự tác động lẫn nhau giữa các mặt trong một sự vật, hiện tượng, hoặc giữa các sự vật, hiện tượng với nhau tạo ra sự biến đổi nhất ĐỊNH.
+~ Phạm trù nguyên nhân dùng để chỉ sự tác động lẫn nhau giữa các mặt trong một sự vật, hiện tượng, hoặc giữa các sự vật, hiện tượng với nhau tạo ra sự biến đổi nhất định.
 
 - Phạm trù kết quả dùng để chỉ những biến đổi xuất hiện do sự tác động giữa các mặt, các
 
@@ -1313,46 +1308,45 @@ học là phải tìm ra được nguyên nhân khách quan, tất yếu của n
 
 - Một nguyên nhân có thể có nhiều kết quả và ngược lại, nên trong nhận thức và hoạt động
 
-thực tiễn phải có quan điểm toàn điện và quan điểm lịch sử - cụ thẻ để giải quyết và ứng dụng nó.
+thực tiễn phải có quan điểm toàn điện và quan điểm lịch sử - cụ thể để giải quyết và ứng dụng nó.
 
-### 2.2.3. Tất nhiên và ngẫu nhiên .
-* Định nghĩa “Tất nhiên” và “ngẫu nhiên ”:
+### 2.2.3. tất nhiên và ngẫu nhiên .
+* Định nghĩa “tất nhiên” và “ngẫu nhiên ”:
 
-- Tất nhiên là phạm trù chỉ mối liên hệ bản chất, do nguyên nhân cơ bản bên trong sự vật,
+- tất nhiên là phạm trù chỉ mối liên hệ bản chất, do nguyên nhân cơ bản bên trong sự vật,
 
-hiện tượng quy ĐỊNH và trong điều kiện nhất ĐỊNH phải xảy ra đúng như thế chứ không thể khác.
+hiện tượng quy định và trong điều kiện nhất định phải xảy ra đúng như thế chứ không thể khác.
 
-29
 
 - Ngẫu nhiên là phạm trù chỉ mối liên hệ không bản chất, do nguyên nhân, hoàn cảnh bên
 
-ngoài quy ĐỊNH nên có thể xuất hiện, có thể không xuất hiện; có thể xuất hiện thế này hoặc có thể xuất hiện thế khác.
+ngoài quy định nên có thể xuất hiện, có thể không xuất hiện; có thể xuất hiện thế này hoặc có thể xuất hiện thế khác.
 
 Lưu ý: cả cái tất nhiên và ngẫu nhiên đều có nguyên nhân của nó, chúng chỉ khác nhau ở phương thức biểu hiện.
 
-* Mới quan hệ biện chứng giữa Tất nhiên và ngẫu nhiên:
+* Mới quan hệ biện chứng giữa tất nhiên và ngẫu nhiên:
 
-- Tất nhiên và ngẫu nhiên đều tồn tại khách quan và đều có vai trò nhất ĐỊNH trong quá trình
+- tất nhiên và ngẫu nhiên đều tồn tại khách quan và đều có vai trò nhất định trong quá trình
 
-phát triển của sự vật, trong đó tất nhiên giữ vai trò quyết ĐỊNH.
+phát triển của sự vật, trong đó tất nhiên giữ vai trò quyết định.
 
-- Cái Tất nhiên và ngẫu nhiên đều tồn tại trong sự thống nhất biện chứng với nhau; không có
+- Cái tất nhiên và ngẫu nhiên đều tồn tại trong sự thống nhất biện chứng với nhau; không có
 
-cái Tất nhiên thuần túy và ngẫu nhiên thuần túy.
+cái tất nhiên thuần túy và ngẫu nhiên thuần túy.
 
-~ Tất nhiên và ngẫu nhiên có thể chuyển hóa cho nhau. Cả tất nhiên và ngẫu nhiên không nằm yên ở trạng thái cũ mà chúng cũng luôn vận động, biến đổi cùng với sự biến đổi của sự vật và trong, những điều kiện nhất ĐỊNH có thể chuyển hóa cho nhau.
+~ tất nhiên và ngẫu nhiên có thể chuyển hóa cho nhau. Cả tất nhiên và ngẫu nhiên không nằm yên ở trạng thái cũ mà chúng cũng luôn vận động, biến đổi cùng với sự biến đổi của sự vật và trong, những điều kiện nhất định có thể chuyển hóa cho nhau.
 
 * Ý nghĩa phương pháp luận:
 
-- Cả Tất nhiên và ngẫu nhiên đều tồn tại khách quan, nhưng tất nhiên không tổn tại dưới dạng.
+- Cả tất nhiên và ngẫu nhiên đều tồn tại khách quan, nhưng tất nhiên không tổn tại dưới dạng.
 
-thuần tuý nên trong hoạt động nhận thức chỉ có thể chỉ ra được Tất nhiên bằng cách nghiên cứu. những ngẫu nhiên mà tất nhiên phải đi qua.
+thuần tuý nên trong hoạt động nhận thức chỉ có thể chỉ ra được tất nhiên bằng cách nghiên cứu. những ngẫu nhiên mà tất nhiên phải đi qua.
 
-~ Về căn bản trong hoạt động nhận thức và thực tiễn, chúng ta phải dựa vào cái Tất nhiên chứ không dựa vào cái ngẫu nhiên để cải tạo sự vật. Nhưng mặt khác, cũng phải chú ý tới cái ngẫu nhiên bởi chúng có thể gây thay đổi đột biến ở sự vật hiện tượng.
+~ Về căn bản trong hoạt động nhận thức và thực tiễn, chúng ta phải dựa vào cái tất nhiên chứ không dựa vào cái ngẫu nhiên để cải tạo sự vật. Nhưng mặt khác, cũng phải chú ý tới cái ngẫu nhiên bởi chúng có thể gây thay đổi đột biến ở sự vật hiện tượng.
 
-- Tất nhiên và ngẫu nhiên có thể chuyển hóa cho nhau. Vì vậy, cần tạo điều kiện nhất ĐỊNH đẻ cản
+- tất nhiên và ngẫu nhiên có thể chuyển hóa cho nhau. Vì vậy, cần tạo điều kiện nhất định đẻ cản
 
-trở hoặc thúc đẩy sự chuyển hóa của chúng theo mục đích nhất ĐỊNH.
+trở hoặc thúc đẩy sự chuyển hóa của chúng theo mục đích nhất định.
 
 ### 2.2.4. Nội dung và hình thúc
 * Định nghĩa “nội dung” và “hình thức”:
@@ -1369,17 +1363,17 @@ hệ thống các mối liên hệ tương đối bền vững giữa các yếu
 
 - Nội dung và hình thức gắn bó với nhau trong một chỉnh thể thống nhất. Không có hình thức
 
-nào tồn tại thuần túy mà không có nội dung và ngược lại không nội dung nào lại không tồn tại trong. một hình thức nhất ĐỊNH. Nội dung nào hình thức đó.
+nào tồn tại thuần túy mà không có nội dung và ngược lại không nội dung nào lại không tồn tại trong. một hình thức nhất định. Nội dung nào hình thức đó.
 
 Tuy nhiên không phải bao giờ nội dung và hình thức cũng phù hợp với nhau hoàn toàn. Trong quá trình phát triển của sự vật, có thể có hai trường hợp sau:
 
 e Cùng một nội dung có thẻ thể hiện dưới nhiều hình thức khác nhau. e Cùng một hình thức có thể chứa đựng những nội dung khác nhau. 30
 
-- Nội dụng giữ vai trò quyết ĐỊNH hình thức, hình thức tác động trở lại nội dụng:
+- Nội dụng giữ vai trò quyết định hình thức, hình thức tác động trở lại nội dụng:
 
 + Vai trò của nội dung: Sự vật, hiện tượng phát triển thông qua sự đổi mới không ngừng của nội
 
-dung và sự thay đổi theo chu kỳ của hình thức. Lúc đầu, sự biến đổi diễn ra trong nội dung nhưng chưa ảnh hưởng đến hình thức, nhưng khi sự biến đổi đó tiếp tục diễn ra đến giới hạn nhất ĐỊNH, cách thức liên hệ giữa các yếu tố của nội dung cũng thay đổi theo. Nội dung mới xuất hiện thì hình thức ban đầu trở nên chật hẹp, kìm hãm sự phát triển của nội dung, nội dung mới phá bỏ hình thức cũ và trong vỏ bao bọc của hình thức mới đó, thì nội dung mới sẽ tiếp tục phát triển.
+dung và sự thay đổi theo chu kỳ của hình thức. Lúc đầu, sự biến đổi diễn ra trong nội dung nhưng chưa ảnh hưởng đến hình thức, nhưng khi sự biến đổi đó tiếp tục diễn ra đến giới hạn nhất định, cách thức liên hệ giữa các yếu tố của nội dung cũng thay đổi theo. Nội dung mới xuất hiện thì hình thức ban đầu trở nên chật hẹp, kìm hãm sự phát triển của nội dung, nội dung mới phá bỏ hình thức cũ và trong vỏ bao bọc của hình thức mới đó, thì nội dung mới sẽ tiếp tục phát triển.
 
 + Vai trò của hình thức:
 
@@ -1402,11 +1396,11 @@ hình thức, theo đối sự phù hợp hoặc không phù hợp giữa nội 
 ### 2.2.5. Bản chất và hiện tượng
 * Định nghĩa “bản chất” và “hiện tượng”:
 
-~ Phạm trù ản chát dùng để chỉ tổng thể tất cả những mặt, những múi liên hệ tất nhiên, tương đối ổn ĐỊNH bên trong sự vật, quy ĐỊNH sự vận động, phát triển của sự vật, hiện tượng đó.
+~ Phạm trù ản chát dùng để chỉ tổng thể tất cả những mặt, những múi liên hệ tất nhiên, tương đối ổn định bên trong sự vật, quy định sự vận động, phát triển của sự vật, hiện tượng đó.
 
-- Phạm trù hiệu tượng dùng để chỉ sự biểu hiện của những mặt, những mối liên hệ Tất nhiên, trơng
+- Phạm trù hiệu tượng dùng để chỉ sự biểu hiện của những mặt, những mối liên hệ tất nhiên, trơng
 
-đối ôn ĐỊNH đó ra bên ngoài; là mặt đễ biến đổi hơn và là hình thức thẻ hiện của bản chất đối tượng.
+đối ôn định đó ra bên ngoài; là mặt đễ biến đổi hơn và là hình thức thẻ hiện của bản chất đối tượng.
 
 * Mối quan hệ biện chứng giữa bản chất và hiện tượng:
 
@@ -1416,7 +1410,7 @@ Bản chất và hiện tượng đều tồn tại khách quan, là hai mặt v
 
 + Bản chất luôn bộc lộ qua hiện tượng; còn hiện tượng nào cũng là biểu hiện của bản chất
 
-nào đó ở mức độ nhất ĐỊNH. Không có bản chất nào tồn tại thuần túy ngoài hiện tượng và ngược lại cũng không có hiện tượng nào hoàn toàn không phải là biểu hiện của bản chất.
+nào đó ở mức độ nhất định. Không có bản chất nào tồn tại thuần túy ngoài hiện tượng và ngược lại cũng không có hiện tượng nào hoàn toàn không phải là biểu hiện của bản chất.
 
 + Khi bản chất thay đổi thì hiện tượng biểu hiện của nó sớm muộn cũng thay đổi theo. Bản
 
@@ -1424,11 +1418,10 @@ chất mắt thì hiện tượng của nó cũng mắt theo.
 
 - Sự đối lập giữa bản chất và hiện tượng: -
 
-+ Bản chất thể hiện cái chung, cái tất yéu, quyết ĐỊNH sự phát triển của sự vật, còn hiện tượng
++ Bản chất thể hiện cái chung, cái tất yéu, quyết định sự phát triển của sự vật, còn hiện tượng
 
 phản ánh cái riêng, cái cá biệt ở bên ngoài sự vật. Vì vậy, cùng một bản chất có thể biểu hiện bằng
 
-31
 
 những hiện tượng khác nhau, tùy theo sự thay đổi của điều kiện và hoàn cảnh, còn hiện tượng, phong phú và đa dạng.
 
@@ -1436,7 +1429,7 @@ những hiện tượng khác nhau, tùy theo sự thay đổi của điều ki�
 
 hiện bên ngoài của hiện thực khách quan đó. Bản chất không biểu hiện ở một hiện tượng mà ở nhiều hiện tượng. Còn hiện tượng chỉ biểu hiện một khía cạnh nào đó của bản chất.
 
-+ Bản chất là cái tương đối ổn ĐỊNH, còn hiện tượng là cái thường xuyên biến đồi.
++ Bản chất là cái tương đối ổn định, còn hiện tượng là cái thường xuyên biến đồi.
 
 * Ýnghĩa phương pháp luận:
 
@@ -1446,7 +1439,7 @@ hiện bên ngoài của hiện thực khách quan đó. Bản chất không bi�
 
 động thực tiễn, phải dựa vào bản chất sự vật để đưa ra được phương thức cải tạo, biến đổi sự vật.
 
-¬ Một hiện tượng có thể là biểu hiện của nhiều bản chất khác nhau, do đó cần phải cẩn thận với những, giả tượng, những sự gán ghép sai lầm một hiện tượng với một bản chất nhất ĐỊNH trong. khi thực tế nó lại là biểu hiện của bản chất khác.
+¬ Một hiện tượng có thể là biểu hiện của nhiều bản chất khác nhau, do đó cần phải cẩn thận với những, giả tượng, những sự gán ghép sai lầm một hiện tượng với một bản chất nhất định trong. khi thực tế nó lại là biểu hiện của bản chất khác.
 
 ### 2.2.6. Khả năng và hiện thực
 * Định nghĩa “khả năng” và “hiện thực ”:
@@ -1457,7 +1450,7 @@ thể, nhưng ngay lúc này còn chưa có.
 
 - Hiện thực là kết quả sinh thành, là sự thực hiện khả năng, là cái đang có, đang tồn tại thực
 
-sự và là cơ sở để ĐỊNH hình những khả năng mới.
+sự và là cơ sở để định hình những khả năng mới.
 
 * mối quan hệ biện chứng giữa khả năng và biện thực:
 
@@ -1465,7 +1458,7 @@ sự và là cơ sở để ĐỊNH hình những khả năng mới.
 
 hóa cho nhau. Trong sự vật, hiện tượng đang tồn tại đã chứa đựng khả năng và sự vận động, phát triển của sự vật chính là quá trình chuyển hóa từ khả năng thành hiện thực và ngược lại.
 
--Ở cùng một sự vật, trong cùng điều kiện nhất ĐỊNH, có thể tồn tại nhiều khả năng, chứ không phải chỉ có một khả năng. Ngoài những khả năng vốn có, khi có thêm điều kiện mới thì sự vật sẽ
+-Ở cùng một sự vật, trong cùng điều kiện nhất định, có thể tồn tại nhiều khả năng, chứ không phải chỉ có một khả năng. Ngoài những khả năng vốn có, khi có thêm điều kiện mới thì sự vật sẽ
 
 xuất hiện những khả năng mới, đồng thời bản thân mỗi khả năng cũng thay đổi theo sự thay đổi của điều kiện.
 
@@ -1483,9 +1476,8 @@ thành hiện thực. Hoạt động có ý thức của con người có thể 
 
 định chủ trương, phương hướng, mục đích hành động của mình.
 
-- Tuy không dựa vào khả năng nhưng cũng phải tính đến các khả năng để có thể XÁC ĐỊNH được
+- Tuy không dựa vào khả năng nhưng cũng phải tính đến các khả năng để có thể XÁC định được
 
-32
 
 khả năng tối tru, đề ra phương hướng hành động phù hợp với yêu cầu cải tạo, biến đổi sự vật.
 
@@ -1503,7 +1495,7 @@ Quy luật là những mối liên hệ khách quan, bản chất, tắt yếu, 
 
 - Căn cứ vào phạm vi hoạt động, quy luật được chia ra:
 
-+ Quy luật riêng: tác động trong một lĩnh vực nhất ĐỊNH.
++ Quy luật riêng: tác động trong một lĩnh vực nhất định.
 
 + Quy luật chung: tác động trong một số lĩnh vực. l
 
@@ -1535,7 +1527,7 @@ V trí, vai trò của quy luật: chỉ ra cách thức chung nhất của sự
 
 * Khái niệm “chất”:
 
-- Chất dùng đẻ chỉ tính quy ĐỊNH khách quan vốn có của sự vật, hiện tượng; là sự thống nhất hữu.
+- Chất dùng đẻ chỉ tính quy định khách quan vốn có của sự vật, hiện tượng; là sự thống nhất hữu.
 
 cơ của các thuộc tính làm cho sự vật là nó, phân biệt nó với sự vật khác.
 
@@ -1543,21 +1535,20 @@ cơ của các thuộc tính làm cho sự vật là nó, phân biệt nó với
 
 bản, chỉ những thuộc tính cơ bản mới hợp thành chất của sự vật, khi nào chúng thay đổi thì chất thay đổi; còn các thuộc tính không cơ bản thay đổi thì chưa dẫn đến sự thay đổi về chất của sự vật. Tuy nhiên, sự phân chia này chỉ có ý nghĩa tương đối, được xét trong từng mối quan hệ cụ thể., _
 
-~ Chất và các phương thức liên kết: Chất của sự vật không chỉ được quy ĐỊNH bởi chất của các yếu tổ tạo thành mà còn bởi phương thức liên kết của các yếu tó đó, hay là kết cầu của sự vật (VD: Kim cương và than chì).
+~ Chất và các phương thức liên kết: Chất của sự vật không chỉ được quy định bởi chất của các yếu tổ tạo thành mà còn bởi phương thức liên kết của các yếu tó đó, hay là kết cầu của sự vật (VD: Kim cương và than chì).
 
-33
 
 * Khái niệm “lượng”:
 
-- Lượng dùng, để chỉ tính quy ĐỊNH khách quan vốn có của sự vật về các phương diện: số
+- Lượng dùng, để chỉ tính quy định khách quan vốn có của sự vật về các phương diện: số
 
 lượng các yếu tố cầu thành, quy mô của sự tồn tại, tốc độ, nhp điệu của các quá trình vận động, phát triển của sự vật.
 
-- Một sự vật có thể tồn tại nhiều lượng khác nhau, XÁC ĐỊNH bằng các phương thức khác nhau
+- Một sự vật có thể tồn tại nhiều lượng khác nhau, XÁC định bằng các phương thức khác nhau
 
 phù hợp với từng loại lượng cụ thể của sự vật.
 
-- Lượng cũng có tính khách quan, là cái vốn có của sự vật, quy ĐỊNH sự vật đó.
+- Lượng cũng có tính khách quan, là cái vốn có của sự vật, quy định sự vật đó.
 
 ~ Trong một số trường hợp của xã hội và nhất là trong tư duy lượng khó đo được bằng số liệu cụ thể mà chỉ có thể nhận biết được bằng năng lực trừu tượng hóa.
 
@@ -1573,7 +1564,7 @@ cụ thể.
 
 động qua lại lẫn nhau làm cho sự vật biến đổi.
 
-- Trong khoảng giới hạn nhất ĐỊNH, sự thay đổi về lượng chưa dẫn đến sự thay đối về chất
+- Trong khoảng giới hạn nhất định, sự thay đổi về lượng chưa dẫn đến sự thay đối về chất
 
 của sự vật, sự vật đang còn là chính, khoảng giới hạn đó gọi là “ĐỘ”.
 
@@ -1581,7 +1572,7 @@ của sự vật, sự vật đang còn là chính, khoảng giới hạn đó g
 
 * Quá trình chuyển hóa từ những sự thay đổi về lượng thành những sự thay đổi về chất:
 
-- Sự thay đổi về lượng đến thời điểm nhất ĐỊNH tạo ra sự thay đổi về chất gọi là “điểm nút”.
+- Sự thay đổi về lượng đến thời điểm nhất định tạo ra sự thay đổi về chất gọi là “điểm nút”.
 
 “Điểm nút” là phạm trù triết học dùng để chỉ thời điểm mà ở đó sự thay đổi về lượng đã đủ làm thay đổi về chất của sự vật.
 
@@ -1597,11 +1588,10 @@ Khi chất mới ra đời, tác động trở lại đối với lượng của
 
 Khái quát nội dung quy luật: Bắt cứ sự vật, hiện tượng nào cũng là sự thống nhất biện chứng giữa hai mặt chất và lượng, Sự thay đối dần dần về lượng tới điểm nút sẽ dẫn đến sự thay đổi về chất thông qua bước nhảy. Chất mới ra đời tác động đến sự thay đổi của lượng mới. Quá trình đó diễn ra liên tục tạo thành phương thức phổ biến của các quá trình vận động, phát triển của tự
 
-34
 
 nhiên, xã hội và tư duy.
 
-#### e. Ý nghĩa phương pháp luận
+- c. Ý nghĩa phương pháp luận
 
 ~ Trong nhận thức và hoạt động thực tiễn, chúng ta phải chú ý cả hai mặt chất và lượng, tạo nên sự nhận thức toàn diện về sự vật.
 
@@ -1653,7 +1643,6 @@ phụ thuộc vào ý thức con người; mâu thuẫn là cái vốn có của
 
 triển, mâu thuẫn có đặc điểm, vị trí, vai trò khác nhau đối với sự vận động, phát triển của sự vật. Đó là mâu thuẫn cơ bản và không cơ bản, mâu thuẫn bên trong và bên ngoài, mâu thuẫn chủ yếu và thứ yếu...
 
-3
 
 - b. Quá trình vận động của mâu thuẫn
 
@@ -1695,11 +1684,11 @@ Bởi vậy, sự liên hệ, tác động, chuyển hóa lẫn nhau giữa hai 
 
 ~ Trong nhận thức và hoạt động thực tiễn, chúng ta phải biết phát hiện ra mâu thuẫn, tôn trọng, mâu thuẫn, nắm được bản chất, nguồn gốc và khuynh hướng vận động, phát triển của sự vật để từ đó đưa ra được những đường lối, chủ trương, biện pháp phù hợp đối với việc cải tạo, biến đổi sự vật.
 
-- Việc giải quyết mâu thuẫn phải XÁC ĐỊNH được vị trí, vai trò của từng loại mâu thuẫn để có biện
+- Việc giải quyết mâu thuẫn phải XÁC định được vị trí, vai trò của từng loại mâu thuẫn để có biện
 
 pháp giải quyết cụ thể với yêu cầu của hoạt động nhận thức và thực tiễn.
 
-### 2.3.3. Quy luật phú ĐỊNH của phú ĐỊNH
+### 2.3.3. Quy luật phủ định của phủ định
 
 'V trí, vai trò của quy luật: chỉ ra khuynh hướng vận động, phát triển của các sự vật, hiện tượng.
 
@@ -1711,7 +1700,6 @@ pháp giải quyết cụ thể với yêu cầu của hoạt động nhận th�
 
 trình vận động, phát triển.
 
-36
 
 * Khái niệm phủ định biện chứng:
 
@@ -1719,25 +1707,25 @@ trình vận động, phát triển.
 
 cho lần phủ định tiếp theo, cho sự ra đời của cái mới thay thế cái cũ.
 
-- Tỉnh chất của phú ĐỊNH biện chứng:
+- Tỉnh chất của phủ định biện chứng:
 
 + Tính khách quan: Sự phủ định được thực hiện đo việc giải quyết mâu thuẫn vốn có bên
 
-trong sự vật quy ĐỊNH, hoàn toàn không phụ thuộc ý muốn chủ quan của con người.
+trong sự vật quy định, hoàn toàn không phụ thuộc ý muốn chủ quan của con người.
 
 + Tính kế thừa: Phủ định biện chứng kế thừa có chọn lọc những tính hoa, nhân tố tích cực,
 
 tiến bộ của sự vật cũ và lọc bỏ những yếu tố tiêu cực, bảo thủ, lạc hậu.
 
-- b. Phú ĐỊNH của phủ định:
+- b. Phú định của phủ định:
 
-- Phú ĐỊNH của phú ĐỊNH là sự phủ định biện chứng kết thúc một chu kỳ vận động, phát triển
+- Phú định của phủ định là sự phủ định biện chứng kết thúc một chu kỳ vận động, phát triển
 
 của sự vật hiện tượng, làm cho sự vật dường như quay trở lại cái cũ về mặt hình thức, nhưng trên cơ sở cao hơn, tiến bộ hơn về nội dung.
 
 - Phủ định của phủ định có tính chất chu kỳ: đưa sự vật đường như quay trở lại trạng thái cũ,
 
-nhưng thực tế là kết thúc một chu kỳ phát triển, mở ra một chu kỳ phát triển mới, kế thừa một cách có chọn lọc các yếu tố của cái cũ, bổ sung những yếu tố mới và đạt được sự thay đổi và tiến bộ nhất ĐỊNH về chất.
+nhưng thực tế là kết thúc một chu kỳ phát triển, mở ra một chu kỳ phát triển mới, kế thừa một cách có chọn lọc các yếu tố của cái cũ, bổ sung những yếu tố mới và đạt được sự thay đổi và tiến bộ nhất định về chất.
 
 - Hình thức “xoáy ốc” của sự phát triển theo quy luật phủ định của phủ định: thông qua
 
@@ -1761,7 +1749,6 @@ cái mới, ủng hộ cái mới và quan trọng hơn là tạo điều kiện
 
 phủ định hoàn toàn nhưng cũng không kế thừa nguyên xi cái cũ mà chỉ kế thừa những nhân tố tích cực, tiến bộ, hợp lý của cái cũ, phù hợp với sự phát triển của cái mới.
 
-37
 
 ## II- LÝ LUẬN NHẬN THỨC
 
@@ -1779,7 +1766,7 @@ Một là, thừa nhận thế giới vật chất tồn tại khách quan, đ�
 
 Hai là, thừa nhận con người có khả năng nhận thức thế giới khách quan.
 
-Ba là, khẳng ĐỊNH sự phản ánh đó là một quá trình biện chứng, tích cực, tự giác và sáng tạo.
+Ba là, khẳng định sự phản ánh đó là một quá trình biện chứng, tích cực, tự giác và sáng tạo.
 
 Bốn là, coi thực tiễn là cơ sở chủ yếu và trực tiếp nhất của nhận thức, là động lực, mục đích của nhận thức và là tiêu chuẩn để kiểm tra chân lý.
 
@@ -1814,9 +1801,8 @@ mang tính bản năng của loài vật.
 
 + Tính lịch sử - xã hội: thực tiễn không phải là những hoạt động thuần túy mang tính cá nhân
 
-mà luôn b quy ĐỊNH bởi những điều kiện lịch sử - xã bội cụ thể, vì vậy thực tiễn không bắt biến mà thay đổi tùy vào hoàn cảnh lịch sử - xã hội.
+mà luôn b quy định bởi những điều kiện lịch sử - xã bội cụ thể, vì vậy thực tiễn không bắt biến mà thay đổi tùy vào hoàn cảnh lịch sử - xã hội.
 
-38
 
 - Các hình thức cơ bản của thực tiễn:
 
@@ -1834,7 +1820,7 @@ trong xã hội nhằm cải biến những mối quan hệ xã hội để thú
 
 ra trong tư duy nhà nghiên cứu mà còn được thí nghiệm, thực nghiệm và ứng dụng trong hiện thực và do đó có tính vật chất ~ cảm tính.
 
-Mỗi hình thức hoạt động cơ bản của thực tiễn có chức năng khác nhau, song chúng có mối quan hệ chặt chẽ, tác động qua lại lẫn nhau. Trong mối quan hệ đó, hoạt động sản xuất vật chất là loại hoạt động có vai trò quyết ĐỊNH đối với các loại hoạt động thực tiễn khác.
+Mỗi hình thức hoạt động cơ bản của thực tiễn có chức năng khác nhau, song chúng có mối quan hệ chặt chẽ, tác động qua lại lẫn nhau. Trong mối quan hệ đó, hoạt động sản xuất vật chất là loại hoạt động có vai trò quyết định đối với các loại hoạt động thực tiễn khác.
 
 ### 1.3. Vai trò của thực tiễn đối với nhận thức
 
@@ -1856,7 +1842,7 @@ liệu cho hoạt động nhận thức.
 
 nhiệm vụ mới cần được nhận thức và giải quyết.
 
-- Thực tiễn là mục đích của nhận thức: Mục đích cuỗi cùng của nhận thức là quay trở về
+- Thực tiễn là mục đích của nhận thức: Mục đích cuối cùng của nhận thức là quay trở về
 
 phục vụ thực tiễn, định hướng và chỉ đạo thực tiễn.
 
@@ -1868,7 +1854,6 @@ của những tri thức đã đạt được trong nhận thức, từ đó b�
 
 Phải luôn quán triệt quan điểm thực tiễn. Quan điểm thực tiễn yêu cầu việc nhận thức phải xuất phát từ thực tiễn, đựa trên cơ sở thực tiễn, phải coi trọng công tác tổng kết thực tiễn. Việc nghiên cứu lý luận phải liên hệ với thực tiễn, học đi đôi với hành. Nếu xa rời thực tiễn sẽ dẫn đến sai lầm của bệnh chủ quan, duy ý chí; ngược lại, nếu tuyệt đối hóa vai trò của thực tiễn sẽ rơi vào chủ nghĩa kinh nghiệm.
 
-39
 
 ### 2. Con đường biện chứng của sự nhận thức chân lý
 
@@ -1902,7 +1887,7 @@ trừu tượng và khái quát những thuộc tính, những đặc điểm b�
 
 hoặc một số thuộc tính chung có tính bản chất nào đó của một nhóm sự vật, hiện tượng được biểu th bằng một từ hay một cụm từ.
 
-+ Phán đoán là hình thức của tư duy liên kết các khái niệm lại với nhau để khẳng ĐỊNH hoặc
++ Phán đoán là hình thức của tư duy liên kết các khái niệm lại với nhau để khẳng định hoặc
 
 phủ định một đặc điểm, một thuộc tính nào đó của đối tượng.
 
@@ -1910,7 +1895,7 @@ phủ định một đặc điểm, một thuộc tính nào đó của đối t
 
 - Mới quan hệ giữa nhận thức cảm tính và nhận thức lý tính:
 
-Nhận thức cảm tính và nhận thức lý tính là hai giai đoạn phản ánh hai trình độ khác nhau của quá trình nhận thức nhưng có mối quan hệ qua lại gắn bó với nhau, nhận thức cảm tính là cơ sở của nhận thức lý tính, nhận thức lý tính ĐỊNH hướng cho nhận thức cảm tính. Nhận thức cảm tính phong phú nhưng chỉ phản ánh các đặc điểm bề ngoài, riêng lẻ của sự vật hiện tượng. Nhận thức lý tính sâu sắc hơn, có khả năng phản ánh các thuộc tính bản chất, quy luật, nhưng cũng có khả năng phải ánh sai lệch sự vật hiện tượng.
+Nhận thức cảm tính và nhận thức lý tính là hai giai đoạn phản ánh hai trình độ khác nhau của quá trình nhận thức nhưng có mối quan hệ qua lại gắn bó với nhau, nhận thức cảm tính là cơ sở của nhận thức lý tính, nhận thức lý tính định hướng cho nhận thức cảm tính. Nhận thức cảm tính phong phú nhưng chỉ phản ánh các đặc điểm bề ngoài, riêng lẻ của sự vật hiện tượng. Nhận thức lý tính sâu sắc hơn, có khả năng phản ánh các thuộc tính bản chất, quy luật, nhưng cũng có khả năng phải ánh sai lệch sự vật hiện tượng.
 
 1, V.I. Lênin: Toàn tập, Nxb. Tiến bộ, Mátxcdva, 1981, tập 29, tr.179.
 
@@ -1934,9 +1919,9 @@ tượng ở một mối liên hệ và trong một bối cảnh lịch sử c�
 
 + Tính cụ thể: không có chân lý trừu tượng, chân lý luôn mang tính cụ thể, phản ánh sự vật,
 
-hiện tượng ở trong một điều kiện cụ thể với những hoàn cảnh lịch sử cụ thể trong một không gian và thời gian XÁC ĐỊNH.
+hiện tượng ở trong một điều kiện cụ thể với những hoàn cảnh lịch sử cụ thể trong một không gian và thời gian XÁC định.
 
-## B- BÀI TẬP
+## B. BÀI TẬP
 
 ### 1. TRẮC NGHIỆM
 
@@ -1962,7 +1947,6 @@ thời kỳ cận đại?
 
 - c. Đồng nhất vật chất với khối lượng.
 
-41
 
 - d. Đồng nhất vật chất với nguyên tử.
 
@@ -1998,9 +1982,9 @@ của nó.
 
 - a. Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán. b. Bút ký triết học.
 
-#### e. Nhà nước và cách mạng. d. Sáng kiến vĩ đại.
+- c. Nhà nước và cách mạng. d. Sáng kiến vĩ đại.
 
-**Câu 7. V.1. Lênin đã dùng phương pháp nào đề ĐỊNH nghĩa phạm trù vật chất?**
+**Câu 7. V.1. Lênin đã dùng phương pháp nào đề định nghĩa phạm trù vật chất?**
 
 - a. Mô tả nhiều đối tượng vật chất cụ thể để rút ra cái chung của chúng.
 
@@ -2020,7 +2004,6 @@ cơ bản.
 
 chất và ý thức đồng nhất với nhau.
 
-42
 
 - c. Định hướng cho sự phát triển của khoa học trong việc nghiên cứu về vật chất: vật
 
@@ -2030,7 +2013,7 @@ chât là vô cùng, vô tận, không sinh ra và không mắt đi.
 
 mắt thường.
 
-**Câu 9. Tìm ra nhận ĐỊNH đúng;**
+**Câu 9. Tìm ra nhận định đúng;**
 
 - a. V.I. Lênin đã giải quyết vấn đề cơ bản của triết học trên lập trường duy vật siêu
 
@@ -2038,7 +2021,7 @@ hình và khả trii luận.
 
 - b. V.1. Lênin đã giải quyết vấn đề cơ bản của triết học trên lập trường duy vật biện
 
-chứng và bất khả triii luận.
+chứng và bất khả trii luận.
 
 - c. V.I. Lênin đã giải quyết vấn đề cơ bản của triết học trên lập trường duy vật siêu
 
@@ -2048,9 +2031,9 @@ hình và khả trii luận.
 
 chứng và khả trii luận.
 
-**Câu 10. Lựa chọn nhận ĐỊNH đúng;**
+**Câu 10. Lựa chọn nhận định đúng;**
 
-- a. Nguồn gốc của sự vận động là do ý thức tinh thần, tư tưởng quyết ĐỊNH.
+- a. Nguồn gốc của sự vận động là do ý thức tinh thần, tư tưởng quyết định.
 
 - b. Vận động là kết quả do “cái hích của Thượng đế” tạo ra.
 
@@ -2082,9 +2065,8 @@ chứng về lao động và ý thức:
 
 - c. Con người là sinh vật duy nhất có năng lực sản xuất
 
-43
 
-**Câu 13. XÁC ĐỊNH mệnh đề đúng theo quan điểm duy vật biện chứng:**
+**Câu 13. XÁC định mệnh đề đúng theo quan điểm duy vật biện chứng:**
 
 a.. Các hình thức vận động thấp luôn bảo hàm trong nó những hình thức vận động cao hơn.
 
@@ -2140,7 +2122,7 @@ b, Phân ánh không phải là cái vốn có của thế giới vật chất.
 
 - d. Phản ánh chỉ là ý thức con người tưởng tượng ra.
 
-Câu 18. XÁC ĐỊNH nhận ĐỊNH đúng:
+**Câu 18.** XÁC định nhận định đúng:
 
 - a. Ý thức là thuộc tính của mọi dạng vật chất.
 
@@ -2150,7 +2132,7 @@ Câu 18. XÁC ĐỊNH nhận ĐỊNH đúng:
 
 - d. Ý thức là thuộc tính của một dạng vật chất có tổ chức cao nhất là bộ não người.
 
-Câu 19. Trình tự sắp xếp nào sau đây là đúng về trình độ các hình thức phản ánh từ phức tạp đến đơn giản của vật chất?
+**Câu 19.** Trình tự sắp xếp nào sau đây là đúng về trình độ các hình thức phản ánh từ phức tạp đến đơn giản của vật chất?
 
 - a. Phản ánh ý thức => Phản ánh vật lý, hóa học - phản ánh sinh học 3 phản ánh tâm lý.
 
@@ -2194,19 +2176,18 @@ Câu 19. Trình tự sắp xếp nào sau đây là đúng về trình độ cá
 
 về hiện thực khách quan.
 
-**Câu 23. Chủ nghĩa duy vật biện chứng khẳng ĐỊNH rằng:**
+**Câu 23. Chủ nghĩa duy vật biện chứng khẳng định rằng:**
 
-- a. Ý thức quyết ĐỊNH vật chất, vật chất có tính độc lập tương đối và tác động trở lại ý thức.
+- a. Ý thức quyết định vật chất, vật chất có tính độc lập tương đối và tác động trở lại ý thức.
 
-- b. Ý thức quyết ĐỊNH vật chất, vật chất hoàn toàn độc lập và tác động trở lại ý thức.
+- b. Ý thức quyết định vật chất, vật chất hoàn toàn độc lập và tác động trở lại ý thức.
 
-45
 
-#### e. Vật chất quyết ĐỊNH ý thức, ý thức có tính độc lập tương đối và tác động trở lại vật chất.
+- c. Vật chất quyết định ý thức, ý thức có tính độc lập tương đối và tác động trở lại vật chất.
 
-- d. Vật chất quyết ĐỊNH ý thức, ý thức hoàn toàn độc lập và tác động trở lại vật chất.
+- d. Vật chất quyết định ý thức, ý thức hoàn toàn độc lập và tác động trở lại vật chất.
 
-**Câu 24. XÁC ĐỊNH câu trả lời đúng theo quan điểm của chủ nghĩa duy vật biện chứng**
+**Câu 24. XÁC định câu trả lời đúng theo quan điểm của chủ nghĩa duy vật biện chứng**
 
 về vai trò của ý thức:
 
@@ -2262,7 +2243,6 @@ d, Mối liên hệ giữa các sự vật, hiện tượng chỉ là do con ng�
 
 **Câu 28. Quan niệm triết học nào cho rằng cơ sở của mối liên hệ các sự vật, hiện**
 
-46
 
 tượng là ở tính thống nhất vật chất của thế giới?
 
@@ -2308,7 +2288,7 @@ nguyên tắc phương pháp luận nào cho hoạt động lý luận và thự
 
 - b. Nguyên tắc phát triển.
 
-#### e. Nguyên tắc toàn diện,
+- c. Nguyên tắc toàn diện,
 
 - d. Nguyên tắc thống nhất giữa lý luận và thực tiễn.
 
@@ -2324,7 +2304,6 @@ nguyên tắc phương pháp luận nào cho hoạt động lý luận và thự
 
 **Câu 33. Phát biểu nào sau đây là đúng với quan niệm của triết học Mác - Lênin?**
 
-47
 
 - a. Cái chung là cái cái bao trùm toàn bộ cái riêng.
 
@@ -2362,9 +2341,9 @@ nhận môi quan hệ nhân — quả?
 
 - d. Vì mối liên hệ nhân — quả tồn tại khách quan.
 
-**Câu 36. Điền từ thích hợp vào chỗ trống (...) để có được một ĐỊNH nghĩa đúng:**
+**Câu 36. Điền từ thích hợp vào chỗ trống (...) để có được một định nghĩa đúng:**
 
-“Phạm trù tất nhiên dùng để chỉ cái do.... của kết cấu vật chất quyết ĐỊNH và trong những điều kiện nhất ĐỊNH, nó phải xảy ra như thế, không thế khác”,
+“Phạm trù tất nhiên dùng để chỉ cái do.... của kết cấu vật chất quyết định và trong những điều kiện nhất định, nó phải xảy ra như thế, không thế khác”,
 
 - a. Những nguyên nhân cơ bản, bên trong.
 
@@ -2376,17 +2355,16 @@ nhận môi quan hệ nhân — quả?
 
 **Câu 37. Triết học Mác - Lênin cho rằng:**
 
-a, Cả Tất nhiên và ngẫu nhiên đều có tính quy luật.
+a, Cả tất nhiên và ngẫu nhiên đều có tính quy luật.
 
 - b. Ngẫu nhiên mang tính xác suắt, chỉ có tất nhiên có tính quy luật.
 
-#### e. Mọi thứ đều là Tất nhiên, ngẫu nhiên là cái Tất nhiên không có quy luật.
+- c. Mọi thứ đều là tất nhiên, ngẫu nhiên là cái tất nhiên không có quy luật.
 
-- d. Tất nhiên và ngẫu nhiên đều không có tính quy luật.
+- d. tất nhiên và ngẫu nhiên đều không có tính quy luật.
 
-48
 
-[ Câu 38. Điền từ thích hợp vào chỗ trống (...) để có được một ĐỊNH ¡nghĩa đúng: “Triết học Mác - Lênin dùng phạm trù... để chỉ cách thức liên hệ, tổ chức, sắp xếp các phần tử, yếu tố, bộ phận cấu thành một đối tượng nhất ĐỊNH”.
+[ Câu 38. Điền từ thích hợp vào chỗ trống (...) để có được một định ¡nghĩa đúng: “Triết học Mác - Lênin dùng phạm trù... để chỉ cách thức liên hệ, tổ chức, sắp xếp các phần tử, yếu tố, bộ phận cấu thành một đối tượng nhất định”.
 
 - a. Bản chất. b. Hiện tượng. e. Nội dung. đ. Hình thức.
 
@@ -2394,15 +2372,15 @@ a, Cả Tất nhiên và ngẫu nhiên đều có tính quy luật.
 
 - a. Vì hình thức là yếu tố thường xuyên biến đồi.
 
-- b. Vì hình thức là yếu tố ổn ĐỊNH hơn nội dung.
+- b. Vì hình thức là yếu tố ổn định hơn nội dung.
 
 c. Vì hình thức có tính độc lập tương đối đối với nội dung.
 
-d. Vì hình thức quyết ĐỊNH nội dung.
+d. Vì hình thức quyết định nội dung.
 
 **Câu 40. Phạm trù nào được dùng để chỉ tổng thể các mối liên hệ khách quan, tất**
 
-nhiên, tương đối ổn ĐỊNH bên trong, quy ĐỊNH sự vận động, phát triển của đối tượng và thể hiện mình qua các hiện tượng tương ứng của đối tượng?
+nhiên, tương đối ổn định bên trong, quy định sự vận động, phát triển của đối tượng và thể hiện mình qua các hiện tượng tương ứng của đối tượng?
 
 - a. Nội dung b.Hìnhthức c.Bảnchất d. Hiện tượng.
 
@@ -2414,37 +2392,36 @@ luận được rút ra từ nội dung lý luận của mối quan hệ giữa 
 
 b, Đề cao kinh nghiệm, tuyệt đối hóa vai trò của kinh nghiệm.
 
-#### e. Phát triển khoa học để tìm ra bản chất của sự vật hiện tượng.
+- c. Phát triển khoa học để tìm ra bản chất của sự vật hiện tượng.
 
 - d. Căn cứ vào cái bản chất để cải tạo hiện thực.
 
-**Câu 42. Nhận ĐỊNH nào dưới đây là đúng?**
+**Câu 42. Nhận định nào dưới đây là đúng?**
 
-- a. Trong hoạt động thực tiễn chỉ cần dựa vào khả năng để XÁC ĐỊNH chủ trương,
+- a. Trong hoạt động thực tiễn chỉ cần dựa vào khả năng để XÁC định chủ trương,
 
 phương hướng, mục đích hành động của mình.
 
 - b. Trong hoạt động thực tiễn chỉ cần dựa vào hiện thực, không cần tính đến khả năng
 
-để XÁC ĐỊNH chủ trương, phương hướng, mục đích hành động của mình.
+để XÁC định chủ trương, phương hướng, mục đích hành động của mình.
 
 - c. Trong hoạt động thực tiễn cần dựa vào hiện thực và cũng phải tính đến các khả
 
-năng để XÁC ĐỊNH chủ trương, phương hướng, mục đích hành động của mình.
+năng để XÁC định chủ trương, phương hướng, mục đích hành động của mình.
 
 - d. Trong hoạt động thực tiễn không cần dựa vào hiện thực, mà chỉ cần dựa theo suy
 
-nghĩ chủ quan của bản thân đẻ XÁC ĐỊNH chủ trương, phương hướng, mục đích hành động.
+nghĩ chủ quan của bản thân đẻ XÁC định chủ trương, phương hướng, mục đích hành động.
 
 **Câu 43. Việc áp dụng một cách dập khuôn cách học của người này cho người khác**
 
 là vi phạm nguyên tắc phương pháp luận của cặp phạm trù nào sau đây?
 
-49
 
 - a. Nguyên nhân và kết quả. _ b. Bản chất và hiện tượng.
 
-#### e. Cái chung và cái riêng. d. Khả năng và hiện thực.
+- c. Cái chung và cái riêng. d. Khả năng và hiện thực.
 
 **Câu 44. Quy luật từ sự thay đổi về lượng dẫn đến sự thay đổi về chất và ngược lại**
 
@@ -2454,7 +2431,7 @@ cho thấy rõ:
 
 - b. Cách thức của sự vận động và phát triển.
 
-#### e. Nguồn gốc của sự vận động và phát. triển.
+- c. Nguồn gốc của sự vận động và phát. triển.
 
 - d. Động lực của sự vận động và phát triển.
 
@@ -2480,7 +2457,7 @@ phải là cái khác.
 
 - c. Lượng là phạm trù của khoa học cụ thê để đo lường sự vật.
 
-- d. Lượng là phạm trù triết học, chỉ tính quy ĐỊNH khách quan vốn có của sự vật về mặt
+- d. Lượng là phạm trù triết học, chỉ tính quy định khách quan vốn có của sự vật về mặt
 
 số lượng các yếu tố cầu thành; quy mô, tốc độ, nhp điệu vận động, phát triển của sự vật.
 
@@ -2502,9 +2479,8 @@ làm biến đổi về chất.
 
 - b. Độ là phạm trù triết học chỉ sự biến đổi về chất và lượng.
 
-50
 
-#### e. Độ là giới hạn trong đó sự thay đổi về lượng bắt kỳ cũng làm biến đổi về chất.
+- c. Độ là giới hạn trong đó sự thay đổi về lượng bắt kỳ cũng làm biến đổi về chất.
 
 - d. Độ thể hiện sự thống nhất giữa lượng và chất của sự vật, để chỉ khoảng giới hạn
 
@@ -2564,7 +2540,6 @@ không hê có sự bài trừ lẫn nhau.
 
 - a. Đấu tranh giữa các mặt đối lập là tạm thời.
 
-51
 
 - b. Đấu tranh giữa các mặt đối lập là tuyệt đối.
 
@@ -2576,7 +2551,7 @@ không hê có sự bài trừ lẫn nhau.
 
 - a. Sự bài trừ, gạt bỏ lẫn nhau giữa hai mặt đối lập.
 
-- b. Sự liên hệ, quy ĐỊNH, xâm nhập vào nhau tạo thành một chỉnh thể.
+- b. Sự liên hệ, quy định, xâm nhập vào nhau tạo thành một chỉnh thể.
 
 - c. Hai mặt đối lập giâm đần sự khác biệt.
 
@@ -2618,17 +2593,16 @@ có thống nhất của các mặt đối lập thì cũng không có đấu tr
 
 - d. Giữ mặt đối lập này và gạt bỏ mặt đối lập khác.
 
-**Câu 58. Chỉ ra nhận ĐỊNH SAI về phủ định biện chứng:**
+**Câu 58. Chỉ ra nhận định SAI về phủ định biện chứng:**
 
 - a. Phủ định biện chứng mang tính khách quan.
 
 - b. Phủ định biện chứng mang tính kế thừa.
 
-52
 
 cho
 
-#### e. Phủ định biện chứng là sự tự phủ định.
+- c. Phủ định biện chứng là sự tự phủ định.
 
 đ. Phủ định biện chứng là sự trải qua hai lần phủ định.
 
@@ -2680,7 +2654,6 @@ cái cũ.
 
 - b. Tính chu kỳ.
 
-53
 
 - c. Tính phát triển về chất.
 
@@ -2732,13 +2705,12 @@ LÝ LUẬN NHẬN THỨC
 
 - b. Sự tiến gần của tư duy đến khách thể.
 
-#### e. Quá trình phản ánh thế giới khách quan của mọi sinh vật sống.
+- c. Quá trình phản ánh thế giới khách quan của mọi sinh vật sống.
 
 - d. Sự phản ánh tích cực, tự giác và sáng tạo thế giới khách quan vào bộ óc con người
 
 trên cơ sở thực tiễn, nhằm tạo ra tri thức mới về hiện thực khách quan.
 
-54
 
 **Câu 67. Trường phái triết học nào cho rằng nhận thức không phải là sự phản ánh thế**
 
@@ -2772,7 +2744,7 @@ a. (1) C. Mác; (2) Luận cương về Phoiơbắc.
 
 b. (1) V.I. Lênin; (2) Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán. e. (1) Ph. Ăngghen; (2) Biện chứng của tự nhiên.
 
-đ. (1) V.L Lênin; (2) Bút ký triết học.
+đ. (1) V.I. Lênin; (2) Bút ký triết học.
 
 **Câu 70. Giai đoạn nhận thức diễn ra trên cơ sở sự tác động trực tiếp của các sự vật**
 
@@ -2792,7 +2764,6 @@ chủ quan về thế giới khách quan”.
 
 - a. Chủ nghĩa duy tâm chủ quan.
 
-55
 
 trù thực tiễn: "Thực tiễn là toàn bộ.
 
@@ -2812,7 +2783,7 @@ trù thực tiễn: "Thực tiễn là toàn bộ.
 
 - d. Tr giác, biểu tượng, khái niệm.
 
-**Câu 73. Chọn cụm từ thích hợp, điền vào chỗ trống để có ĐỊNH nghĩa đúng về phạm**
+**Câu 73. Chọn cụm từ thích hợp, điền vào chỗ trống để có định nghĩa đúng về phạm**
 
 suy có mục đích mang tính lịch sử - xã hội của con
 
@@ -2832,7 +2803,6 @@ người nhằm cải tạo tự nhiên và xã hội".
 
 động vật chất - cảm tính.
 
-56
 
 - b. Thực tiễn là những hoạt động mang tính lịch sử - xã hội của con người.
 
@@ -2898,17 +2868,16 @@ b, Là hoạt động vật chất có mục đích mang tính lịch sử - xã
 
 - b. Là đích đến của nhận thức.
 
-#### e. Là cơ sở, động lực, mục đích của nhận thức và là tiêu chuẩn của chân lý.
+- c. Là cơ sở, động lực, mục đích của nhận thức và là tiêu chuẩn của chân lý.
 
 - d. Tồn tại song hành; hỗ trợ quá trình nhận thức.
 
-57
 
-II. XÁC ĐỊNH ĐÚNG/SAI VÀ GIẢI THÍCH NGẮN GỌN
+II. XÁC định ĐÚNG/SAI VÀ GIẢI THÍCH NGẮN GỌN
 
 **Câu 1. Vật chất là thực tại khách quan và con nguời không thể nhận thức được.**
 
-**Câu 2.Trong ĐỊNH nghĩa vật chất, V.I. Lênin đã chỉ ra thuộc tính quan trọng nhất**
+**Câu 2.Trong định nghĩa vật chất, V.I. Lênin đã chỉ ra thuộc tính quan trọng nhất**
 
 phân biệt vật chất với ý thức là tồn tại khách quan.
 
@@ -2928,13 +2897,12 @@ khách quan vào trong đầu óc con người là quá trình tự nhận thứ
 
 **Câu 10. Hiện tượng nào, bản chất ấy.**
 
-**Câu 11. Trong nhận thức và hoạt động thực tiễn, chúng ta phải dựa vào cái Tất nhiên**
+**Câu 11. Trong nhận thức và hoạt động thực tiễn, chúng ta phải dựa vào cái tất nhiên**
 
 chứ không dựa vào cái ngẫu nhiên để cải tạo sự vật.
 
 **Câu 12. Một mảnh vải may thành áo khác về chất so với mảnh vải cùng loại để nguyên.**
 
-59
 
 **Câu 13. Sự thay đổi về lượng và sự thay đôi về chất của sự vật: có tính độc lập tương**
 
@@ -2954,23 +2922,21 @@ tượng đều phải trải qua hai lần phủ định.
 
 **Câu 18. Hoạt động nghiên cứu khoa học là hoạt động thực tiễn cơ bản nhất, quan trọng nhất.**
 
-60
 
 **Câu 19. Nhận thức lý tính quan trọng hơn nhận thức cảm tính.**
 
 **Câu 20. Chân lý có tính tương đối, tính tuyệt đối, tính cụ thể.**
 
-II TỰ LUẬN
+### III. TỰ LUẬN
 
 **Câu 1. Phân tích luận điểm: “Vật chất là một phạm trù triết học dùng để chỉ thực tại**
 
 khách quan được đem lại cho con người trong cảm giác”.
 
-**Câu 2. Hãy chứng minh rằng: “Nguồn gốc trực tiếp và quan trọng nhất quyết ĐỊNH**
+**Câu 2. Hãy chứng minh rằng: “Nguồn gốc trực tiếp và quan trọng nhất quyết định**
 
 sự ra đời và phát triển của ý thức là lao động và ngôn ngữ”.
 
-61
 
 **Câu 3. Hãy phân tích để thấy rằng các sự vật, hiện tượng vận động, phát triển theo**
 
@@ -2984,17 +2950,14 @@ triển của các sự vật, hiện tượng?
 
 **Câu 5. Vai trò của thực tiễn đối với quá trình nhận thức**
 
-62
 
-Chương 3
+# Chương III: CHỦ NGHĨA DUY VẬT LỊCH SỬ
 
-CHỦ NGHĨA DUY VẬT LCH SỬ
+## A. LÝ THUYẾT
 
-## A- LÝ THUYÉT
+### I. HỌC THUYẾT HÌNH THÁI KINH TẾ - XÃ HỘI
 
-I- HỌC THUYÉT HÌNH THÁI KINH TẾ - XÃ HỘI
-
-1, Sản xuất vật chất là cơ sở của sự tồn tại và phát triển xã hội
+#### 1. Sản xuất vật chất là cơ sở của sự tồn tại và phát triển xã hội
 
 Sự sản xuất xã hội, tức là sản xuất và tái sản xuất ra đời sống hiện thực, bao gồm ba phương diện không tách rời nhau là sản xuất vật chất, sản xuất tinh thần và sản xuất ra bản thân con người.
 
@@ -3006,7 +2969,7 @@ cải biến các dạng vật chất của giới tự nhiên nhằm tạo ra c
 
 lịch sử - xã hội, tính sáng tạo.
 
-- Sản xuất vật chất là nhân tố quyết ĐỊNH sự tồn tại và phát triển của xã hội loài người. Điều
+- Sản xuất vật chất là nhân tố quyết định sự tồn tại và phát triển của xã hội loài người. Điều
 
 này được biểu hiện qua những khía cạnh sau:
 
@@ -3014,7 +2977,7 @@ này được biểu hiện qua những khía cạnh sau:
 
 + Hoạt động sản xuất vật chất là cơ sở hình thành nên các hình thức quan hệ xã hội khác,
 
-+ Hoạt động sản xuất vật chất là nhân tố quyết ĐỊNH sự tiến bộ xã hội.
++ Hoạt động sản xuất vật chất là nhân tố quyết định sự tiến bộ xã hội.
 
 - Sản xuất vật chất là hoạt động nền tảng làm phát sinh, phát triển những mối quan hệ xã hội
 
@@ -3024,15 +2987,15 @@ của con người.
 
 - Sự thay đổi phương thức con người tiến hành sản xuất trong lịch sử có tính cách mạng, là
 
-động lực cải biến xã hội và quyết ĐỊNH sự phát triển của xã hội từ thấp đến cao.
+động lực cải biến xã hội và quyết định sự phát triển của xã hội từ thấp đến cao.
 
 ### 2. Biện chứng giữa lực lượng sản xuất và quan hệ sản xuất
 
 ### 2.1. Phương thức sản xuất
 
-Phương thức sản xuất là cách thức con người thực biện quá trình sản xuất vật chất ở những giai đoạn lịch sử nhất ĐỊNH của xã hội loài người.
+Phương thức sản xuất là cách thức con người thực biện quá trình sản xuất vật chất ở những giai đoạn lịch sử nhất định của xã hội loài người.
 
-Phương thức sản xuất là sự thống nhất giữa lực lượng sản xuất với một trình độ nhất ĐỊNH và quan hệ sản xuất tương ứng.
+Phương thức sản xuất là sự thống nhất giữa lực lượng sản xuất với một trình độ nhất định và quan hệ sản xuất tương ứng.
 
 - a. Lực lượng sản xuất
 
@@ -3050,7 +3013,7 @@ Công cụ lao động Phương tiện lao động
 
 + Người lao động là con người có tri thức, kinh nghiệm, kỹ năng lao động và năng lực sáng
 
-tạo nhất ĐỊNH trong quá trình sản xuất của xã hội. Người lao động là chủ thể sáng tạo, đồng thời là chủ thể tiêu dùng mọi của cải vật chất xã hội.
+tạo nhất định trong quá trình sản xuất của xã hội. Người lao động là chủ thể sáng tạo, đồng thời là chủ thể tiêu dùng mọi của cải vật chất xã hội.
 
 + Từ liệu sản xuất là điều kiện vật chất cần thiết để tổ chức sản xuất, bao gồm tư liệu lao
 
@@ -3100,11 +3063,11 @@ ly tư liêu sản xuất
 
 + Quan hệ sở hữu về tự liệu sản xuất là quan hệ giữa người với người trong việc chiếm hữu,
 
-sử dụng các tư liệu sản xuất. Quan hệ sở hữu có ý nghĩa quyết ĐỊNH đối với các quan hệ khác.
+sử dụng các tư liệu sản xuất. Quan hệ sở hữu có ý nghĩa quyết định đối với các quan hệ khác.
 
 + Quan hệ về tổ chức quản lý sản xuất là quan hệ giữa người với người trong việc tổ chức
 
-sản xuất và phân công lao động. Nó có vai trò quyết ĐỊNH về mặt quy mô, tốc độ, hiệu quả và xu hướng của của sản xuất.
+sản xuất và phân công lao động. Nó có vai trò quyết định về mặt quy mô, tốc độ, hiệu quả và xu hướng của của sản xuất.
 
 + Quan hệ phân phối sản phẩm lao động là quan hệ giữa người với người trong việc phân
 
@@ -3114,17 +3077,17 @@ phối các sản phẩm của quá trình lao động sản xuất. Nó có kh�
 
 rực lượng sản xuất và quan hệ sản xuất là hai mặt của một phương thức sản xuất, chúng tồn tại không tách rời nhau, tác động qua lại lẫn nhau một cách biện chứng, tạo thành quy luật về sự phù hợp của quan hệ sản xuất với trình độ phát triển của lực lượng sản xuất. Đây là quy luật cơ bản của sự vận động xã hội.
 
-- a. Lực lượng sản xuất quyết ĐỊNH quan hệ sản xuất
+- a. Lực lượng sản xuất quyết định quan hệ sản xuất
 
-- Tại sao lực lượng sản xuất lại quyết ĐỊNH quan hệ sản xuất?
+- Tại sao lực lượng sản xuất lại quyết định quan hệ sản xuất?
 
 + Lực lượng sản xuất là nội dung còn quan hệ sản xuất là hình thức của phương thức sản
 
-xuất, nội dung quyết ĐỊNH hình thức vì vậy lực lượng sản xuất quyết ĐỊNH quan hệ sản xuất.
+xuất, nội dung quyết định hình thức vì vậy lực lượng sản xuất quyết định quan hệ sản xuất.
 
-+Lực ° lượng sản xuất là yếu tố động nhất và cách mạng nhất, còn quan hệ sản xuất là yếu tô tương đối ổn ĐỊNH. Do vậy, sự thay đổi của lực lượng sản xuất thường xảy ra trước và kéo theo sự thay đổi của quan hệ sản xuất cho phù hợp với trình độ phát triển của nó.
++Lực ° lượng sản xuất là yếu tố động nhất và cách mạng nhất, còn quan hệ sản xuất là yếu tô tương đối ổn định. Do vậy, sự thay đổi của lực lượng sản xuất thường xảy ra trước và kéo theo sự thay đổi của quan hệ sản xuất cho phù hợp với trình độ phát triển của nó.
 
-- Lực lượng sản xuất quyết ĐỊNH quan hệ sản xuất được biểu hiện như thế nào?
+- Lực lượng sản xuất quyết định quan hệ sản xuất được biểu hiện như thế nào?
 
 + Lực lượng sản xuất nào thì quan hệ sản xuất ấy. Quan hệ sản xuất phù hợp với trình độ
 
@@ -3132,7 +3095,7 @@ phát triển của lực lượng sản xuất. 65
 
 + Lực lượng sản xuất biến đổi thì quan hệ sản xuất cũng biến đổi theo. Trong quá trình sản
 
-xuất, con người luôn muốn nâng cao năng suất và giảm sức lao động, áo đó con người luôn tìm cách cải tiến công cụ lao động, làm cho lực lượng sản xuất liên tục thay đổi. Trong khi đó quan hệ sản xuất lại tương đối ổn ĐỊNH. Quan hệ sản xuất phát triển chậm hơn vì nó gắn với các thiết chế xã hội, với lợi ích giai cấp, với tập quán, thói quen lao động, v.v... Đến một mức độ nhất ĐỊNH, quan hệ sản xuất trở thành không phù hợp với lực lượng sản xuất, đó là trạng thái mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất. Mâu thuẫn ngày càng gay gắt làm cho “quan hệ sản xuất trở thành xiềng xích của lực lượng sản xuất”, đưa đến đòi hỏi khách quan phải xoá bỏ quan hệ sản xuất cũ, thiết lập quan hệ sản xuất mới phù hợp với trình độ của lực lượng sản xuất, thúc đầy lực lượng sản xuất tiếp tục phát triển. Khi quan hệ sản xuất cũ được thay bằng quan hệ sản xuất mới là phương thức sản xuất cũ mắt đi, phương thức sản xuất mới ra đời.
+xuất, con người luôn muốn nâng cao năng suất và giảm sức lao động, áo đó con người luôn tìm cách cải tiến công cụ lao động, làm cho lực lượng sản xuất liên tục thay đổi. Trong khi đó quan hệ sản xuất lại tương đối ổn định. Quan hệ sản xuất phát triển chậm hơn vì nó gắn với các thiết chế xã hội, với lợi ích giai cấp, với tập quán, thói quen lao động, v.v... Đến một mức độ nhất định, quan hệ sản xuất trở thành không phù hợp với lực lượng sản xuất, đó là trạng thái mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất. Mâu thuẫn ngày càng gay gắt làm cho “quan hệ sản xuất trở thành xiềng xích của lực lượng sản xuất”, đưa đến đòi hỏi khách quan phải xoá bỏ quan hệ sản xuất cũ, thiết lập quan hệ sản xuất mới phù hợp với trình độ của lực lượng sản xuất, thúc đầy lực lượng sản xuất tiếp tục phát triển. Khi quan hệ sản xuất cũ được thay bằng quan hệ sản xuất mới là phương thức sản xuất cũ mắt đi, phương thức sản xuất mới ra đời.
 
 - b. Sự tác động trở lại của quan hệ sản xuất đỗi với lực lượng sản xuất
 
@@ -3142,7 +3105,7 @@ xuất, con người luôn muốn nâng cao năng suất và giảm sức lao đ
 
 lực lượng sản xuất.
 
-+ Quan hệ sản xuất quy ĐỊNH mục đích sản xuất, tác động đến thái độ người lao động, đến tổ
++ Quan hệ sản xuất quy định mục đích sản xuất, tác động đến thái độ người lao động, đến tổ
 
 chức phân công lao động xã hội, v.v... nên nó tác động đến sự phát triển của lực lượng sản xuất.
 
@@ -3166,9 +3129,9 @@ nhận thức và cải tạo xã hội của con người, trong xã hội có 
 
 - a. Cơ sở hạ tầng
 
-~ Cơ sở hạ tằng là toàn bộ quan hệ sản xuất hợp thành cơ cấu kinh tế của xã hội ở một giai đoạn lịch sử nhất ĐỊNH.
+~ Cơ sở hạ tằng là toàn bộ quan hệ sản xuất hợp thành cơ cấu kinh tế của xã hội ở một giai đoạn lịch sử nhất định.
 
-- Cơ sở hạ tầng của mỗi một xã hội nhất ĐỊNH được hình thành khách quan.
+- Cơ sở hạ tầng của mỗi một xã hội nhất định được hình thành khách quan.
 
 - Về khả năng, kết cầu của cơ sở hạ tằng gồm ba bộ phận sau:
 
@@ -3178,7 +3141,6 @@ tr trong xã hội.
 
 + Có thể tồn tại quan hệ sản xuất tàn dư của phương thức sản xuất cũ
 
-66
 
 + Có thể xuất hiện quan hệ sản xuất mầm mống của phương thức sản xuất tương lai.
 
@@ -3190,9 +3152,9 @@ Trong xã hội có đối kháng giai cấp thì cơ sở hạ tầng mang tín
 
 - Kiến trúc thượng tẳng là toàn bộ những quan điểm chính trị, pháp quyền, triết học, đạo đức, tôn
 
-giáo, nghệ thuật...cùng những thiết chế xã hội tương ứng như nhà nước, đảng phái, giáo hội, các đoàn thể xã hội... được hình thành trên cơ sở hạ tầng nhất ĐỊNH.
+giáo, nghệ thuật...cùng những thiết chế xã hội tương ứng như nhà nước, đảng phái, giáo hội, các đoàn thể xã hội... được hình thành trên cơ sở hạ tầng nhất định.
 
-~ Trong các yếu tố của kiến trúc thượng tầng, nhà nước đóng vai trò đặc biệt quan trọng vì nó tiêu biểu cho chế độ chính trị của một xã hội nhất ĐỊNH.
+~ Trong các yếu tố của kiến trúc thượng tầng, nhà nước đóng vai trò đặc biệt quan trọng vì nó tiêu biểu cho chế độ chính trị của một xã hội nhất định.
 
 - Các yếu tố của kiến trúc thượng tầng có đặc điểm riêng, có quy luật vận động và phát triển
 
@@ -3206,11 +3168,11 @@ riêng nhưng chúng liên hệ, tác động qua lại lẫn nhau, đều đư�
 
 Mối quan hệ biện chứng giữa cơ sở hạ tằng và kiến trúc thượng tầng là một quy iuật cơ bản của sự vận động phát triển lịch sử xã hội.
 
-- a. Vai trò quyết ĐỊNH của cơ sở hạ tầng đối với kiến trúc thượng tẳng
+- a. Vai trò quyết định của cơ sở hạ tầng đối với kiến trúc thượng tẳng
 
--_ Cơ sở hạ tầng quyết ĐỊNH kiến trúc thượng tầng vì xét đến cùng quan hệ vật chất quyết ĐỊNH quan hệ tinh thần, yếu tố kinh tế quyết ĐỊNH yếu tố chính trị - xã hội. Mọi hiện tượng của kiến trúc thượng tầng đều do nguyên nhân sâu xa nằm trong cơ cấu kinh tế BÂY Ta.
+-_ Cơ sở hạ tầng quyết định kiến trúc thượng tầng vì xét đến cùng quan hệ vật chất quyết định quan hệ tinh thần, yếu tố kinh tế quyết định yếu tố chính trị - xã hội. Mọi hiện tượng của kiến trúc thượng tầng đều do nguyên nhân sâu xa nằm trong cơ cấu kinh tế BÂY Ta.
 
-- Cơ sở hạ tầng quyết ĐỊNH kiến trúc thượng tầng như thể nào?
+- Cơ sở hạ tầng quyết định kiến trúc thượng tầng như thể nào?
 
 + Cơ sở hạ tầng là nguồn gốc của kiến trúc thượng tầng. Mỗi cơ sở hạ tằng sẽ hình thành nên
 
@@ -3222,9 +3184,9 @@ Các yếu tố của kiến trúc thượng tầng (nhà nước, pháp quyền
 
 + Trong xã hội có giai cấp, giai cấp nào thống trị về kinh tế cũng chiếm đa v thống trị
 
-về chính trị. Mâu thuẫn trong lĩnh vực kinh tế quyết ĐỊNH tính chất mâu thuẫn trong lĩnh vực tư tưởng của xã hội.
+về chính trị. Mâu thuẫn trong lĩnh vực kinh tế quyết định tính chất mâu thuẫn trong lĩnh vực tư tưởng của xã hội.
 
-+ Cơ sở bạ tầng quyết ĐỊNH sự vận động phát triển của kiến trúc thượng tằng. Những biến
++ Cơ sở bạ tầng quyết định sự vận động phát triển của kiến trúc thượng tằng. Những biến
 
 đổi căn bản của cơ sở hạ tầng sớm hay muộn sẽ dẫn đến sự biến đổi căn bản trong kiến trúc thượng tầng. Sự thay đổi đó không phải chỉ diễn ra từ hình thái kinh tế - xã hội này sang hình thái kinh tế
 
@@ -3232,7 +3194,6 @@ về chính trị. Mâu thuẫn trong lĩnh vực kinh tế quyết ĐỊNH tín
 
 + Sự thay đổi cơ sở hạ tầng dẫn đến thay đổi kiến trúc thượng tẳng diễn ra phức tạp. Khi cơ
 
-67
 
 sở hạ tầng thay đổi, những yếu tố của kiến trúc thượng tầng thay đổi nhanh chóng như chính trị, pháp luật, v.v., nhưng cũng có những yếu tố thay đổi chậm như nghệ thuật, tôn giáo, v.v...
 
@@ -3258,7 +3219,7 @@ sở hạ tẦng sinh ra nó; ngăn chặn cơ sở hạ tầng mới, đấu tr
 
 thượng tầng phản ánh đúng tính tất yếu kinh tế, các quy luật kinh tế khách quan sẽ thúc đẩy kinh tế phát triển. Và ngược lại, khi kiến trúc thượng tầng không phản ánh đúng tính tất yếu kinh tế, các quy luật kinh tế khách quan thì sẽ kìm hãm sự phát triển của kinh tế và đời sống xã hội.
 
-~ Mặc dù kiến trúc thượng tầng có thể tác động mạnh mẽ đối với cơ sở hạ tằng, nhưng xét đến cùng kiến trúc thượng tầng không thể giữ vai trò quyết ĐỊNH đối với cơ sở hạ tầng của xã hội; cơ sở hạ tầng vẫn tự mở đường đi cho nó theo tính tắt yếu kinh tế của nó.
+~ Mặc dù kiến trúc thượng tầng có thể tác động mạnh mẽ đối với cơ sở hạ tằng, nhưng xét đến cùng kiến trúc thượng tầng không thể giữ vai trò quyết định đối với cơ sở hạ tầng của xã hội; cơ sở hạ tầng vẫn tự mở đường đi cho nó theo tính tắt yếu kinh tế của nó.
 
 ### 4. Sự phát triển các hình thái kinh tế - xã hội là một quá trình lịch sử - tự nhiên
 
@@ -3266,21 +3227,20 @@ thượng tầng phản ánh đúng tính tất yếu kinh tế, các quy luật
 
 - Khái niệm: Hình thái kinh tế - xã hội là một phạm trù của chủ nghĩa duy vật lịch sử dùng
 
-để chỉ xã hội ở từng nắc thang lịch sử nhất ĐỊNH với một kiểu quan hệ sản xuất đặc trưng cho xã hội đó, phù hợp với một trình độ nhất ĐỊNH của lực lượng sản xuất và với một kiến trúc thượng tầng tương ứng được xây dựng trên những quan hệ sản xuất Ấy.
+để chỉ xã hội ở từng nắc thang lịch sử nhất định với một kiểu quan hệ sản xuất đặc trưng cho xã hội đó, phù hợp với một trình độ nhất định của lực lượng sản xuất và với một kiến trúc thượng tầng tương ứng được xây dựng trên những quan hệ sản xuất Ấy.
 
 - Phạm trù hình thái kinh tế - xã hội chỉ ra kết cấu phổ biến của xã hội trong mỗi giai đoạn
 
-lịch sử nhất ĐỊNH, bao gồm ba yếu tố cơ bản:
+lịch sử nhất định, bao gồm ba yếu tố cơ bản:
 
-+ Lực lượng sản xuất là nền tảng vật chất của xã hội, là yếu tố xét đến cùng quyết ĐỊNH sự
++ Lực lượng sản xuất là nền tảng vật chất của xã hội, là yếu tố xét đến cùng quyết định sự
 
 vận động, phát triển của hình thái kinh tế - xã hội.
 
 + Quan hệ sản xuất tương ứng với trình độ phát triển của lược lượng sản xuất, tạo thành cơ
 
-sở hạ tầng của hình thái kinh tế - xã hội và quyết ĐỊNH tất cả những quan hệ xã hội khác. Đây là
+sở hạ tầng của hình thái kinh tế - xã hội và quyết định tất cả những quan hệ xã hội khác. Đây là
 
-68
 
 tiêu chuẩn quan trọng nhất để phân biệt bản chất các chế độ xã hội khác nhau.
 
@@ -3290,7 +3250,7 @@ phi kinh tế cùng các thiết chế xã hội tương ứng, có chức năng
 
 ### 4.2. Tiến trình lịch sử - tự nhiên của xã hội loài người
 
-~ Lực lượng sản xuất, quan hệ sản xuất (cơ sở hạ tầng) và kiến trúc thượng tầng tác động biện chứng, tạo nên sự vận động: phát triển của lịch sử xã hội, tuân theo hai quy luật cơ bản là quy luật quan hệ sản xuất phù hợp với trình độ của lực lượng sản xuất và quy luật cơ sở hạ tầng quyết ĐỊNH kiến trúc thượng tẳng của xã hội.
+~ Lực lượng sản xuất, quan hệ sản xuất (cơ sở hạ tầng) và kiến trúc thượng tầng tác động biện chứng, tạo nên sự vận động: phát triển của lịch sử xã hội, tuân theo hai quy luật cơ bản là quy luật quan hệ sản xuất phù hợp với trình độ của lực lượng sản xuất và quy luật cơ sở hạ tầng quyết định kiến trúc thượng tẳng của xã hội.
 
 - Nguồn gốc sâu xa của sự vận động, phát triển của xã hội là do sự phát triển của lực lượng
 
@@ -3310,19 +3270,19 @@ muốn chủ quan của con. người. Hình thái kinh tế - xã hội cộng 
 
 + Quá trình lịch sử - tự nhiên của sự phát triển xã hội chẳng những diễn ra bằng con đường
 
-phát triển tuần tự mà còn bao hàm cả sự bỏ qua (trong những điều kiện nhất ĐỊNH) một hoặc một vài hình thái kinh tế - xã hội nhất ĐỊNH. Song sự “bỏ qua” đó cũng có tính quy luật của nó chứ không theo ý muốn chủ quan của con người.
+phát triển tuần tự mà còn bao hàm cả sự bỏ qua (trong những điều kiện nhất định) một hoặc một vài hình thái kinh tế - xã hội nhất định. Song sự “bỏ qua” đó cũng có tính quy luật của nó chứ không theo ý muốn chủ quan của con người.
 
 ### 4.3. Giá t khoa học và ý nghĩa cách mạng của học thuyết hình thái kinh tễ-xã hội
 
 - Lý luận hình thái kinh tế - xã hội ra đời đem lại một phương pháp khoa học về vấn đề phân loại
 
-các chế độ xã hội và phân kỳ lịch sử. Nó chỉ ra rằng: sản xuất vật chất là cơ sở của đời sống xã hội, phương thức sản xuất quyết ĐỊNH các mặt của đời sống xã hội, vì vậy, không thể xuất phát từ ý thức tư tưởng, từ ý chí chủ quan của con người để giải thích các hiện tượng trong đời sống xã hội mà phải xuất phát từ hoạt động thực tiễn của con người, từ phương thức sản xuắt, theo các quy luật khách quan.
+các chế độ xã hội và phân kỳ lịch sử. Nó chỉ ra rằng: sản xuất vật chất là cơ sở của đời sống xã hội, phương thức sản xuất quyết định các mặt của đời sống xã hội, vì vậy, không thể xuất phát từ ý thức tư tưởng, từ ý chí chủ quan của con người để giải thích các hiện tượng trong đời sống xã hội mà phải xuất phát từ hoạt động thực tiễn của con người, từ phương thức sản xuắt, theo các quy luật khách quan.
 
 - Xã hội không phải là sự kết hợp một cách ngẫu nhiên máy móc giữa các cá nhân, mà là một
 
-cơ thể sống sinh động, các mặt thống nhất chặt chẽ với nhau, tác động qua lại lẫn nhau; trong đó quan hệ sản xuất là cơ bản, quyết ĐỊNH các quan hệ xã hội khác. Muốn nhận thức và cải tạo xã hội phải nhận thức và tác động cả ba yếu. tố cơ bản: lực lượng sản xuất, quan hệ sản xuất (cơ sở hạ tầng) và kiến trúc ức thượng tầng: Xem nhẹ hoặc tuyệt đối hoá một yếu tố nào cũng có thể đẫn đến sai lầm.
+cơ thể sống sinh động, các mặt thống nhất chặt chẽ với nhau, tác động qua lại lẫn nhau; trong đó quan hệ sản xuất là cơ bản, quyết định các quan hệ xã hội khác. Muốn nhận thức và cải tạo xã hội phải nhận thức và tác động cả ba yếu. tố cơ bản: lực lượng sản xuất, quan hệ sản xuất (cơ sở hạ tầng) và kiến trúc ức thượng tầng: Xem nhẹ hoặc tuyệt đối hoá một yếu tố nào cũng có thể đẫn đến sai lầm.
 
-- Học thuyết hình thái kinh tế - xã hội là cơ sở khoa học cho việc XÁC ĐỊNH con đường
+- Học thuyết hình thái kinh tế - xã hội là cơ sở khoa học cho việc XÁC định con đường
 
 phát triển của nước ta, đó là quá độ lên chủ nghĩa xã hội, bỏ qua chế độ tư bản chủ nghĩa. )
 
@@ -3334,16 +3294,16 @@ phát triển của nước ta, đó là quá độ lên chủ nghĩa xã hội,
 
 - a. Định nghĩa
 
-~ “Người ta gọi là giai cấp, những tập đoàn người to lớn gồm những người khác nhau về đa v của họ trong một hệ thống sản xuất xã hội nhất ĐỊNH trong lịch sử, khác nhau về quan hệ của họ (thường thường thì những quan hệ này được pháp luật quy ĐỊNH và thừa nhận) đối với tư liệu sản xuất, về vai trò của họ trong, tổ chức lao động xã hội và như vậy là khác nhau về cách thức hưởng thụ và về phần của cải xã hội ít hoặc nhiều mà họ được hưởng. Giai cấp là tập đoàn người, mà tập đoàn này có thể chiếm đoạt lao động của tập đoàn khác, do chỗ tập đoàn đó có đa v khác nhau trong một chế độ kinh tế - xã hội nhất ĐỊNH”. (Sáng kiến vĩ đại, V.I. Lênin)
+~ “Người ta gọi là giai cấp, những tập đoàn người to lớn gồm những người khác nhau về đa v của họ trong một hệ thống sản xuất xã hội nhất định trong lịch sử, khác nhau về quan hệ của họ (thường thường thì những quan hệ này được pháp luật quy định và thừa nhận) đối với tư liệu sản xuất, về vai trò của họ trong, tổ chức lao động xã hội và như vậy là khác nhau về cách thức hưởng thụ và về phần của cải xã hội ít hoặc nhiều mà họ được hưởng. Giai cấp là tập đoàn người, mà tập đoàn này có thể chiếm đoạt lao động của tập đoàn khác, do chỗ tập đoàn đó có đa v khác nhau trong một chế độ kinh tế - xã hội nhất định”. (Sáng kiến vĩ đại, V.I. Lênin)
 - Định nghĩa của V.I. Lênin đã chỉ ra các đặc trưng cơ bản của giai cấp sau đây:
 
 + Giai cấp là những tập đoàn người có đa v kinh tế - xã hội khác nhau trong một hệ thống
 
-sản xuất xã hội nhất ĐỊNH trong lịch sử, thể hiện ở chỗ tập đoàn người này chiếm đoạt lao động của tập đoàn người khác.
+sản xuất xã hội nhất định trong lịch sử, thể hiện ở chỗ tập đoàn người này chiếm đoạt lao động của tập đoàn người khác.
 
 + Sự khác nhau về đa v của các giai cấp là do sự khác nhau về quan hệ của họ đối với việc
 
-sở hữu những tư liệu sản xuất của xã hội, về vai trò của họ trong tổ chức quản lý sản xuất và lao động xã hội, về phương thức và quy mô thu nhập những sản phẩm lao động của xã hội. Trong đó, sự khác nhau về sở hữu đối với tư liệu sản xuất có ý nghĩa quan trọng và quyết ĐỊNH nhất,
+sở hữu những tư liệu sản xuất của xã hội, về vai trò của họ trong tổ chức quản lý sản xuất và lao động xã hội, về phương thức và quy mô thu nhập những sản phẩm lao động của xã hội. Trong đó, sự khác nhau về sở hữu đối với tư liệu sản xuất có ý nghĩa quan trọng và quyết định nhất,
 
 + Giai cấp là một phạm trù kinh tế - xã hội có tính lịch sử, sẽ tiêu vong khi các điều kiện
 
@@ -3361,17 +3321,16 @@ phát triển của lực lượng sản xuất làm cho năng suất lao độn
 
 - Kết cấu xã hội - giai cấp là tổng thẻ các giai cấp và mối quan hệ giữa các giai cấp, tồn tại
 
-trong một giai đoạn lịch sử nhất ĐỊNH.
+trong một giai đoạn lịch sử nhất định.
 
-~ Trong một. kết cấu xã hội bao giờ cũng gồm có hai giải cấp cơ bản và những giai cấp không cơ bản, hoặc các tầng lớp xã hội trung gian. Giai cấp cơ bản là giai cấp gắn với phương thức sản xuất thống trị, là sản phẩm của những phương thức sản xuất thống trị nhất ĐỊNH.
+~ Trong một. kết cấu xã hội bao giờ cũng gồm có hai giải cấp cơ bản và những giai cấp không cơ bản, hoặc các tầng lớp xã hội trung gian. Giai cấp cơ bản là giai cấp gắn với phương thức sản xuất thống trị, là sản phẩm của những phương thức sản xuất thống trị nhất định.
 
 ### 1.2. Đầu tranh giai cấp
 
-70
 
 - Đấu tranh giai cấp là cuộc đấu tranh của các tập đoàn người to lớn có lợi ích căn bản đối
 
-lập nhau trong một phương thức sản xuất nhất ĐỊNH.
+lập nhau trong một phương thức sản xuất nhất định.
 
 - Thực chất của đấu tranh giai cấp là cuộc đấu tranh nhằm giải quyết mâu thuẫn vẻ mặt lợi
 
@@ -3393,7 +3352,7 @@ ra trong điều kiện mới, khi chính quyền đã về tay giai cấp vô s
 
 - Đầu tranh giai cấp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam hiện nay là
 
-thực hiện thắng lợi mục tiêu độc lập dân tộc và chủ nghĩa xã hội, xây dựng một xã hội dân giàu, nước mạnh, dân chủ, công bằng, văn minh. Về thực chát, đây là cuộc đấu tranh giữa các nhân tố thúc đây với các nhân tố cản trở sự phát triển của đất nước theo ĐỊNH hướng xã hội chủ nghĩa.
+thực hiện thắng lợi mục tiêu độc lập dân tộc và chủ nghĩa xã hội, xây dựng một xã hội dân giàu, nước mạnh, dân chủ, công bằng, văn minh. Về thực chát, đây là cuộc đấu tranh giữa các nhân tố thúc đây với các nhân tố cản trở sự phát triển của đất nước theo định hướng xã hội chủ nghĩa.
 
 ### 2. Dân tộc
 
@@ -3405,27 +3364,26 @@ thống, có quy mô nhỏ, tổ chức sản xuất thô sơ theo phương th�
 
 ~ Bộ lạc là cộng đồng bao gồm những th tộc có quan hệ cùng huyết thống hoặc các th tộc có quan hệ hôn nhân liên kết với nhau. Cơ sở kinh tế của bộ lạc là chế độ công hữu về đất đai và công cụ sản xuất,
 
-~ Bộ tộc là hình thức cộng đồng người hình thành khi xã hội có sự phân chia thành giai cấp. Các bộ tộc được hình thành từ sự liên kết của nhiều bộ lạc sống trên một lãnh thổ nhất ĐỊNH.
+~ Bộ tộc là hình thức cộng đồng người hình thành khi xã hội có sự phân chia thành giai cấp. Các bộ tộc được hình thành từ sự liên kết của nhiều bộ lạc sống trên một lãnh thổ nhất định.
 
 ### 2.2. Khái niệm dân tộc
 
-~ Dân tộc là một cộng đồng người ổn ĐỊNH được hình thành trong lịch sử trên cơ sở một lãnh thổ thống nhất, một ngôn ngữ thống nhất, một nền kinh tế thống nhất, một nền văn hóa và tâm lý, tính cách thống nhất, với một nhà nước và pháp luật thống nhất.
+~ Dân tộc là một cộng đồng người ổn định được hình thành trong lịch sử trên cơ sở một lãnh thổ thống nhất, một ngôn ngữ thống nhất, một nền kinh tế thống nhất, một nền văn hóa và tâm lý, tính cách thống nhất, với một nhà nước và pháp luật thống nhất.
 
 ### 3. Mối quan hệ giai cấp - dân tộc - nhân loại
 
-71
 
 ### 3.1. Quan hệ giai cấp - dân tộc
 
-- a. Giai cấp quyết ĐỊNH dân tộc
+- a. Giai cấp quyết định dân tộc
 
-- Sự phát triển của phương thức sản xuất xã hội là nguyên nhân xét đến cùng quyết ĐỊNH sự hình
+- Sự phát triển của phương thức sản xuất xã hội là nguyên nhân xét đến cùng quyết định sự hình
 
 thành, phát triển của các hình thức cộng đồng người trong lịch sử.
 
-- Quan hệ giai cấp quyết ĐỊNH khuynh hướng phát triển và tính chất của dân tộc. Trong một
+- Quan hệ giai cấp quyết định khuynh hướng phát triển và tính chất của dân tộc. Trong một
 
-thời đại lịch sử, mỗi dân tộc đều do một giai cấp làm đại diện, quy ĐỊNH tính chất dân tộc.
+thời đại lịch sử, mỗi dân tộc đều do một giai cấp làm đại diện, quy định tính chất dân tộc.
 
 - b. Vấn đề dân tộc có ảnh hưởng quan trọng đến vấn đề giai cấp
 
@@ -3457,7 +3415,7 @@ và giai cấp. Đồng thời, sự phát triển về mọi mặt của nhân 
 
 gay gắt không thể điều hòa được.
 
-~ V.I. Lênin cho rằng: “Bắt cứ ở đâu, hễ lúc nào và chừng nào, về mặt khách quan, những mâu thuẫn giai cấp không chế điều hòa được, thì nhà nước xuất hiện. Và ngược lại, sự tồn tại của nhà nước chứng tỏ rằng những mâu thuẫn giai cấp là không thể điều hòa được” (Nhà nước và cách mạng, V.L Lênin).
+~ V.I. Lênin cho rằng: “Bắt cứ ở đâu, hễ lúc nào và chừng nào, về mặt khách quan, những mâu thuẫn giai cấp không chế điều hòa được, thì nhà nước xuất hiện. Và ngược lại, sự tồn tại của nhà nước chứng tỏ rằng những mâu thuẫn giai cấp là không thể điều hòa được” (Nhà nước và cách mạng, V.I. Lênin).
 
 1.2, Bản chất của nhà nước
 
@@ -3465,7 +3423,6 @@ gay gắt không thể điều hòa được.
 
 - Như vậy, nhà nước, về bản chất, là một tổ chức chính trị của một giai cấp thống trị
 
-72
 
 về mặt kinh tế nhằm bảo vệ trật tự hiện hành và đàn áp sự phản kháng của các giai cấp khác.
 
@@ -3473,7 +3430,7 @@ về mặt kinh tế nhằm bảo vệ trật tự hiện hành và đàn áp s�
 
 - Nhà nước thường có ba đặc trưng cơ bản:
 
-+ Mộ¡ là, nhà nước quản lý cư dân trên một vùng lãnh thổ nhất ĐỊNH. Về nguyên tắc, quyền
++ Mộ¡ là, nhà nước quản lý cư dân trên một vùng lãnh thổ nhất định. Về nguyên tắc, quyền
 
 lực nhà nước có hiệu lực với tất cả các đối tượng tồn tại trong phạm vi biên giới quốc gia.
 
@@ -3493,7 +3450,7 @@ lực để duy trì sự thống trị của giai cấp mà nó đại diện t
 
 + Chưức năng xã hội của nhà nước được biểu hiện ở chỗ, nhà nước nhân danh xã hội làm
 
-nhiệm vụ quản lý nhà nước về xã hội, điều hành các công việc chung của xã hội như: thủy lợi, giao thông, y tế, giáo dục, môi trường... để duy trì sự ổn ĐỊNH của xã hội trong “trật tự” theo quan điểm của giai cấp thống trị.
+nhiệm vụ quản lý nhà nước về xã hội, điều hành các công việc chung của xã hội như: thủy lợi, giao thông, y tế, giáo dục, môi trường... để duy trì sự ổn định của xã hội trong “trật tự” theo quan điểm của giai cấp thống trị.
 
 - Theo phạm vi tác động của quyền lực nhà nước:
 
@@ -3517,7 +3474,6 @@ nhà nước của đại bộ phận quần chúng nhân dân, khác căn bản
 
 - Hình thức nhà nước là khái niệm dùng đễ chỉ cách thức tổ chức, phương thức thực hiện
 
-73
 
 quyền lực nhà nước của giai cấp thống trị. Hình thức nhà nước thực chất là hình thức cầm quyền của giai cấp thống trị. Một kiểu nhà nước có thể có nhiều hình thức nhà nước khác nhau:
 
@@ -3569,11 +3525,10 @@ những phương thức, động lực của sự vận động, phát triển x
 
 - Tôn tại xã hội là toàn bộ sinh hoạt vật chất và điều kiện sinh hoạt vật chất của xã hội
 
-trong những giai đoạn lịch sử nhất ĐỊNH.
+trong những giai đoạn lịch sử nhất định.
 
 ### 1.2. Các yếu tố cơ bản của tồn tại xã hội
 
-74
 
 - Một là, phương thức sản xuất ra của cải vật chất của xã hội đó.
 
@@ -3593,7 +3548,7 @@ kiện sinh tồn và phát triển của xã hội, trong đó, phương thức
 
 - Ý thức xã hội dùng đề chỉ phương điện sinh hoạt tinh thần của xã hội, nảy sinh từ tồn tại xã hội và
 
-phản ánh tồn tại xã hội trong những giai đoạn phát triển nhất ĐỊNH.
+phản ánh tồn tại xã hội trong những giai đoạn phát triển nhất định.
 
 - Ý thức cá nhân không đồng nhất với ý thức xã hội: ý thức cá nhân là cái riêng còn ý thức
 
@@ -3619,17 +3574,17 @@ Trong xã hội có giai cấp, ý thức xã hội cũng có tính giai cấp, 
 
 ### 3. Mối quan hệ biện chứng giữa tồn tại xã hội và ý thức xã hội
 
-### 3.1. Tần tại xã hội quyết ĐỊNH ý thức xã hội
+### 3.1. Tần tại xã hội quyết định ý thức xã hội
 
-- Tồn tại xã hội quyết ĐỊNH ý thức xã hội vì ý thức xã hội là sự phân ánh tồn tại xã hội phụ
+- Tồn tại xã hội quyết định ý thức xã hội vì ý thức xã hội là sự phân ánh tồn tại xã hội phụ
 
 thuộc vào tồn tại xã hội.
 
-- Tôn tại xã hội quyết ĐỊNH ý thức xã hội như thể nào?
+- Tôn tại xã hội quyết định ý thức xã hội như thể nào?
 
 + Tồn tại xã hội là nguồn gốc khách quan, là cơ sở của sự hình thành, ra đời của ý thức xã hội.
 
-+ Tồn tại xã hội quyết ĐỊNH nội dung, tính chất, đặc điểm của các hình thái ý thức xã hội.
++ Tồn tại xã hội quyết định nội dung, tính chất, đặc điểm của các hình thái ý thức xã hội.
 
 + Tồn tại xã hội thay đổi thì kéo theo sự thay đổi của ý thức xã hội.
 
@@ -3637,7 +3592,6 @@ thuộc vào tồn tại xã hội.
 
 điệu thay đổi của các bộ phận ý thức xã hội diễn ra khác nhau, có những bộ phận biến đổi nhanh,
 
-75
 
 có những bộ phận biến đổi chậm.
 
@@ -3671,7 +3625,7 @@ phản tiến bộ lưu giữ và truyền bá nhằm. chống các lực lượ
 
 - b. Ý thức xã hội có thể vượt trước tồn tại xã hội
 
-- Trong những điều kiện nhất ĐỊNH, những tư tưởng khoa học tiên tiến có thể vượt trước sự
+- Trong những điều kiện nhất định, những tư tưởng khoa học tiên tiến có thể vượt trước sự
 
 phát triển của tồn tại xã hội, dự báo tương lai, tổ chức, chỉ đạo hoạt động thực tiễn của con người, hướng hoạt động đó vào việc giải quyết những nhiệm vụ mới do sự phát triển chín muỗi của đời sống vật chất mà xã hội đặt ra.
 
@@ -3681,13 +3635,13 @@ phát triển của tồn tại xã hội, dự báo tương lai, tổ chức, c
 
 + Khi nói tư tưởng tiên tiến có thể vượt trước tồn tại xã hội, dự kiến được quá trình khách quan
 
-của sự phát triển xã hội không có nghĩa là tư tưởng khoa học đó không còn b tồn tại: xã hội quyết ĐỊNH nữa, tư tưởng khoa học tiên tiến không thoát ly tồn tại xã hội mà căn cứ vào tổn tại xã hội, phản ánh sâu sắc, chính xác tồn tại xã hội, dự báo tương lai.
+của sự phát triển xã hội không có nghĩa là tư tưởng khoa học đó không còn b tồn tại: xã hội quyết định nữa, tư tưởng khoa học tiên tiến không thoát ly tồn tại xã hội mà căn cứ vào tổn tại xã hội, phản ánh sâu sắc, chính xác tồn tại xã hội, dự báo tương lai.
 
 - Nguyên nhân: Những tư tưởng khoa học có thể vượt trước tồn tại xã hội vì nó phản ánh
 
 được quy luật vận động (cái tất yếu) từ quá khứ đến hiện tại nên có thể dự báo được tương lai. Do 76
 
-đó, những tư tưởng khoa học vượt trước có vai trò ĐỊNH hướng, chỉ đạo hoạt động của con người. Nếu không có tư tưởng, ý thức soi đường thì con người sẽ mò mẫm trong hành động.
+đó, những tư tưởng khoa học vượt trước có vai trò định hướng, chỉ đạo hoạt động của con người. Nếu không có tư tưởng, ý thức soi đường thì con người sẽ mò mẫm trong hành động.
 
 - c. Tính kế thừa trong sự phát triển của ý thức xã hội
 
@@ -3727,7 +3681,7 @@ tinh thần của xã hội xã hội chủ nghĩa. V.I. Lênin nhấn mạnh r�
 
 phải phát huy những thành tựu và truyền thống tốt đẹp nhất của nền văn hóa nhân loại từ cổ tới kim trên cơ sở thế giới quan mácxít.
 
-+ Đảng ta khẳng ĐỊNH: “Phát triển văn hóa dân tộc đi đôi với mở rộng giao lưu văn hóa với
++ Đảng ta khẳng định: “Phát triển văn hóa dân tộc đi đôi với mở rộng giao lưu văn hóa với
 
 nước ngoài, vừa giữ gìn và phát huy bản sắc văn hóa dân tộc, vừa tiếp thu tính hoa văn hóa thế giới”,
 
@@ -3745,13 +3699,12 @@ mỹ, khoa học... phản ánh tồn tại xã hội bằng những hình thứ
 
 trò đặc biệt quan trọng. Nó có chức năng thế giới quan và phương pháp luận để từ đó hình thành nhân sinh quan tích cực hoặc tiêu cực.
 
-77
 
 - Ý nghĩ: Khi phân tích một hình thái ý thức xã hội nào đó thì không nên chỉ chú ý tới các điều
 
 kiện kinh tế - xã hội sinh ra nó và những ý thức mà nó kế thừa được của các thời đại trước mà còn phải chú ý tới sự tác động của nó tới các hình thái ý thức xã hội khác, gắn nó với tồn tại xã hội và các hình thái ý thức xã hội có liên quan.
 
-#### e. Ý thức xã hội tác động trở lại tồn tại xã hội
+- e. Ý thức xã hội tác động trở lại tồn tại xã hội
 
 - Vì sao ý thức xã hội có thể tác động trở lại tồn tại xã hội?
 
@@ -3803,7 +3756,6 @@ sống xã hội đa dạng của con người với các mối quan hệ đan x
 
 nên trong thực tê mọi sự tuyệt đối hóa hoặc cái xã hội, hoặc cái tự nhiên của con người đều không đưa đến hiểu đúng tồn tại của con người.
 
-78
 
 - Con người vừa là chủ thể của lịch sử, vừa là sản phẩm của lịch sử:
 
@@ -3823,7 +3775,7 @@ cái trừu tượng cô hữu của từng cá nhân riêng biệt. Trong tính
 
 + Theo đó, không thể đơn giản hình dung con người một cách trừu tượng với những đặc
 
-tính chung, mà phải hiểu con người trong một môi trường xã hội nhất ĐỊNH, ở một thời gian XÁC ĐỊNH với toàn bộ phương thức sản xuất và các quan hệ xã hội đương thời. Chỉ trong điền kiện ấy, bản chất của con người mới được bộc lộ một cách chính xác, chân thực và sống động.
+tính chung, mà phải hiểu con người trong một môi trường xã hội nhất định, ở một thời gian XÁC định với toàn bộ phương thức sản xuất và các quan hệ xã hội đương thời. Chỉ trong điền kiện ấy, bản chất của con người mới được bộc lộ một cách chính xác, chân thực và sống động.
 
 ### 2. Hiện tượng tha hóa con người và vấn đề giải phóng con người
 
@@ -3877,7 +3829,7 @@ phương diện xã hội. Cá nhân không thể tách rời xã hội. Quan h�
 
 phẩn, những tầng lớp, những giai cấp liên kết thành một tập thể dưới sự lãnh đạo của một cá nhân,
 
-một tổ chức hay đảng phái nhằm giải quyết những vấn đề kinh tế, chính trị, văn hóa nhất ĐỊNH của xã hội, thời đại...
+một tổ chức hay đảng phái nhằm giải quyết những vấn đề kinh tế, chính trị, văn hóa nhất định của xã hội, thời đại...
 
 - Quân chúng nhân dân là chủ thể sáng tạo ra lịch sử.
 
@@ -3899,15 +3851,15 @@ bó mật thiết với quần chúng nhân dân.
 
 - Những phẩm chát cần có của lãnh tụ: tri thức uyên bác, nắm được xu thế vận động của dân
 
-tộc, thời đại; có năng lực tập hợp quần chúng, thống nhất ý chí và hành động của quần chúng để thực hiện những mục tiêu, nhiệm vụ nhất ĐỊNH; gắn với quần chúng, đại điện cho lợi ích của quần chúng, vì quần chúng.
+tộc, thời đại; có năng lực tập hợp quần chúng, thống nhất ý chí và hành động của quần chúng để thực hiện những mục tiêu, nhiệm vụ nhất định; gắn với quần chúng, đại điện cho lợi ích của quần chúng, vì quần chúng.
 
 - Quần chúng nhân dân và lãnh tụ có mối quan hệ biện chứng. Quần chúng nhân dân đóng vai
 
-trò quyết ĐỊNH đối với sự phát triển của lịch sử. Lãnh tụ là người dẫn dắt, định hướng, thúc đây phong trảo quần chúng, là cơ sở thúc đẩy sự phát triển lịch sử.
+trò quyết định đối với sự phát triển của lịch sử. Lãnh tụ là người dẫn dắt, định hướng, thúc đây phong trảo quần chúng, là cơ sở thúc đẩy sự phát triển lịch sử.
 
 - Ý nghĩa phương pháp luận:
 
-+ Việc lý giải một cách khoa học về vai trò quyết ĐỊNH lịch sử của quần chúng nhân dân đã
++ Việc lý giải một cách khoa học về vai trò quyết định lịch sử của quần chúng nhân dân đã
 
 xóa bỏ được sai lầm của chủ nghĩa duy tâm trong quan niệm về động lực của lịch sử xã hội loài người.
 
@@ -3915,9 +3867,8 @@ xóa bỏ được sai lầm của chủ nghĩa duy tâm trong quan niệm về 
 
 của quần chúng nhân dân sẽ dẫn đến xem thường sáng kiến cá nhân, không phát huy được sự sáng, tạo và tiên phong của lãnh tụ.
 
-80
 
-## B- BÀI TẬP
+## B. BÀI TẬP
 
 I. TRẮC NGHIỆM
 
@@ -3941,7 +3892,7 @@ a, Con người trừu tượng.
 
 - d. Con người hiện thực.
 
-Câu 3, Điền thêm từ để hoàn thiện nhận ĐỊNH sau đây và XÁC ĐỊNH đó là nhận ĐỊNH của ai: “Điểm khác biệt căn bản giữa xã hội loài người với xã hội loài vật là ở chỗ: loài vật may mắn lắm chỉ hái lượm trong khi con người lại..........(1)....... ” (....(2)...... ).
+Câu 3, Điền thêm từ để hoàn thiện nhận định sau đây và XÁC định đó là nhận định của ai: “Điểm khác biệt căn bản giữa xã hội loài người với xã hội loài vật là ở chỗ: loài vật may mắn lắm chỉ hái lượm trong khi con người lại..........(1)....... ” (....(2)...... ).
 
 a. 1) Biết sáng tạo, 2) Ph. Ăngghen.
 
@@ -3953,13 +3904,13 @@ e. 1) Tiến hành lao động, 2) C. Mác.
 
 **Câu 4. Điền từ còn thiếu vào chỗ trống (...) trong câu sau: .....là cơ sở của sự tồn tại**
 
-và phát triển của xã hội loài người, và xét đến cùng quyết ĐỊNH toàn bộ sự vận động, phát triển của đời sống xã hội.
+và phát triển của xã hội loài người, và xét đến cùng quyết định toàn bộ sự vận động, phát triển của đời sống xã hội.
 
 - a. Hoạt động tinh thần.
 
 - b. Sản xuất tinh thần.
 
-#### e. Hoạt động vật chất.
+- c. Hoạt động vật chất.
 
 đ. Sản xuất vật chất.
 
@@ -3973,7 +3924,6 @@ và phát triển của xã hội loài người, và xét đến cùng quyết 
 
 - d. Hình thức tôn giáo.
 
-81
 
 **Câu 6. Phương thức sản xuất là:**
 
@@ -3981,13 +3931,13 @@ và phát triển của xã hội loài người, và xét đến cùng quyết 
 
 - b. Cách thức con người sản xuất ra của cải vật chất cho xã hội.
 
-- c. Cách thức con người thực hiện các quan hệ xã hội ở những giai đoạn lịch sử nhất ĐỊNH của
+- c. Cách thức con người thực hiện các quan hệ xã hội ở những giai đoạn lịch sử nhất định của
 
 xã hội loài người.
 
 - d. Cách thức con người thực hiện trong quá trình sản xuất vật chất ở những giai đoạn lịch sử
 
-nhất ĐỊNH của xã hội loài người.
+nhất định của xã hội loài người.
 
 **Câu 7. Điền từ còn thiếu vào chỗ trồng (...) trong câu sau: ............ là tổng hợp các yếu tố vật**
 
@@ -4053,7 +4003,7 @@ trình sản xuất”.
 
 - d. Mối quan hệ giữa người với người trong quá trình sản xuất.
 
-**Câu 13. Quan hệ cơ bản nhất, đóng vai trò quyết ĐỊNH trong hệ thống quan hệ sản xuất là:**
+**Câu 13. Quan hệ cơ bản nhất, đóng vai trò quyết định trong hệ thống quan hệ sản xuất là:**
 
 - a. Quan hệ tổ chức sản xuất
 
@@ -4073,19 +4023,19 @@ trình sản xuất vật chất.
 
 - b. Quan hệ giữa con người với tự nhiên và quan hệ giữa con người với từ liệu sản xuất.
 
-#### e. Quan hệ giữa con người với tự nhiên và quan hệ giữa người với người trong quá trình sản
+- c. Quan hệ giữa con người với tự nhiên và quan hệ giữa người với người trong quá trình sản
 
 xuất vật chất.
 
 - d. Quan hệ giữa người với người trong sản xuất vật chất và quan hệ giai cấp trong xã hội.
 
-**Câu 15. Sự biến đổi của quan hệ sản xuất do yếu tố nào quyết ĐỊNH?**
+**Câu 15. Sự biến đổi của quan hệ sản xuất do yếu tố nào quyết định?**
 
 - a. Sự phong phú của đối tượng lao động.
 
 - b. Thể chế chính trị.
 
-#### e. Trình độ của lực lượng sản xuất.
+- c. Trình độ của lực lượng sản xuất.
 
 đd. Trình độ của người lao động.
 
@@ -4101,7 +4051,6 @@ yếu của quá trình sản xuất”
 
 - d. Lực lượng sản xuắt/kiến trúc thượng tầng.
 
-83
 
 **Câu 17. Phát biểu nào sau đây phản ánh đúng đắn mối quan hệ giữa lực lượng sản xuất và**
 
@@ -4111,7 +4060,7 @@ quan hệ sản xuất?
 
 - b. Quan hệ sản xuất phụ thuộc vào trình độ phát triển của lực lượng sản xuất.
 
-#### e. Quan hệ sản xuất và lực lượng sản xuất tồn tại độc lập với nhau,
+- c. Quan hệ sản xuất và lực lượng sản xuất tồn tại độc lập với nhau,
 
 - d. Quan hệ sản xuất và lực lượng sản xuất đều hoàn toàn phụ thuộc vào quyền lực nhà nước.
 
@@ -4133,23 +4082,23 @@ trình sản xuât”. -
 
 - b. Tư liệu sản xuất
 
-#### e. Người lao động.
+- c. Người lao động.
 
 - d. Tài nguyên khoáng sản.
 
 **Câu 20. Theo quan niệm của triết học Mác — Lênin, quan hệ sản xuất:**
 
-- a. Hoàn toàn b quy ĐỊNH bởi những người lãnh đạo các cơ sở sản xuất.
+- a. Hoàn toàn b quy định bởi những người lãnh đạo các cơ sở sản xuất.
 
-- b. Hoàn toàn b quy ĐỊNH bởi chế độ chính trị xã hội.
+- b. Hoàn toàn b quy định bởi chế độ chính trị xã hội.
 
-#### e. Hoàn toàn b quy ĐỊNH bởi truyền thống và tập tục.
+- c. Hoàn toàn b quy định bởi truyền thống và tập tục.
 
 - d. Tổn tại khách quan và không phụ thuộc vào ý thức của con người.
 
 **Câu 21. Điền từ còn thiếu vào chỗ trống (...) trong câu sau: “Trong một ...(1)... thì ...(2)....**
 
-là yếu tố thường xuyên biến đối, còn...(3)... là yếu tố tương đối ổn ĐỊNH.”
+là yếu tố thường xuyên biến đối, còn...(3)... là yếu tố tương đối ổn định.”
 
 a. 1) quan hệ sản xuất, 2) quan hệ phân phối, 3) quan hệ sở hữu.
 
@@ -4163,21 +4112,20 @@ lực lượng sản xuất thông qua yếu tố nào của lực lượng sả
 
 b, Tư liệu sản xuất.
 
-84
 
-#### e. Người lao động.
+- c. Người lao động.
 
 - d. Đối tượng lao động.
 
 Câu:23. Sự tồn tại nền kinh tế hàng hóa nhiều thành phần trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là do:
 
-- a. Đặc điểm tự nhiên của Việt Nam quy ĐỊNH.
+- a. Đặc điểm tự nhiên của Việt Nam quy định.
 
-- b. Thành phần giai cấp trong xã hội Việt Nam quy ĐỊNH.
+- b. Thành phần giai cấp trong xã hội Việt Nam quy định.
 
-#### e. Trình độ của lực lượng sản xuất của Việt Nam quy ĐỊNH.
+- c. Trình độ của lực lượng sản xuất của Việt Nam quy định.
 
-- d. Nhận thức chính trị của Việt Nam quy ĐỊNH.
+- d. Nhận thức chính trị của Việt Nam quy định.
 
 **Câu 24. Trong thời kỳ quá độ lên chủ nghĩa xã hội, Việt Nam cần:**
 
@@ -4195,11 +4143,11 @@ lượng sản xuất và quan hệ sản xuất,
 
 - a. Toàn bộ đất đai, máy móc, phương tiện để sản xuất của cải vật chất trong xã hội.
 
-- b. Toàn bộ những quan hệ sản xuất hợp thành cơ-sở kinh tế của một xã hội nhất ĐỊNH.
+- b. Toàn bộ những quan hệ sản xuất hợp thành cơ-sở kinh tế của một xã hội nhất định.
 
 . Toàn bộ sinh hoạt vật chất và điều kiện sinh hoạt vật chất của một xã hội.
 
-đ. Toàn bộ cơ cấu công - nông nghiệp của một nền kinh tế, xã hội nhất ĐỊNH.
+đ. Toàn bộ cơ cấu công - nông nghiệp của một nền kinh tế, xã hội nhất định.
 
 **Câu 26. Nhân tố nào trong kiến trúc thượng tằng có tác động trực tiếp và mạnh mẽ nhất tới**
 
@@ -4223,19 +4171,18 @@ cơ sở kinh tế của xã hội?
 
 d.Trình độ của lực lượng sản xuất.
 
-**Câu 28. Phát biểu nào sau đây khẳng ĐỊNH đúng vai trò của kiến trúc thượng tầng đối với cơ**
+**Câu 28. Phát biểu nào sau đây khẳng định đúng vai trò của kiến trúc thượng tầng đối với cơ**
 
 sở hạ tầng?
 
-85
 
-a. Kiến trúc thượng tầng chu sự quyết ĐỊNH hoàn toàn của cơ sở hạ tầng.
+a. Kiến trúc thượng tầng chu sự quyết định hoàn toàn của cơ sở hạ tầng.
 
 - b. Kiến trúc thượng tầng luôn có tác động tích cực đối với cơ sở hạ tầng.
 
 - c. Kiến trúc thượng tầng thường xuyên có vai trò tác động trở lại cơ sở hạ tầng của xã hội.
 
-- d. Kiến trúc thượng tầng quyết ĐỊNH cơ sở hạ tầng.
+- d. Kiến trúc thượng tầng quyết định cơ sở hạ tầng.
 
 **Câu 29. Thực chất của quan hệ biện chứng giữa cơ sở hạ tầng và kiến trúc thượng tầng có**
 
@@ -4273,13 +4220,13 @@ thượng tầng khi cơ sở hạ tầng thay đổi:
 
 - b. Nhà nước, tôn giáo, đạo đức thay đổi theo ngay.
 
-#### e. Tôn giáo, nghệ thuật, triết học thay đổi theo ngay.
+- c. Tôn giáo, nghệ thuật, triết học thay đổi theo ngay.
 
 - d. Không phải mọi yếu tổ của kiến trúc thượng tầng sẽ thay đổi theo ngay.
 
 **Câu 32. Bàn về kiến trúc thượng tầng, chủ nghĩa duy vật lịch sử KHÔNG cho rằng:**
 
-- a. Cơ sở hạ tầng quyết ĐỊNH sự hình thành của kiến trúc thượng tầng.
+- a. Cơ sở hạ tầng quyết định sự hình thành của kiến trúc thượng tầng.
 
 - b. Cơ sở hạ tầng thay đổi thì kiến trúc thượng tầng thay đổi theo.
 
@@ -4287,7 +4234,7 @@ thượng tầng khi cơ sở hạ tầng thay đổi:
 
 - d. Kiến trúc thượng tầng có thể lạc hậu so với cơ sở hạ tầng.
 
-Câu 33. Hãy chỉ ra luận điểm SAI: _ a. Cơ sở hạ tầng thay đổi kéo theo sự thay đổi của kiến trúc thượng tầng.
+**Câu 33.** Hãy chỉ ra luận điểm SAI: _ a. Cơ sở hạ tầng thay đổi kéo theo sự thay đổi của kiến trúc thượng tầng.
 
 - b. Khi cơ sở hạ tầng thay đổi, ngay lập tức mọi bộ phận của kiến trúc thượng tầng thay đổi.
 
@@ -4295,15 +4242,14 @@ e. Kiến trúc thượng tầng có tính độc lập tương đối so với 
 
 - d. Kiến trúc thượng tầng có khả năng kìm hãm sự phát triển của cơ sở hạ tầng
 
-86
 
-**Câu 34. Cơ sở hạ tầng của Việt Nam trong thời kỳ quá độ đi lên CNXH được XÁC ĐỊNH là:**
+**Câu 34. Cơ sở hạ tầng của Việt Nam trong thời kỳ quá độ đi lên CNXH được XÁC định là:**
 
 - a. Hệ thống điện-đường-trường-trạm hiện đại, rộng khắp cả nước,
 
 - b. Nền kinh tế th trường.
 
-. Nền kinh tế hàng hoá nhiều thành phần theo ĐỊNH hướng xã hội chủ nghĩa.
+. Nền kinh tế hàng hoá nhiều thành phần theo định hướng xã hội chủ nghĩa.
 
 - d. Nền sản xuất được công nghiệp hóa, hiện đại hóa ở trình độ tiên tiến.
 
@@ -4317,7 +4263,7 @@ e. Kiến trúc thượng tầng có tính độc lập tương đối so với 
 
 - d. Tồn tại xã hội và ý thức xã hội
 
-**Câu 36: Điền thêm từ vào câu sau đây và XÁC ĐỊNH đó là luận điểm của ai? "Sự phát triển**
+**Câu 36. Điền thêm từ vào câu sau đây và XÁC định đó là luận điểm của ai? "Sự phát triển**
 
 của các hình thái kinh tế - xã hội là một quá trình...".
 
@@ -4341,9 +4287,9 @@ của các hình thái kinh tế - xã hội là một quá trình...".
 
 - d. Lực lượng sản xuất, quan hệ sản xuất, tồn tại xã hội.
 
-**Câu 38. Khẳng ĐỊNH tính lịch sử — tự nhiên của sự phát triển các hình thái kinh tế - xã hội**
+**Câu 38. Khẳng định tính lịch sử — tự nhiên của sự phát triển các hình thái kinh tế - xã hội**
 
-tức là khẳng ĐỊNH sự phát triển của xã hội...
+tức là khẳng định sự phát triển của xã hội...
 
 a....hoàn toàn tuân theo quy luật khách quan của lịch sử. b....hoàn toàn là một quá trình tự nhiên và khách quan.
 
@@ -4357,13 +4303,12 @@ d....là kết quả của vô số hoạt động chủ quan, tự nhiên của
 
 - b. Áp bức, bất công và mâu thuẫn giai cấp.
 
-#### e. Động cơ chính trị của các vĩ nhân, lãnh tụ.
+- c. Động cơ chính trị của các vĩ nhân, lãnh tụ.
 
 - d. Mâu thuẫn giữa lực lượng sản xuất với quan hệ sản xuất.
 
-87
 
-Câu 40. Về tổng thể, lịch sử nhân loại là quá trình thay thế tuần tự của các hình thái kinh tế ~ xã hội:
+**Câu 40.** Về tổng thể, lịch sử nhân loại là quá trình thay thế tuần tự của các hình thái kinh tế ~ xã hội:
 
 a, Cộng sản nguyên thủy - Chiếm hữu nô lệ ~ Phong kiến ~ Tư bản chủ nghĩa - XHƠN.
 
@@ -4409,11 +4354,11 @@ giai cấp nào sẽ là giai cấp thống trị?
 
 - b. Giai cấp đóng vai trò là lực lượng sản xuất chủ yếu của xã hội.
 
-#### e. Giai cấp nắm quyền sở hữu tư liệu sản xuất chủ yếu của xã hội.
+- c. Giai cấp nắm quyền sở hữu tư liệu sản xuất chủ yếu của xã hội.
 
 - d. Tầng lớp có trình độ hiểu biết về khoa học cao nhất trong xã hội.
 
-**Câu 45. Nhận ĐỊNH nào sau đây là SAI với quan điểm của triết học Mác - Lênin?**
+**Câu 45. Nhận định nào sau đây là SAI với quan điểm của triết học Mác - Lênin?**
 
 - a. Giai cấp cơ bản của xã hội là các giai cấp được sinh ra từ chính phương thức sản xuất đang
 
@@ -4435,7 +4380,7 @@ e Giai cấp gắn với phương thức sản xuất tàn dư của xã hội c
 
 - b. Năng suất lao động cao có sản phẩm dư thừa tương đối.
 
-#### e. Sự xuất hiện chế độ sở hữu tư nhân về tư liệu sản xuất.
+- c. Sự xuất hiện chế độ sở hữu tư nhân về tư liệu sản xuất.
 
 - d. Công cụ sản xuất bằng kim loại thay thế công cụ bằng đá,
 
@@ -4465,7 +4410,7 @@ giai cấp là:
 
 đã trở nên lỗi thời.
 
-**Câu 49. Nhận ĐỊNH nào dưới đây là SAI với quan điểm của triết học Mác - Lênin về đấu**
+**Câu 49. Nhận định nào dưới đây là SAI với quan điểm của triết học Mác - Lênin về đấu**
 
 tranh giai cấp?
 
@@ -4483,7 +4428,7 @@ nên không còn đấu tranh giai cấp.
 
 quá độ đi lên chủ nghĩa xã hội ở Việt Nam.
 
-**Câu 50. Nhận ĐỊNH nào dưới đây là SAI với quan điểm của triết học Mác — Lênin?**
+**Câu 50. Nhận định nào dưới đây là SAI với quan điểm của triết học Mác — Lênin?**
 
 - a. Giai cấp tồn tại trong mọi xã hội.
 
@@ -4517,7 +4462,7 @@ tưởng thống trị trong toàn xã hội.
 
 - b. Nguyện vọng của mỗi quốc gia, dân tộc.
 
-#### e. Tắt yếu, khách quan, do nguyên nhân kinh tế.
+- c. Tắt yếu, khách quan, do nguyên nhân kinh tế.
 
 đ. Do sự phát triển của xã hội.
 
@@ -4527,7 +4472,7 @@ tưởng thống trị trong toàn xã hội.
 
 - b. Công cụ quyền lực thực hiện chuyên chính giai cấp của giai cấp thống trị.
 
-#### e. Công cụ quyền lực thực hiện chuyên chính giai cấp.
+- c. Công cụ quyền lực thực hiện chuyên chính giai cấp.
 
 - d. Công cụ quyền lực của giai cấp thống trị.
 
@@ -4547,7 +4492,6 @@ nhà nước là:
 
 nhà nước là:
 
-90
 
 - a. Sự thỏa thuận của mọi tầng lớp trong xã hội.
 
@@ -4557,13 +4501,13 @@ nhà nước là:
 
 - d. Đấu tranh giai cấp.
 
-**Câu 56. Nhận ĐỊNH nào sau đây là SAI?**
+**Câu 56. Nhận định nào sau đây là SAI?**
 
 - a. Giai cấp b tr chu ảnh hưởng tư tưởng của giai cấp thống trị.
 
 - b. Giai cấp thống trị không chu ảnh hưởng tư tưởng của giai cấp b tr.
 
-#### e. Giai cấp b tr có thể có hệ tư tưởng riêng của mình.
+- c. Giai cấp b tr có thể có hệ tư tưởng riêng của mình.
 
 đ. Giai cấp thống trị luôn tìm cách áp đặt hệ tư tưởng của mình cho các giai cấp khác.
 
@@ -4571,7 +4515,7 @@ nhà nước là:
 
 xuất hiện và tồn tại.
 
-a....ngay khi xã hội loài người xuất hiện. b....trong một giai đoạn lịch sử nhất ĐỊNH. e....từ trước khi xã hội có giai cấp.
+a....ngay khi xã hội loài người xuất hiện. b....trong một giai đoạn lịch sử nhất định. e....từ trước khi xã hội có giai cấp.
 
 đd....trong mọi giai đoạn lịch sử.
 
@@ -4611,9 +4555,8 @@ a, Củng cố vững chắc quyền lực giai cấp.
 
 - b. Chuyển hóa thành nhà nước cộng sản.
 
-91
 
-#### e. Chuyển hóa thành nhà nước toàn cầu.
+- c. Chuyển hóa thành nhà nước toàn cầu.
 
 - d. Nhà nước tự tiêu vong.
 
@@ -4623,9 +4566,9 @@ hơn của giai cấp cách mạng được gọi là?
 
 - a. Đảo chính. b. Cách mạng xã hội. c.Bạoloạn. d. Cách mạng văn hóa.
 
-**Câu 63. Khái niệm nào sau đây được dùng để chỉ một cộng đồng người ồn ĐỊNH được hình**
+**Câu 63. Khái niệm nào sau đây được dùng để chỉ một cộng đồng người ồn định được hình**
 
-thành trong lịch sử trong một lãnh thổ nhất ĐỊNH, có chung mối liên hệ về kinh tế, ngôn ngữ và một nền văn hóa?
+thành trong lịch sử trong một lãnh thổ nhất định, có chung mối liên hệ về kinh tế, ngôn ngữ và một nền văn hóa?
 
 - a. Bộ lạc. b. Dân tộc. c. Quốc gia. d. Bộ tộc.
 
@@ -4645,7 +4588,7 @@ thành trong lịch sử trong một lãnh thổ nhất ĐỊNH, có chung mối
 
 - b. Phương diện sinh hoạt tinh thần của một giai cấp.
 
-_. Phương điện sinh hoạt tinh thần của đời sống xã hội, nảy sinh từ tồn tại xã hội và phản ánh tồn tại xã hội trong những giai đoạn nhất ĐỊNH.
+_. Phương điện sinh hoạt tinh thần của đời sống xã hội, nảy sinh từ tồn tại xã hội và phản ánh tồn tại xã hội trong những giai đoạn nhất định.
 
 - d. Những đặc trưng về tâm lý, tính cách của một cộng đồng dân tộc.
 
@@ -4655,7 +4598,7 @@ _. Phương điện sinh hoạt tinh thần của đời sống xã hội, nảy
 
 - b. Cái chung và cái riêng.
 
-#### e. Bản chất và hiện tượng.
+- c. Bản chất và hiện tượng.
 
 - d. Cái chung và cái đơn nhất.
 
@@ -4665,9 +4608,9 @@ _. Phương điện sinh hoạt tinh thần của đời sống xã hội, nảy
 
 - b. Hệ tư tưởng là hệ thống những quan điểm, hệ thống hoá, khái quát hóa thành lý luận, thành
 
-các học thuyết chính trị - xã hội phản ánh lợi ích của một giai cấp nhất ĐỊNH.
+các học thuyết chính trị - xã hội phản ánh lợi ích của một giai cấp nhất định.
 
-#### e. Trong xã hội có giai cấp thì chỉ có hệ tư tưởng biểu hiện tính giai cấp của ý thức xã hội.
+- c. Trong xã hội có giai cấp thì chỉ có hệ tư tưởng biểu hiện tính giai cấp của ý thức xã hội.
 
 đ. Hệ tư tưởng không ảnh hưởng đến sự phát triển của khoa học.
 
@@ -4677,23 +4620,23 @@ với ý thức xã hội:
 
 - a. Ý thức xã hội hoàn toàn phụ thuộc một cách thụ động vào tồn tại xã hội.
 
-- b. Tồn tại xã hội quyết ĐỊNH ý thức xã hội.
+- b. Tồn tại xã hội quyết định ý thức xã hội.
 
 - c. Khi tồn tại xã hội thay đổi thì toàn bộ các yếu tố cấu thành ý thức xã hội sẽ biển đổi ngay
 
 cùng tổn tại xã hội.
 
-- d. Tồn tại xã hội có vai trò quyết ĐỊNH đối với các hình thái ý thức xã hội một cách đơn giản,
+- d. Tồn tại xã hội có vai trò quyết định đối với các hình thái ý thức xã hội một cách đơn giản,
 
 trực tiếp, không qua các khâu trung gian.
 
-**Câu 69. Nhận ĐỊNH nào sau đây là đúng?**
+**Câu 69. Nhận định nào sau đây là đúng?**
 
-- a. Không phải ý thức quyết ĐỊNH đời sống mà chính đời sống quyết ĐỊNH ý thức.
+- a. Không phải ý thức quyết định đời sống mà chính đời sống quyết định ý thức.
 
-- b. Không phải đời sống quyết ĐỊNH ý thức mà chính ý thức quyết ĐỊNH đời sống.
+- b. Không phải đời sống quyết định ý thức mà chính ý thức quyết định đời sống.
 
-#### e. Đời sống không quyết ĐỊNH ý thức, mà ý thức cũng không quyết ĐỊNH đời sống:
+- c. Đời sống không quyết định ý thức, mà ý thức cũng không quyết định đời sống:
 
 - d. Đời sống và ý thức tồn tại độc lập với nhau.
 
@@ -4731,7 +4674,7 @@ khoa học, ý thức triết học.
 
 thức khoa học, ý thức triết học.
 
-**Câu 72. Xét đến cùng nhân tố quyết ĐỊNH sự thắng lợi của một chế độ xã hội mới theo quan**
+**Câu 72. Xét đến cùng nhân tố quyết định sự thắng lợi của một chế độ xã hội mới theo quan**
 
 điểm của chủ nghĩa duy vật lịch sử là:
 
@@ -4741,7 +4684,6 @@ thức khoa học, ý thức triết học.
 
 - c. Năng suất lao động xã hội.
 
-93
 
 đ. Hiệu quả hoạt động của hệ thống chính trị Câu 73. Trong các hình thái ý thức xã hội dưới đây, hình thái ý thức xã hội nào ra đời ngay trong xã hội cộng sản nguyên thủy: a. Ý thức triếthọc. b. Ý thức thẩm mỹ. c.Ý thức chính trị. d. Ý thức giai cấp.
 
@@ -4793,7 +4735,6 @@ a. 1) tính vật chất, 2) tổng hòa. b. 1) tính vật chất, 2) tổng h�
 
 - d. Chỉ ra bản chất con người là kết quả của sự tiến hóa lâu dài của giới tự nhiên.
 
-94
 
 **Câu 79. Trong các nội dung được nêu dưới đây, nội dung nào KHÔNG thể hiện đúng quan**
 
@@ -4809,21 +4750,21 @@ a. 1) tính vật chất, 2) tổng hòa. b. 1) tính vật chất, 2) tổng h�
 
 **Câu 80.Theo quan điểm của triết học Mác - Lênin:**
 
-- a. Lch sử được quyết ĐỊNH bởi quần chúng nhân dân.
+- a. Lch sử được quyết định bởi quần chúng nhân dân.
 
-- b. Lch sử được quyết ĐỊNH bởi mệnh trời.
+- b. Lch sử được quyết định bởi mệnh trời.
 
-#### e. Lch sử được quyết ĐỊNH bởi cá nhân hào kiệt.
+- c. Lch sử được quyết định bởi cá nhân hào kiệt.
 
-- d. Lch sử không do ai quyết ĐỊNH, vì nó điễn ra theo quy luật tự nhiên.
+- d. Lch sử không do ai quyết định, vì nó điễn ra theo quy luật tự nhiên.
 
-I- XÁC ĐỊNH ĐÚNG/SAI VÀ GIẢI THÍCH NGẮN GỌN
+I- XÁC định ĐÚNG/SAI VÀ GIẢI THÍCH NGẮN GỌN
 
 **Câu 1. Sản xuất vật chất là hoạt động cơ bản phân biệt giữa con người với các loài động vật.**
 
-**Câu 2. Điều kiện tự nhiên là yếu tố quyết ĐỊNH sự phát triển của sản xuất vật chất và đo đó là**
+**Câu 2. Điều kiện tự nhiên là yếu tố quyết định sự phát triển của sản xuất vật chất và đo đó là**
 
-yếu tố quyết ĐỊNH sự phát triển của xã hội loài người..
+yếu tố quyết định sự phát triển của xã hội loài người..
 
 **Câu 3. Trình độ của lực lượng sản xuất nói lên trình độ chỉnh phục tự nhiên của con người.**
 
@@ -4835,7 +4776,6 @@ sản xuất, đo đó nó phụ thuộc vào con người và mang tính chủ 
 
 so với trình độ phát triển của lực lượng sản xuất.
 
-95
 
 **Câu 6. Khi cơ sở hạ tầng thay đổi thì ngay lập tức, mọi bộ phận của kiến trúc thượng tầng**
 
@@ -4863,7 +4803,7 @@ hiện mục tiêu chính trị của giai cấp này.
 
 **Câu 15. Trí thức là một giai cấp quan trọng trong xã hội hiện đại.**
 
-**Câu 16. Suy cho cùng, ý thức xã hội bao giờ cũng chu sự quy ĐỊNH của tồn tại xã hội.**
+**Câu 16. Suy cho cùng, ý thức xã hội bao giờ cũng chu sự quy định của tồn tại xã hội.**
 
 **Câu 17. Tâm lý xã hội thường là sự phân ánh tự giác đời sống xã hội của một cộng đồng người.**
 
@@ -4873,9 +4813,8 @@ hiện mục tiêu chính trị của giai cấp này.
 
 **Câu 20. Lch sử của nhân lơại là lịch sử của các v anh hùng, hào kiệt, các cá nhân kiệt xuất.**
 
-97
 
-## II- TỰ LUẬN
+### III. TỰ LUẬN
 
 **Câu 1. Hãy chỉ ra các yếu tố thuộc về cơ sở hạ tầng, kiến trúc thượng tầng ở Việt**
 
@@ -4906,5 +4845,3 @@ A - Lý thuyết 3 B - Bài tập 12 Chương 2: Chủ nghĩa duy vật biện c
 A - Lý thuyết 19 B - Bài tập 4I Chương 3: Chủ nghĩa duy vật lịch sử 63
 
 A - Lý thuyết 63..B- Bài tập Lời nói đầu 81
-
-100
