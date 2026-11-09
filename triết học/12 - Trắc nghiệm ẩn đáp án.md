@@ -136,7 +136,9 @@ aliases:
 - b. Giữa vật chất và ý thức, cái nào có trước, cái nào có sau, cái nào quyết ĐỊNH cái nào?
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Giữa vật chất và ý thức, cái nào có trước, cái nào có sau, cái nào quyết ĐỊNH cái nào?**
+>
+> Mặt 1: bản thể luận (ontology) — duy vật hay duy tâm
 
 ---
 
@@ -148,7 +150,9 @@ aliases:
 - d. Vật chất tồn tại dưới những dạng nào?
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **a. Con người có khả năng nhận thức thế giới hay không?**
+>
+> Mặt 2: nhận thức luận — khả tri hay bất khả tri
 
 ---
 
@@ -160,7 +164,9 @@ aliases:
 - d. Quan điểm lý luận nhận thức
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **c. Cách giải quyết mặt thứ nhất của vấn đề cơ bản của triết học**
+>
+> Mặt 1 (vật chất hay ý thức có trước) quyết định duy vật hay duy tâm
 
 ---
 
@@ -172,7 +178,9 @@ aliases:
 - đ. Nh nguyên
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **b. Duy tâm**
+>
+> Duy tâm: ý thức có trước và quyết định vật chất
 
 ---
 
