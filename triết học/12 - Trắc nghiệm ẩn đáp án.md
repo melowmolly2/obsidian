@@ -475,7 +475,9 @@ aliases:
 
 **Câu 35.** Nguồn gốc của vận động nằm ở đâu?
 
-*(Xem đáp án)*
+
+- a. Sự tăng lên không ngừng của năng suất lao động
+- b. Áp bức, bất công và mâu thuẫn giai cấp
 
 > [!success]- Đáp án
 > **d. Trong nội tại của sự vật, hiện tượng**
@@ -566,7 +568,11 @@ aliases:
 
 **Câu 42.** Vật chất quyết định ý thức, ý nghĩa là:
 
-*(Xem đáp án)*
+
+- a. Duy vật
+- b. Duy tâm
+- c. Nhất nguyên
+- đ. Nh nguyên
 
 > [!success]- Đáp án
 > **Vật chất có trước, ý thức có sau; vật chất sinh ra và quyết định nội dung ý thức**
@@ -1496,7 +1502,11 @@ aliases:
 
 **Câu 114.** Vai trò tồn tại xã hội với ý thức xã hội:
 
-*(Xem đáp án)*
+
+- a. Ý thức xã hội hoàn toàn phụ thuộc một cách thụ động vào tồn tại xã hội
+- b. Tồn tại xã hội quyết ĐỊNH ý thức xã hội
+- c. Khi tồn tại xã hội thay đổi thì toàn bộ các yếu tố cấu thành ý thức xã hội sẽ biển đổi ngay
+- d. Tồn tại xã hội có vai trò quyết ĐỊNH đối với các hình thái ý thức xã hội một cách đơn giản,
 
 > [!success]- Đáp án
 > **b. Tồn tại xã hội quyết định ý thức xã hội**
@@ -1588,7 +1598,10 @@ aliases:
 
 **Câu 121.** Quan điểm đúng về con người:
 
-*(Xem đáp án)*
+
+- b. Con người vừa là chủ thể của lịch sử, vừa là sản phẩm của lịch sử
+- c. Con người sáng tạo ra lịch sử theo mong muốn chủ quan của mình
+- d. Con người vừa là sản phẩm của lịch sử, vừa là bô phận của lịch sử
 
 > [!success]- Đáp án
 > **b. Con người vừa là chủ thể của lịch sử, vừa là sản phẩm của lịch sử**
