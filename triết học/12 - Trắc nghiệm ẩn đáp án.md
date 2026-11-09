@@ -1555,174 +1555,224 @@ aliases:
 
 ---
 
-**Câu 81.** Đứng im là trạng thái không vận động của một sự vật ở một giai đoạn nhất
+**Câu 81.** Đứng im là trạng thái không vận động của một sự vật ở một giai đoạn nhất định trong sự phát triển của nó.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: SAI**
+>
+> Đứng im không phải là không vận động, mà là hình thức vận động đặc biệt: vận động trong cân bằng, sự vật giữ nguyên chất của nó trong một quan hệ và thời gian nhất định (vận động là tuyệt đối, đứng im là tương đối, tạm thời).
 
 ---
 
 **Câu 82.** Cái chung và cái đơn nhất có thể chuyển hóa cho nhau.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: ĐÚNG**
+>
+> Trong sự phát triển khách quan, cái mới xuất hiện dưới dạng cái đơn nhất có thể dần hoàn thiện và phổ biến thành cái chung; ngược lại cái chung cũ lỗi thời thu hẹp dần thành cái đơn nhất.
 
 ---
 
 **Câu 83.** Thế giới này được tạo thành bởi một chuỗi các quan hệ nhân quả.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: ĐÚNG**
+>
+> Mối liên hệ nhân quả có tính khách quan, phổ biến và tất yếu; mọi sự vật, hiện tượng đều có nguyên nhân sinh ra và đều gây nên những kết quả nhất định.
 
 ---
 
 **Câu 84.** Hiện tượng nào, bản chất ấy.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: ĐÚNG**
+>
+> Bản chất và hiện tượng thống nhất hữu cơ: bản chất luôn bộc lộ qua hiện tượng; hiện tượng luôn là biểu hiện của bản chất (bản chất nào thì hiện tượng ấy, bản chất đổi thì hiện tượng đổi).
 
 ---
 
-**Câu 85.** Trong nhận thức và hoạt động thực tiễn, chúng ta phải dựa vào cái Tất nhiên
+**Câu 85.** Trong nhận thức và hoạt động thực tiễn, chúng ta phải dựa vào cái tất nhiên chứ không dựa vào cái ngẫu nhiên để cải tạo sự vật.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: ĐÚNG**
+>
+> Cái tất nhiên vạch ra khuynh hướng phát triển cơ bản chi phối sự vật; nhận thức và hành động phải căn cứ vào cái tất nhiên, đồng thời không được coi thường cái ngẫu nhiên.
 
 ---
 
 **Câu 86.** Một mảnh vải may thành áo khác về chất so với mảnh vải cùng loại để nguyên.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: ĐÚNG**
+>
+> Chất của sự vật phụ thuộc vào các yếu tố cấu thành và phương thức liên kết giữa các yếu tố. May thành áo đã thay đổi cấu trúc liên kết và công năng sử dụng, tạo nên chất mới.
 
 ---
 
-**Câu 87.** Sự thay đổi về lượng và sự thay đôi về chất của sự vật: có tính độc lập tương
+**Câu 87.** Sự thay đổi về lượng và sự thay đổi về chất của sự vật: có tính độc lập tương đối, không có mối quan hệ với nhau.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: SAI**
+>
+> Lượng và chất thống nhất biện chứng: sự thay đổi dần về lượng vượt qua giới hạn độ tại điểm nút sẽ dẫn đến bước nhảy làm đổi chất; chất mới ra đời lại quy định lượng mới.
 
 ---
 
-**Câu 88.** Mâu thuẫn biện n chứng là sự xung
+**Câu 88.** Mâu thuẫn biện chứng là sự xung đột, triệt tiêu lẫn nhau giữa các mặt đối lập.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: SAI**
+>
+> Mâu thuẫn biện chứng là sự vừa thống nhất (nương tựa làm tiền đề cho nhau) vừa đấu tranh (tác động bài trừ, phủ định lẫn nhau) giữa các mặt đối lập, chứ không đơn thuần chỉ là xung đột triệt tiêu.
 
 ---
 
-**Câu 89.** Theo phép biện chứng duy vật, cách giải quyết mâu thuẫn đúng đắn nhất là
+**Câu 89.** Theo phép biện chứng duy vật, cách giải quyết mâu thuẫn đúng đắn nhất là xóa bỏ các mặt đối lập.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: SAI**
+>
+> Giải quyết mâu thuẫn phải thông qua đấu tranh của các mặt đối lập để chuyển hóa mâu thuẫn theo quy luật khách quan, không thể xóa bỏ chủ quan hay thủ tiêu áp đặt từ bên ngoài.
 
 ---
 
-**Câu 90.** Quy luật phủ định của phủ định chỉ ra rằng sự phát triển của mọi sự vật, hiện
+**Câu 90.** Quy luật phủ định của phủ định chỉ ra rằng sự phát triển của mọi sự vật, hiện tượng đều phải trải qua hai lần phủ định.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: SAI**
+>
+> Hai lần phủ định chỉ là chu kỳ tối thiểu mang tính mô hình khái quát (khẳng định -> phủ định -> phủ định của phủ định); thực tế phát triển diễn ra qua vô số chuỗi phủ định biện chứng dạng xoáy ốc.
 
 ---
 
 **Câu 91.** Thực tiễn và thực tế là một.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: SAI**
+>
+> Thực tế là toàn bộ thế giới vật chất tồn tại khách quan; thực tiễn chỉ là những hoạt động vật chất có mục đích, mang tính lịch sử – xã hội của con người nhằm cải tạo tự nhiên và xã hội.
 
 ---
 
 **Câu 92.** Hoạt động nghiên cứu khoa học là hoạt động thực tiễn cơ bản nhất, quan trọng nhất.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: SAI**
+>
+> Hoạt động sản xuất vật chất mới là hoạt động thực tiễn cơ bản nhất, nguyên thủy nhất và đóng vai trò quyết định mọi hoạt động thực tiễn khác (bao gồm cả NCKH và chính trị - xã hội).
 
 ---
 
 **Câu 93.** Nhận thức lý tính quan trọng hơn nhận thức cảm tính.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: SAI**
+>
+> Nhận thức cảm tính và lý tính là hai giai đoạn hợp thành một quá trình nhận thức thống nhất biện chứng: cảm tính cung cấp tư liệu thực tế, lý tính khái quát bản chất quy luật; cả hai không thể tách rời nhau.
 
 ---
 
 **Câu 94.** Chân lý có tính tương đối, tính tuyệt đối, tính cụ thể.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: ĐÚNG**
+>
+> Chân lý mang tính khách quan, tính tuyệt đối (phản ánh đúng thực tại không thể bác bỏ), tính tương đối (phản ánh chưa đầy đủ, còn phát triển) và tính cụ thể (gắn liền với điều kiện lịch sử cụ thể).
 
 ---
 
-**Câu 95.** Phân tích luận điểm: “Vật chất là một phạm trù triết học dùng để chỉ thực tại
+**Câu 95.** Phân tích luận điểm: “Vật chất là một phạm trù triết học dùng để chỉ thực tại khách quan được đem lại cho con người trong cảm giác”.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Tự luận)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Hướng dẫn trả lời:**
+>
+> 1. **Phạm trù triết học:** Khái quát thuộc tính chung nhất của toàn bộ thế giới vật chất, phân biệt với các dạng vật thể cụ thể của khoa học tự nhiên.
+> 2. **Thực tại khách quan:** Thuộc tính cơ bản nhất – tồn tại độc lập với ý thức con người (tiêu chuẩn phân định duy vật vs duy tâm).
+> 3. **Mối quan hệ với cảm giác:** Vật chất có trước, tác động lên giác quan con người sinh ra cảm giác; con người hoàn toàn có khả năng nhận thức được thế giới vật chất.
 
 ---
 
-**Câu 96.** Hãy chứng minh rằng: “Nguồn gốc trực tiếp và quan trọng nhất quyết ĐỊNH
+**Câu 96.** Hãy chứng minh rằng: “Nguồn gốc trực tiếp và quan trọng nhất quyết định sự ra đời và phát triển của ý thức là lao động và ngôn ngữ”.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Tự luận)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Hướng dẫn trả lời:**
+>
+> 1. **Nguồn gốc tự nhiên (não người, thế giới khách quan):** Chỉ là điều kiện cần nhưng chưa đủ.
+> 2. **Vai trò của lao động:** Làm biến đổi dáng đi, giải phóng đôi bàn tay, hoàn thiện cấu trúc não bộ; thúc đẩy con người quan sát, tư duy và nhận thức thế giới khách quan.
+> 3. **Vai trò của ngôn ngữ:** Nảy sinh từ nhu cầu trao đổi trong lao động; là "cái vỏ vật chất của tư duy", công cụ trừu tượng hóa, khái quát hóa và truyền giao kinh nghiệm, tri thức.
 
 ---
 
-**Câu 97.** Hãy phân tích để thấy rằng các sự vật, hiện tượng vận động, phát triển theo
+**Câu 97.** Hãy phân tích để thấy rằng các sự vật, hiện tượng vận động, phát triển theo cách thức: Sự thay đổi dần dần về lượng sẽ dẫn đến sự chuyển hóa về chất.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Tự luận)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Hướng dẫn trả lời:**
+>
+> 1. **Các phạm trù:**
+>    - *Độ:* Khoảng giới hạn mà lượng đổi nhưng chất chưa đổi căn bản.
+>    - *Điểm nút:* Mốc giới hạn mà tại đó lượng tích lũy đủ để phá vỡ độ.
+>    - *Bước nhảy:* Quá trình chuyển hóa từ chất cũ sang chất mới.
+> 2. **Cơ chế vận động:** Lượng tích lũy dần dần trong độ, tới điểm nút sẽ thực hiện bước nhảy tạo thành chất mới; chất mới lại quy định quy mô, nhịp điệu và giới hạn cho lượng mới tiếp tục tích lũy.
 
 ---
 
-**Câu 98.** Tại sao mâu thuẫn là nguôn gốc, động lực bên trong của sự vận động, phát
+**Câu 98.** Tại sao mâu thuẫn là nguồn gốc, động lực bên trong của sự vận động, phát triển của các sự vật, hiện tượng?
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Tự luận)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Hướng dẫn trả lời:**
+>
+> 1. **Tính phổ biến của mâu thuẫn:** Mọi sự vật hiện tượng đều chứa đựng các mặt đối lập vừa thống nhất vừa đấu tranh với nhau.
+> 2. **Sự thống nhất:** Giữ sự vật ở trạng thái ổn định tương đối, là điều kiện để các mặt đối lập cùng tồn tại.
+> 3. **Sự đấu tranh:** Các mặt đối lập bài trừ, phủ định lẫn nhau ngày càng gay gắt, tới điểm nút làm phá vỡ sự thống nhất cũ, chuyển hóa các mặt đối lập, đưa sự vật cũ mất đi và sự vật mới ra đời mang mâu thuẫn mới.
 
 ---
 
-**Câu 99.** Vai trò của thực tiễn đối với quá trình nhận thức
+**Câu 99.** Vai trò của thực tiễn đối với quá trình nhận thức.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Tự luận)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Hướng dẫn trả lời:**
+>
+> 1. **Cơ sở, động lực của nhận thức:** Cung cấp tài liệu cảm tính cho nhận thức; thực tiễn liên tục đặt ra yêu cầu, nhiệm vụ mới và chế tạo công cụ giúp mở rộng giác quan nhận thức.
+> 2. **Mục đích của nhận thức:** Nhận thức không phải để nhận thức suông mà nhằm quay lại định hướng, cải tạo thực tiễn phục vụ đời sống con người.
+> 3. **Tiêu chuẩn của chân lý:** Chỉ có thực tiễn mới là thước đo khách quan duy nhất kiểm nghiệm tính chân lý của tri thức.
 
 ---
 
@@ -2757,138 +2807,170 @@ aliases:
 
 ---
 
-**Câu 81.** Nhà nước là bộ máy hành chính đứng trên mọi giai cấp, bảo vệ quyền lợi của mọi
+**Câu 81.** Đứng im là trạng thái không vận động của một sự vật ở một giai đoạn nhất định trong sự phát triển của nó.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: SAI**
+>
+> Đứng im không phải là không vận động, mà là hình thức vận động đặc biệt: vận động trong cân bằng, sự vật giữ nguyên chất của nó trong một quan hệ và thời gian nhất định (vận động là tuyệt đối, đứng im là tương đối, tạm thời).
 
 ---
 
-**Câu 82.** Nhà nước của giai cấp vô sản về bản chất cũng chỉ là bộ máy chuyên chế để thực
+**Câu 82.** Cái chung và cái đơn nhất có thể chuyển hóa cho nhau.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: ĐÚNG**
+>
+> Trong sự phát triển khách quan, cái mới xuất hiện dưới dạng cái đơn nhất có thể dần hoàn thiện và phổ biến thành cái chung; ngược lại cái chung cũ lỗi thời thu hẹp dần thành cái đơn nhất.
 
 ---
 
-**Câu 83.** Sự khác nhau về giai cấp là do có sự khác nhau về nòi giống.
+**Câu 83.** Thế giới này được tạo thành bởi một chuỗi các quan hệ nhân quả.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: ĐÚNG**
+>
+> Mối liên hệ nhân quả có tính khách quan, phổ biến và tất yếu; mọi sự vật, hiện tượng đều có nguyên nhân sinh ra và đều gây nên những kết quả nhất định.
 
 ---
 
-**Câu 84.** Ở các th tộc và bộ lạc thời nguyên thủy chưa có sự phân hóa giai cấp.
+**Câu 84.** Hiện tượng nào, bản chất ấy.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: ĐÚNG**
+>
+> Bản chất và hiện tượng thống nhất hữu cơ: bản chất luôn bộc lộ qua hiện tượng; hiện tượng luôn là biểu hiện của bản chất (bản chất nào thì hiện tượng ấy, bản chất đổi thì hiện tượng đổi).
 
 ---
 
-**Câu 85.** Trí thức là một giai cấp quan trọng trong xã hội hiện đại.
+**Câu 85.** Trong nhận thức và hoạt động thực tiễn, chúng ta phải dựa vào cái tất nhiên chứ không dựa vào cái ngẫu nhiên để cải tạo sự vật.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: ĐÚNG**
+>
+> Cái tất nhiên vạch ra khuynh hướng phát triển cơ bản chi phối sự vật; nhận thức và hành động phải căn cứ vào cái tất nhiên, đồng thời không được coi thường cái ngẫu nhiên.
 
 ---
 
-**Câu 86.** Suy cho cùng, ý thức xã hội bao giờ cũng chu sự quy ĐỊNH của tồn tại xã hội.
+**Câu 86.** Một mảnh vải may thành áo khác về chất so với mảnh vải cùng loại để nguyên.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: ĐÚNG**
+>
+> Chất của sự vật phụ thuộc vào các yếu tố cấu thành và phương thức liên kết giữa các yếu tố. May thành áo đã thay đổi cấu trúc liên kết và công năng sử dụng, tạo nên chất mới.
 
 ---
 
-**Câu 87.** Tâm lý xã hội thường là sự phân ánh tự giác đời sống xã hội của một cộng đồng người.
+**Câu 87.** Sự thay đổi về lượng và sự thay đổi về chất của sự vật: có tính độc lập tương đối, không có mối quan hệ với nhau.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: SAI**
+>
+> Lượng và chất thống nhất biện chứng: sự thay đổi dần về lượng vượt qua giới hạn độ tại điểm nút sẽ dẫn đến bước nhảy làm đổi chất; chất mới ra đời lại quy định lượng mới.
 
 ---
 
-**Câu 88.** Con người vừa có bản chất tự nhiên, vừa có bản chất xã hội.
+**Câu 88.** Mâu thuẫn biện chứng là sự xung đột, triệt tiêu lẫn nhau giữa các mặt đối lập.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: SAI**
+>
+> Mâu thuẫn biện chứng là sự vừa thống nhất (nương tựa làm tiền đề cho nhau) vừa đấu tranh (tác động bài trừ, phủ định lẫn nhau) giữa các mặt đối lập, chứ không đơn thuần chỉ là xung đột triệt tiêu.
 
 ---
 
-**Câu 89.** Con người là sản phẩm thụ động của hoàn cánh.
+**Câu 89.** Theo phép biện chứng duy vật, cách giải quyết mâu thuẫn đúng đắn nhất là xóa bỏ các mặt đối lập.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: SAI**
+>
+> Giải quyết mâu thuẫn phải thông qua đấu tranh của các mặt đối lập để chuyển hóa mâu thuẫn theo quy luật khách quan, không thể xóa bỏ chủ quan hay thủ tiêu áp đặt từ bên ngoài.
 
 ---
 
-**Câu 90.** Lch sử của nhân lơại là lịch sử của các v anh hùng, hào kiệt, các cá nhân kiệt xuất.
+**Câu 90.** Quy luật phủ định của phủ định chỉ ra rằng sự phát triển của mọi sự vật, hiện tượng đều phải trải qua hai lần phủ định.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: SAI**
+>
+> Hai lần phủ định chỉ là chu kỳ tối thiểu mang tính mô hình khái quát (khẳng định -> phủ định -> phủ định của phủ định); thực tế phát triển diễn ra qua vô số chuỗi phủ định biện chứng dạng xoáy ốc.
 
 ---
 
-**Câu 91.** Hãy chỉ ra các yếu tố thuộc về cơ sở hạ tầng, kiến trúc thượng tầng ở Việt
+**Câu 91.** Thực tiễn và thực tế là một.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: SAI**
+>
+> Thực tế là toàn bộ thế giới vật chất tồn tại khách quan; thực tiễn chỉ là những hoạt động vật chất có mục đích, mang tính lịch sử – xã hội của con người nhằm cải tạo tự nhiên và xã hội.
 
 ---
 
-**Câu 92.** Tại sao nói sự phát triển của hình thái kinh tế - xã hội là một quá trình lịch sử
+**Câu 92.** Hoạt động nghiên cứu khoa học là hoạt động thực tiễn cơ bản nhất, quan trọng nhất.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: SAI**
+>
+> Hoạt động sản xuất vật chất mới là hoạt động thực tiễn cơ bản nhất, nguyên thủy nhất và đóng vai trò quyết định mọi hoạt động thực tiễn khác (bao gồm cả NCKH và chính trị - xã hội).
 
 ---
 
-**Câu 93.** Tại sao nói mâu thuẫn giai cấp là biểu hiện xã hội của mâu thuẫn giữa lực
+**Câu 93.** Nhận thức lý tính quan trọng hơn nhận thức cảm tính.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: SAI**
+>
+> Nhận thức cảm tính và lý tính là hai giai đoạn hợp thành một quá trình nhận thức thống nhất biện chứng: cảm tính cung cấp tư liệu thực tế, lý tính khái quát bản chất quy luật; cả hai không thể tách rời nhau.
 
 ---
 
-**Câu 94.** Tại sao một bộ phận ý thức xã hội thường lạc hậu hơn so với tồn tại xã hội?
+**Câu 94.** Chân lý có tính tương đối, tính tuyệt đối, tính cụ thể.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Đúng/Sai)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Đáp án: ĐÚNG**
+>
+> Chân lý mang tính khách quan, tính tuyệt đối (phản ánh đúng thực tại không thể bác bỏ), tính tương đối (phản ánh chưa đầy đủ, còn phát triển) và tính cụ thể (gắn liền với điều kiện lịch sử cụ thể).
 
 ---
 
-**Câu 95.** Hãy giải thích luận điểm của C.Mác: “Trong tính hiện thực của nó, bản chất
+**Câu 95.** Phân tích luận điểm: “Vật chất là một phạm trù triết học dùng để chỉ thực tại khách quan được đem lại cho con người trong cảm giác”.
 
-*(Không tìm thấy lựa chọn)*
+*(Câu hỏi Tự luận)*
 
 > [!success]- Đáp án
-> *(Xem file gốc)*
+> **Hướng dẫn trả lời:**
+>
+> 1. **Phạm trù triết học:** Khái quát thuộc tính chung nhất của toàn bộ thế giới vật chất, phân biệt với các dạng vật thể cụ thể của khoa học tự nhiên.
+> 2. **Thực tại khách quan:** Thuộc tính cơ bản nhất – tồn tại độc lập với ý thức con người (tiêu chuẩn phân định duy vật vs duy tâm).
+> 3. **Mối quan hệ với cảm giác:** Vật chất có trước, tác động lên giác quan con người sinh ra cảm giác; con người hoàn toàn có khả năng nhận thức được thế giới vật chất.
 
 ---
 
