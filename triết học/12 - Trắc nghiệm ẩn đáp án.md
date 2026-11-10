@@ -92,8 +92,11 @@ aliases:
 
 - a. Xã hội phân chia thành giai cấp
 - b. Xuất hiện tầng lớp lao động trí óc
-- c. Tư duy của con người đạt đến trình độ tư duy khái quát cao và xuất hiện tằng lớp lao động trí óc
+- ==🟢c. Tư duy của con người đạt đến trình độ tư duy khái quát cao và xuất hiện tằng lớp lao động trí óc==
 - đ. Xuất hiện giai cấp tư sản
+(Nhận thức: con người đạt đến tư duy trình độ khái quát cao)
+(Tư duy: xuất hiện tằng lớp lao động trí óc)
+(Nguồn gốc ra đời của triết học là nhận thức và xã hội)
 
 > [!success]- Đáp án
 > **c. Tư duy đạt trình độ khái quát cao và xuất hiện tầng lớp lao động trí óc**
