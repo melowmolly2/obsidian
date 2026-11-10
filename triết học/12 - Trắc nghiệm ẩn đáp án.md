@@ -138,8 +138,8 @@ aliases:
 **Câu 9.** Mặt thứ nhất của vấn đề cơ bản của triết học trả lời cho câu hỏi:
 
 - a. Con người có khả năng nhận thức thế giới hay không?
-- b. Giữa vật chất và ý thức, cái nào có trước, cái nào có sau, cái nào quyết ĐỊNH cái nào?
-
+- ==🟢b. Giữa vật chất và ý thức, cái nào có trước, cái nào có sau, cái nào quyết ĐỊNH cái nào?==
+Mặt thứ nhất: Bản thể luận (vật chất và ý thức cái nào có trước, trường phái duy vật hay duy tâm)
 > [!success]- Đáp án
 > **b. Giữa vật chất và ý thức, cái nào có trước, cái nào có sau, cái nào quyết ĐỊNH cái nào?**
 >
