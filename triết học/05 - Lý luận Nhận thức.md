@@ -26,10 +26,10 @@ date: 2026-11-08
 
 $$\text{Thực tiễn} \rightarrow \text{Nhận thức cảm tính} \rightarrow \text{Nhận thức lý tính} \rightarrow \text{Thực tiễn (kiểm nghiệm)} \rightarrow \cdots$$
 
-| Giai đoạn | Hình thức | Đặc điểm |
-|---|---|---|
+| Giai đoạn              | Hình thức                      | Đặc điểm                                            |
+| ---------------------- | ------------------------------ | --------------------------------------------------- |
 | **Nhận thức cảm tính** | Cảm giác, tri giác, biểu tượng | Trực tiếp, sinh động, cụ thể; chưa sâu vào bản chất |
-| **Nhận thức lý tính** | Khái niệm, phán đoán, suy lý | Trừu tượng, gián tiếp; nắm bản chất, quy luật |
+| **Nhận thức lý tính**  | Khái niệm, phán đoán, suy lý   | Trừu tượng, gián tiếp; nắm bản chất, quy luật       |
 
 > [!warning] Lưu ý
 > Nhận thức lý tính **không** quan trọng hơn cảm tính theo nghĩa tuyệt đối — cả hai đều cần, bổ sung lẫn nhau. Cảm tính là nền tảng; lý tính đi sâu vào bản chất.
