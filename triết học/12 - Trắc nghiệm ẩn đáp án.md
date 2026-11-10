@@ -139,6 +139,8 @@ aliases:
 
 - a. Con người có khả năng nhận thức thế giới hay không?
 - ==🟢b. Giữa vật chất và ý thức, cái nào có trước, cái nào có sau, cái nào quyết ĐỊNH cái nào?==
+- c. Vật chất có tồn tại vĩnh viễn hay không?
+- d. Vật chất tồn tại dưới những dạng nào?
 Mặt thứ nhất: Bản thể luận (vật chất và ý thức cái nào có trước, trường phái duy vật hay duy tâm)
 > [!success]- Đáp án
 > **b. Giữa vật chất và ý thức, cái nào có trước, cái nào có sau, cái nào quyết ĐỊNH cái nào?**
@@ -149,10 +151,11 @@ Mặt thứ nhất: Bản thể luận (vật chất và ý thức cái nào có
 
 **Câu 10.** Mặt thứ hai của vấn đề cơ bản của triết học trả lời cho câu hỏi:
 
-- a. Con người có khả năng nhận thức thế giới hay không?
+- a. ==🟢Con người có khả năng nhận thức thế giới hay không?==
 - b. Giữa vật chất và ý thức thì cái nào có trước, cái nào có sau, cái nào quyết ĐỊNH cái nào?
 - c. Vật chất có tồn tại vĩnh viễn hay không?
 - d. Vật chất tồn tại dưới những dạng nào?
+Mặt thứ hai: Nhận thức luận (khả tri hay bất khả tri)
 
 > [!success]- Đáp án
 > **a. Con người có khả năng nhận thức thế giới hay không?**
