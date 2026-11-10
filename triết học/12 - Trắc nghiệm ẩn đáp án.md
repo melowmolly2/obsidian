@@ -109,8 +109,9 @@ aliases:
 
 - a. Chủ nghĩa kinh nghiệm
 - b. Chủ nghĩa duy vật biện chứng
-- c. Chủ nghĩa kinh viện
+- ==🟢c. Chủ nghĩa kinh viện==
 - d. Chủ nghĩa duy vật siêu hình
+(kinh viện học tách rời thực tiễn, chỉ chú trọng giải thích kinh thánh)
 
 > [!success]- Đáp án
 > **c. Chủ nghĩa kinh viện**
@@ -122,9 +123,10 @@ aliases:
 **Câu 8.** Vấn đề cơ bản của triết học là:
 
 - a. Vấn đề vật chất và ý thức
-- b. Vấn đề mối quan hệ giữa tư duy và tồn tại
+- ==🟢b. Vấn đề mối quan hệ giữa tư duy và tồn tại==
 - c. Vấn đề quan hệ giữa con người với thế giới xung quanh
 - d. Vấn đề quan hệ giữa con người với con người trong xã hội
+(cơ bản: tư duy và tồn tại, không phải chỉ vật chất-ý thức hay con người với tự nhiên)
 
 > [!success]- Đáp án
 > **d. Vấn đề quan hệ giữa tư duy và tồn tại**
