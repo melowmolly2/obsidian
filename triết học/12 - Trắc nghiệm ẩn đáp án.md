@@ -22,7 +22,7 @@ aliases:
 
 **Câu 1.** Theo quan điểm của triết học Hy Lạp cổ đại, “triết học” là gì?
 
-- a. Yêu mến sự thông thái
+- ==🟢a. Yêu mến sự thông thái==
 - b. Tình yêu cuộc sống
 - c. Yêu quý thiên nhiên
 - d. Tình yêu thần thánh
@@ -39,7 +39,7 @@ aliases:
 - a. Nguồn gốc tự nhiên và xã hội
 - b. Nguồn gốc kinh tế - xã hội
 - c. Nguồn gốc nhận thức và tự nhiên
-- d. Nguồn gốc nhận thức và xã hội
+- ==🟢d. Nguồn gốc nhận thức và xã hội==
 
 > [!success]- Đáp án
 > **d. Nguồn gốc nhận thức và xã hội**
@@ -51,7 +51,7 @@ aliases:
 **Câu 3.** Thuyết nào sau đây thừa nhận hai bản nguyên vật chất và tính thân song song tồn tại?
 
 - a. Học thuyết nhất nguyên
-- b. Học thuyết nhị nguyên
+- ==🟢b. Học thuyết nhị nguyên==
 - c. Học thuyết đa nguyên
 - d. Học thuyết hư vô
 
@@ -66,7 +66,7 @@ aliases:
 
 - a. Triết học Hy Lạp cổ đại
 - b. Triết học Trung Quốc cổ đại
-- c. Triết học Tây Âu trung cổ
+- ==🟢c. Triết học Tây Âu trung cổ==
 - d. Triết học Tây Âu cận đại
 
 > [!success]- Đáp án
@@ -79,7 +79,7 @@ aliases:
 **Câu 5.** Triết học phương Tây ra đời ở thời kỳ nào?
 
 - a. Công xã nguyên thuỷ
-- b. Chiếm hữu nô lệ
+- ==🟢b. Chiếm hữu nô lệ==
 
 > [!success]- Đáp án
 > **b. Chiếm hữu nô lệ**
