@@ -20,6 +20,7 @@
 - **Socket** = cửa ngõ giữa ứng dụng và transport layer
 - **Address** = IP address + Port number
 - **Well-known ports**:
+
   | Port | Protocol | Service |
   |------|----------|---------|
   | 20/21 | TCP | FTP |
