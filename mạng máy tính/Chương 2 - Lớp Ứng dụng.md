@@ -20,8 +20,7 @@
 - **Socket** = cửa ngõ giữa ứng dụng và transport layer
 - **Address** = IP address + Port number
 - **Well-known ports**:
-
-  | Port | Protocol | Service |
+  |Port|Protocol|Service|
   |------|----------|---------|
   | 20/21 | TCP | FTP |
   | 22 | TCP | SSH |
@@ -61,13 +60,13 @@
 - **Text-based** (HTTP/1.x), **Binary** (HTTP/2, HTTP/3)
 
 ### Phiên bản HTTP
-| Phiên bản | Năm | Đặc điểm chính |
-|-----------|-----|----------------|
-| **HTTP/0.9** | 1991 | Chỉ GET, no headers |
-| **HTTP/1.0** | 1996 | Headers, non-persistent (mặc định) |
-| **HTTP/1.1** | 1997 | Persistent, pipelining, chunked, Host header, cache control |
-| **HTTP/2** | 2015 | Binary framing, multiplexing, header compression (HPACK), server push, priority |
-| **HTTP/3** | 2022 | **QUIC** (UDP), 0-RTT, no head-of-line blocking, connection migration |
+| Phiên bản    | Năm  | Đặc điểm chính                                                                  |
+| ------------ | ---- | ------------------------------------------------------------------------------- |
+| **HTTP/0.9** | 1991 | Chỉ GET, no headers                                                             |
+| **HTTP/1.0** | 1996 | Headers, non-persistent (mặc định)                                              |
+| **HTTP/1.1** | 1997 | Persistent, pipelining, chunked, Host header, cache control                     |
+| **HTTP/2**   | 2015 | Binary framing, multiplexing, header compression (HPACK), server push, priority |
+| **HTTP/3**   | 2022 | **QUIC** (UDP), 0-RTT, no head-of-line blocking, connection migration           |
 
 ### HTTP Message Format
 
