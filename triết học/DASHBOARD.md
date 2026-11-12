@@ -82,6 +82,7 @@ graph TD
 |---|---|---|
 | Trắc nghiệm (~115 câu) có đáp án | [[07 - Trắc nghiệm và Đáp án chi tiết]] | 3 chương, đáp án + bẫy |
 | Trắc nghiệm ẩn đáp án | [[12 - Trắc nghiệm ẩn đáp án]] | Tự luyện |
+| **Đề thi giữa kỳ tự luận** | **[[14 - Bộ đề thi giữa kỳ tự luận]]** | **5 đề × 5 câu, đáp án ẩn** |
 | Điền khuyết + Đúng/Sai + Tình huống | [[11 - Bộ câu hỏi ôn tập 2]] | Dạng thi tự luận |
 | Trắc nghiệm thô (không đáp án) | [[OnTap_TracNghiem_Raw]] | Luyện không nhìn gợi ý |
 | Trắc nghiệm có đáp án đơn giản | [[OnTap_TracNghiem_TrietHoc]] | Ôn nhanh |
