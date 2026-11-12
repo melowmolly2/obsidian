@@ -84,6 +84,7 @@ graph TD
 | Trắc nghiệm ẩn đáp án | [[12 - Trắc nghiệm ẩn đáp án]] | Tự luyện |
 | **Đề thi giữa kỳ tự luận** | **[[14 - Bộ đề thi giữa kỳ tự luận]]** | **5 đề × 5 câu, đáp án ẩn** |
 | **🔥 Đề mô phỏng thật (25 câu)** | **[[15 - Đề thi mô phỏng giữa kỳ]]** | **25 câu · 0,4đ · 40 phút · đóng tài liệu** |
+| **🏆 Ngân hàng 80 câu toàn diện** | **[[16 - Ngân hàng câu hỏi tự luận ngắn toàn diện]]** | **Bao quát 100% câu hỏi có thể ra thi, chuẩn từ khóa** |
 | Điền khuyết + Đúng/Sai + Tình huống | [[11 - Bộ câu hỏi ôn tập 2]] | Dạng thi tự luận |
 | Trắc nghiệm thô (không đáp án) | [[OnTap_TracNghiem_Raw]] | Luyện không nhìn gợi ý |
 | Trắc nghiệm có đáp án đơn giản | [[OnTap_TracNghiem_TrietHoc]] | Ôn nhanh |

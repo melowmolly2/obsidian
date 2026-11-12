@@ -77,6 +77,7 @@ TRIẾT HỌC MÁC – LÊNIN
 | 13 | [[13 - Cheat Sheet]] | Tóm tắt toàn bộ — ôn nhanh trước thi |
 | 14 | [[14 - Bộ đề thi giữa kỳ tự luận]] | 5 đề × 5 câu tự luận ngắn, đáp án ẩn |
 | 15 | [[15 - Đề thi mô phỏng giữa kỳ]] | **25 câu · 0,4đ/câu · 40 phút** — mô phỏng đề thi thật |
+| 16 | [[16 - Ngân hàng câu hỏi tự luận ngắn toàn diện]] | **80 câu hỏi ngắn bao quát 100% chương trình**, đáp án + từ khóa |
 | — | [[OnTap_TracNghiem_Raw]] | Trắc nghiệm thô, không đáp án |
 | — | [[OnTap_TracNghiem_TrietHoc]] | Trắc nghiệm + đáp án đơn giản |
 
