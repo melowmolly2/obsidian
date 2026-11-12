@@ -13,11 +13,11 @@ date: 2026-11-08
 
 ## 1. Điều kiện lịch sử (nửa đầu TK XIX)
 
-| Loại | Nội dung |
-|---|---|
-| **Kinh tế – xã hội** | CNTB phát triển → giai cấp vô sản xuất hiện → cần lý luận khoa học |
+| Loại                  | Nội dung                                                                                            |
+| --------------------- | --------------------------------------------------------------------------------------------------- |
+| **Kinh tế – xã hội**  | CNTB phát triển → giai cấp vô sản xuất hiện → cần lý luận khoa học                                  |
 | **Khoa học tự nhiên** | ① Học thuyết tế bào · ② Định luật bảo toàn & chuyển hóa năng lượng · ③ Học thuyết tiến hóa (Darwin) |
-| **Nhân tố chủ quan** | Thiên tài và lập trường cách mạng của Mác & Ăngghen |
+| **Nhân tố chủ quan**  | Thiên tài và lập trường cách mạng của Mác & Ăngghen                                                 |
 
 > [!info] Ba phát kiến khoa học tự nhiên
 > Chứng minh thế giới vật chất có tính thống nhất và vận động theo quy luật — phá vỡ quan niệm siêu hình học cơ học.
