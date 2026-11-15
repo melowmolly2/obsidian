@@ -2,7 +2,7 @@
 
 ## 1. Ý tưởng chính
 
-MCTS là thuật toán tìm kiếm dùng cho các bài toán ra quyết định tuần tự (cờ vây, cờ vua, game AI, lập kế hoạch...). Thay vì duyệt toàn bộ cây trạng thái (quá lớn), MCTS:
+Thay vì duyệt toàn bộ cây trạng thái (quá lớn), MCTS:
 
 - Dần dần xây dựng một cây tìm kiếm không đối xứng, tập trung vào những nhánh có triển vọng.
 - Ước lượng giá trị của một trạng thái bằng các lần mô phỏng ngẫu nhiên (rollout/playout) đến khi game kết thúc.
