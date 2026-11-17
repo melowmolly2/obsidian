@@ -19,6 +19,7 @@ created: 2026-11-17
 | 2 | [[LSD - Chương 2 (1945–1975)]] | Kháng chiến & thống nhất đất nước |
 | 3 | [[LSD - Chương 3 (1975–2018)]] | Đổi mới & xây dựng CNXH |
 | 4 | [[LSD - Bài Học Kinh Nghiệm]] | 5 bài học lớn của Đảng |
+| 5 | [[LSD - Hệ Thống Câu Hỏi Và Gợi Ý Trả Lời]] | 12 câu hỏi thi trọng tâm & dàn ý giải |
 
 ---
 
