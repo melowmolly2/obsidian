@@ -42,6 +42,17 @@ Toàn bộ hệ thống lý thuyết phục vụ học tập, tra cứu và ôn 
 
 ---
 
+## 📚 BỘ CÂU HỎI TRẮC NGHIỆM & TỰ LUẬN THEO TỪNG CHƯƠNG (CÓ ĐÁP ÁN)
+
+Hệ thống câu hỏi ôn tập theo từng chương chia nhỏ, tích hợp cả trắc nghiệm có đáp án giải thích và câu hỏi tự luận/vấn đáp kèm đáp án chi tiết:
+
+- 📖 [[Bộ Câu Hỏi & Đáp Án - Chương Nhập Môn]]: Trắc nghiệm phương pháp luận, 3 chức năng và câu hỏi tự luận phân biệt sự kiện Lịch sử Đảng.
+- 📖 [[Bộ Câu Hỏi & Đáp Án - Chương 1 (1930 - 1945)]]: 17 câu trắc nghiệm và 3 câu tự luận chuyên sâu (1920-1930 và 1930-1945, so sánh Cương lĩnh - Luận cương, Chỉ thị 12/3/1945, tính chất Cách mạng Tháng Tám).
+- 📖 [[Bộ Câu Hỏi & Đáp Án - Chương 2 (1945 - 1975)]]: 18 câu trắc nghiệm và 3 câu tự luận chuyên sâu (Kháng chiến chống Pháp và chống Mỹ, 4 phương châm kháng chiến, 4 chiến lược chiến tranh của Mỹ, "Đánh cho Mỹ cút, đánh cho ngụy nhào").
+- 📖 [[Bộ Câu Hỏi & Đáp Án - Chương 3 (1975 - Nay)]]: 14 câu trắc nghiệm và 3 câu tự luận chuyên sâu (Khủng hoảng kinh tế, 3 bước đột phá đổi mới 1979-1986, 4 nguy cơ lớn 1994, thành tựu 35 năm Đổi mới).
+
+---
+
 ## ⏱️ NIÊN BIỂU SỰ KIỆN LỊCH SỬ CỐT LÕI (TIMELINE ÔN THI CẤP TỐC)
 
 | Mốc thời gian | Sự kiện / Văn kiện lịch sử | Ý nghĩa / Nội dung cốt lõi |
