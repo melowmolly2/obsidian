@@ -62,6 +62,7 @@ Input Ports → Switching Fabric → Output Ports
 |                    Options (Variable)                         |
 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 ```
+
 | Field | Kích thước | Mô tả |
 |-------|------------|-------|
 | **Version** | 4 bits | 4 |
@@ -85,11 +86,13 @@ Input Ports → Switching Fabric → Output Ports
 - **32-bit**, dotted-decimal: `192.168.1.1`
 - **CIDR** (Classless Inter-Domain Routing): `a.b.c.d/x` (prefix length)
 - **Private Address** (RFC 1918):
+
   | Range | Prefix | Hosts |
   |-------|--------|-------|
   | 10.0.0.0 - 10.255.255.255 | 10.0.0.0/8 | ~16.7M |
   | 172.16.0.0 - 172.31.255.255 | 172.16.0.0/12 | ~1M |
   | 192.168.0.0 - 192.168.255.255 | 192.168.0.0/16 | ~65K |
+  
 - **Loopback**: 127.0.0.0/8 (127.0.0.1)
 - **Link-local**: 169.254.0.0/16 (APIPA)
 - **Multicast**: 224.0.0.0/4
