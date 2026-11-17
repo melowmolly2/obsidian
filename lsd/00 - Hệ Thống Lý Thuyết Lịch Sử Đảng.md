@@ -10,16 +10,25 @@ created: 2026-11-17
 
 ---
 
-## 📚 MỤC LỤC
+## 📚 MỤC LỤC & BỘ ĐỀ CƯƠNG THEO PHẦN
 
+### 1. Hệ thống Lý thuyết:
 | # | Nội dung | Ghi chú |
 |---|----------|---------|
 | 0 | [[LSD - Nhập Môn]] | Đối tượng, chức năng, phương pháp |
 | 1 | [[LSD - Chương 1 (1930–1945)]] | Đảng ra đời & đấu tranh giành chính quyền |
 | 2 | [[LSD - Chương 2 (1945–1975)]] | Kháng chiến & thống nhất đất nước |
 | 3 | [[LSD - Chương 3 (1975–2018)]] | Đổi mới & xây dựng CNXH |
-| 4 | [[LSD - Bài Học Kinh Nghiệm]] | 5 bài học lớn của Đảng |
-| 5 | [[LSD - Hệ Thống Câu Hỏi Và Gợi Ý Trả Lời]] | 12 câu hỏi thi trọng tâm & dàn ý giải |
+| 4 | [[LSD - Bài Học Kinh Nghiệm]] | 5 bài học lớn của Đảng & công thức viết tự luận 1-3-1 |
+
+### 2. Bộ Câu hỏi & Gợi ý trả lời chi tiết (Từng phần):
+| Phần | File Hỏi & Đáp Chi Tiết | Trọng tâm ôn thi |
+|------|------------------------|------------------|
+| **Tổng quan** | [[LSD - Hệ Thống Câu Hỏi Và Gợi Ý Trả Lời]] | Tuyển tập 12 câu hỏi kinh điển xuyên suốt toàn bộ môn học |
+| **Nhập môn** | [[Q&A - Nhập Môn]] | Đối tượng (4 nội dung), chức năng (3 chức năng), phương pháp (lịch sử & logic) |
+| **Chương 1** | [[Q&A - Chương 1 (1930–1945)]] | 5 câu hỏi lớn: Bối cảnh, NAQ chuẩn bị, Cương lĩnh vs Luận cương, Chuyển hướng chiến lược, CMT8 |
+| **Chương 2** | [[Q&A - Chương 2 (1945–1975)]] | 5 câu hỏi lớn: "Dĩ bất biến ứng vạn biến", Kháng chiến chống Pháp, Đường lối 2 chiến lược ĐH III, 4 chiến lược Mỹ & Xuân 1975 |
+| **Chương 3** | [[Q&A - Chương 3 (1975–2018)]] | 5 câu hỏi lớn: Thống nhất nhà nước, Đổi mới ĐH VI (1986), 8 đặc trưng Cương lĩnh 2011, KTTT định hướng XHCN, 4 nguy cơ & xây dựng Đảng |
 
 ---
 
