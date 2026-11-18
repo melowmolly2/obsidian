@@ -3,6 +3,7 @@
 - **Môn học:** Chủ nghĩa xã hội khoa học
 - **Số tín chỉ:** 2
 - **Đối tượng:** Sinh viên ĐHQGHN
+- **Lời giải / Đáp án chi tiết:** [[Đáp án chi tiết 9 câu hỏi ôn tập]]
 
 ---
 
