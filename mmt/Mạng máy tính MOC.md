@@ -39,6 +39,33 @@ Môn: COMPSCI 453
 
 ---
 
+## Chương 3 – Transport Layer
+
+| # | Note | Nội dung chính |
+|---|---|---|
+| 3.1 | [[C3. Transport Layer/3.1 Giới thiệu về Transport Layer]] | Dịch vụ tầng giao vận, multiplexing vs demultiplexing, so sánh TCP vs UDP |
+| 3.2 | [[C3. Transport Layer/3.2 Multiplexing, Demultiplexing]] | Connectionless (UDP) vs connection-oriented (TCP 4-tuple) demux |
+| 3.3 | [[C3. Transport Layer/3.3 UDP]] | UDP segment, checksum 16-bit, best-effort service |
+| 3.4 | [[C3. Transport Layer/3.4 RDT]] | Nguyên lý truyền tin cậy: rdt1.0 đến rdt3.0, Go-Back-N, Selective Repeat |
+| 3.5 | [[C3. Transport Layer/3.5 TCP]] | TCP segment, Seq/ACK number, RTT/Timeout, Flow control (rwnd) |
+| 3.6 | [[C3. Transport Layer/3.6 Congestion Control]] | Nguyên nhân và chi phí tắc nghẽn, kiểm soát tắc nghẽn đầu cuối vs mạng hỗ trợ |
+| 3.7 | [[C3. Transport Layer/3.7 TCP Congestion Control]] | AIMD, Slow Start, ssthresh, TCP Tahoe/Reno, CUBIC, BBR |
+| 3.8 | [[C3. Transport Layer/3.8 Sự tiến hóa của tầng giao vận]] | Thách thức của TCP hiện đại, giao thức QUIC (HTTP/3) over UDP |
+
+---
+
+## Chương 4 – Network Layer: Data Plane
+
+| # | Note | Nội dung chính |
+|---|---|---|
+| 4.1 | [[C4. Network Layer - Data Plane/4.1 Overview of Network Layer]] | Data plane vs Control plane, Forwarding vs Routing, Best-effort service model |
+| 4.2 | [[C4. Network Layer - Data Plane/4.2 What's Inside a Router]] | Cổng vào, Longest prefix match, TCAM, Switching fabric, HOL blocking, Buffering, Lập lịch (FIFO, Priority, RR, WFQ), Net neutrality |
+| 4.3 | [[C4. Network Layer - Data Plane/4.3 The Internet Protocol (IPv4, DHCP, NAT, IPv6)]] | IPv4 datagram, Phân mảnh (MTU), Địa chỉ IP, Subnets, CIDR, DHCP 4 bước, NAT, IPv6, Tunneling |
+| 4.4 | [[C4. Network Layer - Data Plane/4.4 Generalized Forwarding and SDN]] | Match-plus-action, Bảng luồng (Flow table), OpenFlow 1.0, Thống nhất Router/Switch/Firewall/NAT, P4 |
+| 4.5 | [[C4. Network Layer - Data Plane/4.5 Middleboxes]] | Định nghĩa Middlebox (RFC 3234), NFV & Whitebox, IP Hourglass, Nguyên lý End-to-End, Trí thông minh mạng |
+
+---
+
 ## Câu hỏi ôn tập
 
 [[Câu hỏi ôn tập]]
