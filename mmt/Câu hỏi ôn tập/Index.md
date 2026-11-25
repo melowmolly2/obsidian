@@ -4,7 +4,6 @@ tags:
   - mmt/index
 ---
 
-up:: [[../Mạng máy tính MOC]]
 
 # 📚 Index – Bộ câu hỏi ôn tập các chương
 
@@ -26,3 +25,8 @@ up:: [[../Mạng máy tính MOC]]
 - **LT** = Lý thuyết (tự luận)
 - **TN** = Trắc nghiệm
 - **BT** = Bài tập tính toán
+
+---
+
+## Điều hướng
+up:: [[../Mạng máy tính MOC]]

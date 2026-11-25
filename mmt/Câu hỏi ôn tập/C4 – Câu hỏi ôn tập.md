@@ -5,8 +5,6 @@ tags:
   - mmt/chương-4
 ---
 
-up:: [[../Mạng máy tính MOC]]
-prev:: [[C3 – Câu hỏi ôn tập]]
 
 # 📝 Chương 4 – Network Layer: Data Plane
 
@@ -457,3 +455,9 @@ prev:: [[C3 – Câu hỏi ôn tập]]
 
 ---
 📚 *Giáo trình: Computer Networking: A Top-Down Approach, 8th ed. – Kurose & Ross*
+
+---
+
+## Điều hướng
+up:: [[../Mạng máy tính MOC]]
+prev:: [[C3 – Câu hỏi ôn tập]]

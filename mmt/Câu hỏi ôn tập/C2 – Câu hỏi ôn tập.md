@@ -5,9 +5,6 @@ tags:
   - mmt/chương-2
 ---
 
-up:: [[../Mạng máy tính MOC]]
-prev:: [[C1 – Câu hỏi ôn tập]]
-next:: [[C3 – Câu hỏi ôn tập]]
 
 # 📝 Chương 2 – Application Layer
 
@@ -553,3 +550,10 @@ next:: [[C3 – Câu hỏi ôn tập]]
 ---
 
 *Xem thêm: [[C1 – Câu hỏi ôn tập]] · [[C3 – Câu hỏi ôn tập]]*
+
+---
+
+## Điều hướng
+up:: [[../Mạng máy tính MOC]]
+prev:: [[C1 – Câu hỏi ôn tập]]
+next:: [[C3 – Câu hỏi ôn tập]]

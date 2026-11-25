@@ -4,7 +4,6 @@ tags:
   - mmt/câu-hỏi
 ---
 
-up:: [[Mạng máy tính MOC]]
 
 # 📝 Bộ câu hỏi ôn tập – Chương 1, 2, 3
 
@@ -619,3 +618,8 @@ $$\text{Throughput} \approx \frac{1.22 \times 1460}{0.1 \times \sqrt{0.001}} = \
 ---
 
 *Ghi chú: Dấu `<details>` hiển thị đáp án khi click trong một số viewer hỗ trợ HTML. Trong Obsidian, mở callout hoặc cuộn xuống để xem.*
+
+---
+
+## Điều hướng
+up:: [[Mạng máy tính MOC]]

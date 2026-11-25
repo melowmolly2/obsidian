@@ -5,8 +5,6 @@ tags:
   - mmt/chương-3
 ---
 
-up:: [[../Mạng máy tính MOC]]
-prev:: [[C2 – Câu hỏi ôn tập]]
 
 # 📝 Chương 3 – Transport Layer
 
@@ -912,3 +910,9 @@ prev:: [[C2 – Câu hỏi ôn tập]]
 ---
 
 *Xem thêm: [[C1 – Câu hỏi ôn tập]] · [[C2 – Câu hỏi ôn tập]]*
+
+---
+
+## Điều hướng
+up:: [[../Mạng máy tính MOC]]
+prev:: [[C2 – Câu hỏi ôn tập]]

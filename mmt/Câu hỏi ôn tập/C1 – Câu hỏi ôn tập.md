@@ -5,8 +5,6 @@ tags:
   - mmt/chương-1
 ---
 
-up:: [[../Mạng máy tính MOC]]
-next:: [[C2 – Câu hỏi ôn tập]]
 
 # 📝 Chương 1 – Computer Networks & the Internet
 
@@ -415,3 +413,8 @@ next:: [[C2 – Câu hỏi ôn tập]]
 > - Circuit switching chỉ phục vụ **10 user** với tài nguyên lãng phí 90% thời gian
 > - → Packet switching **hiệu quả hơn 3.5×** cho traffic bursty như web
 
+---
+
+## Điều hướng
+up:: [[../Mạng máy tính MOC]]
+next:: [[C2 – Câu hỏi ôn tập]]
